@@ -5,12 +5,13 @@ def test_uart_connections():
     # Configure UART0 (Primary UART)
     try:
         uart0 = serial.Serial(
-            port='/dev/serial0',  # Primary UART port on Raspberry Pi
+            port='/dev/serial0',
             baudrate=9600,
             parity=serial.PARITY_NONE,
             stopbits=serial.STOPBITS_ONE,
             bytesize=serial.EIGHTBITS,
             timeout=1
+            exclusive=True  # Request exclusive access to the port
         )
         print("UART0 initialized successfully")
     except Exception as e:
@@ -38,8 +39,6 @@ def test_uart_connections():
     # Test UART0
     print("\nTesting UART0...")
     try:
-        uart0.reset_input_buffer()  # Clear any existing data
-        uart0.reset_output_buffer()
         uart0.write(test_message)
         response = uart0.readline()
         print(f"UART0 sent: {test_message}")
