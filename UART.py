@@ -24,7 +24,7 @@ def test_uart_connections():
     # Configure UART1
     try:
         uart1 = serial.Serial(
-            port='/dev/serial1',  # Secondary UART port on Raspberry Pi
+            port='/dev/ttyUSB0',  # Secondary UART port on Raspberry Pi
             baudrate=9600,
             parity=serial.PARITY_NONE,
             stopbits=serial.STOPBITS_ONE,
