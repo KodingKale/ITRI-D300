@@ -20,7 +20,7 @@ def test_uart_connections():
     # Configure UART1 (typically /dev/ttyAMA1)
     try:
         uart1 = serial.Serial(
-            port='/dev/ttyAMA1', 
+            port='/dev/ttys0', 
             baudrate=9600,
             parity=serial.PARITY_NONE,
             stopbits=serial.STOPBITS_ONE,
