@@ -2,10 +2,10 @@ import serial
 import time
 
 def test_uart_connections():
-    # Configure UART0 (typically /dev/ttyAMA0)
+    # Configure UART0 (Primary UART)
     try:
         uart0 = serial.Serial(
-            port='/dev/ttyAMA0',
+            port='/dev/serial0',  # Primary UART port on Raspberry Pi
             baudrate=9600,
             parity=serial.PARITY_NONE,
             stopbits=serial.STOPBITS_ONE,
@@ -17,10 +17,10 @@ def test_uart_connections():
         print(f"Error initializing UART0: {e}")
         return
 
-    # Configure UART1 (typically /dev/ttyAMA1)
+    # Configure UART1
     try:
         uart1 = serial.Serial(
-            port='/dev/ttys0', 
+            port='/dev/serial1',  # Secondary UART port on Raspberry Pi
             baudrate=9600,
             parity=serial.PARITY_NONE,
             stopbits=serial.STOPBITS_ONE,
@@ -33,11 +33,13 @@ def test_uart_connections():
         return
 
     # Test sending and receiving on both UARTs
-    test_message = b"Test Message"
+    test_message = b"Test Message\n"
     
     # Test UART0
     print("\nTesting UART0...")
     try:
+        uart0.reset_input_buffer()  # Clear any existing data
+        uart0.reset_output_buffer()
         uart0.write(test_message)
         response = uart0.readline()
         print(f"UART0 sent: {test_message}")
@@ -48,6 +50,8 @@ def test_uart_connections():
     # Test UART1
     print("\nTesting UART1...")
     try:
+        uart1.reset_input_buffer()  # Clear any existing data
+        uart1.reset_output_buffer()
         uart1.write(test_message)
         response = uart1.readline()
         print(f"UART1 sent: {test_message}")
