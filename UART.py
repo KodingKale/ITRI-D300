@@ -17,12 +17,12 @@ def main():
     uart0.write(b'Message from UART0\n')
     time.sleep(0.1)
     response0 = uart1.readline()
+    print(f"UART1 response: {response0}")
     uart1.write(b'Message from UART1\n')
     time.sleep(0.1)
     response1 = uart0.readline()
+    print(f"UART0 response: {response1}")
 
-    print(f"UART0 response: {response0}")
-    print(f"UART1 response: {response1}")
 
     uart0.close()
     uart1.close()
