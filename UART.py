@@ -13,6 +13,9 @@ def test_uart_connections():
             timeout=1,
             exclusive=True  # Request exclusive access to the port
         )
+        # Clear any leftover data
+        uart0.reset_input_buffer()
+        uart0.reset_output_buffer()
         print("UART0 initialized successfully")
     except Exception as e:
         print(f"Error initializing UART0: {e}")
@@ -27,11 +30,15 @@ def test_uart_connections():
             stopbits=serial.STOPBITS_ONE,
             bytesize=serial.EIGHTBITS,
             timeout=1,
-	    exclusive=True
+            exclusive=True
         )
+        # Clear any leftover data
+        uart1.reset_input_buffer()
+        uart1.reset_output_buffer()
         print("UART1 initialized successfully")
     except Exception as e:
         print(f"Error initializing UART1: {e}")
+        uart0.close()
         return
 
     # Test sending and receiving on both UARTs
@@ -40,8 +47,17 @@ def test_uart_connections():
     # Test UART0
     print("\nTesting UART0...")
     try:
+        # Clear buffers before sending
+        uart0.reset_input_buffer()
+        uart0.reset_output_buffer()
+        
+        # Send data
         uart0.write(test_message)
-        response = uart0.readline()
+        uart0.flush()  # Ensure all data is written
+        time.sleep(0.1)  # Wait for transmission
+        
+        # Read response
+        response = uart0.read_until(b'\n')  # Read until newline
         print(f"UART0 sent: {test_message}")
         print(f"UART0 received: {response}")
     except Exception as e:
@@ -50,10 +66,17 @@ def test_uart_connections():
     # Test UART1
     print("\nTesting UART1...")
     try:
-        uart1.reset_input_buffer()  # Clear any existing data
+        # Clear buffers before sending
+        uart1.reset_input_buffer()
         uart1.reset_output_buffer()
+        
+        # Send data
         uart1.write(test_message)
-        response = uart1.readline()
+        uart1.flush()  # Ensure all data is written
+        time.sleep(0.1)  # Wait for transmission
+        
+        # Read response
+        response = uart1.read_until(b'\n')  # Read until newline
         print(f"UART1 sent: {test_message}")
         print(f"UART1 received: {response}")
     except Exception as e:
