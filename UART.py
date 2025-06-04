@@ -42,7 +42,7 @@ def test_uart_connections():
         return
 
     # Test sending and receiving on both UARTs
-    test_message = b"Test Message\n"
+    test_message = b"Test Message\0"
     
     # Test UART0
     print("\nTesting UART0...")
@@ -57,7 +57,7 @@ def test_uart_connections():
         time.sleep(0.1)  # Wait for transmission
         
         # Read response
-        response = uart0.read_until(b'\n')  # Read until newline
+        response = uart0.read_until(b'\0')  # Read until newline
         print(f"UART0 sent: {test_message}")
         print(f"UART0 received: {response}")
     except Exception as e:
@@ -76,7 +76,7 @@ def test_uart_connections():
         time.sleep(0.1)  # Wait for transmission
         
         # Read response
-        response = uart1.read_until(b'\n')  # Read until newline
+        response = uart1.read_until(b'\0')  # Read until newline
         print(f"UART1 sent: {test_message}")
         print(f"UART1 received: {response}")
     except Exception as e:
