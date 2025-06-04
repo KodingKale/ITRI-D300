@@ -10,7 +10,7 @@ def test_uart_connections():
             parity=serial.PARITY_NONE,
             stopbits=serial.STOPBITS_ONE,
             bytesize=serial.EIGHTBITS,
-            timeout=1
+            timeout=1,
             exclusive=True  # Request exclusive access to the port
         )
         print("UART0 initialized successfully")
@@ -26,7 +26,8 @@ def test_uart_connections():
             parity=serial.PARITY_NONE,
             stopbits=serial.STOPBITS_ONE,
             bytesize=serial.EIGHTBITS,
-            timeout=1
+            timeout=1,
+	    exclusive=True
         )
         print("UART1 initialized successfully")
     except Exception as e:
