@@ -45,8 +45,8 @@ dtoverlay=pi3-disable-bt
 # Enable UART0 (GPIO 14/15)
 enable_uart=1
 
-# Enable UART1 (GPIO 32/33)
-dtoverlay=uart1,txd1_pin=32,rxd1_pin=33
+# Enable UART1 (GPIO 0/5)
+dtoverlay=uart1,txd1_pin=0,rxd1_pin=5
 
 [cm4]
 # Enable host mode on the 2711 built-in XHCI USB controller.
