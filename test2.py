@@ -1,7 +1,7 @@
 import serial
 import time
 
-ser = serial.Serial('/dev/ttyUSB0')
+ser = serial.Serial('/dev/serial1')
 print(ser.name)
 print(ser.is_open)
 x = ser.read(5)
