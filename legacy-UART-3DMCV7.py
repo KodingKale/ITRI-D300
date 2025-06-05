@@ -16,14 +16,34 @@ def initialize_imu():
     imu.reset_output_buffer()
     return imu
 
-def parse_raw_data(raw_data):
+def parse_acceleration_data(raw_data):
     """
-    Parse raw data and returns decoded values.
-    raw_data: array of bytes containing IMU data
-    returns: dictionary containing IMU data
+    Parse acceleration data from the sensor using struct.
+    Header: 
+    - First 2 bytes: Header (0x75 0x65)
+    - Next bytes: Descriptor (0x80)
+    - Next byte: Payload length (0x0E)
+    Field:
+    - Next bytes: Field Length (0x0E)
+    - Next bytes: Field Descriptor (0x04)
+    - Next 12 bytes: acceleration data (3 floats, 4 bytes each for x, y, z)
+    Checksum:
+    - Last 2 bytes: Checksum
     """
-    if raw_data[0:2] != [0x75, 0x65]:
-        raise ValueError("Invalid header")
+    # Check if we have enough data (minimum 16 bytes for this example)
+    if len(raw_data) < 20:
+        return None
+        
+    # Unpack three 4-byte floats (acceleration x, y, z)
+    # Starting from byte 3 (after header and length)
+    # '<' means little-endian, 'fff' means three 32-bit floats
+    accel_x, accel_y, accel_z = struct.unpack('<fff', raw_data[6:18])
+        
+    return {
+        'x': accel_x,
+        'y': accel_y,
+        'z': accel_z
+    }
 
 
 
