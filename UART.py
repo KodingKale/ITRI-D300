@@ -5,7 +5,7 @@ def main():
     
     # Initialize UART ports
     uart0 = serial.Serial(port='/dev/serial0', baudrate=9600)
-    uart1 = serial.Serial(port='/dev/ttyUSB0', baudrate=9600)
+    uart1 = serial.Serial(port='/dev/serial1', baudrate=9600)
     
     # Clear any leftover data
     uart0.reset_input_buffer()
