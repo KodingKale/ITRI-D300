@@ -8,9 +8,6 @@ def initialize_imu():
     imu = serial.Serial(
         port='/dev/serial0',  # Primary UART on Raspberry Pi
         baudrate=115200,
-        bytesize=serial.EIGHTBITS,
-        parity=serial.PARITY_NONE,
-        stopbits=serial.STOPBITS_ONE,
         timeout=1
     )
     
@@ -48,8 +45,13 @@ def parse_acceleration_data(raw_data):
         'z': accel_z
     }
 
+
+
+*// Stop  point
+
 def read_imu_data(imu):
     try:
+        
         # Request acceleration data packet
         # Example command format using struct to pack the request
         # Header (0x75 0x65), Descriptor (0x0C), Length (0x02), Payload (0x01 0x02), CRC (0xE1)
