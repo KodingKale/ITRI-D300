@@ -114,7 +114,7 @@ def parse_acceleration_data(raw_data):
     }
 
 def read_imu_acceleration(imu):
-    command = struct.pack('B'*10, 0x75, 0x65, 0x0C, 0x06, 0x06, 0x0D, 0x80, 0x01, 0x01, 0x04)
+    command = struct.pack('B'*10, 0x75, 0x65, 0x0C, 0x06, 0x06, 0x0D, 0x80, 0x01, 0x01, 0x01)
     checksum = fletcher_checksum(command)
     command += checksum
     imu.write(command)
@@ -127,7 +127,7 @@ def read_imu_acceleration(imu):
     elif raw_data[2] != 0x80:
         print(b'Not Data Type, But: ' + raw_data[2]) 
         log.write(b'Not Data Type, But: ' + raw_data[2])
-    elif raw_data[5] != 0x04:
+    elif raw_data[5] != 0x01:
         print(b'Not Acceleration Data, But: ' + raw_data[5])
         log.write(b'Not Acceleration Data, But: ' + raw_data[5])
     else:
