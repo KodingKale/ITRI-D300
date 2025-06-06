@@ -3,40 +3,35 @@ import time
 import struct
 
 descriptor = {
-    'Sensor' : 0x80,
-    'Acceleration' : 0x04,
-    'Gyroscope' : 0x05,
-    'Magnetometer' : 0x06,
-    'Velocity' : 0x08,
-    'GPS Timestamps' : 0x12
-    'Temperature' : 0x14,
-    'Pressure' : 0x17,
+    'Sensor': 0x80,
+    'Acceleration': 0x04,
+    'Gyroscope': 0x05,
+    'Magnetometer': 0x06,
+    'Velocity': 0x08,
+    'GPS Timestamps': 0x12,
+    'Temperature': 0x14,
+    'Pressure': 0x17,
 }
 
+
 def main():
-    # Initialize IMU
-    imu = initialize_imu()
-    # Continuous reading loop
-    while True:
-        data = read_imu_data(imu)
-        print(f"Acceleration: X={data['x']:.2f}, Y={data['y']:.2f}, Z={data['z']:.2f} m/s²")
-        time.sleep(0.1)
+    try:
+        # Initialize IMU
+        imu = initialize_imu()
+        print("IMU initialized successfully")
+        
+        # Continuous reading loop
+        while True:
+            data = read_imu_acceleration(imu)
+            if data:
+                print(f"Acceleration: X={data['x']:.2f}, Y={data['y']:.2f}, Z={data['z']:.2f} m/s²")
+            time.sleep(0.1)
             
     except KeyboardInterrupt:
         print("\nExiting...")
     finally:
-        if 'imu' in locals():
-            imu.close()
-
-
-
-
-
-
-
-
-
-*/functions
+        imu.close()
+        
 def initialize_imu():
     '''
     initialize UART port for 3DM-CV7-INS
@@ -45,6 +40,9 @@ def initialize_imu():
     imu = serial.Serial(
         port='/dev/serial0',  # Primary UART on Raspberry Pi
         baudrate=115200,
+        bytesize=serial.EIGHTBITS,
+        parity=serial.PARITY_NONE,
+        stopbits=serial.STOPBITS_ONE,
         timeout=1
     )
     # Clear any leftover data
@@ -96,16 +94,47 @@ def parse_acceleration_data(raw_data):
 
 def read_imu_acceleration(imu):
     command = struct.pack('B'*10, 0x75, 0x65, 0x0C, 0x06, 0x06, 0x0D, 0x80, 0x01, 0x01, 0x04)
+    checksum = fletcher_checksum(command)
+    command += checksum
     imu.write(command)
     while imu.inWaiting() < 20:
         pass
     raw_data = imu.read(20)
     return parse_acceleration_data(raw_data)
 
+def fletcher_checksum(data):
+    '''
+    Calculate Fletcher checksum for 3DM-CV7-INS
+    data: bytes object containing the message to checksum
+    Returns: 2 bytes checksum
+    '''
+    MSB = 0
+    LSB = 0
+    for byte in data:
+        MSB = (MSB + byte) & 0xFF  # Ensure 8-bit result using & 0xFF
+        LSB = (LSB + MSB) & 0xFF
+    
+    # Return the two checksum bytes
+    return(struct.pack('BB', LSB, MSB)) 
 
 
-
-
+def main():
+    try:
+        # Initialize IMU
+        imu = initialize_imu()
+        print("IMU initialized successfully")
+        
+        # Continuous reading loop
+        while True:
+            data = read_imu_acceleration(imu)
+            if data:
+                print(f"Acceleration: X={data['x']:.2f}, Y={data['y']:.2f}, Z={data['z']:.2f} m/s²")
+            time.sleep(0.1)
+            
+    except KeyboardInterrupt:
+        print("\nExiting...")
+    finally:
+        imu.close()
 
 if __name__ == '__main__':
     main()
