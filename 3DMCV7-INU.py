@@ -121,13 +121,11 @@ def read_imu_acceleration(imu):
     while imu.inWaiting() < 20:
         pass
     raw_data = imu.read(20)
-    if raw_data[18:20] != fletcher_checksum(raw_data[0:18]) {
-        print("Failed Checksum!!!")
-        log.write("Failed Checksum!!!")
-    }
-    else {
+    if raw_data[18:20] != fletcher_checksum(raw_data[0:18]):
+        print('Failed Checksum!!!')
+        log.write('Failed Checksum!!!')
+    else:
         return parse_acceleration_data(raw_data)
-    }
 
 def fletcher_checksum(data):
     '''
