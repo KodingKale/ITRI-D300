@@ -85,6 +85,7 @@ def parse_acceleration_data(raw_data):
     # Starting from byte 3 (after header and length)
     # '<' means little-endian, 'fff' means three 32-bit floats
     accel_x, accel_y, accel_z = struct.unpack('fff', raw_data[6:18])
+    print('data parsed')
         
     return {
         'x': accel_x,
@@ -96,10 +97,13 @@ def read_imu_acceleration(imu):
     command = struct.pack('B'*10, 0x75, 0x65, 0x0C, 0x06, 0x06, 0x0D, 0x80, 0x01, 0x01, 0x04)
     checksum = fletcher_checksum(command)
     command += checksum
+    print('command sent')
     imu.write(command)
+    print('command written')
     while imu.inWaiting() < 20:
         pass
     raw_data = imu.read(20)
+    print('raw data read')
     return parse_acceleration_data(raw_data)
 
 def fletcher_checksum(data):
@@ -113,28 +117,9 @@ def fletcher_checksum(data):
     for byte in data:
         MSB = (MSB + byte) & 0xFF  # Ensure 8-bit result using & 0xFF
         LSB = (LSB + MSB) & 0xFF
-    
+    print('checksum calculated')
     # Return the two checksum bytes
     return(struct.pack('BB', LSB, MSB)) 
-
-
-def main():
-    try:
-        # Initialize IMU
-        imu = initialize_imu()
-        print("IMU initialized successfully")
-        
-        # Continuous reading loop
-        while True:
-            data = read_imu_acceleration(imu)
-            if data:
-                print(f"Acceleration: X={data['x']:.2f}, Y={data['y']:.2f}, Z={data['z']:.2f} m/s²")
-            time.sleep(0.1)
-            
-    except KeyboardInterrupt:
-        print("\nExiting...")
-    finally:
-        imu.close()
 
 if __name__ == '__main__':
     main()
