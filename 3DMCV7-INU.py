@@ -23,13 +23,19 @@ def main():
         imu = initialize_imu()
         print("IMU initialized successfully")
         
+        # Wait for sensor to stabilize
+        time.sleep(0.5)
+        
         # Continuous reading loop
         while True:
             data = read_imu_acceleration(imu)
             if data:
-                print(f"Acceleration: X={data['x']:.2f}, Y={data['y']:.2f}, Z={data['z']:.2f} m/s²")
-                log.write(f"Acceleration: X={data['x']:.2f}, Y={data['y']:.2f}, Z={data['z']:.2f} m/s²\n")
-            time.sleep(0.5)
+                message = f"Acceleration: X={data['x']:.6f}, Y={data['y']:.6f}, Z={data['z']:.6f} m/s²"
+                print(message)
+                log.write(message + '\n')
+            else:
+                print("Failed to read acceleration data")
+            time.sleep(0.1)
             
     except KeyboardInterrupt:
         print("\nExiting...")
@@ -54,6 +60,22 @@ def initialize_imu():
     # Clear any leftover data
     imu.reset_input_buffer()
     imu.reset_output_buffer()
+    
+    # Set to idle mode first
+    idle_command = bytes([0x75, 0x65, 0x01, 0x02, 0x02, 0x02])
+    checksum = fletcher_checksum(idle_command)
+    imu.write(idle_command + checksum)
+    time.sleep(0.1)
+    
+    # Enable data streaming
+    stream_command = bytes([0x75, 0x65, 0x01, 0x02, 0x02, 0x06])
+    checksum = fletcher_checksum(stream_command)
+    imu.write(stream_command + checksum)
+    time.sleep(0.1)
+    
+    imu.reset_input_buffer()
+    imu.reset_output_buffer()
+
     return imu
 
 '''
@@ -125,7 +147,9 @@ def start_log():
     current_time = now.strftime("%H:%M:%S")
 
     log = open('./logs/log.txt', 'a')
-    log.write('\n#################################################################\nLog started at ' + current_time + '\n#################################################################\n')
+    log.write('\n#################################################################')
+    log.write('Log started at ' + current_time)
+    log.write('#################################################################')
     return log
 
 
