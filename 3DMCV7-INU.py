@@ -124,6 +124,12 @@ def read_imu_acceleration(imu):
     if raw_data[18:20] != fletcher_checksum(raw_data[0:18]):
         print('Failed Checksum!!!')
         log.write('Failed Checksum!!!')
+    elif raw_data[2] != 0x80:
+        print(b'Not Data Type, But: ' + raw_data[2]) 
+        log.write(b'Not Data Type, But: ' + raw_data[2])
+    elif raw_data[5] != 0x04:
+        print(b'Not Acceleration Data, But: ' + raw_data[5])
+        log.write(b'Not Acceleration Data, But: ' + raw_data[5])
     else:
         return parse_acceleration_data(raw_data)
 
