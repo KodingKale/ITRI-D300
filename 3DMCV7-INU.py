@@ -33,6 +33,7 @@ def main():
             
     except KeyboardInterrupt:
         print("\nExiting...")
+        log.write("\nExiting...\n")
     finally:
         imu.close()
         log.close()
@@ -123,8 +124,10 @@ def start_log():
 
     current_time = now.strftime("%H:%M:%S")
 
-    log = open('./logs/inu_acel_log' + current_time + '.txt', 'w')
+    log = open('./logs/log.txt', 'a')
+    log.write('\n#################################################################\nLog started at ' + current_time + '\n#################################################################\n')
     return log
+
 
 if __name__ == '__main__':
     main()
