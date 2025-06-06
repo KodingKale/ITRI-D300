@@ -97,9 +97,9 @@ def read_imu_acceleration(imu):
     command = struct.pack('B'*10, 0x75, 0x65, 0x0C, 0x06, 0x06, 0x0D, 0x80, 0x01, 0x01, 0x04)
     checksum = fletcher_checksum(command)
     command += checksum
-    print('command sent')
+    print(command)
     imu.write(command)
-    print('command written')
+    print('command sent')
     time.sleep(0.1)
     raw_data = imu.read(20)
     print('raw data read')
@@ -119,7 +119,7 @@ def fletcher_checksum(data):
         LSB = (LSB + MSB) & 0xFF
     print('checksum calculated')
     # Return the two checksum bytes
-    return(struct.pack('BB', LSB, MSB)) 
+    return(struct.pack('BB', MSB, LSB)) 
 
 if __name__ == '__main__':
     main()
