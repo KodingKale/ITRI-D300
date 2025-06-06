@@ -1,6 +1,7 @@
 import serial
 import time
 import struct
+from datetime import datetime
 
 descriptor = {
     'Sensor': 0x80,
@@ -15,6 +16,8 @@ descriptor = {
 
 
 def main():
+    #Make log file
+    log = start_log()
     try:
         # Initialize IMU
         imu = initialize_imu()
@@ -25,12 +28,14 @@ def main():
             data = read_imu_acceleration(imu)
             if data:
                 print(f"Acceleration: X={data['x']:.2f}, Y={data['y']:.2f}, Z={data['z']:.2f} m/s²")
-            time.sleep(0.1)
+                log.write(f"Acceleration: X={data['x']:.2f}, Y={data['y']:.2f}, Z={data['z']:.2f} m/s²\n")
+            time.sleep(0.5)
             
     except KeyboardInterrupt:
         print("\nExiting...")
     finally:
         imu.close()
+        log.
         
 def initialize_imu():
     '''
@@ -112,6 +117,14 @@ def fletcher_checksum(data):
         LSB = (LSB + MSB) & 0xFF
     # Return the two checksum bytes
     return(struct.pack('BB', MSB, LSB)) 
+
+def start_log():
+    now = datetime.now()
+
+    current_time = now.strftime("%H:%M:%S")
+
+    with open('inu_acel_log' + current_time + '.txt', 'w') as log:
+        return log
 
 if __name__ == '__main__':
     main()
