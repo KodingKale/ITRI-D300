@@ -85,7 +85,6 @@ def parse_acceleration_data(raw_data):
     # Starting from byte 3 (after header and length)
     # '<' means little-endian, 'fff' means three 32-bit floats
     accel_x, accel_y, accel_z = struct.unpack('fff', raw_data[6:18])
-    print('data parsed')
         
     return {
         'x': accel_x,
@@ -99,10 +98,9 @@ def read_imu_acceleration(imu):
     command += checksum
     print(command)
     imu.write(command)
-    print('command sent')
-    time.sleep(0.1)
+    while imu.inWaiting() < 20:
+        pass
     raw_data = imu.read(20)
-    print('raw data read')
     print(raw_data)
     return parse_acceleration_data(raw_data)
 
@@ -117,7 +115,6 @@ def fletcher_checksum(data):
     for byte in data:
         MSB = (MSB + byte) & 0xFF  # Ensure 8-bit result using & 0xFF
         LSB = (LSB + MSB) & 0xFF
-    print('checksum calculated')
     # Return the two checksum bytes
     return(struct.pack('BB', MSB, LSB)) 
 
