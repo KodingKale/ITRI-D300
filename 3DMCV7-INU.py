@@ -29,14 +29,10 @@ def main():
         # Continuous reading loop
         while True:
             data = read_imu_acceleration(imu)
-            if data:
-                message = f"Acceleration: X={data['x']:.6f}, Y={data['y']:.6f}, Z={data['z']:.6f} m/s²"
-                print(message)
-                log.write(message + '\n')
-            else:
-                print("Failed to read acceleration data")
+            message = f"Acceleration: X={data['x']:.6f}, Y={data['y']:.6f}, Z={data['z']:.6f} g"
+            print(message)
+            log.write(message + '\n')
             time.sleep(0.1)
-            
     except KeyboardInterrupt:
         print("\nExiting...")
         log.write("\nExiting...\n")
@@ -108,7 +104,7 @@ def parse_acceleration_data(raw_data):
     # Check if we have enough data (minimum 16 bytes for this example)
     if len(raw_data) < 20:
         raise ValueError("Not enough data to parse acceleration")
-        
+
     accel_x, accel_y, accel_z = struct.unpack('<fff', raw_data[6:18])
         
     return {
@@ -125,7 +121,13 @@ def read_imu_acceleration(imu):
     while imu.inWaiting() < 20:
         pass
     raw_data = imu.read(20)
-    return parse_acceleration_data(raw_data)
+    if raw_data[18:20] != fletcher_checksum(raw_data[0:18]) {
+        print("Failed Checksum!!!")
+        log.write("Failed Checksum!!!")
+    }
+    else {
+        return parse_acceleration_data(raw_data)
+    }
 
 def fletcher_checksum(data):
     '''
