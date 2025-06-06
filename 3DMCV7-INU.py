@@ -109,7 +109,7 @@ def parse_acceleration_data(raw_data):
     if len(raw_data) < 20:
         raise ValueError("Not enough data to parse acceleration")
         
-    accel_x, accel_y, accel_z = struct.unpack('fff', raw_data[6:18])
+    accel_x, accel_y, accel_z = struct.unpack('<fff', raw_data[6:18])
         
     return {
         'x': accel_x,
