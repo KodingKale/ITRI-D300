@@ -81,9 +81,6 @@ def parse_acceleration_data(raw_data):
     if len(raw_data) < 20:
         raise ValueError("Not enough data to parse acceleration")
         
-    # Unpack three 4-byte floats (acceleration x, y, z)
-    # Starting from byte 3 (after header and length)
-    # '<' means little-endian, 'fff' means three 32-bit floats
     accel_x, accel_y, accel_z = struct.unpack('fff', raw_data[6:18])
         
     return {
@@ -96,12 +93,10 @@ def read_imu_acceleration(imu):
     command = struct.pack('B'*10, 0x75, 0x65, 0x0C, 0x06, 0x06, 0x0D, 0x80, 0x01, 0x01, 0x04)
     checksum = fletcher_checksum(command)
     command += checksum
-    print(command)
     imu.write(command)
     while imu.inWaiting() < 20:
         pass
     raw_data = imu.read(20)
-    print(raw_data)
     return parse_acceleration_data(raw_data)
 
 def fletcher_checksum(data):
