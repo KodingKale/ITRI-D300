@@ -35,7 +35,7 @@ def main():
         print("\nExiting...")
     finally:
         imu.close()
-        log.
+        log.close()
         
 def initialize_imu():
     '''
@@ -123,8 +123,8 @@ def start_log():
 
     current_time = now.strftime("%H:%M:%S")
 
-    with open('inu_acel_log' + current_time + '.txt', 'w') as log:
-        return log
+    log = open('./logs/inu_acel_log' + current_time + '.txt', 'w')
+    return log
 
 if __name__ == '__main__':
     main()
