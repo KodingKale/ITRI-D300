@@ -105,7 +105,7 @@ def parse_acceleration_data(raw_data, log):
     '''
     try:
         # Check if we have enough data
-        if len(raw_data, log) < 20:
+        if len(raw_data) < 20:
             print(f"Not enough data: {len(raw_data, log)} bytes")
             return None
             
