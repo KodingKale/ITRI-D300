@@ -119,7 +119,7 @@ def read_imu_acceleration(imu):
     checksum = fletcher_checksum(command)
     command += checksum
     imu.write(command)
-    sleep(0.1)
+    time.sleep(0.1)
     raw_data = imu.read(imu.inWaiting())
     return parse_acceleration_data(raw_data)
     if raw_data[18:20] != fletcher_checksum(raw_data[0:18]):
