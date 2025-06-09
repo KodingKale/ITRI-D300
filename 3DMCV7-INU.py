@@ -26,6 +26,8 @@ def main():
         # Wait for sensor to stabilize
         time.sleep(0.5)
         
+        poll_imu_acceleration(imu)
+
         # Continuous reading loop
         while True:
             data = read_imu_acceleration(imu)
@@ -114,13 +116,16 @@ def parse_acceleration_data(raw_data):
         'z': accel_z
     }
 
-def read_imu_acceleration(imu):
+def poll_imu_acceleration(imu):
     command = struct.pack('B'*10, 0x75, 0x65, 0x0C, 0x06, 0x06, 0x0D, 0x80, 0x01, 0x01, 0x01)
     checksum = fletcher_checksum(command)
     command += checksum
     imu.write(command)
-    time.sleep(0.1)
-    raw_data = imu.read(imu.inWaiting())
+
+def read_imu_acceleration(imu):
+    while imu.inWaiting() < 20:
+        pass
+    raw_data = imu.read(20)
     return parse_acceleration_data(raw_data)
     if raw_data[18:20] != fletcher_checksum(raw_data[0:18]):
         print('Failed Checksum!!!')
