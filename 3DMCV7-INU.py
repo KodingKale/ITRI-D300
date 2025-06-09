@@ -30,8 +30,8 @@ def main():
 
         # Continuous reading loop
         while True:
-            poll_imu_acceleration(imu)
-            data = read_imu_acceleration(imu)
+            poll_imu_acceleration(imu, log)
+            data = read_imu_acceleration(imu, log)
             message = f"Acceleration: X={data['x']:.6f}, Y={data['y']:.6f}, Z={data['z']:.6f} g"
             print(message)
             log.write(message + '\n')
@@ -117,13 +117,13 @@ def parse_acceleration_data(raw_data):
         'z': accel_z
     }
 
-def poll_imu_acceleration(imu):
+def poll_imu_acceleration(imu, log):
     command = struct.pack('B'*10, 0x75, 0x65, 0x0C, 0x06, 0x06, 0x0D, 0x80, 0x01, 0x01, 0x04)
     checksum = fletcher_checksum(command)
     command += checksum
     imu.write(command)
 
-def read_imu_acceleration(imu):
+def read_imu_acceleration(imu, log):
     while imu.inWaiting() < 20:
         pass
     raw_data = imu.read(20)
