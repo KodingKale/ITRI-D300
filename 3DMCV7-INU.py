@@ -26,10 +26,11 @@ def main():
         # Wait for sensor to stabilize
         time.sleep(0.5)
         
-        poll_imu_acceleration(imu)
+        
 
         # Continuous reading loop
         while True:
+            poll_imu_acceleration(imu)
             data = read_imu_acceleration(imu)
             message = f"Acceleration: X={data['x']:.6f}, Y={data['y']:.6f}, Z={data['z']:.6f} g"
             print(message)
