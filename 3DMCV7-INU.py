@@ -106,7 +106,7 @@ def parse_acceleration_data(raw_data):
         print(raw_data)
         return None
 
-    accel_x, accel_y, accel_z = struct.unpack('<fff', raw_data[6:18])
+    accel_x, accel_y, accel_z = struct.unpack('fff', raw_data[6:18])
         
     return {
         'x': accel_x,
@@ -115,7 +115,7 @@ def parse_acceleration_data(raw_data):
     }
 
 def read_imu_acceleration(imu):
-    command = struct.pack('B'*10, 0x75, 0x65, 0x0C, 0x06, 0x06, 0x0D, 0x80, 0x01, 0x01, 0x01)
+    command = struct.pack('B'*10, 0x75, 0x65, 0x0C, 0x06, 0x06, 0x0D, 0x80, 0x01, 0x01, 0x04)
     checksum = fletcher_checksum(command)
     command += checksum
     imu.write(command)
