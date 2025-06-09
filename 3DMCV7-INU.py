@@ -103,7 +103,8 @@ def parse_acceleration_data(raw_data):
     '''
     # Check if we have enough data (minimum 16 bytes for this example)
     if len(raw_data) < 20:
-        raise ValueError("Not enough data to parse acceleration")
+        print(raw_data)
+        return None
 
     accel_x, accel_y, accel_z = struct.unpack('<fff', raw_data[6:18])
         
@@ -118,9 +119,9 @@ def read_imu_acceleration(imu):
     checksum = fletcher_checksum(command)
     command += checksum
     imu.write(command)
-    while imu.inWaiting() < 20:
-        pass
-    raw_data = imu.read(20)
+    sleep(0.1)
+    raw_data = imu.read(imu.inWaiting())
+    return parse_acceleration_data(raw_data)
     if raw_data[18:20] != fletcher_checksum(raw_data[0:18]):
         print('Failed Checksum!!!')
         log.write('Failed Checksum!!!')
