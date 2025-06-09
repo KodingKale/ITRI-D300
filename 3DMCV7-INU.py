@@ -152,9 +152,9 @@ def read_imu_acceleration(imu, log):
     raw_data = imu.read(20)
     
     # Validate checksum
-    if raw_data[18:20] != fletcher_checksum(raw_data[2:18]):  # Exclude sync bytes and checksum
-        print(f'Checksum failed. Expected: {fletcher_checksum(raw_data[2:18]).hex()}, Got: {raw_data[18:20].hex()}')
-        log.write(f'Checksum failed. Expected: {fletcher_checksum(raw_data[2:18]).hex()}, Got: {raw_data[18:20].hex()}\n')
+    if raw_data[18:20] != fletcher_checksum(raw_data[0:18]):  # Exclude sync bytes and checksum
+        print(f'Checksum failed. Expected: {fletcher_checksum(raw_data[0:18]).hex()}, Got: {raw_data[18:20].hex()}')
+        log.write(f'Checksum failed. Expected: {fletcher_checksum(raw_data[0:18]).hex()}, Got: {raw_data[18:20].hex()}\n')
         return None
         
     # Validate packet type
@@ -183,7 +183,7 @@ def fletcher_checksum(data):
         MSB = (MSB + byte) & 0xFF  # Ensure 8-bit result using & 0xFF
         LSB = (LSB + MSB) & 0xFF
     # Return the two checksum bytes
-    return(struct.pack('BB', MSB, LSB)) 
+    return(bytes([LSB, MSB])) 
 
 def start_log():
     now = datetime.now()
