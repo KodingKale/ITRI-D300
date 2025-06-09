@@ -77,7 +77,7 @@ def initialize_imu():
     return imu
 
 '''
-def parse_raw_data(raw_data):
+def parse_raw_data(raw_data, log):
     """
     Parse raw data and returns decoded values.
     raw_data: array of bytes containing IMU data
@@ -89,7 +89,7 @@ def parse_raw_data(raw_data):
     # Parse the data
 '''
 
-def parse_acceleration_data(raw_data):
+def parse_acceleration_data(raw_data, log):
     '''
     Parse acceleration data from the sensor using struct.
     MIP Packet Format:
@@ -105,8 +105,8 @@ def parse_acceleration_data(raw_data):
     '''
     try:
         # Check if we have enough data
-        if len(raw_data) < 20:
-            print(f"Not enough data: {len(raw_data)} bytes")
+        if len(raw_data, log) < 20:
+            print(f"Not enough data: {len(raw_data, log)} bytes")
             return None
             
         # Verify header
@@ -131,6 +131,7 @@ def parse_acceleration_data(raw_data):
         }
     except Exception as e:
         print(f"Error parsing data: {e}")
+        log.write(f"Error parsing data: {e}\n")
         return None
 
 def poll_imu_acceleration(imu, log):
@@ -169,7 +170,7 @@ def read_imu_acceleration(imu, log):
         log.write(f'Invalid field descriptor: 0x{raw_data[5]:02x}\n')
         return None
         
-    return parse_acceleration_data(raw_data)
+    return parse_acceleration_data(raw_data, log)
 
 def fletcher_checksum(data):
     '''
