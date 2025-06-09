@@ -132,7 +132,7 @@ def read_imu_acceleration(imu):
     elif raw_data[2] != 0x80:
         print(b'Not Data Type, But: ' + raw_data[2]) 
         log.write(b'Not Data Type, But: ' + raw_data[2])
-    elif raw_data[5] != 0x01:
+    elif raw_data[5] != 0x04:
         print(b'Not Acceleration Data, But: ' + raw_data[5])
         log.write(b'Not Acceleration Data, But: ' + raw_data[5])
     else:
