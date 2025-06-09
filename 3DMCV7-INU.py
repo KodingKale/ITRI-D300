@@ -184,7 +184,7 @@ def fletcher_checksum(data):
         MSB = (MSB + byte) & 0xFF  # Ensure 8-bit result using & 0xFF
         LSB = (LSB + MSB) & 0xFF
     # Return the two checksum bytes
-    return(bytes([LSB, MSB])) 
+    return(bytes([MSB, LSB])) 
 
 def start_log():
     now = datetime.now()
