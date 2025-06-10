@@ -71,8 +71,10 @@ def initialize_imu():
     stream_command = bytes([0x75, 0x65, 0x01, 0x02, 0x02, 0x06])
     checksum = fletcher_checksum(stream_command)
     imu.write(stream_command + checksum)
-    time.sleep(0.1)
-    
+    imu.reset_input_buffer()
+    imu.reset_output_buffer()
+
+
     return imu
 
 '''
@@ -148,11 +150,6 @@ def read_imu_acceleration(imu, log):
         
     raw_data = imu.read(20)
     
-    # Validate checksum
-    if raw_data[18:20] != fletcher_checksum(raw_data[0:18]):  # Exclude sync bytes and checksum
-        print(f'Checksum failed. Expected: {fletcher_checksum(raw_data[0:18]).hex()}, Got: {raw_data[18:20].hex()}')
-        log.write(f'Checksum failed. Expected: {fletcher_checksum(raw_data[0:18]).hex()}, Got: {raw_data[18:20].hex()}\n')
-        return None
         
     # Validate packet type
     if raw_data[2] != 0x80:
@@ -165,7 +162,12 @@ def read_imu_acceleration(imu, log):
         print(f'Invalid field descriptor: 0x{raw_data[5]:02x}')
         log.write(f'Invalid field descriptor: 0x{raw_data[5]:02x}\n')
         return None
-        
+    
+    # Validate checksum
+    if raw_data[18:20] != fletcher_checksum(raw_data[0:18]):  # Exclude sync bytes and checksum
+        print(f'Checksum failed. Expected: {fletcher_checksum(raw_data[0:18]).hex()}, Got: {raw_data[18:20].hex()}')
+        log.write(f'Checksum failed. Expected: {fletcher_checksum(raw_data[0:18]).hex()}, Got: {raw_data[18:20].hex()}\n')
+        return None    
     return parse_acceleration_data(raw_data, log)
 
 def fletcher_checksum(data):
