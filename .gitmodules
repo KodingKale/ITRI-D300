@@ -1,0 +1,9 @@
+[submodule "lib/mip_sdk"]
+	path = lib/mip_sdk
+	url = https://github.com/LORD-MicroStrain/mip_sdk.git
+[submodule "libs/mip_sdk"]
+	path = libs/mip_sdk
+	url = https://github.com/LORD-MicroStrain/mip_sdk.git
+[submodule "libs/MSCL"]
+	path = libs/MSCL
+	url = https://github.com/LORD-MicroStrain/MSCL.git
