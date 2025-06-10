@@ -25,7 +25,8 @@ def imu_initialize(log):
     return imu
 
 def ahrs_channel_initialize(log, imu):
-    ahrsImuChs = mscl.MipChannel(mscl.MipTypes.CH_FIELD_SENSOR_RAW_ACCEL_VEC, mscl.SampleRate.Hertz(500))
+    ahrsImuChs = mscl.MipChannels()
+    ahrsImuChs.append(mscl.MipChannel(mscl.MipTypes.CH_FIELD_SENSOR_RAW_ACCEL_VEC, mscl.SampleRate.Hertz(500)))
     imu.setActiveChannelFields(mscl.MipTypes.CLASS_AHRS_IMU, ahrsImuChs)
     print("IMU channels initialized")
     log.write('\n' + "IMU channels initialized")
