@@ -23,10 +23,6 @@ def main():
         
         # Configure IMU settings
         print("\nConfiguring IMU settings...")
-        imuMessageFormat = mscl.MipChannels()
-        imuMessageFormat.append(mscl.MipChannel(mscl.MipTypes.CH_FIELD_SENSOR_SCALED_ACCEL_VEC))
-        
-        # Create channels object
         imuChannels = mscl.MipChannels()
         
         # Add accelerometer data - using the correct channel field for CV7
