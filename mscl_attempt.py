@@ -57,7 +57,7 @@ def main():
 
 def imu_initialize(log):
     try:
-        uart_port = mscl.Connection.Serial("/dev/serial0", 115200)
+        uart_port = mscl.Connection.Serial("/dev/ttyS0", 115200)
         imu = mscl.InertialNode(uart_port)
         
         # Try to communicate with the device
