@@ -51,11 +51,8 @@ def initialize_imu():
     Default settings: 115200 baud, 8 data bits, 1 stop bit, no parity
     '''
     imu = serial.Serial(
-        port='/dev/ttyS0',  # Primary UART on Raspberry Pi
+        port='/dev/ttyS0',
         baudrate=115200,
-        bytesize=serial.EIGHTBITS,
-        parity=serial.PARITY_NONE,
-        stopbits=serial.STOPBITS_ONE,
         timeout=1
     )
     
@@ -116,6 +113,11 @@ def parse_acceleration_data(raw_data, log):
         accel_data = raw_data[6:18]
         accel_x, accel_y, accel_z = struct.unpack('>fff', accel_data)
         
+        accel_x = accel_x * 9.80665
+        accel_y = accel_y * 9.80665
+        accel_z = accel_z * 9.80665
+
+        # Convert acceleration data to m/s^2
         return {
             'x': accel_x,
             'y': accel_y,
@@ -145,7 +147,7 @@ def read_imu_acceleration(imu, log):
     raw_data = imu.read(20)
     
     # Validate checksum
-    if raw_data[18:20] != fletcher_checksum(raw_data[0:18]):  # Exclude sync bytes and checksum
+    if raw_data[18:20] != fletcher_checksum(raw_data[0:18]):
         print(f'Checksum failed. Expected: {fletcher_checksum(raw_data[0:18]).hex()}, Got: {raw_data[18:20].hex()}')
         log.write(f'Checksum failed. Expected: {fletcher_checksum(raw_data[0:18]).hex()}, Got: {raw_data[18:20].hex()}\n')
         return None
