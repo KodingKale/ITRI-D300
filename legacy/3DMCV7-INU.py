@@ -117,12 +117,12 @@ def parse_acceleration_data(raw_data, log):
         # Extract acceleration data (12 bytes, 3 floats)
         # Using explicit little-endian format for float values
         accel_data = raw_data[6:18]
-        accel_x, accel_y, accel_z = struct.unpack('<fff', accel_data)
+        accel_x, accel_y, accel_z = struct.unpack('>fff', accel_data)
         
         # Convert to g (if needed - depends on your sensor configuration)
-        # accel_x *= 9.81
-        # accel_y *= 9.81
-        # accel_z *= 9.81
+        accel_x *= 9.81
+        accel_y *= 9.81
+        accel_z *= 9.81
         
         return {
             'x': accel_x,
