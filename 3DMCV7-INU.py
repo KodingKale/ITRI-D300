@@ -3,6 +3,7 @@ import time
 import struct
 from datetime import datetime
 
+
 descriptor = {
     'Sensor': 0x80,
     'Acceleration': 0x04,
@@ -26,16 +27,17 @@ def main():
         # Wait for sensor to stabilize
         time.sleep(0.5)
         
-        poll_imu_acceleration(imu, log)
         
+
         # Continuous reading loop
         while True:
+            poll_imu_acceleration(imu, log)
             data = read_imu_acceleration(imu, log)
             if data:  # Only print if we got valid data
                 message = f"Acceleration: X={data['x']:.6f}, Y={data['y']:.6f}, Z={data['z']:.6f} g"
                 print(message)
                 log.write(message + '\n')
-            time.sleep(0.1)
+            time.sleep(0.01)
     except KeyboardInterrupt:
         print("\nExiting...")
         log.write("\nExiting...\n")
@@ -49,11 +51,8 @@ def initialize_imu():
     Default settings: 115200 baud, 8 data bits, 1 stop bit, no parity
     '''
     imu = serial.Serial(
-        port='/dev/ttyS0',  # Primary UART on Raspberry Pi
+        port='/dev/ttyS0',
         baudrate=115200,
-        bytesize=serial.EIGHTBITS,
-        parity=serial.PARITY_NONE,
-        stopbits=serial.STOPBITS_ONE,
         timeout=1
     )
     
@@ -62,19 +61,17 @@ def initialize_imu():
     imu.reset_output_buffer()
     
     # Set to idle mode first
-    idle_command = bytes([0x75, 0x65, 0x01, 0x02, 0x02, 0x06])
+    idle_command = bytes([0x75, 0x65, 0x01, 0x02, 0x02, 0x02])
     checksum = fletcher_checksum(idle_command)
     imu.write(idle_command + checksum)
     time.sleep(0.1)
     
-    # Resume current streaming
+    # Enable data streaming
     stream_command = bytes([0x75, 0x65, 0x01, 0x02, 0x02, 0x06])
     checksum = fletcher_checksum(stream_command)
     imu.write(stream_command + checksum)
-    imu.reset_input_buffer()
-    imu.reset_output_buffer()
-
-
+    time.sleep(0.1)
+    
     return imu
 
 '''
@@ -107,21 +104,20 @@ def parse_acceleration_data(raw_data, log):
     try:
         # Check if we have enough data
         if len(raw_data) < 20:
-            print(f"Not enough data: {len(raw_data, log)} bytes")
+            print(f"Not enough data: {len(raw_data)} bytes")
             return None
             
-        # Verify header
-        if raw_data[0:2] != bytes([0x75, 0x65]):
-            print(f"Invalid header: {raw_data[0:2].hex()}")
-            return None
             
         # Extract acceleration data (12 bytes, 3 floats)
         # Using explicit little-endian format for float values
         accel_data = raw_data[6:18]
         accel_x, accel_y, accel_z = struct.unpack('>fff', accel_data)
         
-        # Convert to g (if needed - depends on your sensor configuration)
-        
+        accel_x = accel_x * 9.80665
+        accel_y = accel_y * 9.80665
+        accel_z = accel_z * 9.80665
+
+        # Convert acceleration data to m/s^2
         return {
             'x': accel_x,
             'y': accel_y,
@@ -150,6 +146,11 @@ def read_imu_acceleration(imu, log):
         
     raw_data = imu.read(20)
     
+    # Validate checksum
+    if raw_data[18:20] != fletcher_checksum(raw_data[0:18]):
+        print(f'Checksum failed. Expected: {fletcher_checksum(raw_data[0:18]).hex()}, Got: {raw_data[18:20].hex()}')
+        log.write(f'Checksum failed. Expected: {fletcher_checksum(raw_data[0:18]).hex()}, Got: {raw_data[18:20].hex()}\n')
+        return None
         
     # Validate packet type
     if raw_data[2] != 0x80:
@@ -161,13 +162,15 @@ def read_imu_acceleration(imu, log):
     if raw_data[5] != 0x04:
         print(f'Invalid field descriptor: 0x{raw_data[5]:02x}')
         log.write(f'Invalid field descriptor: 0x{raw_data[5]:02x}\n')
+        print(raw_data)
+        log.write(str(raw_data) + '\n')
+        return None
+        
+    # Verify header
+    if raw_data[0:2] != bytes([0x75, 0x65]):
+        print(f"Invalid header: {raw_data[0:2]}")
         return None
     
-    # Validate checksum
-    if raw_data[18:20] != fletcher_checksum(raw_data[0:18]):  # Exclude sync bytes and checksum
-        print(f'Checksum failed. Expected: {fletcher_checksum(raw_data[0:18]).hex()}, Got: {raw_data[18:20].hex()}')
-        log.write(f'Checksum failed. Expected: {fletcher_checksum(raw_data[0:18]).hex()}, Got: {raw_data[18:20].hex()}\n')
-        return None    
     return parse_acceleration_data(raw_data, log)
 
 def fletcher_checksum(data):
@@ -185,13 +188,10 @@ def fletcher_checksum(data):
     return(bytes([MSB, LSB])) 
 
 def start_log():
-    now = datetime.now()
-
-    current_time = now.strftime("%H:%M:%S")
-
+    
     log = open('./logs/log.txt', 'a')
     log.write('\n#################################################################\n')
-    log.write('Log started at ' + current_time + '\n')
+    log.write(f'Log started at {datetime.now()} \n')
     log.write('#################################################################\n')
     return log
 
