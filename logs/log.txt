@@ -57977,3 +57977,1579 @@ Checksum failed. Expected: 6747, Got: 8dff
 Checksum failed. Expected: 5032, Got: 0e22
 
 Exiting...
+
+#################################################################
+Log started at 16:04:28
+#################################################################
+
+#################################################################
+Log started at 16:04:35
+#################################################################
+Invalid descriptor set: 0x01
+Invalid descriptor set: 0x6c
+Invalid descriptor set: 0x55
+Invalid descriptor set: 0x20
+Invalid descriptor set: 0xbf
+Invalid descriptor set: 0xc6
+Invalid descriptor set: 0x2d
+Invalid descriptor set: 0x9d
+Invalid descriptor set: 0xaa
+Invalid descriptor set: 0x6c
+Invalid descriptor set: 0x30
+Invalid descriptor set: 0x2f
+Invalid descriptor set: 0x64
+Invalid descriptor set: 0x7f
+Invalid descriptor set: 0x62
+Invalid descriptor set: 0xa2
+Invalid descriptor set: 0xad
+Invalid descriptor set: 0xb4
+Invalid descriptor set: 0x2e
+Invalid descriptor set: 0x5d
+Invalid descriptor set: 0x6c
+Invalid descriptor set: 0x60
+Invalid descriptor set: 0xa0
+Invalid descriptor set: 0x2d
+Invalid descriptor set: 0x2b
+Invalid descriptor set: 0x6a
+Invalid descriptor set: 0xb5
+Invalid descriptor set: 0x40
+Invalid descriptor set: 0x2e
+Invalid descriptor set: 0xb5
+Invalid descriptor set: 0x42
+Invalid descriptor set: 0x6c
+Invalid descriptor set: 0xc3
+Invalid descriptor set: 0xab
+Invalid descriptor set: 0xcf
+Invalid descriptor set: 0x26
+Invalid descriptor set: 0xce
+Invalid descriptor set: 0xea
+Invalid descriptor set: 0xad
+Invalid descriptor set: 0x94
+Invalid descriptor set: 0xfb
+Invalid descriptor set: 0xb7
+Invalid descriptor set: 0x6c
+Invalid descriptor set: 0xcf
+Invalid descriptor set: 0xbd
+Invalid descriptor set: 0x13
+Invalid descriptor set: 0x74
+Invalid descriptor set: 0xe1
+Invalid descriptor set: 0x40
+Invalid descriptor set: 0xa2
+Invalid descriptor set: 0x66
+Invalid descriptor set: 0x05
+Invalid descriptor set: 0x5b
+Invalid descriptor set: 0x6c
+Invalid descriptor set: 0xab
+Invalid descriptor set: 0xc9
+Invalid descriptor set: 0xa0
+Invalid descriptor set: 0x0a
+Invalid descriptor set: 0x0d
+Invalid descriptor set: 0xfe
+Invalid descriptor set: 0xf5
+Invalid descriptor set: 0x92
+Invalid descriptor set: 0xb4
+Invalid descriptor set: 0x6c
+Invalid descriptor set: 0x5f
+Invalid descriptor set: 0x65
+Invalid descriptor set: 0x10
+Invalid descriptor set: 0xff
+Invalid descriptor set: 0x9d
+Invalid descriptor set: 0x0e
+Invalid descriptor set: 0x11
+Invalid descriptor set: 0xfd
+Invalid descriptor set: 0x91
+Invalid descriptor set: 0x25
+Invalid descriptor set: 0x6c
+Invalid descriptor set: 0xc9
+Invalid descriptor set: 0x6d
+Invalid descriptor set: 0x40
+Invalid descriptor set: 0x84
+Invalid descriptor set: 0x82
+Invalid descriptor set: 0x88
+Invalid field descriptor: 0x80
+Invalid descriptor set: 0x02
+Invalid descriptor set: 0x94
+Invalid descriptor set: 0x13
+Invalid descriptor set: 0x6c
+Invalid descriptor set: 0x96
+Invalid descriptor set: 0x95
+Invalid descriptor set: 0x87
+Invalid descriptor set: 0x17
+Invalid descriptor set: 0x8c
+Invalid descriptor set: 0x8f
+Invalid descriptor set: 0x14
+Invalid descriptor set: 0x9f
+Invalid descriptor set: 0x13
+Invalid descriptor set: 0x98
+Invalid descriptor set: 0x6c
+Invalid descriptor set: 0x16
+Invalid descriptor set: 0x19
+Invalid descriptor set: 0x92
+Invalid descriptor set: 0x99
+Invalid descriptor set: 0x0f
+Invalid descriptor set: 0x19
+Invalid descriptor set: 0xaa
+Invalid descriptor set: 0x1c
+Invalid descriptor set: 0x95
+Invalid descriptor set: 0x17
+Invalid descriptor set: 0x6c
+Invalid descriptor set: 0x92
+Invalid descriptor set: 0x96
+Invalid descriptor set: 0x1e
+Invalid descriptor set: 0x94
+Invalid descriptor set: 0x81
+Invalid descriptor set: 0x8f
+Invalid descriptor set: 0x94
+Invalid descriptor set: 0x9e
+Invalid descriptor set: 0x82
+Invalid descriptor set: 0x08
+Invalid descriptor set: 0x6c
+Invalid descriptor set: 0xf6
+Invalid descriptor set: 0x8f
+Invalid descriptor set: 0x0f
+Invalid descriptor set: 0x2b
+Invalid descriptor set: 0x14
+Invalid descriptor set: 0x8d
+Invalid descriptor set: 0x96
+Invalid descriptor set: 0x8e
+Invalid descriptor set: 0x83
+Invalid descriptor set: 0x0d
+Invalid descriptor set: 0x6c
+Invalid descriptor set: 0x90
+Invalid descriptor set: 0x87
+Invalid descriptor set: 0x04
+Invalid descriptor set: 0x21
+Invalid descriptor set: 0xa1
+Invalid descriptor set: 0x0b
+Invalid descriptor set: 0x9b
+Invalid descriptor set: 0x97
+Invalid descriptor set: 0x08
+Invalid descriptor set: 0x6c
+Invalid descriptor set: 0x8a
+Invalid descriptor set: 0x96
+Invalid descriptor set: 0x17
+Invalid descriptor set: 0x71
+Invalid descriptor set: 0x94
+Invalid descriptor set: 0x85
+Invalid descriptor set: 0x8f
+Invalid descriptor set: 0x10
+Invalid descriptor set: 0x19
+Invalid descriptor set: 0x88
+Invalid descriptor set: 0x6c
+Invalid descriptor set: 0x9a
+Invalid descriptor set: 0x99
+Invalid descriptor set: 0x8b
+Invalid descriptor set: 0x11
+Invalid descriptor set: 0x8b
+Invalid descriptor set: 0x98
+Invalid descriptor set: 0x9c
+Invalid descriptor set: 0x16
+Invalid descriptor set: 0x1f
+Invalid descriptor set: 0x90
+Invalid descriptor set: 0x6c
+Invalid descriptor set: 0x06
+Invalid descriptor set: 0x9d
+Invalid descriptor set: 0x28
+Invalid descriptor set: 0x0e
+Invalid descriptor set: 0xac
+Invalid descriptor set: 0x97
+Invalid descriptor set: 0x0b
+Invalid descriptor set: 0x1f
+Invalid descriptor set: 0xfa
+Invalid descriptor set: 0x9a
+Invalid descriptor set: 0x6c
+Invalid descriptor set: 0x96
+Invalid descriptor set: 0x93
+Invalid descriptor set: 0x93
+Invalid descriptor set: 0x21
+Invalid descriptor set: 0x15
+Invalid descriptor set: 0x98
+Invalid descriptor set: 0x98
+Invalid descriptor set: 0x8a
+Invalid descriptor set: 0xa3
+Invalid descriptor set: 0x15
+Invalid descriptor set: 0x6c
+Invalid descriptor set: 0xa0
+Invalid descriptor set: 0xa8
+Invalid descriptor set: 0x13
+Invalid descriptor set: 0x1e
+Invalid descriptor set: 0x10
+Invalid descriptor set: 0x2a
+Invalid descriptor set: 0x12
+Invalid descriptor set: 0xa3
+Invalid descriptor set: 0x24
+Invalid descriptor set: 0xa0
+Invalid descriptor set: 0x6c
+Invalid descriptor set: 0x16
+Invalid descriptor set: 0x97
+Invalid descriptor set: 0x2a
+Invalid descriptor set: 0x1f
+Invalid descriptor set: 0x28
+Invalid descriptor set: 0xa0
+Invalid descriptor set: 0x24
+Invalid descriptor set: 0xe5
+Invalid descriptor set: 0x23
+Invalid descriptor set: 0x36
+Invalid descriptor set: 0x6c
+Invalid descriptor set: 0x1c
+Invalid descriptor set: 0x1c
+Invalid descriptor set: 0xa6
+Invalid descriptor set: 0x15
+Invalid descriptor set: 0x1d
+Invalid descriptor set: 0x95
+Invalid descriptor set: 0x1c
+Invalid descriptor set: 0x2a
+Invalid descriptor set: 0x12
+Invalid descriptor set: 0x92
+Invalid descriptor set: 0x6c
+Invalid descriptor set: 0xad
+Invalid descriptor set: 0x21
+Invalid descriptor set: 0xa4
+Invalid descriptor set: 0x13
+Invalid descriptor set: 0x2b
+Invalid descriptor set: 0x15
+Invalid descriptor set: 0x28
+Invalid descriptor set: 0x2d
+Invalid descriptor set: 0x1f
+Invalid descriptor set: 0x97
+Invalid descriptor set: 0x6c
+Invalid descriptor set: 0x14
+Invalid descriptor set: 0x98
+Invalid descriptor set: 0x97
+Invalid descriptor set: 0x0a
+Invalid descriptor set: 0x98
+Invalid descriptor set: 0x15
+Invalid descriptor set: 0x1b
+Invalid descriptor set: 0xaf
+Invalid descriptor set: 0xa2
+Invalid descriptor set: 0x6c
+Invalid descriptor set: 0x05
+Invalid descriptor set: 0x25
+Invalid descriptor set: 0x1e
+Invalid descriptor set: 0xa8
+Invalid descriptor set: 0x10
+Invalid descriptor set: 0xa8
+Invalid descriptor set: 0x0d
+Invalid descriptor set: 0x6f
+Invalid descriptor set: 0x9c
+Invalid descriptor set: 0x0f
+Invalid descriptor set: 0x6c
+Invalid descriptor set: 0xc3
+Invalid descriptor set: 0x89
+Invalid descriptor set: 0x04
+Invalid descriptor set: 0xa2
+Invalid descriptor set: 0x9c
+Invalid descriptor set: 0x09
+Invalid descriptor set: 0x10
+Invalid descriptor set: 0x0a
+Invalid descriptor set: 0x22
+Invalid descriptor set: 0x0c
+Invalid descriptor set: 0x6c
+Invalid descriptor set: 0x1e
+Invalid descriptor set: 0x8d
+Invalid descriptor set: 0x96
+Invalid descriptor set: 0x0a
+Invalid descriptor set: 0x9f
+Invalid descriptor set: 0x24
+Invalid descriptor set: 0x97
+Invalid descriptor set: 0x11
+Invalid descriptor set: 0x2b
+Invalid descriptor set: 0xa2
+Invalid descriptor set: 0x6c
+Invalid descriptor set: 0x25
+Invalid descriptor set: 0x23
+Invalid descriptor set: 0xa1
+Invalid descriptor set: 0x27
+Invalid descriptor set: 0x15
+Invalid descriptor set: 0xaa
+Invalid descriptor set: 0x16
+Invalid descriptor set: 0x97
+Invalid descriptor set: 0x0f
+Invalid descriptor set: 0x25
+Invalid descriptor set: 0x6c
+Invalid descriptor set: 0x1d
+Invalid descriptor set: 0x1d
+Invalid descriptor set: 0x9c
+Invalid descriptor set: 0x28
+Invalid descriptor set: 0x9a
+Invalid descriptor set: 0x0e
+Invalid descriptor set: 0x91
+Invalid descriptor set: 0x99
+Invalid descriptor set: 0x1a
+Invalid descriptor set: 0x92
+Invalid descriptor set: 0x6c
+Invalid descriptor set: 0x1e
+Invalid descriptor set: 0x0b
+Invalid descriptor set: 0x99
+Invalid descriptor set: 0xa0
+Invalid descriptor set: 0x33
+Invalid descriptor set: 0xa2
+Invalid descriptor set: 0xa2
+Invalid descriptor set: 0x9f
+Invalid descriptor set: 0xa3
+Invalid descriptor set: 0xfb
+Invalid descriptor set: 0x6c
+Invalid descriptor set: 0x9d
+Invalid descriptor set: 0x18
+Invalid descriptor set: 0xa2
+Invalid descriptor set: 0x1c
+Invalid descriptor set: 0x9d
+Invalid descriptor set: 0x94
+Invalid descriptor set: 0xbf
+Invalid descriptor set: 0x1b
+Invalid descriptor set: 0x0a
+Invalid descriptor set: 0x6c
+Invalid descriptor set: 0x93
+Invalid descriptor set: 0x14
+Invalid descriptor set: 0x91
+Invalid descriptor set: 0x9b
+Invalid descriptor set: 0x1e
+Invalid descriptor set: 0x15
+Invalid descriptor set: 0x95
+Invalid descriptor set: 0x0c
+Invalid descriptor set: 0x98
+Invalid descriptor set: 0x1e
+Invalid descriptor set: 0x6c
+Invalid descriptor set: 0x97
+Invalid descriptor set: 0x8d
+Invalid descriptor set: 0x9a
+Invalid descriptor set: 0x8e
+Invalid descriptor set: 0x93
+Invalid descriptor set: 0x33
+Invalid descriptor set: 0x1e
+Invalid descriptor set: 0x8f
+Invalid descriptor set: 0x1b
+Invalid descriptor set: 0x18
+Invalid descriptor set: 0x6c
+Invalid descriptor set: 0x19
+Invalid descriptor set: 0x19
+Invalid descriptor set: 0x1c
+Invalid descriptor set: 0x21
+Invalid descriptor set: 0x1d
+Invalid descriptor set: 0x18
+Invalid descriptor set: 0x27
+Invalid descriptor set: 0xa0
+Invalid descriptor set: 0x18
+Invalid descriptor set: 0xac
+Invalid descriptor set: 0x6c
+Invalid descriptor set: 0x9d
+Invalid descriptor set: 0x97
+Invalid descriptor set: 0x1d
+Invalid descriptor set: 0x1c
+Invalid descriptor set: 0x02
+Invalid descriptor set: 0x7e
+Invalid descriptor set: 0x18
+Invalid descriptor set: 0x22
+Invalid descriptor set: 0x95
+Invalid descriptor set: 0x9b
+Invalid descriptor set: 0x6c
+Invalid descriptor set: 0xa3
+Invalid descriptor set: 0x1b
+Invalid descriptor set: 0x8e
+Invalid descriptor set: 0x8b
+Invalid descriptor set: 0x0d
+Invalid descriptor set: 0xb0
+Invalid descriptor set: 0x0d
+Invalid descriptor set: 0x2a
+Invalid descriptor set: 0x8e
+Invalid descriptor set: 0x91
+Invalid descriptor set: 0x6c
+Invalid descriptor set: 0xac
+Invalid descriptor set: 0x91
+Invalid descriptor set: 0x12
+Invalid descriptor set: 0x93
+Invalid descriptor set: 0x97
+Invalid descriptor set: 0x8a
+Invalid descriptor set: 0xff
+Invalid descriptor set: 0x0b
+Invalid descriptor set: 0x9b
+Invalid descriptor set: 0x9a
+Invalid descriptor set: 0x6c
+Invalid descriptor set: 0x11
+Invalid descriptor set: 0x9e
+Invalid descriptor set: 0xa0
+Invalid descriptor set: 0xa7
+Invalid descriptor set: 0x21
+Invalid descriptor set: 0xa3
+Invalid descriptor set: 0x19
+Invalid descriptor set: 0x9d
+Invalid descriptor set: 0x91
+Invalid descriptor set: 0x96
+Invalid descriptor set: 0x6c
+Invalid descriptor set: 0x8e
+Invalid descriptor set: 0x87
+Invalid descriptor set: 0x8c
+Invalid descriptor set: 0x9f
+Invalid descriptor set: 0x1a
+Invalid descriptor set: 0x97
+Invalid descriptor set: 0x94
+Invalid descriptor set: 0x11
+Invalid descriptor set: 0x0f
+Invalid descriptor set: 0x91
+Invalid descriptor set: 0x6c
+Invalid descriptor set: 0x23
+Invalid descriptor set: 0x21
+Invalid descriptor set: 0x8c
+Invalid descriptor set: 0x9e
+Invalid descriptor set: 0x16
+Invalid descriptor set: 0x28
+Invalid descriptor set: 0xa6
+Invalid descriptor set: 0x98
+Invalid descriptor set: 0x11
+Invalid descriptor set: 0x91
+Invalid descriptor set: 0x6c
+Invalid descriptor set: 0x8f
+Invalid descriptor set: 0x93
+Invalid descriptor set: 0x17
+Invalid descriptor set: 0x19
+Invalid descriptor set: 0x17
+Invalid descriptor set: 0xa6
+Invalid descriptor set: 0x9b
+Invalid descriptor set: 0x0b
+Invalid descriptor set: 0x83
+Invalid descriptor set: 0x6c
+Invalid descriptor set: 0x15
+Invalid descriptor set: 0x9b
+Invalid descriptor set: 0x93
+Invalid descriptor set: 0x82
+Invalid descriptor set: 0x26
+Invalid descriptor set: 0x85
+Invalid descriptor set: 0xa5
+Invalid descriptor set: 0xfe
+Invalid descriptor set: 0x13
+Invalid descriptor set: 0x98
+Invalid descriptor set: 0x6c
+Invalid descriptor set: 0x1e
+Invalid descriptor set: 0x8d
+Invalid descriptor set: 0x1a
+Invalid descriptor set: 0x8a
+Invalid descriptor set: 0x1e
+Invalid descriptor set: 0xa1
+Invalid descriptor set: 0x0f
+Invalid descriptor set: 0x0f
+Invalid descriptor set: 0x0d
+Invalid descriptor set: 0x7f
+Invalid descriptor set: 0x6c
+Invalid descriptor set: 0x1c
+Invalid descriptor set: 0x88
+Invalid descriptor set: 0x8e
+Invalid descriptor set: 0x0c
+Invalid descriptor set: 0xa2
+Invalid descriptor set: 0x92
+Invalid descriptor set: 0x0a
+Invalid descriptor set: 0x24
+Invalid descriptor set: 0x8d
+Invalid descriptor set: 0x97
+Invalid descriptor set: 0x6c
+Invalid descriptor set: 0x7e
+Invalid descriptor set: 0x89
+Invalid descriptor set: 0x1e
+Invalid descriptor set: 0x85
+Invalid descriptor set: 0x8a
+Invalid descriptor set: 0xa4
+Invalid descriptor set: 0x90
+Invalid descriptor set: 0x0f
+Invalid descriptor set: 0x1c
+Invalid descriptor set: 0x0d
+Invalid descriptor set: 0x6c
+Invalid descriptor set: 0x0c
+Invalid descriptor set: 0x90
+Invalid descriptor set: 0x99
+Invalid descriptor set: 0x25
+Invalid descriptor set: 0x97
+Invalid descriptor set: 0x9c
+Invalid descriptor set: 0x05
+Invalid descriptor set: 0x96
+Invalid descriptor set: 0xa3
+Invalid descriptor set: 0x9e
+Invalid descriptor set: 0x6c
+Invalid descriptor set: 0x8a
+Invalid descriptor set: 0xa2
+Invalid descriptor set: 0x89
+Invalid descriptor set: 0x9e
+Invalid descriptor set: 0x95
+Invalid descriptor set: 0x1a
+Invalid descriptor set: 0xac
+Invalid descriptor set: 0x9f
+Invalid descriptor set: 0x1b
+Invalid descriptor set: 0x9d
+Invalid descriptor set: 0x6c
+Invalid descriptor set: 0x1c
+Invalid descriptor set: 0x13
+Invalid descriptor set: 0x0e
+Invalid descriptor set: 0x92
+Invalid descriptor set: 0x1c
+Invalid descriptor set: 0xb0
+Invalid descriptor set: 0x8d
+Invalid descriptor set: 0x19
+Invalid descriptor set: 0x1d
+Invalid descriptor set: 0x96
+Invalid descriptor set: 0x6c
+Invalid descriptor set: 0x15
+Invalid descriptor set: 0x16
+Invalid descriptor set: 0x1f
+Invalid descriptor set: 0x9b
+Invalid descriptor set: 0xa5
+Invalid descriptor set: 0x83
+Invalid descriptor set: 0x98
+Invalid descriptor set: 0x13
+Invalid descriptor set: 0x92
+Invalid descriptor set: 0x6c
+Invalid descriptor set: 0x25
+Invalid descriptor set: 0xa6
+Invalid descriptor set: 0x90
+Invalid descriptor set: 0xa0
+Invalid descriptor set: 0x13
+Invalid descriptor set: 0x10
+Invalid descriptor set: 0x16
+Invalid descriptor set: 0x16
+Invalid descriptor set: 0x9e
+Invalid descriptor set: 0xa4
+Invalid descriptor set: 0x6c
+Invalid descriptor set: 0xa0
+Invalid descriptor set: 0x15
+Invalid descriptor set: 0x1b
+Invalid descriptor set: 0x00
+Invalid descriptor set: 0x09
+Invalid descriptor set: 0x04
+Invalid descriptor set: 0xa0
+Invalid descriptor set: 0x8f
+Invalid descriptor set: 0x16
+Invalid descriptor set: 0x8f
+Invalid descriptor set: 0x6c
+Invalid descriptor set: 0x1c
+Invalid descriptor set: 0x8e
+Invalid descriptor set: 0x20
+Invalid descriptor set: 0x94
+Invalid descriptor set: 0x0d
+Invalid descriptor set: 0x91
+Invalid descriptor set: 0x17
+Invalid descriptor set: 0xa7
+Invalid descriptor set: 0x10
+Invalid descriptor set: 0x17
+Invalid descriptor set: 0x6c
+Invalid descriptor set: 0x8b
+Invalid descriptor set: 0x1b
+Invalid descriptor set: 0x9a
+Invalid descriptor set: 0x9c
+Invalid descriptor set: 0x95
+Invalid descriptor set: 0x93
+Invalid descriptor set: 0x11
+Invalid descriptor set: 0x0e
+Invalid descriptor set: 0x04
+Invalid descriptor set: 0x12
+Invalid descriptor set: 0x6c
+Invalid descriptor set: 0x9a
+Invalid descriptor set: 0x0d
+Invalid descriptor set: 0x94
+Invalid descriptor set: 0xa0
+Invalid descriptor set: 0x93
+Invalid descriptor set: 0x12
+Invalid descriptor set: 0x95
+Invalid descriptor set: 0x95
+Invalid descriptor set: 0x92
+Invalid descriptor set: 0x09
+Invalid descriptor set: 0x6c
+Invalid descriptor set: 0x1f
+Invalid descriptor set: 0x90
+Invalid descriptor set: 0x0b
+Invalid descriptor set: 0x04
+Invalid descriptor set: 0x12
+Invalid descriptor set: 0x9b
+Invalid descriptor set: 0x2f
+Invalid descriptor set: 0x2f
+Invalid descriptor set: 0x0b
+Invalid descriptor set: 0x24
+Invalid descriptor set: 0x6c
+Invalid descriptor set: 0xa4
+Invalid descriptor set: 0x21
+Invalid descriptor set: 0xd4
+Invalid descriptor set: 0xb0
+Invalid descriptor set: 0xae
+Invalid descriptor set: 0x07
+Invalid descriptor set: 0x26
+Invalid descriptor set: 0x00
+Invalid descriptor set: 0x36
+Invalid descriptor set: 0x0e
+Invalid descriptor set: 0x6c
+Invalid descriptor set: 0x9d
+Invalid descriptor set: 0x81
+Invalid descriptor set: 0x21
+Invalid descriptor set: 0x1a
+Invalid descriptor set: 0xa3
+Invalid descriptor set: 0x1e
+Invalid descriptor set: 0x0c
+Invalid descriptor set: 0xa2
+Invalid descriptor set: 0x1e
+Invalid descriptor set: 0xac
+Invalid descriptor set: 0x6c
+Invalid descriptor set: 0x93
+Invalid descriptor set: 0x1e
+Invalid descriptor set: 0x21
+Invalid descriptor set: 0xa5
+Invalid descriptor set: 0x09
+Invalid descriptor set: 0x95
+Invalid descriptor set: 0x17
+Invalid descriptor set: 0x87
+Invalid descriptor set: 0x13
+Invalid descriptor set: 0x93
+Invalid descriptor set: 0x6c
+Invalid descriptor set: 0x94
+Invalid descriptor set: 0x11
+Invalid descriptor set: 0x92
+Invalid descriptor set: 0x1f
+Invalid descriptor set: 0x18
+Invalid descriptor set: 0x92
+Invalid descriptor set: 0x9e
+Invalid descriptor set: 0x17
+Invalid descriptor set: 0xa2
+Invalid descriptor set: 0x6c
+Invalid descriptor set: 0x23
+Invalid descriptor set: 0x1a
+Invalid descriptor set: 0x13
+Invalid descriptor set: 0x9b
+Invalid descriptor set: 0x1e
+Invalid descriptor set: 0x25
+Invalid descriptor set: 0x90
+Invalid descriptor set: 0xa6
+Invalid descriptor set: 0x19
+Invalid descriptor set: 0x11
+Invalid descriptor set: 0x6c
+Invalid descriptor set: 0x9c
+Invalid descriptor set: 0xb1
+Invalid descriptor set: 0xa5
+Invalid descriptor set: 0x8c
+Invalid descriptor set: 0x91
+Invalid descriptor set: 0x19
+Invalid descriptor set: 0x8f
+Invalid descriptor set: 0x12
+Invalid descriptor set: 0xa1
+Invalid descriptor set: 0x10
+Invalid descriptor set: 0x6c
+Invalid descriptor set: 0x1d
+Invalid descriptor set: 0x13
+Invalid descriptor set: 0x1d
+Invalid descriptor set: 0x9a
+Invalid descriptor set: 0x12
+Invalid descriptor set: 0x95
+Invalid descriptor set: 0x96
+Invalid descriptor set: 0xa7
+Invalid descriptor set: 0x23
+Invalid descriptor set: 0x11
+Invalid descriptor set: 0x6c
+Invalid descriptor set: 0x2f
+Invalid descriptor set: 0x0d
+Invalid descriptor set: 0x1c
+Invalid descriptor set: 0x17
+Invalid descriptor set: 0x1c
+Invalid descriptor set: 0x0b
+Invalid descriptor set: 0x1e
+Invalid descriptor set: 0x16
+Invalid descriptor set: 0x9c
+Invalid descriptor set: 0x1d
+Invalid descriptor set: 0x6c
+Invalid field descriptor: 0x80
+Invalid descriptor set: 0x83
+Invalid descriptor set: 0x23
+Invalid descriptor set: 0x1e
+Invalid descriptor set: 0x17
+Invalid descriptor set: 0x09
+Invalid descriptor set: 0x16
+Invalid descriptor set: 0x8b
+Invalid descriptor set: 0x16
+Invalid descriptor set: 0x0e
+Invalid descriptor set: 0x6c
+Invalid descriptor set: 0x15
+Invalid descriptor set: 0x97
+Invalid descriptor set: 0x1a
+Invalid descriptor set: 0x95
+Invalid descriptor set: 0x9c
+Invalid descriptor set: 0x9f
+Invalid descriptor set: 0x0b
+Invalid descriptor set: 0x9a
+Invalid descriptor set: 0x88
+Invalid descriptor set: 0x84
+Invalid descriptor set: 0x6c
+Invalid descriptor set: 0x97
+Invalid descriptor set: 0x1a
+Invalid descriptor set: 0x98
+Invalid descriptor set: 0x91
+Invalid descriptor set: 0x0e
+Invalid descriptor set: 0x84
+Invalid descriptor set: 0x1f
+Invalid descriptor set: 0x29
+Invalid descriptor set: 0x19
+Invalid descriptor set: 0x12
+Invalid descriptor set: 0x6c
+Invalid descriptor set: 0x0a
+Invalid descriptor set: 0x1c
+Invalid descriptor set: 0x16
+Invalid descriptor set: 0x83
+Invalid descriptor set: 0x90
+Invalid descriptor set: 0x0f
+Invalid descriptor set: 0x96
+Invalid descriptor set: 0xa0
+Invalid descriptor set: 0x9b
+Invalid descriptor set: 0x16
+Invalid descriptor set: 0x6c
+Invalid descriptor set: 0x8b
+Invalid descriptor set: 0xfc
+Invalid descriptor set: 0x96
+Invalid descriptor set: 0x0f
+Invalid descriptor set: 0x92
+Invalid descriptor set: 0x17
+Invalid descriptor set: 0x06
+Invalid descriptor set: 0x19
+Invalid descriptor set: 0x27
+Invalid descriptor set: 0x6c
+Invalid descriptor set: 0x93
+Invalid descriptor set: 0x89
+Invalid descriptor set: 0x18
+Invalid descriptor set: 0x13
+Invalid descriptor set: 0x9e
+Invalid descriptor set: 0x12
+Invalid descriptor set: 0xa4
+Invalid descriptor set: 0xab
+Invalid descriptor set: 0x9c
+Invalid descriptor set: 0x18
+Invalid descriptor set: 0x6c
+Invalid descriptor set: 0x94
+Invalid descriptor set: 0x9f
+Invalid descriptor set: 0x95
+Invalid descriptor set: 0x18
+Invalid descriptor set: 0x93
+Invalid descriptor set: 0x1d
+Invalid descriptor set: 0x13
+Invalid descriptor set: 0x12
+Invalid descriptor set: 0x96
+Invalid descriptor set: 0x18
+Invalid descriptor set: 0x6c
+Invalid descriptor set: 0x8c
+Invalid descriptor set: 0x9e
+Invalid descriptor set: 0x1e
+Invalid descriptor set: 0x15
+Invalid descriptor set: 0x94
+Invalid descriptor set: 0xa1
+Invalid descriptor set: 0x8e
+Invalid descriptor set: 0x17
+Invalid descriptor set: 0x12
+Invalid descriptor set: 0x1d
+Invalid descriptor set: 0x6c
+Invalid descriptor set: 0x2b
+Invalid descriptor set: 0xa4
+Invalid descriptor set: 0xa4
+Invalid descriptor set: 0x18
+Invalid descriptor set: 0x26
+Invalid descriptor set: 0x12
+Invalid descriptor set: 0x1d
+Invalid descriptor set: 0x9c
+Invalid descriptor set: 0x8b
+Invalid descriptor set: 0xa1
+Invalid descriptor set: 0x6c
+Invalid descriptor set: 0x97
+Invalid descriptor set: 0x17
+Invalid descriptor set: 0x14
+Invalid descriptor set: 0x01
+Invalid descriptor set: 0x93
+Invalid descriptor set: 0x14
+Invalid descriptor set: 0x91
+Invalid descriptor set: 0x8c
+Invalid descriptor set: 0xa1
+Invalid descriptor set: 0x0a
+Invalid descriptor set: 0x6c
+Invalid descriptor set: 0x95
+Invalid descriptor set: 0x1a
+Invalid descriptor set: 0x06
+Invalid descriptor set: 0x99
+Invalid descriptor set: 0xa7
+Invalid descriptor set: 0x81
+Invalid descriptor set: 0x0f
+Invalid descriptor set: 0x92
+Invalid descriptor set: 0x18
+Invalid descriptor set: 0x13
+Invalid descriptor set: 0x6c
+Invalid descriptor set: 0x11
+Invalid descriptor set: 0x12
+Invalid descriptor set: 0x84
+Invalid descriptor set: 0x19
+Invalid descriptor set: 0x8e
+Invalid descriptor set: 0x19
+Invalid descriptor set: 0x97
+Invalid descriptor set: 0x15
+Invalid descriptor set: 0x91
+Invalid descriptor set: 0x96
+Invalid descriptor set: 0x6c
+Invalid descriptor set: 0x8a
+Invalid descriptor set: 0x94
+Invalid descriptor set: 0x15
+Invalid descriptor set: 0x08
+Invalid descriptor set: 0x91
+Invalid descriptor set: 0x90
+Invalid descriptor set: 0x17
+Invalid descriptor set: 0x0a
+Invalid descriptor set: 0x96
+Invalid descriptor set: 0x6c
+Invalid descriptor set: 0xa1
+Invalid descriptor set: 0x0f
+Invalid descriptor set: 0x18
+Invalid descriptor set: 0x8c
+Invalid descriptor set: 0xa0
+Invalid descriptor set: 0x8d
+Invalid descriptor set: 0x26
+Invalid descriptor set: 0x18
+Invalid descriptor set: 0x1f
+Invalid descriptor set: 0x8c
+Invalid descriptor set: 0x6c
+Invalid descriptor set: 0x98
+Invalid descriptor set: 0x1d
+Invalid descriptor set: 0x20
+Invalid descriptor set: 0x8d
+Invalid descriptor set: 0x8e
+Invalid descriptor set: 0xae
+Invalid descriptor set: 0x24
+Invalid descriptor set: 0x0e
+Invalid descriptor set: 0x06
+Invalid descriptor set: 0x0b
+Invalid descriptor set: 0x6c
+Invalid descriptor set: 0x18
+Invalid descriptor set: 0x8a
+Invalid descriptor set: 0x14
+Invalid descriptor set: 0x9e
+Invalid descriptor set: 0x08
+Invalid descriptor set: 0x95
+Invalid descriptor set: 0x14
+Invalid descriptor set: 0x8d
+Invalid descriptor set: 0x16
+Invalid descriptor set: 0x8e
+Invalid descriptor set: 0x6c
+Invalid descriptor set: 0x9a
+Invalid descriptor set: 0x18
+Invalid descriptor set: 0x24
+Invalid descriptor set: 0x93
+Invalid descriptor set: 0x15
+Invalid descriptor set: 0x83
+Invalid descriptor set: 0x1c
+Invalid descriptor set: 0x12
+Invalid descriptor set: 0x0d
+Invalid descriptor set: 0x14
+Invalid descriptor set: 0x6c
+Invalid descriptor set: 0xa7
+Invalid descriptor set: 0x90
+Invalid descriptor set: 0x13
+Invalid descriptor set: 0x0c
+Invalid descriptor set: 0x1a
+Invalid descriptor set: 0x11
+Invalid descriptor set: 0x9c
+Invalid descriptor set: 0x06
+Invalid descriptor set: 0x11
+Invalid descriptor set: 0x8a
+Invalid descriptor set: 0x6c
+Invalid descriptor set: 0x1a
+Invalid descriptor set: 0x83
+Invalid descriptor set: 0x98
+Invalid descriptor set: 0x11
+Invalid descriptor set: 0x1f
+Invalid descriptor set: 0x19
+Invalid descriptor set: 0x95
+Invalid descriptor set: 0xa1
+Invalid descriptor set: 0x08
+Invalid descriptor set: 0x15
+Invalid descriptor set: 0x6c
+Invalid descriptor set: 0x1b
+Invalid descriptor set: 0x9d
+Invalid descriptor set: 0xa2
+Invalid descriptor set: 0x87
+Invalid descriptor set: 0x98
+Invalid descriptor set: 0x1f
+Invalid descriptor set: 0x18
+Invalid descriptor set: 0x1c
+Invalid descriptor set: 0x18
+Invalid descriptor set: 0x16
+Invalid descriptor set: 0x6c
+Invalid descriptor set: 0x97
+Invalid descriptor set: 0x21
+Invalid descriptor set: 0x1f
+Invalid descriptor set: 0x2b
+Invalid descriptor set: 0x11
+Invalid descriptor set: 0x1e
+Invalid descriptor set: 0xa1
+Invalid descriptor set: 0x9c
+Invalid descriptor set: 0xa7
+Invalid descriptor set: 0x22
+Invalid descriptor set: 0x6c
+Invalid descriptor set: 0x19
+Invalid descriptor set: 0xa8
+Invalid descriptor set: 0x21
+Invalid descriptor set: 0xa0
+Invalid descriptor set: 0x9e
+Invalid descriptor set: 0x81
+Invalid descriptor set: 0x15
+Invalid descriptor set: 0x10
+Invalid descriptor set: 0xa3
+Invalid descriptor set: 0x6c
+Invalid descriptor set: 0x04
+Invalid descriptor set: 0x83
+Invalid field descriptor: 0x7f
+Invalid descriptor set: 0x7b
+Invalid descriptor set: 0x1e
+Invalid descriptor set: 0x15
+Invalid descriptor set: 0x27
+Invalid descriptor set: 0x86
+Invalid descriptor set: 0x0a
+Invalid descriptor set: 0x14
+Invalid descriptor set: 0x6c
+Invalid descriptor set: 0x02
+Invalid descriptor set: 0x95
+Invalid descriptor set: 0x08
+Invalid descriptor set: 0x9b
+Invalid descriptor set: 0x84
+Invalid descriptor set: 0x92
+Invalid descriptor set: 0x16
+Invalid descriptor set: 0x18
+Invalid descriptor set: 0x9a
+Invalid descriptor set: 0x9a
+Invalid descriptor set: 0x6c
+Invalid descriptor set: 0x08
+Invalid descriptor set: 0x12
+Invalid descriptor set: 0x19
+Invalid descriptor set: 0x15
+Invalid descriptor set: 0x92
+Invalid descriptor set: 0x0e
+Invalid descriptor set: 0x18
+Invalid descriptor set: 0x14
+Invalid descriptor set: 0x9d
+Invalid descriptor set: 0x27
+Invalid descriptor set: 0x6c
+Invalid descriptor set: 0xa8
+Invalid descriptor set: 0x9c
+Invalid descriptor set: 0x21
+Invalid descriptor set: 0x18
+Invalid descriptor set: 0x9a
+Invalid descriptor set: 0x89
+Invalid descriptor set: 0x0e
+Invalid descriptor set: 0xa1
+Invalid descriptor set: 0x8a
+Invalid descriptor set: 0x95
+Invalid descriptor set: 0x6c
+Invalid descriptor set: 0x1c
+Invalid descriptor set: 0x23
+Invalid descriptor set: 0xa6
+Invalid descriptor set: 0x17
+Invalid descriptor set: 0x8d
+Invalid descriptor set: 0x93
+Invalid descriptor set: 0x97
+Invalid descriptor set: 0x1c
+Invalid descriptor set: 0x9c
+Invalid descriptor set: 0x14
+Invalid descriptor set: 0x6c
+Invalid descriptor set: 0x13
+Invalid descriptor set: 0x12
+Invalid descriptor set: 0xa4
+Invalid descriptor set: 0x89
+Invalid descriptor set: 0x97
+Invalid descriptor set: 0xa1
+Invalid descriptor set: 0xa5
+Invalid descriptor set: 0x15
+Invalid descriptor set: 0x0f
+Invalid descriptor set: 0x8a
+Invalid descriptor set: 0x6c
+Invalid descriptor set: 0x94
+Invalid descriptor set: 0x0c
+Invalid descriptor set: 0x07
+Invalid descriptor set: 0x0d
+Invalid descriptor set: 0x0b
+Invalid descriptor set: 0x8d
+Invalid descriptor set: 0x92
+Invalid descriptor set: 0x10
+Invalid descriptor set: 0x76
+Invalid descriptor set: 0x06
+Invalid descriptor set: 0x6c
+Invalid field descriptor: 0x7f
+Invalid descriptor set: 0x0e
+Invalid descriptor set: 0x0e
+Invalid descriptor set: 0x1b
+Invalid descriptor set: 0x0f
+Invalid descriptor set: 0x0c
+Invalid descriptor set: 0x8f
+Invalid descriptor set: 0xa2
+Invalid descriptor set: 0x12
+Invalid descriptor set: 0x15
+Invalid descriptor set: 0x6c
+Invalid descriptor set: 0x9b
+Invalid descriptor set: 0x99
+Invalid descriptor set: 0x08
+Invalid descriptor set: 0x91
+Invalid descriptor set: 0x1a
+Invalid descriptor set: 0x14
+Invalid descriptor set: 0x99
+Invalid descriptor set: 0x9a
+Invalid descriptor set: 0x88
+Invalid descriptor set: 0x6c
+Invalid descriptor set: 0x9d
+Invalid descriptor set: 0x90
+Invalid descriptor set: 0x0a
+Invalid descriptor set: 0x9b
+Invalid descriptor set: 0x8c
+Invalid descriptor set: 0x93
+Invalid descriptor set: 0x8d
+Invalid descriptor set: 0x0d
+Invalid descriptor set: 0x8d
+Invalid descriptor set: 0x95
+Invalid descriptor set: 0x6c
+Invalid descriptor set: 0x28
+Invalid descriptor set: 0x1c
+Invalid descriptor set: 0x1a
+Invalid descriptor set: 0xa9
+Invalid descriptor set: 0x0c
+Invalid descriptor set: 0x95
+Invalid descriptor set: 0x0f
+Invalid descriptor set: 0x0d
+Invalid descriptor set: 0x10
+Invalid descriptor set: 0x1d
+Invalid descriptor set: 0x6c
+Invalid descriptor set: 0xa0
+Invalid descriptor set: 0x96
+Invalid descriptor set: 0x34
+Invalid descriptor set: 0x8f
+Invalid descriptor set: 0x2c
+Invalid descriptor set: 0x19
+Invalid descriptor set: 0x0f
+Invalid descriptor set: 0x0a
+Invalid descriptor set: 0x93
+Invalid descriptor set: 0x17
+Invalid descriptor set: 0x6c
+Invalid descriptor set: 0xa0
+Invalid descriptor set: 0x0d
+Invalid descriptor set: 0x96
+Invalid descriptor set: 0x17
+Invalid descriptor set: 0x1a
+Invalid descriptor set: 0x08
+Invalid descriptor set: 0x9b
+Invalid descriptor set: 0x95
+Invalid descriptor set: 0x91
+Invalid descriptor set: 0xa0
+Invalid descriptor set: 0x6c
+Invalid descriptor set: 0x9a
+Invalid descriptor set: 0x13
+Invalid descriptor set: 0x0e
+Invalid descriptor set: 0x13
+Invalid descriptor set: 0xfc
+Invalid descriptor set: 0x90
+Invalid descriptor set: 0x85
+Invalid descriptor set: 0x78
+Invalid descriptor set: 0x0b
+Invalid descriptor set: 0x84
+Invalid descriptor set: 0x6c
+Invalid descriptor set: 0x98
+Invalid descriptor set: 0x06
+Invalid descriptor set: 0x86
+Invalid descriptor set: 0x8a
+Invalid field descriptor: 0x7f
+Invalid descriptor set: 0x0d
+Invalid descriptor set: 0x9d
+Invalid descriptor set: 0x8c
+Invalid descriptor set: 0x99
+Invalid descriptor set: 0x1c
+Invalid descriptor set: 0x6c
+Invalid descriptor set: 0x06
+Invalid descriptor set: 0x8b
+Invalid descriptor set: 0x83
+Invalid descriptor set: 0x9b
+Invalid descriptor set: 0x94
+Invalid descriptor set: 0x89
+Invalid descriptor set: 0x19
+Invalid descriptor set: 0x94
+Invalid descriptor set: 0x90
+Invalid descriptor set: 0x8b
+Invalid descriptor set: 0x6c
+Invalid descriptor set: 0x18
+Invalid field descriptor: 0x7f
+Invalid descriptor set: 0x14
+Invalid descriptor set: 0x09
+Invalid descriptor set: 0x92
+Invalid descriptor set: 0x9f
+Invalid descriptor set: 0x0a
+Invalid descriptor set: 0x18
+Invalid descriptor set: 0xa8
+Invalid descriptor set: 0x19
+Invalid descriptor set: 0x6c
+Invalid descriptor set: 0x15
+Invalid descriptor set: 0x38
+Invalid descriptor set: 0x07
+Invalid descriptor set: 0x13
+Invalid descriptor set: 0x8a
+Invalid descriptor set: 0x8d
+Invalid descriptor set: 0xf1
+Invalid descriptor set: 0x72
+Invalid descriptor set: 0x1d
+Invalid descriptor set: 0x94
+Invalid descriptor set: 0x6c
+Invalid descriptor set: 0x8d
+Invalid descriptor set: 0x16
+Invalid descriptor set: 0x07
+Invalid descriptor set: 0x7a
+Invalid descriptor set: 0x7d
+Invalid descriptor set: 0x26
+Invalid descriptor set: 0xf7
+Invalid descriptor set: 0x10
+Invalid descriptor set: 0x89
+Invalid descriptor set: 0x6c
+Invalid descriptor set: 0x93
+Invalid descriptor set: 0x10
+Invalid descriptor set: 0x88
+Invalid descriptor set: 0x99
+Invalid descriptor set: 0x15
+Invalid descriptor set: 0x8e
+Invalid descriptor set: 0x9c
+Invalid descriptor set: 0x0d
+Invalid descriptor set: 0xa2
+Invalid descriptor set: 0x24
+Invalid descriptor set: 0x6c
+Invalid descriptor set: 0x9a
+Invalid descriptor set: 0x17
+Invalid descriptor set: 0x8c
+Invalid descriptor set: 0x94
+Invalid descriptor set: 0x9e
+Invalid descriptor set: 0x2a
+Invalid descriptor set: 0x89
+Invalid descriptor set: 0x92
+Invalid descriptor set: 0x9c
+Invalid descriptor set: 0x8b
+Invalid descriptor set: 0x6c
+Invalid descriptor set: 0x06
+Invalid descriptor set: 0x8a
+Invalid descriptor set: 0x13
+Invalid descriptor set: 0x89
+Invalid descriptor set: 0x20
+
+Exiting...
+
+#################################################################
+Log started at 16:07:00
+#################################################################
+Checksum failed. Expected: f264, Got: da74
+Acceleration: X=0.000068, Y=0.000683, Z=-432957408.000000 g
+Acceleration: X=-0.000000, Y=-101269594886541148160.000000, Z=55994048770390838659882049583517270016.000000 g
+Acceleration: X=0.000000, Y=-0.000000, Z=4521225636282368.000000 g
+Acceleration: X=5.610868, Y=0.000000, Z=-0.000000 g
+Acceleration: X=-283973124434704476932186811576453431296.000000, Y=-3863982987966214041501696.000000, Z=-0.000000 g
+Acceleration: X=0.000001, Y=-816374163177472.000000, Z=-0.000000 g
+Acceleration: X=-2470422619907570950856355658858496.000000, Y=-244734912.000000, Z=0.000000 g
+Acceleration: X=-0.000000, Y=-0.000000, Z=-2540381551635181092969058054176768.000000 g
+Acceleration: X=-854323.750000, Y=-3550063.000000, Z=-0.000123 g
+Acceleration: X=0.000000, Y=0.000000, Z=0.000000 g
+Acceleration: X=120972090594767332402179675783168.000000, Y=-12975019490830323208270381056.000000, Z=-0.000000 g
+Acceleration: X=nan, Y=-0.000004, Z=-161392759063429638525026304.000000 g
+Acceleration: X=-0.000000, Y=24413868444440592384.000000, Z=569808949084160.000000 g
+Acceleration: X=-15834130939904.000000, Y=442773859108697052250635398807552.000000, Z=566321021712334848.000000 g
+Invalid field descriptor: 0xd3
+Acceleration: X=0.000000, Y=-124443.468750, Z=-13666205193651480696744560630809231360.000000 g
+Acceleration: X=0.000000, Y=-201872867328.000000, Z=0.254915 g
+Acceleration: X=-0.000000, Y=0.000000, Z=-0.006729 g
+Acceleration: X=1174867344380395520.000000, Y=0.000000, Z=-0.000000 g
+Acceleration: X=0.000000, Y=0.000000, Z=0.002739 g
+Acceleration: X=624666345966074784120832.000000, Y=-0.000000, Z=-0.000000 g
+Acceleration: X=-0.000000, Y=14809523977977856.000000, Z=-0.000003 g
+Acceleration: X=-0.000000, Y=-43840589266944.000000, Z=-432251067955341773566586042416365568.000000 g
+Acceleration: X=57013480.000000, Y=2813397561318442008576.000000, Z=-0.000000 g
+Acceleration: X=4489976276625930951473722988060213248.000000, Y=-6327915512625922834432.000000, Z=-0.000000 g
+Invalid field descriptor: 0xd3
+Acceleration: X=-0.000000, Y=0.000000, Z=-0.000000 g
+Acceleration: X=0.000000, Y=0.000093, Z=-0.000000 g
+Acceleration: X=1337793920.000000, Y=-5784158.000000, Z=40158693170375143282629446484361216.000000 g
+Acceleration: X=0.000000, Y=-1239638183534269995291217097654272.000000, Z=-2552.015381 g
+Acceleration: X=0.000000, Y=858001424833839104.000000, Z=0.000000 g
+Acceleration: X=-62873199968256.000000, Y=-0.000000, Z=579068347152194922797334528.000000 g
+Acceleration: X=0.000000, Y=-22659945002396191682755297280.000000, Z=-0.000000 g
+Acceleration: X=0.000000, Y=19486498550185984.000000, Z=-33947900.000000 g
+Acceleration: X=-1.116737, Y=28.191765, Z=-43034075811487908899069930745783910400.000000 g
+Acceleration: X=99.412560, Y=0.000000, Z=-0.000000 g
+Invalid field descriptor: 0xd3
+Acceleration: X=0.522510, Y=8184865488896000.000000, Z=1417466460309277436554514389912256512.000000 g
+Acceleration: X=-3387718422644192677966255226880.000000, Y=1255119418254249685480898560.000000, Z=-0.000000 g
+Acceleration: X=0.000000, Y=140700170670650234921124975322662436864.000000, Z=0.000000 g
+Acceleration: X=3.132827, Y=-19166257152.000000, Z=-0.000000 g
+Acceleration: X=-0.000000, Y=-0.000000, Z=39348030611529190580372304784523264.000000 g
+Acceleration: X=4682062407200967995297764474880.000000, Y=49824286816429626991527869359883026432.000000, Z=-40954401195669081676938878381327384576.000000 g
+Acceleration: X=-28.272575, Y=0.000000, Z=194976746223801076447205916672.000000 g
+Acceleration: X=-157338543587328.000000, Y=-0.063425, Z=-0.000000 g
+Acceleration: X=0.000000, Y=0.000000, Z=5882574405342534254605279166464.000000 g
+Acceleration: X=-0.000000, Y=-886289659993260032.000000, Z=-130864439862480495190212608.000000 g
+Invalid field descriptor: 0xd3
+Acceleration: X=-0.000000, Y=-0.000000, Z=-46.125240 g
+Acceleration: X=-1422887352699586623933847208722432.000000, Y=-0.000000, Z=-0.000000 g
+Acceleration: X=6487243779137771493729628044717457408.000000, Y=-0.764766, Z=-440.994110 g
+Acceleration: X=0.000015, Y=0.000000, Z=-0.000000 g
+Acceleration: X=-857157248.000000, Y=219986134729515597824.000000, Z=-0.000000 g
+Acceleration: X=-182.526276, Y=0.000000, Z=2876552425125248100818968539463417856.000000 g
+Acceleration: X=444577600.000000, Y=426910548139662863499264.000000, Z=-0.000000 g
+Acceleration: X=-0.000000, Y=3323311.000000, Z=-0.000000 g
+Acceleration: X=569942977501515425198395883520.000000, Y=239581296708204625920.000000, Z=-0.000000 g
+Acceleration: X=-3838830.500000, Y=0.000000, Z=0.000000 g
+Invalid field descriptor: 0xd3
+Acceleration: X=-4089595822080.000000, Y=-1889318337837389583949622149120.000000, Z=0.000000 g
+Acceleration: X=-1931.897705, Y=0.000000, Z=-480761476837242044416.000000 g
+Acceleration: X=0.002078, Y=-0.000000, Z=-142291913294153265330559188467712.000000 g
+Acceleration: X=-12756200375705213175414652928.000000, Y=-0.000000, Z=-0.000000 g
+Acceleration: X=0.000000, Y=-555602797418351213473169408.000000, Z=0.000000 g
+Acceleration: X=-14749978815802870281846021383258112.000000, Y=0.000000, Z=0.000000 g
+Acceleration: X=58962190336.000000, Y=nan, Z=0.000000 g
+Acceleration: X=24195276852580947943382337043675742208.000000, Y=0.000000, Z=0.000000 g
+Acceleration: X=521709.812500, Y=-0.000000, Z=0.000000 g
+Acceleration: X=0.000000, Y=33544508619296505457222352896.000000, Z=-249383513650888704.000000 g
+Invalid field descriptor: 0xd3
+Acceleration: X=-3887020487015924036053268727653728256.000000, Y=-984234564549599292637992452096.000000, Z=0.000000 g
+Acceleration: X=-0.000000, Y=0.000000, Z=-1948759939445932422078660608.000000 g
+Acceleration: X=-0.000000, Y=0.768642, Z=-539853733232640.000000 g
+Acceleration: X=78983566795649100274066358459116290048.000000, Y=-15468956076736512.000000, Z=0.000000 g
+Acceleration: X=-1732959488.000000, Y=3673381375311872.000000, Z=0.000000 g
+Acceleration: X=0.000000, Y=-6297.091797, Z=-490573315962462838429441155137536.000000 g
+Acceleration: X=0.000000, Y=147426791250882104113886233317167071232.000000, Z=525330400.000000 g
+Acceleration: X=-0.000000, Y=-29832501890169786576287039488.000000, Z=0.000000 g
+Acceleration: X=-844265546579968.000000, Y=-2047431218396381394763776.000000, Z=-533500856696770912322930720836157440.000000 g
+Acceleration: X=-208050.906250, Y=-0.012254, Z=-37715439616.000000 g
+Invalid field descriptor: 0xd3
+Acceleration: X=0.000000, Y=-196418.937500, Z=0.000000 g
+Acceleration: X=-6431274172416.000000, Y=0.000000, Z=0.000000 g
+Acceleration: X=-0.000000, Y=-8303947112889935122661376.000000, Z=0.000000 g
+Acceleration: X=0.000095, Y=3671470535771947008.000000, Z=-466.994110 g
+Acceleration: X=367543923184057037289947136.000000, Y=0.000002, Z=37854044698982297790054400.000000 g
+Acceleration: X=-0.000000, Y=30087836626927484928.000000, Z=0.000004 g
+Acceleration: X=-0.000000, Y=27108216.000000, Z=790386063930556416.000000 g
+Acceleration: X=1092508928.000000, Y=-36312316908992402508856425388703744.000000, Z=0.000000 g
+Acceleration: X=0.000000, Y=-0.000000, Z=12087746948656893097671289746726322176.000000 g
+Acceleration: X=-2444206.500000, Y=0.000000, Z=0.000032 g
+Invalid field descriptor: 0xd3
+Acceleration: X=0.000000, Y=-0.000000, Z=-0.000000 g
+Acceleration: X=411777893559959552.000000, Y=0.000000, Z=-0.000000 g
+Acceleration: X=-0.000000, Y=-0.000000, Z=0.000009 g
+Acceleration: X=-685918759419904.000000, Y=-0.000000, Z=325193925033122796109037568.000000 g
+Acceleration: X=-164472196981909402681344.000000, Y=-140064576681036151783304185444827136.000000, Z=3298551794761728.000000 g
+Acceleration: X=0.000000, Y=0.000000, Z=1395.976440 g
+Acceleration: X=-0.000000, Y=1681571446784.000000, Z=10592.061523 g
+Acceleration: X=0.000000, Y=-0.000000, Z=0.000000 g
+Acceleration: X=-358.009613, Y=2410427093843644281213644502466560.000000, Z=0.000000 g
+Acceleration: X=-260711166657461347155968.000000, Y=-0.000000, Z=0.009430 g
+Invalid field descriptor: 0xd3
+Acceleration: X=-0.000000, Y=23828344.000000, Z=12419135.000000 g
+Acceleration: X=1933095337984.000000, Y=0.000000, Z=-0.000000 g
+Acceleration: X=0.000000, Y=-36344380817523986625841856512.000000, Z=-0.000000 g
+Acceleration: X=-0.000000, Y=-35628987856761062102303934251008.000000, Z=-0.000000 g
+Acceleration: X=-18133405696.000000, Y=0.000000, Z=-4303.905762 g
+Acceleration: X=0.000000, Y=34521760436170028479242332111110144.000000, Z=-7470822700511358091264.000000 g
+Acceleration: X=42128104.000000, Y=0.000000, Z=37326110788576870400.000000 g
+Acceleration: X=34987730080707956661389489078272.000000, Y=-2104394764095996490153984.000000, Z=-0.000000 g
+Acceleration: X=525246609877655218308320854016.000000, Y=0.000000, Z=0.000000 g
+Invalid field descriptor: 0xd3
+Acceleration: X=0.000000, Y=940617033097997713408.000000, Z=106154488.000000 g
+Acceleration: X=-0.563526, Y=-7828.716797, Z=0.000000 g
+Acceleration: X=622468424291063696538191527936.000000, Y=0.000000, Z=-449832928.000000 g
+Acceleration: X=0.000000, Y=-0.000000, Z=0.000000 g
+Acceleration: X=-0.000000, Y=44620146710365307150532608.000000, Z=0.000000 g
+
+Exiting...
+
+#################################################################
+Log started at 16:07:15
+#################################################################
+Checksum failed. Expected: f264, Got: da74
+Acceleration: X=-0.004288, Y=-0.017882, Z=1.000263 g
+Acceleration: X=-0.004171, Y=-0.018806, Z=1.000323 g
+Acceleration: X=-0.004657, Y=-0.018680, Z=0.998857 g
+Acceleration: X=-0.004536, Y=-0.019291, Z=0.999408 g
+Acceleration: X=-0.004407, Y=-0.018559, Z=0.998370 g
+Acceleration: X=-0.004662, Y=-0.018558, Z=0.999711 g
+Acceleration: X=-0.004847, Y=-0.018385, Z=0.997694 g
+Acceleration: X=-0.003497, Y=-0.018624, Z=1.000754 g
+Acceleration: X=-0.004604, Y=-0.018987, Z=0.998492 g
+Acceleration: X=-0.004963, Y=-0.019290, Z=0.999901 g
+Acceleration: X=-0.004118, Y=-0.021750, Z=1.000094 g
+Acceleration: X=-0.003934, Y=-0.020396, Z=1.000082 g
+Acceleration: X=-0.003750, Y=-0.020581, Z=1.000882 g
+Acceleration: X=-0.004660, Y=-0.018751, Z=0.995687 g
+Invalid field descriptor: 0xd3
+Acceleration: X=-0.002765, Y=-0.018076, Z=1.000750 g
+Acceleration: X=-0.003440, Y=-0.018628, Z=0.998802 g
+Acceleration: X=-0.004283, Y=-0.016907, Z=0.999466 g
+Acceleration: X=-0.002517, Y=-0.017288, Z=0.997637 g
+Acceleration: X=-0.004967, Y=-0.020092, Z=1.000147 g
+Acceleration: X=-0.004414, Y=-0.019529, Z=0.999351 g
+Acceleration: X=-0.002490, Y=-0.022836, Z=1.004241 g
+Acceleration: X=0.006953, Y=0.094836, Z=1.129334 g
+Acceleration: X=0.067627, Y=0.173588, Z=1.037066 g
+Acceleration: X=0.029463, Y=0.607725, Z=0.784097 g
+Invalid field descriptor: 0xd3
+Acceleration: X=0.126302, Y=0.580336, Z=0.323762 g
+Acceleration: X=0.013368, Y=0.993120, Z=-0.129982 g
+Acceleration: X=0.001272, Y=0.995076, Z=-0.005083 g
+Acceleration: X=0.001058, Y=0.993616, Z=0.059577 g
+Acceleration: X=0.001292, Y=0.997161, Z=0.008638 g
+Acceleration: X=0.020449, Y=1.031402, Z=0.031080 g
+Acceleration: X=-0.006704, Y=1.017609, Z=-0.029395 g
+Acceleration: X=-0.018498, Y=0.995428, Z=-0.074368 g
+Acceleration: X=-0.016511, Y=0.975639, Z=-0.027291 g
+Acceleration: X=0.000105, Y=0.996374, Z=0.003398 g
+Invalid field descriptor: 0xd3
+Acceleration: X=0.000171, Y=0.997881, Z=-0.006885 g
+Acceleration: X=0.000238, Y=0.998440, Z=0.001418 g
+Acceleration: X=0.000445, Y=0.998211, Z=0.005095 g
+Acceleration: X=0.000549, Y=0.996649, Z=-0.008583 g
+Acceleration: X=0.000310, Y=0.997022, Z=-0.011026 g
+Acceleration: X=0.000327, Y=0.997278, Z=-0.006382 g
+Acceleration: X=-0.000467, Y=0.997455, Z=-0.016032 g
+Acceleration: X=0.004437, Y=1.005848, Z=0.007085 g
+Acceleration: X=-0.005966, Y=0.991385, Z=-0.078482 g
+Acceleration: X=0.000190, Y=0.997001, Z=-0.025924 g
+Invalid field descriptor: 0xd3
+Acceleration: X=0.000313, Y=0.997124, Z=-0.024402 g
+Acceleration: X=-0.000594, Y=0.999147, Z=-0.026542 g
+Acceleration: X=-0.000477, Y=0.998621, Z=-0.009327 g
+Acceleration: X=-0.000719, Y=0.997236, Z=0.005152 g
+Acceleration: X=0.000594, Y=0.999810, Z=-0.023384 g
+Acceleration: X=0.000378, Y=1.001108, Z=-0.037113 g
+Acceleration: X=-0.168661, Y=1.197340, Z=0.145720 g
+Acceleration: X=-0.620003, Y=0.604721, Z=0.391585 g
+Acceleration: X=-0.802096, Y=-0.083835, Z=0.259181 g
+Acceleration: X=-0.987527, Y=-0.031344, Z=0.123564 g
+Invalid field descriptor: 0xd3
+Acceleration: X=-0.987291, Y=0.001013, Z=0.118649 g
+Acceleration: X=-0.993817, Y=0.001734, Z=0.052886 g
+Acceleration: X=-0.994760, Y=-0.003556, Z=0.067301 g
+Acceleration: X=-0.993724, Y=-0.003913, Z=0.080433 g
+Acceleration: X=-0.995664, Y=-0.003298, Z=0.070607 g
+Acceleration: X=-0.997727, Y=-0.002248, Z=0.033475 g
+Acceleration: X=-0.995640, Y=-0.002872, Z=0.065709 g
+Acceleration: X=-0.993716, Y=-0.091626, Z=0.047773 g
+Acceleration: X=-0.995730, Y=-0.002272, Z=0.065713 g
+Invalid field descriptor: 0xd3
+Acceleration: X=-0.994111, Y=-0.002945, Z=0.081764 g
+Acceleration: X=-0.995602, Y=-0.002287, Z=0.052261 g
+Acceleration: X=-0.993545, Y=-0.002995, Z=0.083160 g
+Acceleration: X=-1.021483, Y=-0.084116, Z=0.131467 g
+Acceleration: X=-0.975488, Y=-0.005823, Z=0.312916 g
+Acceleration: X=-0.994067, Y=0.003827, Z=0.042656 g
+Acceleration: X=-0.889250, Y=0.121105, Z=0.035036 g
+Acceleration: X=-1.001080, Y=0.071357, Z=-0.156342 g
+Acceleration: X=-0.466999, Y=-0.650963, Z=0.126363 g
+Acceleration: X=-0.986929, Y=-3.537381, Z=0.801669 g
+Invalid field descriptor: 0xd3
+Acceleration: X=0.012054, Y=-0.992604, Z=-0.130869 g
+Acceleration: X=-0.006000, Y=-0.993123, Z=-0.052056 g
+Acceleration: X=-0.005495, Y=-0.999813, Z=-0.016385 g
+Acceleration: X=-0.007660, Y=-0.999471, Z=-0.055501 g
+Acceleration: X=-0.006187, Y=-1.000629, Z=-0.040119 g
+Acceleration: X=-0.005224, Y=-1.001556, Z=-0.040979 g
+Acceleration: X=-0.005059, Y=-1.000330, Z=-0.038485 g
+Acceleration: X=-0.006089, Y=-0.999103, Z=-0.034339 g
+Acceleration: X=-0.005735, Y=-0.997813, Z=-0.035384 g
+Acceleration: X=-0.005244, Y=-0.998506, Z=-0.046860 g
+Invalid field descriptor: 0xd3
+Acceleration: X=-0.010579, Y=-0.996247, Z=-0.029918 g
+Acceleration: X=-0.004877, Y=-0.997264, Z=-0.054362 g
+Acceleration: X=-0.006345, Y=-0.995915, Z=-0.060289 g
+Acceleration: X=-0.008416, Y=-0.994362, Z=-0.082472 g
+Acceleration: X=-0.005873, Y=-0.999278, Z=0.001852 g
+Acceleration: X=-0.005488, Y=-0.997783, Z=0.017488 g
+Acceleration: X=-0.029706, Y=-1.000201, Z=0.063469 g
+Acceleration: X=0.037911, Y=-0.993083, Z=-0.150794 g
+Acceleration: X=0.004839, Y=-0.995000, Z=-0.066082 g
+Acceleration: X=0.008172, Y=-0.992285, Z=-0.088116 g
+Invalid field descriptor: 0xd3
+Acceleration: X=0.010643, Y=-0.994568, Z=-0.098293 g
+Acceleration: X=0.000059, Y=-0.999979, Z=-0.052155 g
+Acceleration: X=-0.004486, Y=-0.997736, Z=-0.027350 g
+Acceleration: X=0.008559, Y=-0.995767, Z=-0.076336 g
+Acceleration: X=-0.000187, Y=-1.009439, Z=-0.266852 g
+Acceleration: X=0.018423, Y=-1.338461, Z=-0.005921 g
+Acceleration: X=-0.107345, Y=-1.594967, Z=0.195817 g
+Acceleration: X=-0.929548, Y=-0.803017, Z=-0.113279 g
+Acceleration: X=-0.832036, Y=0.148486, Z=0.270412 g
+Acceleration: X=-0.305199, Y=0.633210, Z=-0.185936 g
+Invalid field descriptor: 0xd3
+Acceleration: X=0.037391, Y=0.499015, Z=-0.665193 g
+Acceleration: X=0.369933, Y=0.109755, Z=-0.650226 g
+Acceleration: X=0.345616, Y=0.074649, Z=-0.764154 g
+Acceleration: X=0.212141, Y=-0.020892, Z=-0.834550 g
+Acceleration: X=0.072106, Y=-0.577843, Z=-0.912019 g
+Acceleration: X=0.029608, Y=-0.881980, Z=-0.455966 g
+Acceleration: X=0.245566, Y=-1.091347, Z=0.633528 g
+Acceleration: X=0.399062, Y=-0.664881, Z=0.986555 g
+Acceleration: X=0.479814, Y=-0.373025, Z=0.951480 g
+Acceleration: X=0.010022, Y=-0.617209, Z=0.013307 g
+Invalid field descriptor: 0xd3
+Acceleration: X=0.239802, Y=-0.877454, Z=0.685761 g
+Acceleration: X=0.173318, Y=-1.180706, Z=-0.128043 g
+Acceleration: X=0.063005, Y=-0.990119, Z=-0.570294 g
+Acceleration: X=0.058829, Y=-0.799142, Z=-0.738829 g
+Acceleration: X=0.039874, Y=-0.714759, Z=-0.545980 g
+Acceleration: X=0.297234, Y=-0.969195, Z=-0.041924 g
+Acceleration: X=0.200555, Y=-1.019121, Z=0.068832 g
+Acceleration: X=0.085256, Y=-1.078540, Z=0.272834 g
+Acceleration: X=0.106895, Y=-0.804181, Z=0.484390 g
+Invalid field descriptor: 0xd3
+Acceleration: X=0.011528, Y=-0.828104, Z=0.648057 g
+Acceleration: X=-0.115690, Y=-0.511492, Z=0.856145 g
+Acceleration: X=-0.212728, Y=0.006032, Z=0.822083 g
+Acceleration: X=-0.167664, Y=0.250596, Z=0.937213 g
+Acceleration: X=-0.023866, Y=0.340236, Z=0.683105 g
+Acceleration: X=-0.008268, Y=0.429766, Z=0.573124 g
+Acceleration: X=-0.073508, Y=0.532135, Z=0.814756 g
+Acceleration: X=-0.008585, Y=0.477156, Z=0.833091 g
+Acceleration: X=0.031024, Y=0.091863, Z=1.029384 g
+Acceleration: X=0.170756, Y=-0.146111, Z=0.818481 g
+Invalid field descriptor: 0xd3
+Acceleration: X=0.411429, Y=-0.498416, Z=1.077741 g
+Acceleration: X=0.024000, Y=-0.105888, Z=0.964060 g
+Acceleration: X=0.193510, Y=-0.252156, Z=0.910704 g
+Acceleration: X=-0.042125, Y=-0.259100, Z=0.886166 g
+Acceleration: X=0.025587, Y=-0.022634, Z=1.001131 g
+Acceleration: X=0.028156, Y=-0.021245, Z=0.998751 g
+Acceleration: X=-0.094927, Y=-0.094877, Z=1.055281 g
+Acceleration: X=0.024909, Y=-0.104447, Z=1.005041 g
+Acceleration: X=0.191928, Y=0.594858, Z=1.539597 g
+Acceleration: X=0.024374, Y=-0.022692, Z=1.000402 g
+Invalid field descriptor: 0xd3
+Acceleration: X=0.027487, Y=-0.024275, Z=1.008571 g
+Acceleration: X=0.010729, Y=0.042497, Z=1.006281 g
+Acceleration: X=0.014935, Y=-0.057953, Z=1.012782 g
+Acceleration: X=0.011846, Y=-0.069643, Z=0.992989 g
+Acceleration: X=0.009143, Y=-0.126930, Z=0.974574 g
+Acceleration: X=0.009540, Y=-0.075506, Z=1.001110 g
+Acceleration: X=0.059150, Y=-0.125266, Z=0.941765 g
+Acceleration: X=0.132512, Y=-0.118528, Z=0.998911 g
+Acceleration: X=0.059024, Y=-0.267446, Z=1.093538 g
+Acceleration: X=0.098537, Y=-0.253288, Z=0.913303 g
+Invalid field descriptor: 0xd3
+Acceleration: X=-0.098675, Y=-0.549949, Z=0.887447 g
+Acceleration: X=0.057245, Y=-0.064507, Z=1.008489 g
+Acceleration: X=-0.014295, Y=-0.002414, Z=0.999599 g
+Acceleration: X=0.002641, Y=-0.019396, Z=1.000123 g
+Acceleration: X=0.001870, Y=-0.019010, Z=1.000492 g
+Acceleration: X=0.002233, Y=-0.017543, Z=1.003047 g
+Acceleration: X=0.025843, Y=-0.214819, Z=0.994866 g
+Acceleration: X=-0.155282, Y=-0.023308, Z=1.003177 g
+Acceleration: X=0.195099, Y=-0.005124, Z=0.994994 g
+Acceleration: X=0.024019, Y=-0.015387, Z=0.997996 g
+Invalid field descriptor: 0xd3
+Acceleration: X=0.511044, Y=-0.012421, Z=1.008350 g
+Acceleration: X=-0.041204, Y=-0.046947, Z=1.017977 g
+Acceleration: X=0.022094, Y=-0.022836, Z=0.999247 g
+Acceleration: X=-0.201991, Y=-0.335465, Z=0.598240 g
+Acceleration: X=-0.000094, Y=-0.017893, Z=0.998306 g
+Acceleration: X=0.000920, Y=-0.017173, Z=1.000489 g
+Acceleration: X=0.021731, Y=0.075304, Z=0.956734 g
+Acceleration: X=0.001776, Y=-0.200738, Z=0.920711 g
+Acceleration: X=0.018629, Y=0.308888, Z=1.351051 g
+Acceleration: X=0.172454, Y=-0.051262, Z=1.164690 g
+Invalid field descriptor: 0xd3
+Acceleration: X=0.030381, Y=0.043159, Z=0.919077 g
+Acceleration: X=0.056612, Y=-0.029637, Z=1.040497 g
+Acceleration: X=0.031082, Y=-0.045106, Z=0.991651 g
+Acceleration: X=0.009432, Y=-0.014878, Z=1.001109 g
+Acceleration: X=0.008336, Y=-0.014384, Z=1.001660 g
+Acceleration: X=0.009770, Y=-0.013860, Z=0.991374 g
+Acceleration: X=0.008503, Y=-0.014568, Z=0.998904 g
+Acceleration: X=0.006556, Y=-0.016029, Z=1.001899 g
+Acceleration: X=0.006077, Y=-0.014316, Z=1.000431 g
+Acceleration: X=0.007171, Y=-0.016031, Z=1.000685 g
+Invalid field descriptor: 0xd3
+Acceleration: X=0.016334, Y=-0.010983, Z=1.002923 g
+Acceleration: X=0.007993, Y=-0.015095, Z=0.988197 g
+Acceleration: X=0.014168, Y=-0.016264, Z=0.994274 g
+Acceleration: X=0.003139, Y=-0.016745, Z=1.004650 g
+Acceleration: X=0.015926, Y=-0.011740, Z=1.005573 g
+Acceleration: X=-0.026449, Y=-0.047860, Z=1.001440 g
+Acceleration: X=-0.033505, Y=-0.045167, Z=1.009490 g
+Acceleration: X=0.003920, Y=-0.014618, Z=0.999196 g
+Acceleration: X=0.008791, Y=-0.014882, Z=0.992042 g
+Invalid field descriptor: 0xd3
+Acceleration: X=0.003138, Y=-0.014301, Z=0.999203 g
+Acceleration: X=0.002533, Y=-0.015524, Z=1.000617 g
+Acceleration: X=0.002409, Y=-0.013815, Z=0.999205 g
+Acceleration: X=0.004002, Y=-0.014368, Z=1.003785 g
+Acceleration: X=0.004117, Y=-0.014306, Z=1.000789 g
+Acceleration: X=0.003267, Y=-0.014671, Z=1.001224 g
+Acceleration: X=-0.088344, Y=-0.120960, Z=0.996278 g
+Acceleration: X=-0.011115, Y=-0.091615, Z=0.983082 g
+Acceleration: X=0.160307, Y=0.036290, Z=0.891638 g
+Acceleration: X=0.235610, Y=-0.086542, Z=1.043075 g
+Invalid field descriptor: 0xd3
+Acceleration: X=0.319080, Y=0.060242, Z=1.189197 g
+Acceleration: X=0.281010, Y=0.427748, Z=0.826343 g
+Acceleration: X=0.224725, Y=0.577623, Z=0.780126 g
+Acceleration: X=0.174009, Y=0.685366, Z=0.644207 g
+Acceleration: X=-0.008148, Y=0.997762, Z=0.070343 g
+Acceleration: X=-0.000510, Y=1.004036, Z=0.065352 g
+Acceleration: X=0.000601, Y=0.990146, Z=0.121629 g
+Acceleration: X=-0.047464, Y=0.941959, Z=0.054520 g
+Acceleration: X=-0.001387, Y=0.986369, Z=0.138030 g
+Acceleration: X=-0.002341, Y=0.977407, Z=0.200942 g
+Invalid field descriptor: 0xd3
+Acceleration: X=-0.001994, Y=0.975326, Z=0.206194 g
+Acceleration: X=-0.001768, Y=0.972757, Z=0.214502 g
+Acceleration: X=0.047991, Y=0.992542, Z=0.254588 g
+Acceleration: X=-0.044374, Y=0.879676, Z=0.138100 g
+Acceleration: X=-0.330127, Y=0.927130, Z=0.221891 g
+Acceleration: X=-0.578060, Y=0.940961, Z=0.306296 g
+Acceleration: X=-0.850724, Y=0.326074, Z=0.352116 g
+Acceleration: X=-0.761909, Y=0.175287, Z=0.441523 g
+Acceleration: X=-0.860303, Y=0.019497, Z=0.356553 g
+Acceleration: X=-0.923970, Y=0.004885, Z=0.370545 g
+Invalid field descriptor: 0xd3
+Acceleration: X=-0.943773, Y=-0.010679, Z=0.333677 g
+Acceleration: X=-0.961158, Y=0.102489, Z=0.203914 g
+Acceleration: X=-0.981090, Y=-0.010680, Z=0.179461 g
+Acceleration: X=-0.988064, Y=-0.008785, Z=0.140341 g
+Acceleration: X=-0.992808, Y=-0.009976, Z=0.068293 g
+Acceleration: X=-0.997807, Y=-0.008401, Z=-0.023833 g
+Acceleration: X=-0.996808, Y=-0.010379, Z=0.021286 g
+Acceleration: X=-0.995469, Y=-0.011391, Z=0.041198 g
+Acceleration: X=-0.997631, Y=-0.015403, Z=0.005868 g
+Acceleration: X=-0.997857, Y=-0.013126, Z=0.020861 g
+Invalid field descriptor: 0xd3
+Acceleration: X=-0.998216, Y=-0.010787, Z=0.024702 g
+Acceleration: X=-0.997370, Y=-0.010908, Z=0.035204 g
+Acceleration: X=-0.997512, Y=-0.018388, Z=0.047849 g
+Acceleration: X=-0.995712, Y=-0.011564, Z=0.053105 g
+Acceleration: X=-0.996807, Y=-0.010296, Z=0.032642 g
+Acceleration: X=-0.995651, Y=-0.008335, Z=0.037092 g
+Acceleration: X=-0.997358, Y=-0.010848, Z=0.029771 g
+Acceleration: X=-0.996567, Y=-0.008087, Z=0.037337 g
+Acceleration: X=-0.993577, Y=0.005800, Z=0.038034 g
+Acceleration: X=-0.996836, Y=-0.001646, Z=0.048619 g
+Invalid field descriptor: 0xd3
+Acceleration: X=-0.989627, Y=0.030354, Z=0.050309 g
+Acceleration: X=-0.986210, Y=0.055676, Z=0.061747 g
+Acceleration: X=-1.124855, Y=-0.112046, Z=-0.359446 g
+Acceleration: X=-0.985276, Y=0.147616, Z=0.238151 g
+Acceleration: X=-0.592231, Y=-0.025052, Z=0.602457 g
+Acceleration: X=-0.752282, Y=-0.246761, Z=1.082771 g
+Acceleration: X=-0.282448, Y=-0.414819, Z=0.796522 g
+Acceleration: X=-0.348270, Y=-0.491145, Z=0.829947 g
+Acceleration: X=-0.556905, Y=-0.724197, Z=0.826214 g
+Invalid field descriptor: 0xd3
+Acceleration: X=-0.536965, Y=-0.849354, Z=0.006115 g
+Acceleration: X=-0.060119, Y=-0.921705, Z=-0.124638 g
+Acceleration: X=0.311196, Y=-0.980656, Z=0.140544 g
+Acceleration: X=0.390192, Y=-0.923920, Z=-0.038407 g
+Acceleration: X=0.600926, Y=-0.891745, Z=0.098407 g
+Acceleration: X=0.146416, Y=-0.959684, Z=-0.135986 g
+Acceleration: X=0.154543, Y=-0.932929, Z=-0.249188 g
+Acceleration: X=0.123194, Y=-0.958569, Z=-0.237251 g
+Acceleration: X=0.260550, Y=-0.959561, Z=-0.176385 g
+Acceleration: X=0.013709, Y=-0.956206, Z=-0.289802 g
+Invalid field descriptor: 0xd3
+Acceleration: X=0.034440, Y=-0.906394, Z=-0.236392 g
+Acceleration: X=-0.035847, Y=-0.949865, Z=-0.025755 g
+Acceleration: X=0.024384, Y=-0.861017, Z=-0.035702 g
+Acceleration: X=0.004552, Y=-0.998629, Z=-0.029607 g
+Acceleration: X=0.010485, Y=-1.020639, Z=-0.095666 g
+Acceleration: X=-0.049561, Y=-0.979295, Z=-0.052579 g
+Acceleration: X=0.202389, Y=-1.042959, Z=-0.018026 g
+Acceleration: X=-0.143917, Y=-0.659570, Z=-0.111760 g
+Acceleration: X=-0.045420, Y=-0.900288, Z=0.034935 g
+Acceleration: X=0.201938, Y=-0.919579, Z=-0.037105 g
+Invalid field descriptor: 0xd3
+Acceleration: X=0.042499, Y=-0.907324, Z=-0.073325 g
+
+Exiting...
