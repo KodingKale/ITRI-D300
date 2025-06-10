@@ -19,7 +19,7 @@ def main():
 
 def imu_initialize(log):
     uart_port = mscl.Connection.Serial("/dev/ttyS0", 115200)
-    imu = mscl.IntertialNode(uart_port)
+    imu = mscl.InertialNode(uart_port)
     print("IMU initialized")
     log.write('\n' + "IMU initialized")
     return imu
