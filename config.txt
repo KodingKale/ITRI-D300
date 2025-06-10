@@ -39,23 +39,11 @@ disable_overscan=1
 # Run as fast as firmware / board allows
 arm_boost=1
 
-# Disable Bluetooth
-dtoverlay=pi3-disable-bt
-
 # Enable UART0 (GPIO 14/15)
 enable_uart=1
-
-# Enable UART1 (GPIO 12/13)
-dtoverlay=uart1,txd1_pin=12,rxd1_pin=13
 
 [cm4]
 # Enable host mode on the 2711 built-in XHCI USB controller.
 # This line should be removed if the legacy DWC2 controller is required
 # (e.g. for USB device mode) or if USB support is not required.
 otg_mode=1
-
-[cm5]
-dtoverlay=dwc2,dr_mode=host
-
-[all]
-core_freq=250
