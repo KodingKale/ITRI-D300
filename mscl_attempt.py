@@ -21,26 +21,16 @@ def main():
         imu.setToIdle()
         time.sleep(0.5)  # Give IMU time to process
         
-        # Try to get supported channels
-        try:
-            supported_channels = imu.features().supportedChannelFields(mscl.MipTypes.CLASS_AHRS_IMU)
-            print("\nSupported channels:")
-            for ch in supported_channels:
-                print(f"- {ch.channelField()}")
-            log.write('\nSupported channels detected')
-        except Exception as e:
-            print(f"Warning: Could not get supported channels: {e}")
-            log.write(f'\nWarning: Could not get supported channels: {e}')
+        # Configure IMU settings
+        print("\nConfiguring IMU settings...")
+        imuMessageFormat = mscl.MipChannels()
+        imuMessageFormat.append(mscl.MipChannel(mscl.MipTypes.CH_FIELD_SENSOR_SCALED_ACCEL_VEC))
         
-        ahrs_channel_initialize(log, imu)
+        imu.setActiveChannelFields(mscl.MipTypes.CLASS_AHRS_IMU, imuMessageFormat)
+        imu.setCommunicationMode(mscl.MipTypes.COMM_MODE_STREAMING)
         
-        print("Enabling data stream...")
-        imu.enableDataStream(mscl.MipTypes.CLASS_AHRS_IMU)
-        time.sleep(0.5)  # Give IMU time to process
-        
-        print("Resuming IMU...")
+        print("Starting data streaming...")
         imu.resume()
-        time.sleep(0.5)  # Give IMU time to process
         
         try:
             while True:
