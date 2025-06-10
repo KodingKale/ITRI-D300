@@ -79,9 +79,7 @@ def poll_data(log, imu):
         packets = imu.getDataPackets(500)
         
         for packet in packets:
-            descriptor = packet.descriptorSet()
-            timestamp = packet.timestamp()
-            
+            timestamp = packet.deviceTimestamp()
             points = packet.data()
             for dataPoint in points:
                 data_str = f"Time: {timestamp}, Descriptor: {descriptor}, Data: {dataPoint.as_Vector()}"
