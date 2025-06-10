@@ -81,10 +81,10 @@ def poll_data(log, imu):
         for packet in packets:
             timestamp = packet.deviceTimestamp()
             points = packet.data()
-            for dataPoint in points:
-                data_str = f"Time: {timestamp}, Data: {dataPoint.as_string()}"
-                print(data_str)
-                log.write('\n' + data_str)
+            vector = points.as_vector()
+            data_str = f"Time: {timestamp}, Data: {vector}"
+            print(data_str)
+            log.write('\n' + data_str)
     except Exception as e:
         print(f"Error polling data: {str(e)}")
         log.write(f'\nError polling data: {str(e)}')
