@@ -51,7 +51,7 @@ def initialize_imu():
     Default settings: 115200 baud, 8 data bits, 1 stop bit, no parity
     '''
     imu = serial.Serial(
-        port='COM7',  # Primary UART on Raspberry Pi
+        port='/dev/ttyS0',  # Primary UART on Raspberry Pi
         baudrate=115200,
         bytesize=serial.EIGHTBITS,
         parity=serial.PARITY_NONE,
