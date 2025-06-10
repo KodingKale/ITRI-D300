@@ -26,11 +26,10 @@ def main():
         # Wait for sensor to stabilize
         time.sleep(0.5)
         
+        poll_imu_acceleration(imu, log)
         
-
         # Continuous reading loop
         while True:
-            poll_imu_acceleration(imu, log)
             data = read_imu_acceleration(imu, log)
             if data:  # Only print if we got valid data
                 message = f"Acceleration: X={data['x']:.6f}, Y={data['y']:.6f}, Z={data['z']:.6f} g"
@@ -120,9 +119,6 @@ def parse_acceleration_data(raw_data, log):
         accel_x, accel_y, accel_z = struct.unpack('>fff', accel_data)
         
         # Convert to g (if needed - depends on your sensor configuration)
-        accel_x *= 9.81
-        accel_y *= 9.81
-        accel_z *= 9.81
         
         return {
             'x': accel_x,
