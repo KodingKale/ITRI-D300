@@ -26,8 +26,19 @@ def main():
         imuMessageFormat = mscl.MipChannels()
         imuMessageFormat.append(mscl.MipChannel(mscl.MipTypes.CH_FIELD_SENSOR_SCALED_ACCEL_VEC))
         
-        imu.setActiveChannelFields(mscl.MipTypes.CLASS_AHRS_IMU, imuMessageFormat)
-        imu.setCommunicationMode(mscl.MipTypes.COMM_MODE_STREAMING)
+        # Create channels object
+        imuChannels = mscl.MipChannels()
+        
+        # Add accelerometer data - using the correct channel field for CV7
+        imuChannels.append(mscl.MipChannel(mscl.MipTypes.CH_FIELD_SENSOR_SCALED_ACCEL_VEC, mscl.SampleRate.Hertz(100)))
+        
+        # Set the active channels
+        print("Setting active channel fields...")
+        imu.setActiveChannelFields(mscl.MipTypes.CLASS_AHRS_IMU, imuChannels)
+        
+        # Set to streaming mode
+        print("Setting communication mode...")
+        imu.enableDataStream(mscl.MipTypes.CLASS_AHRS_IMU)
         
         print("Starting data streaming...")
         imu.resume()
@@ -63,33 +74,6 @@ def imu_initialize(log):
         return imu
     except Exception as e:
         error_msg = f"IMU initialization failed: {str(e)}"
-        print(error_msg)
-        log.write('\n' + error_msg)
-        raise
-
-def ahrs_channel_initialize(log, imu):
-    try:
-        print("Starting channel initialization...")
-        ahrsImuChs = mscl.MipChannels()
-        
-        # Try with just accelerometer first
-        print("Adding accelerometer channel...")
-        ahrsImuChs.append(mscl.MipChannel(mscl.MipTypes.CH_FIELD_SENSOR_RAW_ACCEL_VEC, mscl.SampleRate.Hertz(500)))
-        
-        print("Setting active channel fields...")
-        imu.setToIdle()  # Ensure we're in idle before changing channels
-        time.sleep(0.5)
-        
-        imu.setActiveChannelFields(mscl.MipTypes.CLASS_AHRS_IMU, ahrsImuChs)
-        print("IMU channels initialized")
-        log.write('\n' + "IMU channels initialized")
-    except mscl.Error as e:
-        error_msg = f"MSCL Error in channel initialization: {str(e)}"
-        print(error_msg)
-        log.write('\n' + error_msg)
-        raise
-    except Exception as e:
-        error_msg = f"Error in channel initialization: {str(e)}"
         print(error_msg)
         log.write('\n' + error_msg)
         raise
