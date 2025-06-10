@@ -49,7 +49,7 @@ def initialize_imu():
     Default settings: 115200 baud, 8 data bits, 1 stop bit, no parity
     '''
     imu = serial.Serial(
-        port='/dev/serial0',  # Primary UART on Raspberry Pi
+        port='/dev/ttyS0',  # Primary UART on Raspberry Pi
         baudrate=115200,
         bytesize=serial.EIGHTBITS,
         parity=serial.PARITY_NONE,
@@ -62,12 +62,12 @@ def initialize_imu():
     imu.reset_output_buffer()
     
     # Set to idle mode first
-    idle_command = bytes([0x75, 0x65, 0x01, 0x02, 0x02, 0x02])
+    idle_command = bytes([0x75, 0x65, 0x01, 0x02, 0x02, 0x06])
     checksum = fletcher_checksum(idle_command)
     imu.write(idle_command + checksum)
     time.sleep(0.1)
     
-    # Enable data streaming
+    # Resume current streaming
     stream_command = bytes([0x75, 0x65, 0x01, 0x02, 0x02, 0x06])
     checksum = fletcher_checksum(stream_command)
     imu.write(stream_command + checksum)

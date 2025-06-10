@@ -57322,3 +57322,658 @@ Acceleration: X=-25.298313, Y=3.980576, Z=0.799705 g
 Acceleration: X=-21.542317, Y=-0.658111, Z=8.418675 g
 
 Exiting...
+
+#################################################################
+Log started at 14:10:32
+#################################################################
+Checksum failed. Expected: ce6f, Got: efb5
+Checksum failed. Expected: 8789, Got: 0fa1
+Checksum failed. Expected: 700a, Got: 90a0
+Checksum failed. Expected: 3af8, Got: e6cb
+Checksum failed. Expected: b5e7, Got: 7a3e
+Checksum failed. Expected: b832, Got: 3531
+Checksum failed. Expected: 2491, Got: 9972
+Checksum failed. Expected: 2dc3, Got: c349
+Checksum failed. Expected: ccda, Got: 66c5
+Checksum failed. Expected: 5460, Got: 05ab
+Checksum failed. Expected: aa46, Got: 82aa
+Checksum failed. Expected: 41f0, Got: da74
+Acceleration: X=-0.234691, Y=-0.972005, Z=0.010216 g
+Acceleration: X=-0.233959, Y=-0.972767, Z=0.009815 g
+Acceleration: X=-0.235057, Y=-0.967233, Z=0.008210 g
+Acceleration: X=-0.228688, Y=-0.961158, Z=0.005526 g
+Acceleration: X=-0.263650, Y=-0.965655, Z=-0.015858 g
+Acceleration: X=-0.230113, Y=-1.009844, Z=0.008705 g
+Acceleration: X=-0.234862, Y=-1.013678, Z=0.028412 g
+Acceleration: X=-0.239817, Y=-0.951827, Z=0.015982 g
+Acceleration: X=-0.254618, Y=-0.922610, Z=0.003183 g
+Acceleration: X=-0.231944, Y=-0.987346, Z=0.044411 g
+Acceleration: X=-0.224614, Y=-0.994396, Z=0.014916 g
+Acceleration: X=-0.239705, Y=-0.941907, Z=-0.011122 g
+Acceleration: X=-0.227722, Y=-0.950171, Z=-0.006990 g
+Acceleration: X=-0.222558, Y=-0.989443, Z=0.002186 g
+Acceleration: X=-0.220180, Y=-0.986103, Z=0.000542 g
+Acceleration: X=-0.242645, Y=-0.965119, Z=-0.001977 g
+Acceleration: X=-0.245401, Y=-0.978153, Z=0.012637 g
+Acceleration: X=-0.238632, Y=-0.986813, Z=0.025861 g
+Acceleration: X=-0.239565, Y=-0.960054, Z=0.018267 g
+Acceleration: X=-0.237353, Y=-0.963375, Z=0.020082 g
+Acceleration: X=-0.229937, Y=-0.970411, Z=0.008255 g
+Acceleration: X=-0.230080, Y=-0.972864, Z=-0.000432 g
+Acceleration: X=-0.233153, Y=-0.962389, Z=-0.004665 g
+Acceleration: X=-0.229853, Y=-0.968951, Z=-0.000227 g
+Acceleration: X=-0.236139, Y=-0.973533, Z=0.013929 g
+Checksum failed. Expected: f92e, Got: 0e04
+Checksum failed. Expected: 955b, Got: 0e04
+Checksum failed. Expected: a0a8, Got: 0e04
+Checksum failed. Expected: 633a, Got: 0e04
+Checksum failed. Expected: 0c30, Got: 0e04
+Checksum failed. Expected: 5b0a, Got: 0e04
+Checksum failed. Expected: 9566, Got: 0e04
+Checksum failed. Expected: 8a24, Got: 0e04
+Checksum failed. Expected: e12e, Got: 0e04
+Checksum failed. Expected: 9fa2, Got: 0e04
+Checksum failed. Expected: 6440, Got: 0e04
+Checksum failed. Expected: 28d8, Got: 0e04
+Checksum failed. Expected: a4c0, Got: 0e04
+Checksum failed. Expected: 51ce, Got: 0e04
+Checksum failed. Expected: 2bea, Got: 0e04
+Checksum failed. Expected: 914e, Got: 0e04
+Checksum failed. Expected: 612e, Got: 0e04
+Checksum failed. Expected: 20a8, Got: 0e04
+Checksum failed. Expected: b93e, Got: 0e04
+Checksum failed. Expected: b62c, Got: 0e04
+Checksum failed. Expected: d9fe, Got: 0e04
+Checksum failed. Expected: acf0, Got: 0e04
+Checksum failed. Expected: a8d8, Got: 0e04
+Checksum failed. Expected: e440, Got: 0e04
+Checksum failed. Expected: f088, Got: 0e04
+Checksum failed. Expected: abea, Got: 0e04
+Checksum failed. Expected: a8d8, Got: 0e04
+Checksum failed. Expected: b732, Got: 0e04
+Checksum failed. Expected: e234, Got: 0e04
+Checksum failed. Expected: 8400, Got: 0e04
+Checksum failed. Expected: ec70, Got: 0e04
+Checksum failed. Expected: 0b2a, Got: 0e04
+Checksum failed. Expected: 4db6, Got: 0e04
+Checksum failed. Expected: c586, Got: 0e04
+Checksum failed. Expected: f8b8, Got: 0e04
+Checksum failed. Expected: c68c, Got: 0e04
+Checksum failed. Expected: e858, Got: 0e04
+Checksum failed. Expected: 499e, Got: 0e04
+Checksum failed. Expected: a0a8, Got: 0e04
+Checksum failed. Expected: 1048, Got: 0e04
+Checksum failed. Expected: 6f82, Got: 0e04
+Checksum failed. Expected: 1b8a, Got: 0e04
+Checksum failed. Expected: d2d4, Got: 0e04
+Checksum failed. Expected: 5b0a, Got: 0e04
+Checksum failed. Expected: 26cc, Got: 0e04
+Checksum failed. Expected: dc10, Got: 0e04
+Checksum failed. Expected: 633a, Got: 0e04
+Checksum failed. Expected: ba44, Got: 0e04
+Checksum failed. Expected: 362c, Got: 0e04
+Checksum failed. Expected: 21ae, Got: 0e04
+Checksum failed. Expected: 2cf0, Got: 0e04
+Checksum failed. Expected: 9772, Got: 0e04
+Checksum failed. Expected: 6e7c, Got: 0e04
+Checksum failed. Expected: 1d96, Got: 0e04
+Checksum failed. Expected: 22b4, Got: 0e04
+Checksum failed. Expected: 393e, Got: 0e04
+Checksum failed. Expected: 82f4, Got: 0e04
+Checksum failed. Expected: 4480, Got: 0e04
+Checksum failed. Expected: adf6, Got: 0e04
+Checksum failed. Expected: 7088, Got: 0e04
+Checksum failed. Expected: 51ce, Got: 0e04
+Checksum failed. Expected: 8d36, Got: 0e04
+Checksum failed. Expected: b008, Got: 0e04
+Checksum failed. Expected: 468c, Got: 0e04
+Checksum failed. Expected: 01ee, Got: 0e04
+Checksum failed. Expected: 9c90, Got: 0e04
+Checksum failed. Expected: 718e, Got: 0e04
+Checksum failed. Expected: 1460, Got: 0e04
+Checksum failed. Expected: 2efc, Got: 0e04
+Checksum failed. Expected: db0a, Got: 0e04
+Checksum failed. Expected: 9566, Got: 0e04
+Checksum failed. Expected: 00e8, Got: 0e04
+Checksum failed. Expected: bd56, Got: 0e04
+Checksum failed. Expected: c99e, Got: 0e04
+Checksum failed. Expected: 6028, Got: 0e04
+Checksum failed. Expected: 9a84, Got: 0e04
+Checksum failed. Expected: 9fa2, Got: 0e04
+Checksum failed. Expected: de1c, Got: 0e04
+Checksum failed. Expected: 0d36, Got: 0e04
+Checksum failed. Expected: 7dd6, Got: 0e04
+Checksum failed. Expected: 1fa2, Got: 0e04
+Checksum failed. Expected: d8f8, Got: 0e04
+Checksum failed. Expected: 57f2, Got: 0e04
+Checksum failed. Expected: a1ae, Got: 0e04
+Checksum failed. Expected: 1b8a, Got: 0e04
+Checksum failed. Expected: 26cc, Got: 0e04
+Checksum failed. Expected: a2b4, Got: 0e04
+Checksum failed. Expected: f6ac, Got: 0e04
+Checksum failed. Expected: ea64, Got: 0e04
+Checksum failed. Expected: bd56, Got: 0e04
+Checksum failed. Expected: 6b6a, Got: 0e04
+Checksum failed. Expected: 74a0, Got: 0e04
+Checksum failed. Expected: d9fe, Got: 0e04
+Checksum failed. Expected: b93e, Got: 0e04
+Checksum failed. Expected: e12e, Got: 0e04
+Checksum failed. Expected: e752, Got: 0e04
+Checksum failed. Expected: e752, Got: 0e04
+Checksum failed. Expected: 3214, Got: 0e04
+Checksum failed. Expected: 5b0a, Got: 0e04
+Checksum failed. Expected: 29de, Got: 0e04
+Checksum failed. Expected: 1b8a, Got: 0e04
+Checksum failed. Expected: 4334, Got: 0ed3
+Checksum failed. Expected: 2262, Got: bf78
+Checksum failed. Expected: 7db2, Got: bf78
+Checksum failed. Expected: 1e47, Got: bf78
+Checksum failed. Expected: 4c36, Got: bf78
+Checksum failed. Expected: 6fae, Got: bf78
+Checksum failed. Expected: 230e, Got: bf78
+
+Exiting...
+
+#################################################################
+Log started at 14:11:20
+#################################################################
+
+#################################################################
+Log started at 14:11:26
+#################################################################
+
+#################################################################
+Log started at 14:11:40
+#################################################################
+Checksum failed. Expected: d071, Got: a606
+Checksum failed. Expected: 9c34, Got: af60
+Checksum failed. Expected: f1e3, Got: a0b9
+Checksum failed. Expected: 8720, Got: acf5
+Checksum failed. Expected: abe9, Got: 2f1a
+Checksum failed. Expected: 7fd8, Got: 32e9
+Checksum failed. Expected: 9baa, Got: 1008
+Checksum failed. Expected: 851f, Got: ff7f
+Checksum failed. Expected: bcb9, Got: 4853
+Checksum failed. Expected: 2520, Got: da74
+Acceleration: X=-0.236846, Y=-0.971408, Z=0.009305 g
+Acceleration: X=-0.237410, Y=-0.972445, Z=0.010724 g
+Acceleration: X=-0.238513, Y=-0.970708, Z=0.010464 g
+Acceleration: X=-0.239194, Y=-0.970779, Z=0.011074 g
+Acceleration: X=-0.238103, Y=-0.970599, Z=0.010482 g
+Acceleration: X=-0.236351, Y=-0.971302, Z=0.009018 g
+Acceleration: X=-0.234846, Y=-0.969050, Z=0.008461 g
+Acceleration: X=-0.234430, Y=-0.968738, Z=0.007341 g
+Acceleration: X=-0.235592, Y=-0.969665, Z=0.007092 g
+Acceleration: X=-0.237146, Y=-0.969463, Z=0.007431 g
+Acceleration: X=-0.238107, Y=-0.968976, Z=0.009330 g
+Acceleration: X=-0.239640, Y=-0.970140, Z=0.006662 g
+Acceleration: X=-0.238289, Y=-0.975194, Z=0.007855 g
+Acceleration: X=-0.237237, Y=-0.978137, Z=0.017849 g
+Acceleration: X=-0.238889, Y=-0.972947, Z=0.017326 g
+Acceleration: X=-0.239107, Y=-0.961045, Z=0.006741 g
+Acceleration: X=-0.235546, Y=-0.965301, Z=0.004129 g
+Acceleration: X=-0.231103, Y=-0.974665, Z=0.002152 g
+Acceleration: X=-0.233610, Y=-0.970967, Z=0.005002 g
+Acceleration: X=-0.238349, Y=-0.962855, Z=0.009544 g
+Acceleration: X=-0.237852, Y=-0.969351, Z=0.011520 g
+Acceleration: X=-0.235967, Y=-0.978122, Z=0.010804 g
+Acceleration: X=-0.239533, Y=-0.973144, Z=0.011668 g
+Acceleration: X=-0.242984, Y=-0.965646, Z=0.013389 g
+Acceleration: X=-0.237914, Y=-0.970609, Z=0.011028 g
+Acceleration: X=-0.233187, Y=-0.974274, Z=0.006570 g
+Acceleration: X=-0.234220, Y=-0.967873, Z=0.005973 g
+Acceleration: X=-0.236035, Y=-0.964172, Z=0.005021 g
+Acceleration: X=-0.234827, Y=-0.970506, Z=0.005740 g
+Acceleration: X=-0.235206, Y=-0.973810, Z=0.009325 g
+Acceleration: X=-0.238898, Y=-0.969979, Z=0.012300 g
+Acceleration: X=-0.240201, Y=-0.970124, Z=0.013823 g
+Acceleration: X=-0.239341, Y=-0.973328, Z=0.012861 g
+Acceleration: X=-0.237375, Y=-0.971339, Z=0.010800 g
+Acceleration: X=-0.236806, Y=-0.967591, Z=0.007364 g
+Acceleration: X=-0.233873, Y=-0.970151, Z=0.005074 g
+Acceleration: X=-0.233424, Y=-0.972185, Z=0.005432 g
+Acceleration: X=-0.235415, Y=-0.969233, Z=0.006830 g
+Acceleration: X=-0.237843, Y=-0.967251, Z=0.008825 g
+Acceleration: X=-0.237864, Y=-0.971434, Z=0.010606 g
+Acceleration: X=-0.237896, Y=-0.973656, Z=0.011731 g
+Acceleration: X=-0.238514, Y=-0.971298, Z=0.012824 g
+Acceleration: X=-0.238252, Y=-0.970226, Z=0.011278 g
+Acceleration: X=-0.236405, Y=-0.970725, Z=0.008980 g
+Acceleration: X=-0.235785, Y=-0.969128, Z=0.006511 g
+Acceleration: X=-0.235412, Y=-0.968416, Z=0.005835 g
+Acceleration: X=-0.235022, Y=-0.970735, Z=0.006509 g
+Acceleration: X=-0.236570, Y=-0.971217, Z=0.008817 g
+Acceleration: X=-0.238399, Y=-0.969190, Z=0.010291 g
+Acceleration: X=-0.238262, Y=-0.970268, Z=0.011655 g
+Acceleration: X=-0.237071, Y=-0.972745, Z=0.011348 g
+Acceleration: X=-0.237452, Y=-0.971568, Z=0.010651 g
+Acceleration: X=-0.237659, Y=-0.969215, Z=0.009528 g
+Acceleration: X=-0.236355, Y=-0.968977, Z=0.007938 g
+Acceleration: X=-0.235566, Y=-0.969214, Z=0.006327 g
+Acceleration: X=-0.235081, Y=-0.970635, Z=0.007156 g
+Acceleration: X=-0.235134, Y=-0.970514, Z=0.008055 g
+Acceleration: X=-0.237522, Y=-0.969875, Z=0.009855 g
+Acceleration: X=-0.238280, Y=-0.969307, Z=0.011569 g
+Acceleration: X=-0.238274, Y=-0.971411, Z=0.011073 g
+Acceleration: X=-0.237130, Y=-0.972143, Z=0.011608 g
+Acceleration: X=-0.236873, Y=-0.972485, Z=0.010968 g
+Acceleration: X=-0.236637, Y=-0.971770, Z=0.010941 g
+Acceleration: X=-0.236689, Y=-0.971061, Z=0.009601 g
+Acceleration: X=-0.237727, Y=-0.970111, Z=0.007329 g
+Acceleration: X=-0.236270, Y=-0.967733, Z=0.006094 g
+Acceleration: X=-0.235105, Y=-0.967318, Z=0.006428 g
+Acceleration: X=-0.234518, Y=-0.970449, Z=0.008560 g
+Acceleration: X=-0.235824, Y=-0.975144, Z=0.009201 g
+Acceleration: X=-0.238697, Y=-0.971711, Z=0.009638 g
+Acceleration: X=-0.240529, Y=-0.966866, Z=0.011826 g
+Acceleration: X=-0.237852, Y=-0.969989, Z=0.012246 g
+Acceleration: X=-0.235601, Y=-0.973297, Z=0.009555 g
+Acceleration: X=-0.235687, Y=-0.971128, Z=0.007573 g
+Acceleration: X=-0.237391, Y=-0.968094, Z=0.006873 g
+Acceleration: X=-0.236466, Y=-0.969305, Z=0.006867 g
+Acceleration: X=-0.235688, Y=-0.970591, Z=0.007681 g
+Acceleration: X=-0.236668, Y=-0.969928, Z=0.010033 g
+Acceleration: X=-0.237184, Y=-0.971170, Z=0.012056 g
+Acceleration: X=-0.237016, Y=-0.972408, Z=0.011200 g
+Acceleration: X=-0.238518, Y=-0.969590, Z=0.009837 g
+Acceleration: X=-0.237668, Y=-0.969278, Z=0.008344 g
+Acceleration: X=-0.236542, Y=-0.970678, Z=0.008013 g
+Acceleration: X=-0.235338, Y=-0.970869, Z=0.009023 g
+Acceleration: X=-0.235651, Y=-0.969545, Z=0.008949 g
+Acceleration: X=-0.235947, Y=-0.969964, Z=0.007690 g
+Acceleration: X=-0.236620, Y=-0.969859, Z=0.008001 g
+Acceleration: X=-0.238661, Y=-0.969614, Z=0.009307 g
+Acceleration: X=-0.238657, Y=-0.971005, Z=0.010305 g
+Acceleration: X=-0.237202, Y=-0.972327, Z=0.010739 g
+Acceleration: X=-0.236550, Y=-0.970999, Z=0.010357 g
+Acceleration: X=-0.236537, Y=-0.969124, Z=0.009233 g
+Acceleration: X=-0.236457, Y=-0.969671, Z=0.007268 g
+Acceleration: X=-0.236382, Y=-0.969726, Z=0.006487 g
+Acceleration: X=-0.237060, Y=-0.968880, Z=0.007499 g
+Acceleration: X=-0.237203, Y=-0.970378, Z=0.009234 g
+Acceleration: X=-0.236270, Y=-0.971723, Z=0.010160 g
+Acceleration: X=-0.237221, Y=-0.970797, Z=0.010488 g
+Acceleration: X=-0.238362, Y=-0.969850, Z=0.010085 g
+Acceleration: X=-0.238150, Y=-0.970611, Z=0.009700 g
+Acceleration: X=-0.236972, Y=-0.971865, Z=0.008499 g
+Acceleration: X=-0.236458, Y=-0.970425, Z=0.008561 g
+Acceleration: X=-0.236419, Y=-0.968371, Z=0.008711 g
+Acceleration: X=-0.236134, Y=-0.968763, Z=0.008285 g
+Acceleration: X=-0.235885, Y=-0.970767, Z=0.007410 g
+Acceleration: X=-0.236815, Y=-0.970527, Z=0.008216 g
+Acceleration: X=-0.236814, Y=-0.969990, Z=0.009262 g
+Acceleration: X=-0.237240, Y=-0.970412, Z=0.009544 g
+Acceleration: X=-0.237125, Y=-0.969967, Z=0.009800 g
+Acceleration: X=-0.237708, Y=-0.970481, Z=0.009338 g
+Acceleration: X=-0.237005, Y=-0.970888, Z=0.009381 g
+Acceleration: X=-0.236015, Y=-0.971443, Z=0.008500 g
+Acceleration: X=-0.236351, Y=-0.969961, Z=0.008853 g
+Acceleration: X=-0.236941, Y=-0.968961, Z=0.008849 g
+Acceleration: X=-0.236295, Y=-0.969836, Z=0.008537 g
+Acceleration: X=-0.236640, Y=-0.970190, Z=0.009092 g
+Acceleration: X=-0.236847, Y=-0.970816, Z=0.009435 g
+Acceleration: X=-0.237585, Y=-0.971063, Z=0.009906 g
+Acceleration: X=-0.237289, Y=-0.970649, Z=0.009673 g
+Acceleration: X=-0.236484, Y=-0.969823, Z=0.009240 g
+Acceleration: X=-0.236536, Y=-0.970163, Z=0.008797 g
+Acceleration: X=-0.235516, Y=-0.970769, Z=0.008432 g
+Acceleration: X=-0.237191, Y=-0.970198, Z=0.008868 g
+Acceleration: X=-0.237533, Y=-0.969886, Z=0.008944 g
+Acceleration: X=-0.237177, Y=-0.969903, Z=0.009422 g
+Acceleration: X=-0.236520, Y=-0.970742, Z=0.009745 g
+Acceleration: X=-0.236716, Y=-0.970107, Z=0.009638 g
+Acceleration: X=-0.237063, Y=-0.970323, Z=0.008848 g
+Acceleration: X=-0.237101, Y=-0.970929, Z=0.008521 g
+Acceleration: X=-0.237099, Y=-0.970257, Z=0.008416 g
+Acceleration: X=-0.237127, Y=-0.969299, Z=0.008844 g
+Acceleration: X=-0.236080, Y=-0.970012, Z=0.008971 g
+Acceleration: X=-0.236018, Y=-0.971616, Z=0.008782 g
+Acceleration: X=-0.236964, Y=-0.970346, Z=0.009503 g
+Acceleration: X=-0.237591, Y=-0.969673, Z=0.008660 g
+Acceleration: X=-0.237861, Y=-0.970783, Z=0.009474 g
+Acceleration: X=-0.236560, Y=-0.970719, Z=0.009433 g
+Acceleration: X=-0.237146, Y=-0.969839, Z=0.009976 g
+Acceleration: X=-0.236427, Y=-0.970876, Z=0.009743 g
+Acceleration: X=-0.235980, Y=-0.971325, Z=0.009163 g
+Acceleration: X=-0.236988, Y=-0.970161, Z=0.008854 g
+Acceleration: X=-0.236825, Y=-0.969658, Z=0.008287 g
+Acceleration: X=-0.236920, Y=-0.970104, Z=0.008242 g
+Acceleration: X=-0.236372, Y=-0.970310, Z=0.009127 g
+Acceleration: X=-0.237063, Y=-0.970607, Z=0.009511 g
+Acceleration: X=-0.236817, Y=-0.970393, Z=0.010114 g
+Acceleration: X=-0.236800, Y=-0.970863, Z=0.009302 g
+Acceleration: X=-0.237200, Y=-0.970060, Z=0.008798 g
+Acceleration: X=-0.236473, Y=-0.970035, Z=0.008648 g
+Acceleration: X=-0.236576, Y=-0.970610, Z=0.009110 g
+Acceleration: X=-0.236488, Y=-0.969955, Z=0.008812 g
+Acceleration: X=-0.236498, Y=-0.970329, Z=0.009236 g
+Acceleration: X=-0.236533, Y=-0.970392, Z=0.008890 g
+Acceleration: X=-0.237297, Y=-0.969967, Z=0.009077 g
+Acceleration: X=-0.237081, Y=-0.970377, Z=0.009150 g
+Acceleration: X=-0.236395, Y=-0.971034, Z=0.009303 g
+Acceleration: X=-0.236581, Y=-0.970535, Z=0.009145 g
+Acceleration: X=-0.236819, Y=-0.970770, Z=0.009353 g
+Acceleration: X=-0.236581, Y=-0.970764, Z=0.009827 g
+Acceleration: X=-0.237106, Y=-0.970705, Z=0.008489 g
+Acceleration: X=-0.236621, Y=-0.970261, Z=0.008794 g
+Acceleration: X=-0.236839, Y=-0.970201, Z=0.009039 g
+Acceleration: X=-0.236564, Y=-0.970936, Z=0.009063 g
+Acceleration: X=-0.236894, Y=-0.970058, Z=0.008605 g
+Acceleration: X=-0.237661, Y=-0.969739, Z=0.008777 g
+Acceleration: X=-0.237584, Y=-0.970277, Z=0.009553 g
+Acceleration: X=-0.236653, Y=-0.970938, Z=0.009169 g
+Acceleration: X=-0.236867, Y=-0.970138, Z=0.008953 g
+Acceleration: X=-0.236649, Y=-0.969688, Z=0.008723 g
+Acceleration: X=-0.236879, Y=-0.969684, Z=0.008647 g
+Acceleration: X=-0.237382, Y=-0.969836, Z=0.008720 g
+Acceleration: X=-0.237172, Y=-0.970476, Z=0.008929 g
+Acceleration: X=-0.237039, Y=-0.970886, Z=0.009083 g
+Acceleration: X=-0.236684, Y=-0.971178, Z=0.009076 g
+Acceleration: X=-0.236746, Y=-0.970183, Z=0.009578 g
+Acceleration: X=-0.236482, Y=-0.970068, Z=0.009614 g
+Acceleration: X=-0.236756, Y=-0.970596, Z=0.008529 g
+Acceleration: X=-0.236681, Y=-0.970873, Z=0.008444 g
+Acceleration: X=-0.236591, Y=-0.969930, Z=0.009000 g
+Acceleration: X=-0.236257, Y=-0.969755, Z=0.009339 g
+Acceleration: X=-0.236084, Y=-0.970552, Z=0.010326 g
+Acceleration: X=-0.237031, Y=-0.971006, Z=0.009170 g
+Acceleration: X=-0.237166, Y=-0.970402, Z=0.008725 g
+Acceleration: X=-0.237333, Y=-0.969648, Z=0.008793 g
+Acceleration: X=-0.237152, Y=-0.969666, Z=0.008939 g
+Acceleration: X=-0.236231, Y=-0.970827, Z=0.009370 g
+Acceleration: X=-0.236206, Y=-0.970745, Z=0.008782 g
+Acceleration: X=-0.236310, Y=-0.969823, Z=0.008709 g
+Acceleration: X=-0.237234, Y=-0.969776, Z=0.009086 g
+Acceleration: X=-0.236906, Y=-0.971324, Z=0.008620 g
+Checksum failed. Expected: a728, Got: 0e04
+Checksum failed. Expected: 12cb, Got: 0e04
+Checksum failed. Expected: 8e3c, Got: 0e04
+Checksum failed. Expected: 091e, Got: 0e04
+Checksum failed. Expected: cebc, Got: 0e04
+Checksum failed. Expected: 54e0, Got: 0e04
+Checksum failed. Expected: 1e9c, Got: 0e04
+Checksum failed. Expected: ed76, Got: 0e04
+Checksum failed. Expected: 56ec, Got: 0e04
+Checksum failed. Expected: c37a, Got: 0e04
+Checksum failed. Expected: cebc, Got: 0e04
+Checksum failed. Expected: e234, Got: 0e04
+Checksum failed. Expected: 4068, Got: 0e04
+Checksum failed. Expected: c792, Got: 0e04
+Checksum failed. Expected: 5d16, Got: 0e04
+Checksum failed. Expected: 914e, Got: 0e04
+Checksum failed. Expected: 6546, Got: 0e04
+Checksum failed. Expected: 060c, Got: 0e04
+Checksum failed. Expected: 4fc2, Got: 0e04
+Checksum failed. Expected: 3e5c, Got: 0e04
+Checksum failed. Expected: f7b2, Got: 0e04
+Checksum failed. Expected: 197e, Got: 0e04
+Checksum failed. Expected: 3b4a, Got: 0e04
+Checksum failed. Expected: b732, Got: 0e04
+Checksum failed. Expected: fcd0, Got: 0e04
+Checksum failed. Expected: fcd0, Got: 0e04
+Checksum failed. Expected: e546, Got: 0e04
+Checksum failed. Expected: 50c8, Got: 0e04
+Checksum failed. Expected: bb4a, Got: 0e04
+Checksum failed. Expected: e33a, Got: 0e04
+Checksum failed. Expected: 9460, Got: 0e04
+Checksum failed. Expected: 5f22, Got: 0e04
+Checksum failed. Expected: cebc, Got: 0e04
+Checksum failed. Expected: ef82, Got: 0e04
+Checksum failed. Expected: e64c, Got: 0e04
+Checksum failed. Expected: 966c, Got: 0e04
+Checksum failed. Expected: 58f8, Got: 0e04
+Checksum failed. Expected: d0c8, Got: 0e04
+Checksum failed. Expected: 0506, Got: 0e04
+Checksum failed. Expected: 9d96, Got: 0e04
+Checksum failed. Expected: dc10, Got: 0e04
+Checksum failed. Expected: 4068, Got: 0e04
+Checksum failed. Expected: b008, Got: 0e04
+Checksum failed. Expected: 57f2, Got: 0e04
+Checksum failed. Expected: 2f02, Got: 0e04
+Checksum failed. Expected: 891e, Got: 0e04
+Checksum failed. Expected: 1460, Got: 0e04
+Checksum failed. Expected: 0506, Got: 0e04
+Checksum failed. Expected: 1460, Got: 0e04
+Checksum failed. Expected: e858, Got: 0e04
+Checksum failed. Expected: 1254, Got: 0e04
+Checksum failed. Expected: 9878, Got: 0e04
+Checksum failed. Expected: c68c, Got: 0e04
+Checksum failed. Expected: 7fe2, Got: 0e04
+Checksum failed. Expected: e64c, Got: 0e04
+Checksum failed. Expected: 4fc2, Got: 0e04
+Checksum failed. Expected: 060c, Got: 0e04
+Checksum failed. Expected: 53da, Got: 0e04
+Checksum failed. Expected: 4cb0, Got: 0e04
+Checksum failed. Expected: 20a8, Got: 0e04
+Checksum failed. Expected: 2f02, Got: 0e04
+Checksum failed. Expected: 310e, Got: 0e04
+Checksum failed. Expected: ed76, Got: 0e04
+Checksum failed. Expected: a8d8, Got: 0e04
+Checksum failed. Expected: b10e, Got: 0e04
+Checksum failed. Expected: 9460, Got: 0e04
+Checksum failed. Expected: 6f82, Got: 0e04
+Checksum failed. Expected: 6858, Got: 0e04
+Checksum failed. Expected: 8e3c, Got: 0e04
+Checksum failed. Expected: 8506, Got: 0e04
+Checksum failed. Expected: 1b8a, Got: 0e04
+Checksum failed. Expected: caa4, Got: 0e04
+Checksum failed. Expected: 7294, Got: 0e04
+Checksum failed. Expected: a9de, Got: 0e04
+Checksum failed. Expected: 6858, Got: 0e04
+Checksum failed. Expected: 966c, Got: 0e04
+Checksum failed. Expected: 78b8, Got: 0e04
+Checksum failed. Expected: c37a, Got: 0e04
+Checksum failed. Expected: b10e, Got: 0e04
+Checksum failed. Expected: 8e3c, Got: 0e04
+Checksum failed. Expected: 9878, Got: 0e04
+Checksum failed. Expected: b62c, Got: 0e04
+Checksum failed. Expected: 55e6, Got: 0e04
+Checksum failed. Expected: 1460, Got: 0e04
+Checksum failed. Expected: b62c, Got: 0e04
+Checksum failed. Expected: 6440, Got: 0e04
+Checksum failed. Expected: 8d36, Got: 0e04
+Checksum failed. Expected: 9b8a, Got: 0e04
+Checksum failed. Expected: 9254, Got: 0e04
+Checksum failed. Expected: 2bea, Got: 0e04
+Checksum failed. Expected: c37a, Got: 0e04
+Checksum failed. Expected: 54e0, Got: 0e04
+Checksum failed. Expected: be5c, Got: 0e04
+Checksum failed. Expected: 0712, Got: 0e04
+Checksum failed. Expected: 6234, Got: 0e04
+Checksum failed. Expected: cdb6, Got: 0e04
+Checksum failed. Expected: e028, Got: 0e04
+Checksum failed. Expected: 7fe2, Got: 0e04
+Checksum failed. Expected: 53da, Got: 0e04
+Checksum failed. Expected: 6546, Got: 0e04
+Checksum failed. Expected: a062, Got: 0ed3
+Checksum failed. Expected: 8a56, Got: bf78
+Checksum failed. Expected: ed18, Got: bf78
+Checksum failed. Expected: e6ad, Got: bf78
+Checksum failed. Expected: 75d3, Got: bf78
+Checksum failed. Expected: d544, Got: bf78
+Checksum failed. Expected: d63f, Got: bf78
+Checksum failed. Expected: b8f5, Got: bf78
+Checksum failed. Expected: d7e3, Got: bf78
+Checksum failed. Expected: 9cd1, Got: bf78
+Checksum failed. Expected: 4d00, Got: bf78
+Checksum failed. Expected: c300, Got: bf78
+Checksum failed. Expected: d750, Got: bf78
+Checksum failed. Expected: 26cb, Got: bf78
+Checksum failed. Expected: cfd1, Got: bf78
+Checksum failed. Expected: 7aea, Got: bf78
+Checksum failed. Expected: 55f4, Got: bf78
+Checksum failed. Expected: 0ee8, Got: bf78
+Checksum failed. Expected: 2219, Got: bf78
+Checksum failed. Expected: 411c, Got: bf78
+Checksum failed. Expected: 8bb1, Got: bf78
+Checksum failed. Expected: dd8e, Got: bf78
+Checksum failed. Expected: 4d05, Got: bf78
+Checksum failed. Expected: 0b75, Got: bf78
+Checksum failed. Expected: fd99, Got: bf78
+Checksum failed. Expected: d711, Got: bf78
+Checksum failed. Expected: 68fe, Got: bf78
+Checksum failed. Expected: 4f34, Got: bf78
+Checksum failed. Expected: 8a66, Got: bf78
+Checksum failed. Expected: 8111, Got: bf78
+Checksum failed. Expected: acf8, Got: bf78
+Checksum failed. Expected: 3cd8, Got: bf78
+Checksum failed. Expected: ebe6, Got: bf78
+Checksum failed. Expected: 1f3d, Got: bf78
+Checksum failed. Expected: b630, Got: bf78
+Checksum failed. Expected: 27ab, Got: bf78
+Checksum failed. Expected: bc96, Got: bf78
+Checksum failed. Expected: a1bd, Got: bf78
+Checksum failed. Expected: 1cd3, Got: bf78
+Checksum failed. Expected: 5b52, Got: bf78
+Checksum failed. Expected: 89d4, Got: bf78
+Checksum failed. Expected: 979a, Got: bf78
+Checksum failed. Expected: 5204, Got: bf78
+Checksum failed. Expected: 2f65, Got: bf78
+Checksum failed. Expected: 7c0c, Got: bf78
+Checksum failed. Expected: 9e3e, Got: bf78
+Checksum failed. Expected: b87e, Got: bf78
+Checksum failed. Expected: 2764, Got: bf78
+Checksum failed. Expected: 423e, Got: bf78
+Checksum failed. Expected: 1f8e, Got: bf78
+Checksum failed. Expected: 72cf, Got: bf78
+Checksum failed. Expected: 6268, Got: bf78
+Checksum failed. Expected: 34b0, Got: bf78
+Checksum failed. Expected: 3b39, Got: bf78
+Checksum failed. Expected: 6738, Got: bf78
+Checksum failed. Expected: 605d, Got: bf78
+Checksum failed. Expected: 0861, Got: bf78
+Checksum failed. Expected: 57bf, Got: bf78
+Checksum failed. Expected: 1b5d, Got: bf78
+Checksum failed. Expected: 6a0b, Got: bf78
+Checksum failed. Expected: 4f9c, Got: bf78
+Checksum failed. Expected: 4dc2, Got: bf78
+Checksum failed. Expected: a684, Got: bf78
+Checksum failed. Expected: 7859, Got: bf78
+Checksum failed. Expected: 7002, Got: bf78
+Checksum failed. Expected: 9b5d, Got: bf78
+Checksum failed. Expected: aa1f, Got: bf78
+Checksum failed. Expected: e3d9, Got: bf78
+Checksum failed. Expected: 9e4d, Got: bf78
+Checksum failed. Expected: 7343, Got: bf78
+Checksum failed. Expected: f7f6, Got: bf78
+Checksum failed. Expected: f672, Got: bf78
+Checksum failed. Expected: 4985, Got: bf78
+Checksum failed. Expected: 4dd8, Got: bf78
+Checksum failed. Expected: 95df, Got: bf78
+Checksum failed. Expected: 69f5, Got: bf78
+Checksum failed. Expected: dbcd, Got: bf78
+Checksum failed. Expected: 791f, Got: bf78
+Checksum failed. Expected: 1b08, Got: bf78
+Checksum failed. Expected: 4bd8, Got: bf78
+Checksum failed. Expected: 5df6, Got: bf78
+Checksum failed. Expected: 0d50, Got: bf78
+Checksum failed. Expected: 81d8, Got: bf78
+Checksum failed. Expected: 93cf, Got: bf78
+Checksum failed. Expected: f66f, Got: bf78
+Checksum failed. Expected: 5c79, Got: bf78
+Checksum failed. Expected: 045b, Got: bf78
+Checksum failed. Expected: c6f9, Got: bf78
+Checksum failed. Expected: 7428, Got: bf78
+Checksum failed. Expected: 5f53, Got: bf78
+Checksum failed. Expected: 529c, Got: bf78
+Checksum failed. Expected: 0538, Got: bf78
+Checksum failed. Expected: f169, Got: bf78
+Checksum failed. Expected: e18c, Got: bf78
+Checksum failed. Expected: bdc5, Got: bf78
+Checksum failed. Expected: 8c0e, Got: bf78
+Checksum failed. Expected: 3f6c, Got: bf78
+Checksum failed. Expected: 35ff, Got: bf78
+Checksum failed. Expected: baf8, Got: bf78
+Checksum failed. Expected: f3b7, Got: bf78
+Checksum failed. Expected: 355c, Got: bf78
+Checksum failed. Expected: 7fd1, Got: d2f1
+Checksum failed. Expected: 6e18, Got: dcbe
+Checksum failed. Expected: 4408, Got: ac92
+Checksum failed. Expected: b6a5, Got: 6166
+Checksum failed. Expected: 6ef1, Got: 5515
+Checksum failed. Expected: 02da, Got: ad6f
+Checksum failed. Expected: 98e2, Got: 466a
+Checksum failed. Expected: 27c9, Got: f48a
+Checksum failed. Expected: 79f1, Got: 25c8
+Checksum failed. Expected: db38, Got: 129d
+Checksum failed. Expected: 61dd, Got: 260c
+Checksum failed. Expected: a368, Got: c274
+Checksum failed. Expected: 548b, Got: eb73
+Checksum failed. Expected: 5b1a, Got: 776a
+Checksum failed. Expected: 9f68, Got: f937
+Checksum failed. Expected: 56fb, Got: d2f5
+Checksum failed. Expected: e07c, Got: 2be3
+Checksum failed. Expected: aa46, Got: b2a6
+Checksum failed. Expected: e07a, Got: b7fb
+Checksum failed. Expected: c201, Got: 26d9
+Checksum failed. Expected: 6d66, Got: 7906
+Checksum failed. Expected: 4a5f, Got: a496
+Checksum failed. Expected: 231f, Got: 4534
+Checksum failed. Expected: 4279, Got: 8828
+Checksum failed. Expected: 90e8, Got: 80d6
+Checksum failed. Expected: 2e73, Got: fc2f
+Checksum failed. Expected: 48a6, Got: 6557
+Checksum failed. Expected: 8679, Got: 6e66
+Checksum failed. Expected: b461, Got: c0d8
+Checksum failed. Expected: 9cce, Got: 39c2
+Checksum failed. Expected: 8be1, Got: f251
+Checksum failed. Expected: c4d9, Got: e34c
+Checksum failed. Expected: 89aa, Got: 7d3a
+Checksum failed. Expected: aa96, Got: 4027
+Checksum failed. Expected: 418c, Got: ab05
+Checksum failed. Expected: 5d52, Got: 068a
+Checksum failed. Expected: e071, Got: 1d79
+Checksum failed. Expected: d562, Got: c91c
+Checksum failed. Expected: f7fb, Got: fcca
+Checksum failed. Expected: dc43, Got: b18b
+Checksum failed. Expected: e472, Got: 1e1b
+Checksum failed. Expected: 577f, Got: 1242
+Checksum failed. Expected: 9249, Got: 3017
+Checksum failed. Expected: 799f, Got: 37a3
+Checksum failed. Expected: 8d92, Got: 0204
+Checksum failed. Expected: 1f14, Got: 9b8d
+Checksum failed. Expected: e284, Got: b245
+Checksum failed. Expected: 0352, Got: 9fb5
+Checksum failed. Expected: 4657, Got: 5cc7
+Checksum failed. Expected: 58be, Got: 34d0
+Checksum failed. Expected: 9120, Got: bec6
+Checksum failed. Expected: 192f, Got: 34d6
+Checksum failed. Expected: ccd6, Got: f759
+Checksum failed. Expected: 0099, Got: b06a
+Checksum failed. Expected: 9fd9, Got: d8e0
+Checksum failed. Expected: 2d40, Got: 238a
+Checksum failed. Expected: 3aa9, Got: 5d4f
+Checksum failed. Expected: 7d2e, Got: ec49
+Checksum failed. Expected: a651, Got: d8a7
+Checksum failed. Expected: 6901, Got: 3d36
+Checksum failed. Expected: acdd, Got: 44ae
+Checksum failed. Expected: 015b, Got: b4d0
+Checksum failed. Expected: 9909, Got: 8609
+Checksum failed. Expected: 796f, Got: ce00
+Checksum failed. Expected: 63c8, Got: b08f
+Checksum failed. Expected: 0879, Got: e447
+Checksum failed. Expected: 448f, Got: abfc
+Checksum failed. Expected: 3690, Got: 5e24
+Checksum failed. Expected: 16cb, Got: 3cbf
+Checksum failed. Expected: bf34, Got: cde4
+Checksum failed. Expected: 31c2, Got: 3b64
+Checksum failed. Expected: 6a8d, Got: 6ee8
+Checksum failed. Expected: b040, Got: e4dc
+Checksum failed. Expected: 5b68, Got: 762c
+Checksum failed. Expected: 966f, Got: 8f98
+Checksum failed. Expected: 37b6, Got: 3bbb
+Checksum failed. Expected: bb26, Got: 6482
+Checksum failed. Expected: a976, Got: 8ebb
+Checksum failed. Expected: 6603, Got: ab9b
+Checksum failed. Expected: 6953, Got: 14f8
+Checksum failed. Expected: a668, Got: 41d4
+Checksum failed. Expected: bfbc, Got: de83
+Checksum failed. Expected: ebb1, Got: 4ec5
+Checksum failed. Expected: 6866, Got: 61d7
+Checksum failed. Expected: 2f9d, Got: 0539
+Checksum failed. Expected: acba, Got: c939
+Checksum failed. Expected: 586b, Got: 0063
+Checksum failed. Expected: 6747, Got: 8dff
+Checksum failed. Expected: 5032, Got: 0e22
+
+Exiting...
