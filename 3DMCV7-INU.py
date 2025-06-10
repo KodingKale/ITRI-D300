@@ -3,6 +3,7 @@ import time
 import struct
 from datetime import datetime
 
+
 descriptor = {
     'Sensor': 0x80,
     'Acceleration': 0x04,
@@ -36,7 +37,7 @@ def main():
                 message = f"Acceleration: X={data['x']:.6f}, Y={data['y']:.6f}, Z={data['z']:.6f} g"
                 print(message)
                 log.write(message + '\n')
-            time.sleep(0.1)
+            time.sleep(0.01)
     except KeyboardInterrupt:
         print("\nExiting...")
         log.write("\nExiting...\n")
@@ -109,20 +110,11 @@ def parse_acceleration_data(raw_data, log):
             print(f"Not enough data: {len(raw_data)} bytes")
             return None
             
-        # Verify header
-        if raw_data[0:2] != bytes([0x75, 0x65]):
-            print(f"Invalid header: {raw_data[0:2].hex()}")
-            return None
             
         # Extract acceleration data (12 bytes, 3 floats)
         # Using explicit little-endian format for float values
         accel_data = raw_data[6:18]
         accel_x, accel_y, accel_z = struct.unpack('>fff', accel_data)
-        
-        # Convert to g (if needed - depends on your sensor configuration)
-        # accel_x *= 9.81
-        # accel_y *= 9.81
-        # accel_z *= 9.81
         
         return {
             'x': accel_x,
@@ -160,16 +152,23 @@ def read_imu_acceleration(imu, log):
         
     # Validate packet type
     if raw_data[2] != 0x80:
-        print(f'Invalid descriptor set: 0x{raw_data[2].hex()}')
-        log.write(f'Invalid descriptor set: 0x{raw_data[2].hex()}\n')
+        print(f'Invalid descriptor set: 0x{raw_data[2]:02x}')
+        log.write(f'Invalid descriptor set: 0x{raw_data[2]:02x}\n')
         return None
         
     # Validate field descriptor
     if raw_data[5] != 0x04:
-        print(f'Invalid field descriptor: 0x{raw_data[5].hex()}')
-        log.write(f'Invalid field descriptor: 0x{raw_data[5].hex()}\n')
+        print(f'Invalid field descriptor: 0x{raw_data[5]:02x}')
+        log.write(f'Invalid field descriptor: 0x{raw_data[5]:02x}\n')
+        print(raw_data)
+        log.write(str(raw_data) + '\n')
         return None
         
+    # Verify header
+    if raw_data[0:2] != bytes([0x75, 0x65]):
+        print(f"Invalid header: {raw_data[0:2]}")
+        return None
+    
     return parse_acceleration_data(raw_data, log)
 
 def fletcher_checksum(data):
@@ -187,13 +186,10 @@ def fletcher_checksum(data):
     return(bytes([MSB, LSB])) 
 
 def start_log():
-    now = datetime.now()
-
-    current_time = now.strftime("%H:%M:%S")
-
+    
     log = open('./logs/log.txt', 'a')
     log.write('\n#################################################################\n')
-    log.write('Log started at ' + current_time + '\n')
+    log.write(f'Log started at {datetime.now()} \n')
     log.write('#################################################################\n')
     return log
 
