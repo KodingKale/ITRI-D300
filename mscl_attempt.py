@@ -54,7 +54,8 @@ def start_log():
     now = datetime.now()
 
     current_time = now.strftime("%H:%M:%S")
-
+	
+    print('log started')
     log = open('./logs/log.txt', 'a')
     log.write('\n#################################################################\n')
     log.write('Log started at ' + current_time + '\n')
