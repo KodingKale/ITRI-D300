@@ -1,0 +1,104 @@
+
+#################################################################
+Log started at 2025-06-12_14-54-23 
+#################################################################
+IMU initialized succesfully
+PPS initialized succesfully
+Stream initialized successfully
+Stream synced
+Checksum failed. Expected: e94c, Got: 7565
+Checksum failed. Expected: d1ee, Got: 0e00
+Checksum failed. Expected: b28e, Got: 0112
+Checksum failed. Expected: 152b, Got: 0c08
+Checksum failed. Expected: fcb4, Got: 801c
+Checksum failed. Expected: 31a4, Got: 801c
+Checksum failed. Expected: 2268, Got: 801c
+Checksum failed. Expected: 532c, Got: 801c
+Checksum failed. Expected: 5e58, Got: 801c
+Checksum failed. Expected: ec90, Got: 801c
+Checksum failed. Expected: 2b8c, Got: 801c
+Checksum failed. Expected: 3ed8, Got: 801c
+Checksum failed. Expected: 3cd0, Got: 801c
+Checksum failed. Expected: 75b4, Got: 801c
+Checksum failed. Expected: 36b8, Got: 801c
+Checksum failed. Expected: 3ed8, Got: 801c
+Checksum failed. Expected: eb8c, Got: 801c
+Checksum failed. Expected: 7ed8, Got: 801c
+Checksum failed. Expected: 7cd0, Got: 801c
+Checksum failed. Expected: f7bc, Got: 801c
+Checksum failed. Expected: e984, Got: 801c
+Checksum failed. Expected: 5c50, Got: 801c
+Checksum failed. Expected: 73ac, Got: 801c
+Checksum failed. Expected: 1944, Got: 801c
+Checksum failed. Expected: d840, Got: 801c
+Checksum failed. Expected: b8c0, Got: 801c
+Checksum failed. Expected: c7fc, Got: 801c
+Checksum failed. Expected: d430, Got: 801c
+Checksum failed. Expected: 9944, Got: 801c
+Checksum failed. Expected: 9534, Got: 801c
+Checksum failed. Expected: 1534, Got: 801c
+Checksum failed. Expected: 02e8, Got: 801c
+Checksum failed. Expected: 9638, Got: 801c
+Checksum failed. Expected: 01e4, Got: 801c
+Checksum failed. Expected: 2d94, Got: 801c
+Checksum failed. Expected: 1430, Got: 801c
+Checksum failed. Expected: c800, Got: 801c
+Checksum failed. Expected: d840, Got: 801c
+Checksum failed. Expected: 6984, Got: 801c
+Checksum failed. Expected: 8b0c, Got: 801c
+Checksum failed. Expected: c3ec, Got: 801c
+Checksum failed. Expected: cc10, Got: 801c
+Checksum failed. Expected: 2f9c, Got: 801c
+Checksum failed. Expected: aa88, Got: 801c
+Checksum failed. Expected: 41e4, Got: 801c
+Checksum failed. Expected: 06f8, Got: 801c
+Checksum failed. Expected: 5534, Got: 801c
+Checksum failed. Expected: fbcc, Got: 801c
+Checksum failed. Expected: 2f9c, Got: 801c
+Checksum failed. Expected: 4800, Got: 801c
+Checksum failed. Expected: 1a48, Got: 801c
+Checksum failed. Expected: f9c4, Got: 801c
+Checksum failed. Expected: 0a08, Got: 801c
+Checksum failed. Expected: b9c4, Got: 801c
+Checksum failed. Expected: b8c0, Got: 801c
+Checksum failed. Expected: 2e98, Got: 801c
+Checksum failed. Expected: ac90, Got: 801c
+Checksum failed. Expected: d638, Got: 801c
+Checksum failed. Expected: 75b4, Got: 801c
+Checksum failed. Expected: 277c, Got: 801c
+Checksum failed. Expected: 73ac, Got: 801c
+Checksum failed. Expected: 79c4, Got: 801c
+Checksum failed. Expected: 677c, Got: 801c
+Checksum failed. Expected: 4800, Got: 801c
+Checksum failed. Expected: e164, Got: 801c
+Checksum failed. Expected: eb8c, Got: 801c
+Checksum failed. Expected: c1e4, Got: 801c
+Checksum failed. Expected: c5f4, Got: 801c
+Checksum failed. Expected: 43ec, Got: 801c
+Checksum failed. Expected: 9d54, Got: 801c
+Checksum failed. Expected: dd54, Got: 801c
+Checksum failed. Expected: 33ac, Got: 801c
+Checksum failed. Expected: 2470, Got: 801c
+Checksum failed. Expected: 1124, Got: 801c
+Checksum failed. Expected: aa88, Got: 801c
+Checksum failed. Expected: a268, Got: 801c
+Checksum failed. Expected: aa88, Got: 801c
+Checksum failed. Expected: 3dd4, Got: 801c
+Checksum failed. Expected: ef9c, Got: 801c
+Checksum failed. Expected: db4c, Got: 801c
+Checksum failed. Expected: 5944, Got: 801c
+Checksum failed. Expected: 1124, Got: 801c
+Checksum failed. Expected: a36c, Got: 801c
+Checksum failed. Expected: 4f1c, Got: 801c
+Checksum failed. Expected: bed8, Got: 801c
+Checksum failed. Expected: c6f8, Got: 801c
+Checksum failed. Expected: 9430, Got: 801c
+Checksum failed. Expected: 5f5c, Got: 801c
+Checksum failed. Expected: c7fc, Got: 801c
+Checksum failed. Expected: a880, Got: 801c
+Checksum failed. Expected: f3ac, Got: 801c
+Checksum failed. Expected: 0904, Got: 801c
+Checksum failed. Expected: 73ac, Got: 801c
+Checksum failed. Expected: e164, Got: 801c
+
+Exiting...

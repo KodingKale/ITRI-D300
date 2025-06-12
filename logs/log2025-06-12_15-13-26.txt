@@ -1,0 +1,49 @@
+
+#################################################################
+Log started at 2025-06-12_15-13-26 
+#################################################################
+IMU initialized succesfully
+PPS initialized succesfully
+Stream initialized successfully
+Stream synced
+Checksum failed. Expected: 7433, Got: 048f
+Checksum failed. Expected: 2d04, Got: 04f1
+Checksum failed. Expected: d35c, Got: 3f1d
+Checksum failed. Expected: 7f0b, Got: 3f1d
+Checksum failed. Expected: 4306, Got: 3f1c
+Checksum failed. Expected: 3e46, Got: 3f1b
+Checksum failed. Expected: 794c, Got: 3f1d
+Checksum failed. Expected: bbea, Got: 3f1d
+Checksum failed. Expected: c678, Got: 3f1c
+Checksum failed. Expected: bdef, Got: 3f1c
+Checksum failed. Expected: e0f0, Got: 3f1d
+Checksum failed. Expected: 0a1e, Got: 3f1c
+Checksum failed. Expected: c53b, Got: 3f1c
+Checksum failed. Expected: 882b, Got: 3f1c
+Checksum failed. Expected: 6c02, Got: 3f1d
+Checksum failed. Expected: a46a, Got: 3f1c
+Checksum failed. Expected: 354b, Got: 3f1c
+Checksum failed. Expected: b931, Got: 3f1c
+Checksum failed. Expected: f6b7, Got: 3f1c
+Checksum failed. Expected: da98, Got: 3f1c
+Checksum failed. Expected: bf10, Got: 3f1c
+Checksum failed. Expected: ca38, Got: 3f1c
+Checksum failed. Expected: 1b10, Got: 3f1d
+Checksum failed. Expected: 3436, Got: 3f1c
+Checksum failed. Expected: afca, Got: 3f1c
+Checksum failed. Expected: e7a4, Got: 3f1c
+Checksum failed. Expected: ef50, Got: 3f1c
+Checksum failed. Expected: 6bc1, Got: 3f1d
+Checksum failed. Expected: 1a2b, Got: 3f1c
+Checksum failed. Expected: 7ffb, Got: 3f1c
+Checksum failed. Expected: f75c, Got: 3f1c
+Checksum failed. Expected: d426, Got: 3f1c
+Checksum failed. Expected: 456d, Got: 3f1c
+Checksum failed. Expected: 88d0, Got: 3f1d
+Checksum failed. Expected: 2574, Got: 3f1c
+Checksum failed. Expected: 89fc, Got: 3f1c
+Checksum failed. Expected: 5501, Got: 3f1d
+Checksum failed. Expected: 71f1, Got: 3f1c
+Checksum failed. Expected: 0794, Got: 3f1d
+
+Exiting...

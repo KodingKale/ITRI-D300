@@ -1,19 +1,7 @@
-# MicroStrain Inertial Firmware Upgrader
+Establishes Synchronization between a IMU and GNSS for acceleration readings
+writing the acceleration and timestamps to logs/log{time-start}
 
-This tool can be used to upgrade MicroStrain Inertial devices.
-
-## Usage
-
-Run the following command for more information on how to use this utility
-```bash
-InertialUpdater --help
-```
-
-## Dependencies
-
-libpthread.so.0
-libz.so.1
-libstdc++.so.6
-libm.so.6
-libgcc_s.so.1
-libc.so.6
+Part numbers:
+ublox EVK-M8T-0-01 (GNSS)
+MicroStrain 3DM-CV7-INS (IMU)
+rPi 3Bv2 ()
