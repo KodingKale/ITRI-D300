@@ -14,8 +14,8 @@ def main():
         imu = initialize_imu(log)
         initialize_pps(imu, log)
         initialize_gps(imu, log)
-        imu.reset_input_buffer()
-        imu.reset_output_buffer()
+        message = imu.read_until(b"\75\65")
+
         # Continuous reading loop
         while True:
             poll_data(imu, log)
@@ -104,7 +104,6 @@ def read_data(imu, log):
     """
     # Wait for minimum response size with timeout
     raw_data = imu.read(34)
-    
     # Validate checksum
     if raw_data[32:] != fletcher_checksum(raw_data[0:32]):
         print(f'Checksum failed. Expected: {fletcher_checksum(raw_data[0:32]).hex()}, Got: {raw_data[32:].hex()}')

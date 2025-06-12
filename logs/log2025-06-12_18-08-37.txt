@@ -1,0 +1,50 @@
+
+#################################################################
+Log started at 2025-06-12_18-08-37 
+#################################################################
+IMU initialized succesfully
+PPS initialized succesfully
+Acceleration: X=-0.022791, Y=3.081629, Z=9.285888 m/s^2 Time of Week: 382136.374000, Week Number: 2370
+Acceleration: X=-0.022753, Y=3.073792, Z=9.311027 m/s^2 Time of Week: 382137.376000, Week Number: 2370
+Acceleration: X=-0.029878, Y=3.076856, Z=9.302108 m/s^2 Time of Week: 382138.378000, Week Number: 2370
+Acceleration: X=-0.025697, Y=3.080993, Z=9.288292 m/s^2 Time of Week: 382139.383000, Week Number: 2370
+Acceleration: X=-0.030585, Y=3.059473, Z=9.317675 m/s^2 Time of Week: 382140.399000, Week Number: 2370
+Acceleration: X=-0.033534, Y=3.077438, Z=9.312233 m/s^2 Time of Week: 382141.413000, Week Number: 2370
+Acceleration: X=-0.031226, Y=3.060553, Z=9.298491 m/s^2 Time of Week: 382142.420000, Week Number: 2370
+Acceleration: X=-0.025261, Y=3.056420, Z=9.301971 m/s^2 Time of Week: 382143.425000, Week Number: 2370
+Acceleration: X=-0.034230, Y=3.065486, Z=9.304922 m/s^2 Time of Week: 382144.430000, Week Number: 2370
+Acceleration: X=-0.028162, Y=3.081638, Z=9.300111 m/s^2 Time of Week: 382145.443000, Week Number: 2370
+Acceleration: X=-0.026413, Y=3.067258, Z=9.306732 m/s^2 Time of Week: 382146.444000, Week Number: 2370
+Acceleration: X=-0.030026, Y=3.073850, Z=9.304246 m/s^2 Time of Week: 382147.444000, Week Number: 2370
+Acceleration: X=-0.025840, Y=3.067848, Z=9.294736 m/s^2 Time of Week: 382148.459000, Week Number: 2370
+Acceleration: X=-0.032992, Y=3.067297, Z=9.311475 m/s^2 Time of Week: 382149.463000, Week Number: 2370
+Acceleration: X=-0.024596, Y=3.070170, Z=9.310877 m/s^2 Time of Week: 382150.475000, Week Number: 2370
+Acceleration: X=-0.035959, Y=3.069619, Z=9.295291 m/s^2 Time of Week: 382151.488000, Week Number: 2370
+Acceleration: X=-0.025265, Y=3.063010, Z=9.309021 m/s^2 Time of Week: 382152.492000, Week Number: 2370
+Acceleration: X=-0.025231, Y=3.071464, Z=9.310802 m/s^2 Time of Week: 382153.493000, Week Number: 2370
+Acceleration: X=-0.021640, Y=3.066072, Z=9.299481 m/s^2 Time of Week: 382154.494000, Week Number: 2370
+Acceleration: X=-0.029512, Y=3.063061, Z=9.310159 m/s^2 Time of Week: 382155.503000, Week Number: 2370
+Acceleration: X=-0.027688, Y=3.069023, Z=9.311340 m/s^2 Time of Week: 382156.509000, Week Number: 2370
+Acceleration: X=-0.024025, Y=3.062462, Z=9.307784 m/s^2 Time of Week: 382157.511000, Week Number: 2370
+Acceleration: X=-0.023462, Y=3.064258, Z=9.305408 m/s^2 Time of Week: 382158.525000, Week Number: 2370
+Acceleration: X=-0.025285, Y=3.056454, Z=9.303592 m/s^2 Time of Week: 382159.528000, Week Number: 2370
+Acceleration: X=-0.028254, Y=3.066641, Z=9.305356 m/s^2 Time of Week: 382160.542000, Week Number: 2370
+Acceleration: X=-0.034886, Y=3.066696, Z=9.301774 m/s^2 Time of Week: 382161.544000, Week Number: 2370
+Acceleration: X=-0.030064, Y=3.067833, Z=9.306569 m/s^2 Time of Week: 382162.559000, Week Number: 2370
+Acceleration: X=-0.023472, Y=3.071481, Z=9.315508 m/s^2 Time of Week: 382163.565000, Week Number: 2370
+Acceleration: X=-0.030028, Y=3.070284, Z=9.308977 m/s^2 Time of Week: 382164.565000, Week Number: 2370
+Acceleration: X=-0.031257, Y=3.070844, Z=9.306484 m/s^2 Time of Week: 382165.577000, Week Number: 2370
+Acceleration: X=-0.031300, Y=3.062435, Z=9.304137 m/s^2 Time of Week: 382166.578000, Week Number: 2370
+Acceleration: X=-0.031880, Y=3.069071, Z=9.300476 m/s^2 Time of Week: 382167.592000, Week Number: 2370
+Acceleration: X=-0.024072, Y=3.063133, Z=9.312487 m/s^2 Time of Week: 382168.610000, Week Number: 2370
+Acceleration: X=-0.028319, Y=3.067806, Z=9.306472 m/s^2 Time of Week: 382169.611000, Week Number: 2370
+Acceleration: X=-0.026466, Y=3.069680, Z=9.313679 m/s^2 Time of Week: 382170.626000, Week Number: 2370
+Acceleration: X=-0.034299, Y=3.061858, Z=9.271174 m/s^2 Time of Week: 382171.639000, Week Number: 2370
+Acceleration: X=-0.030078, Y=3.062575, Z=9.343649 m/s^2 Time of Week: 382172.648000, Week Number: 2370
+Acceleration: X=-0.009718, Y=3.060021, Z=9.322647 m/s^2 Time of Week: 382173.662000, Week Number: 2370
+Acceleration: X=-0.031300, Y=3.062438, Z=9.303473 m/s^2 Time of Week: 382174.665000, Week Number: 2370
+Acceleration: X=-0.043361, Y=3.069097, Z=9.276430 m/s^2 Time of Week: 382175.674000, Week Number: 2370
+Acceleration: X=-0.022882, Y=3.072106, Z=9.311189 m/s^2 Time of Week: 382176.677000, Week Number: 2370
+Acceleration: X=-0.023595, Y=3.046211, Z=9.310054 m/s^2 Time of Week: 382177.691000, Week Number: 2370
+
+Exiting...
