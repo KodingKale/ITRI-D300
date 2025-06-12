@@ -4,13 +4,14 @@ import struct
 from datetime import datetime
 
 imu_port = 'COM7'
+gps_offset = [0, 0, 0] # [x, y, z] in meters
 
 def main():
     #Make log file
     log = start_log()
     try:
         # Initialize IMU
-        imu = initialize_imu(log, imu_port)
+        imu = initialize_imu(log)
         initialize_pps(imu, log)
         initialize_gps(imu, log)
         initialize_stream(imu, log)
@@ -20,7 +21,7 @@ def main():
         while True:
             data = read_stream_data(imu, log)
             if data:  # Only print if we got valid data
-                message = f"Acceleration: X={data['x']:.6f}, Y={data['y']:.6f}, Z={data['z']:.6f} g"
+                message = f"Acceleration: X={data['x']:.6f}, Y={data['y']:.6f}, Z={data['z']:.6f} m/s^2 Time of Week: {data['time_of_week']:.6f}, Week Number: {data['week_number']}"
                 print(message)
                 log.write(message + '\n')
     except KeyboardInterrupt:
@@ -41,7 +42,7 @@ def start_log():
     log.write('#################################################################\n')
     return log
 
-def initialize_imu(log, imu_port):
+def initialize_imu(log):
     '''
     initialize UART port for 3DM-CV7-INS
     Default settings: 115200 baud, 8 data bits, 1 stop bit, no parity
@@ -60,12 +61,10 @@ def initialize_imu(log, imu_port):
     idle_command = bytes([0x75, 0x65, 0x01, 0x02, 0x02, 0x02])
     checksum = fletcher_checksum(idle_command)
     imu.write(idle_command + checksum)
-    time.sleep(0.1)
     ack = imu.read(10)
     if ack != bytes([0x75, 0x65, 0x01, 0x04, 0x04, 0xF1, 0x02, 0x00, 0xD6, 0x6C]):
         print("IMU Initialization Failed!")
         log.write("IMU Initialization Failed!")
-        raise Exception("IMU Failed to Initialize")
     print("IMU initialized successfully")
     log.write("IMU initialized succesfully\n")
     return imu
@@ -75,8 +74,7 @@ def initialize_pps(imu, log):
     ack = imu.read(10)
     if ack != bytes([0x75, 0x65, 0x0C, 0x04, 0x04, 0xF1, 0x41, 0x00, 0x20, 0x2C]):
         print("PPS Initialization Failed!")
-        log.write("IMU Initialization Failed!")
-        raise Exception("IMU Initialization Failed!")
+        log.write("PPS Initialization Failed!")
     
     print("PPS initialized succesfully")
     log.write("PPS initialized succesfully\n")
@@ -86,30 +84,52 @@ def initialize_gps(imu, log):
     pass
 
 def initialize_stream(imu, log):
-    #TODO: Fill out
-    pass
+    imu.write(bytes([0x75, 0x65, 0x0C, 0x03, 0x03, 0x0E, 0x80, 0x7A, 0x7E]))
+    imu.write(bytes([0x75, 0x65, 0x0C, 0x0B, 0x0B, 0x0F, 0x01, 0x80, 0x02, 0xD3, 0x00, 0x0A, 0x04, 0x00, 0x0A, 0x79, 0xD7]))
+    imu.write(bytes([0x75, 0x65, 0x0C, 0x03, 0x03, 0x0E, 0x82, 0x7C, 0x80]))
+    imu.write(bytes([0x75, 0x65, 0x0C, 0x05, 0x05, 0x0F, 0x01, 0x82, 0x00, 0x82, 0x13]))
+    imu.write(bytes([0x75, 0x65, 0x0C, 0x03, 0x03, 0x0E, 0x94, 0x8E, 0x92]))
+    imu.write(bytes([0x75, 0x65, 0x0C, 0x05, 0x05, 0x0F, 0x01, 0x94, 0x00, 0x94, 0x37]))
+    imu.write(bytes([0x75, 0x65, 0x0C, 0x03, 0x03, 0x0E, 0xA0, 0x9A, 0x9E]))
+    imu.write(bytes([0x75, 0x65, 0x0C, 0x05, 0x05, 0x0F, 0x01, 0xA0, 0x00, 0xA0, 0x4F]))
+    imu.write(bytes([0x75, 0x65, 0x0C, 0x03, 0x03, 0x0E, 0x80, 0x7A, 0x7E]))
+    imu.write(bytes([0x75, 0x65, 0x0C, 0x04, 0x04, 0x0F, 0x02, 0x80, 0x7F, 0x88]))
+    imu.write(bytes([0x75, 0x65, 0x0C, 0x04, 0x04, 0x11, 0x02, 0x80, 0x81, 0x8E]))
+    imu.write(bytes([0x75, 0x65, 0x0C, 0x03, 0x03, 0x0E, 0x82, 0x7C, 0x80]))
+    imu.write(bytes([0x75, 0x65, 0x0C, 0x04, 0x04, 0x0F, 0x02, 0x82, 0x81, 0x8A]))
+    imu.write(bytes([0x75, 0x65, 0x0C, 0x04, 0x04, 0x11, 0x02, 0x82, 0x83, 0x90]))
+    imu.write(bytes([0x75, 0x65, 0x0C, 0x03, 0x03, 0x0E, 0x94, 0x8E, 0x92]))
+    imu.write(bytes([0x75, 0x65, 0x0C, 0x04, 0x04, 0x0F, 0x02, 0x94, 0x93, 0x9C]))
+    imu.write(bytes([0x75, 0x65, 0x0C, 0x04, 0x04, 0x11, 0x02, 0x94, 0x95, 0xA2]))
+    imu.write(bytes([0x75, 0x65, 0x0C, 0x03, 0x03, 0x0E, 0xA0, 0x9A, 0x9E]))
+    imu.write(bytes([0x75, 0x65, 0x0C, 0x04, 0x04, 0x0F, 0x02, 0xA0, 0x9F, 0xA8]))
+    imu.write(bytes([0x75, 0x65, 0x0C, 0x04, 0x04, 0x11, 0x02, 0xA0, 0xA1, 0xAE]))
+    imu.write(bytes([0x75, 0x65, 0x13, 0x04, 0x04, 0x1F, 0x01, 0x01, 0x16, 0x61]))
+
+    print("Stream initialized successfully")
+    log.write("Stream initialized successfully\n")
+
+    #Resume stream
+    imu.write(bytes([0x75, 0x65, 0x01, 0x02, 0x02, 0x06, 0xE5, 0xCB]))
+
 
 def sync_stream(imu, log):
-    #TODO: Fill out
+    imu.reset_input_buffer()
+    imu.reset_output_buffer()
+    imu.read_until(b'\x75\x65')
+    imu.read(30)
+    print("Stream synced")
+    log.write("Stream synced\n")
     pass
 
 def read_stream_data(imu, log):
-    #TODO: Fix
     # Wait for minimum response size with timeout
-    start_time = time.time()
-    while imu.in_waiting < 20 and (time.time() - start_time) < 1.0:
-        pass
-    
-    if imu.in_waiting < 20:
-        print(f"Timeout waiting for data. Bytes available: {imu.in_waiting}")
-        return None
-        
-    raw_data = imu.read(20)
+    raw_data = imu.read(34)
     
     # Validate checksum
-    if raw_data[18:20] != fletcher_checksum(raw_data[0:18]):
-        print(f'Checksum failed. Expected: {fletcher_checksum(raw_data[0:18]).hex()}, Got: {raw_data[18:20].hex()}')
-        log.write(f'Checksum failed. Expected: {fletcher_checksum(raw_data[0:18]).hex()}, Got: {raw_data[18:20].hex()}\n')
+    if raw_data[32:] != fletcher_checksum(raw_data[0:32]):
+        print(f'Checksum failed. Expected: {fletcher_checksum(raw_data[0:32]).hex()}, Got: {raw_data[32:].hex()}')
+        log.write(f'Checksum failed. Expected: {fletcher_checksum(raw_data[0:32]).hex()}, Got: {raw_data[32:].hex()}\n')
         return None
         
     # Validate packet type
@@ -119,16 +139,15 @@ def read_stream_data(imu, log):
         return None
         
     # Validate field descriptor
-    if raw_data[5] != 0x04:
-        print(f'Invalid field descriptor: 0x{raw_data[5]:02x}')
-        log.write(f'Invalid field descriptor: 0x{raw_data[5]:02x}\n')
-        print(raw_data)
-        log.write(str(raw_data) + '\n')
+    if raw_data[5] != 0xD3 or raw_data[19] != 0x04:
+        print(f'Invalid field descriptor: 0x{raw_data[5]:02x} or 0x{raw_data[19]:02x}')
+        log.write(f'Invalid field descriptor: 0x{raw_data[5]:02x} or 0x{raw_data[19]:02x}\n')
         return None
         
     # Verify header
     if raw_data[0:2] != bytes([0x75, 0x65]):
         print(f"Invalid header: {raw_data[0:2]}")
+        log.write(f"Invalid header: {raw_data[0:2]}\n")
         return None
     
     return parse_stream_data(raw_data, log)
@@ -139,14 +158,17 @@ def parse_stream_data(raw_data, log):
     '''
     try:
         # Check if we have enough data
-        if len(raw_data) < 20:
+        if len(raw_data) < 34:
             print(f"Not enough data: {len(raw_data)} bytes")
             return None
             
             
-        # Extract acceleration data (12 bytes, 3 floats)
-        # Using explicit little-endian format for float values
-        accel_data = raw_data[6:18]
+        gps_data = raw_data[6:18]
+        time_of_week = struct.unpack('>d', raw_data[6:14])[0]
+        week_number = struct.unpack('>H', raw_data[14:16])[0]
+
+
+        accel_data = raw_data[20:32]
         accel_x, accel_y, accel_z = struct.unpack('>fff', accel_data)
         
         accel_x = accel_x * 9.80665
@@ -155,6 +177,8 @@ def parse_stream_data(raw_data, log):
 
         # Convert acceleration data to m/s^2
         return {
+            'time_of_week': time_of_week,
+            'week_number': week_number,
             'x': accel_x,
             'y': accel_y,
             'z': accel_z
