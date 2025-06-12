@@ -3,45 +3,26 @@ import time
 import struct
 from datetime import datetime
 
-
-descriptor = {
-    'Sensor': 0x80,
-    'Acceleration': 0x04,
-    'Gyroscope': 0x05,
-    'Magnetometer': 0x06,
-    'Velocity': 0x08,
-    'GPS Timestamps': 0x12,
-    'Temperature': 0x14,
-    'Pressure': 0x17,
-}
-
+imu_port = 'COM7'
 
 def main():
     #Make log file
     log = start_log()
     try:
         # Initialize IMU
-        imu = initialize_imu(log)
-        print("IMU initialized successfully")
-        log.write("IMU initialized succesfully\n")
-        
-        # Wait for sensor to stabilize
-        time.sleep(0.5)
-        
+        imu = initialize_imu(log, imu_port)
         initialize_pps(imu, log)
-        print("PPS initialized succesfully")
-        log.write("PPS initialized succesfully\n")
-        
+        initialize_gps(imu, log)
+        initialize_stream(imu, log)
+        sync_stream(imu, log)
 
         # Continuous reading loop
         while True:
-            poll_imu_acceleration(imu, log)
-            data = read_imu_acceleration(imu, log)
+            data = read_stream_data(imu, log)
             if data:  # Only print if we got valid data
                 message = f"Acceleration: X={data['x']:.6f}, Y={data['y']:.6f}, Z={data['z']:.6f} g"
                 print(message)
                 log.write(message + '\n')
-            time.sleep(0.01)
     except KeyboardInterrupt:
         print("\nExiting...")
         log.write("\nExiting...\n")
@@ -49,13 +30,24 @@ def main():
     finally:
         log.close()
         
-def initialize_imu(log):
+########################################################################## functions ##########################################################################
+def start_log():
+    """
+    Start a new log file with a timestamp
+    """
+    log = open('./logs/log' + datetime.now().strftime('%Y-%m-%d_%H-%M-%S') + '.txt', 'w')
+    log.write('\n#################################################################\n')
+    log.write(f'Log started at {datetime.now().strftime('%Y-%m-%d_%H-%M-%S')} \n')
+    log.write('#################################################################\n')
+    return log
+
+def initialize_imu(log, imu_port):
     '''
     initialize UART port for 3DM-CV7-INS
     Default settings: 115200 baud, 8 data bits, 1 stop bit, no parity
     '''
     imu = serial.Serial(
-        port='COM7',
+        port=imu_port,
         baudrate=115200,
         timeout=1
     )
@@ -74,6 +66,8 @@ def initialize_imu(log):
         print("IMU Initialization Failed!")
         log.write("IMU Initialization Failed!")
         raise Exception("IMU Failed to Initialize")
+    print("IMU initialized successfully")
+    log.write("IMU initialized succesfully\n")
     return imu
 
 def initialize_pps(imu, log):
@@ -83,29 +77,24 @@ def initialize_pps(imu, log):
         print("PPS Initialization Failed!")
         log.write("IMU Initialization Failed!")
         raise Exception("IMU Initialization Failed!")
-
-'''
-def parse_raw_data(raw_data, log):
-    """
-    Parse raw data and returns decoded values.
-    raw_data: array of bytes containing IMU data
-    returns: dictionary containing IMU data
-    """
-    if raw_data[0:2] != [0x75, 0x65]:
-        raise ValueError("Invalid header")
     
-    # Parse the data
-'''
+    print("PPS initialized succesfully")
+    log.write("PPS initialized succesfully\n")
 
+def initialize_gps(imu, log):
+    #TODO: Fill out
+    pass
 
+def initialize_stream(imu, log):
+    #TODO: Fill out
+    pass
 
-def poll_imu_acceleration(imu, log):
-    command = bytes([0x75, 0x65, 0x0C, 0x06, 0x06, 0x0D, 0x80, 0x01, 0x01, 0x04])
-    checksum = fletcher_checksum(command)
-    command += checksum
-    imu.write(command)
+def sync_stream(imu, log):
+    #TODO: Fill out
+    pass
 
-def read_imu_acceleration(imu, log):
+def read_stream_data(imu, log):
+    #TODO: Fix
     # Wait for minimum response size with timeout
     start_time = time.time()
     while imu.in_waiting < 20 and (time.time() - start_time) < 1.0:
@@ -142,9 +131,9 @@ def read_imu_acceleration(imu, log):
         print(f"Invalid header: {raw_data[0:2]}")
         return None
     
-    return parse_acceleration_data(raw_data, log)
+    return parse_stream_data(raw_data, log)
 
-def parse_acceleration_data(raw_data, log):
+def parse_stream_data(raw_data, log):
     '''
     Parse acceleration data from the sensor using struct.
     '''
@@ -189,13 +178,31 @@ def fletcher_checksum(data):
     # Return the two checksum bytes
     return(bytes([MSB, LSB])) 
 
-def start_log():
-    
-    log = open('./logs/log.txt', 'a')
-    log.write('\n#################################################################\n')
-    log.write(f'Log started at {datetime.now()} \n')
-    log.write('#################################################################\n')
-    return log
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 if __name__ == '__main__':
