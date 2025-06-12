@@ -1,6 +1,0 @@
-
-#################################################################
-Log started at 2025-06-12_14-07-06 
-#################################################################
-IMU Initialization Failed!IMU initialized succesfully
-IMU Initialization Failed!

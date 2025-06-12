@@ -1,8 +1,0 @@
-
-#################################################################
-Log started at 2025-06-12_13-59-50 
-#################################################################
-IMU initialized succesfully
-PPS initialized succesfully
-Stream initialized successfully
-Stream synced

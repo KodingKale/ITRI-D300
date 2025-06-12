@@ -1,0 +1,26 @@
+
+#################################################################
+Log started at 2025-06-12_15-13-28 
+#################################################################
+IMU initialized succesfully
+PPS initialized succesfully
+Stream initialized successfully
+Stream synced
+Checksum failed. Expected: cf7e, Got: 1275
+Checksum failed. Expected: a4ae, Got: 07bf
+Checksum failed. Expected: 8434, Got: 86bf
+Checksum failed. Expected: d3ec, Got: bfbf
+Checksum failed. Expected: d4c1, Got: e3bf
+Checksum failed. Expected: 72d2, Got: 21bf
+Checksum failed. Expected: 4835, Got: 1dbf
+Checksum failed. Expected: 9314, Got: c9bf
+Checksum failed. Expected: afba, Got: 7fbf
+Checksum failed. Expected: 472f, Got: a7bf
+Checksum failed. Expected: 7f6b, Got: e8bf
+Checksum failed. Expected: 65ab, Got: 97bf
+Checksum failed. Expected: d6de, Got: 00bf
+Checksum failed. Expected: 6f20, Got: d9bf
+Checksum failed. Expected: 9139, Got: 63bf
+Checksum failed. Expected: 361a, Got: 54bf
+
+Exiting...

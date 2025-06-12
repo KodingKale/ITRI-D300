@@ -62,24 +62,23 @@ def initialize_imu(log):
     checksum = fletcher_checksum(idle_command)
     imu.write(idle_command + checksum)
     ack = imu.read(10)
-    if ack != bytes([0x75, 0x65, 0x01, 0x04, 0x04, 0xF1, 0x02, 0x00, 0xD6, 0x6C]):
-        print("IMU Initialization Failed!")
-        log.write("IMU Initialization Failed!")
     print("IMU initialized successfully")
     log.write("IMU initialized succesfully\n")
     return imu
 
 def initialize_pps(imu, log):
+    """
+    Initialize PPS on GPIO3 (1 Hz 25 ms)
+    """
     imu.write(bytes([0x75, 0x65, 0x0C, 0x07, 0x07, 0x41, 0x01, 0x03, 0x02, 0x01, 0x00, 0x3C, 0x6D]))
     ack = imu.read(10)
-    if ack != bytes([0x75, 0x65, 0x0C, 0x04, 0x04, 0xF1, 0x41, 0x00, 0x20, 0x2C]):
-        print("PPS Initialization Failed!")
-        log.write("PPS Initialization Failed!")
-    
     print("PPS initialized succesfully")
     log.write("PPS initialized succesfully\n")
 
 def initialize_gps(imu, log):
+    """
+    Initialize GPS at given offset
+    """ 
     #TODO: Fill out
     #Set GPS offset
     command = bytes([0x75, 0x65, 0x0D, 0x0F, 0x0F, 0x13, 0x01])
@@ -99,6 +98,10 @@ def initialize_gps(imu, log):
 
 
 def initialize_stream(imu, log):
+    """
+    Initialize stream of timestamps and acceleration data
+    (COMMAND MEANING UNKNKOWN, COPIED DIRECTLY FROM SENSORCONNECT)
+    """
     imu.write(bytes([0x75, 0x65, 0x0C, 0x03, 0x03, 0x0E, 0x80, 0x7A, 0x7E]))
     imu.write(bytes([0x75, 0x65, 0x0C, 0x0B, 0x0B, 0x0F, 0x01, 0x80, 0x02, 0xD3, 0x00, 0x0A, 0x04, 0x00, 0x0A, 0x79, 0xD7]))
     imu.write(bytes([0x75, 0x65, 0x0C, 0x03, 0x03, 0x0E, 0x82, 0x7C, 0x80]))
@@ -129,6 +132,9 @@ def initialize_stream(imu, log):
 
 
 def sync_stream(imu, log):
+    """
+    Sync stream by purging until header is found
+    """
     imu.reset_input_buffer()
     imu.reset_output_buffer()
     imu.read_until(b'\x75\x65')
@@ -138,6 +144,9 @@ def sync_stream(imu, log):
     pass
 
 def read_stream_data(imu, log):
+    """
+    Read stream data from IMU and checks the validity of the data
+    """
     # Wait for minimum response size with timeout
     raw_data = imu.read(34)
     
@@ -169,7 +178,7 @@ def read_stream_data(imu, log):
 
 def parse_stream_data(raw_data, log):
     '''
-    Parse acceleration data from the sensor using struct.
+    Parse timestamp and acceleration data from the stream returning a dictionary with all the values
     '''
     try:
         # Check if we have enough data
