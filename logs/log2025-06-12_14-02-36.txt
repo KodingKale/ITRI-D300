@@ -1,0 +1,94 @@
+
+#################################################################
+Log started at 2025-06-12_14-02-36 
+#################################################################
+IMU initialized succesfully
+PPS initialized succesfully
+Stream initialized successfully
+Stream synced
+Checksum failed. Expected: 3c07, Got: 650c
+Checksum failed. Expected: 3abf, Got: 7565
+Checksum failed. Expected: 5a58, Got: 5375
+Checksum failed. Expected: 07d6, Got: 04f1
+Checksum failed. Expected: 69a1, Got: 9400
+Checksum failed. Expected: 8b2f, Got: 650c
+Checksum failed. Expected: c0eb, Got: 1100
+Checksum failed. Expected: 7322, Got: 4086
+Checksum failed. Expected: 44fc, Got: 4086
+Checksum failed. Expected: ffd4, Got: 4086
+Checksum failed. Expected: 8c3c, Got: 4086
+Checksum failed. Expected: c60c, Got: 4086
+Checksum failed. Expected: d584, Got: 4086
+Checksum failed. Expected: f47c, Got: 4086
+Checksum failed. Expected: 189c, Got: 4086
+Checksum failed. Expected: 081c, Got: 4086
+Checksum failed. Expected: 3584, Got: 4086
+Checksum failed. Expected: a1e4, Got: 4086
+Checksum failed. Expected: c504, Got: 4086
+Checksum failed. Expected: d89c, Got: 4086
+Checksum failed. Expected: 881c, Got: 4086
+Checksum failed. Expected: e714, Got: 4086
+Checksum failed. Expected: 4a2c, Got: 4086
+Checksum failed. Expected: 01e4, Got: 4086
+Checksum failed. Expected: 5dc4, Got: 4086
+Checksum failed. Expected: c4fc, Got: 4086
+Checksum failed. Expected: 589c, Got: 4086
+Checksum failed. Expected: cd44, Got: 4086
+Checksum failed. Expected: f794, Got: 4086
+Checksum failed. Expected: 5fd4, Got: 4086
+Checksum failed. Expected: 6504, Got: 4086
+Checksum failed. Expected: b164, Got: 4086
+Checksum failed. Expected: 3dc4, Got: 4086
+Checksum failed. Expected: 9bb4, Got: 4086
+Checksum failed. Expected: 62ec, Got: 4086
+Checksum failed. Expected: a2ec, Got: 4086
+Checksum failed. Expected: 7aac, Got: 4086
+Checksum failed. Expected: d164, Got: 4086
+Checksum failed. Expected: e0dc, Got: 4086
+Checksum failed. Expected: b9a4, Got: 4086
+Checksum failed. Expected: 6d44, Got: 4086
+Checksum failed. Expected: e504, Got: 4086
+Checksum failed. Expected: e60c, Got: 4086
+Checksum failed. Expected: fdc4, Got: 4086
+Checksum failed. Expected: 1aac, Got: 4086
+Checksum failed. Expected: 23f4, Got: 4086
+Checksum failed. Expected: d794, Got: 4086
+Checksum failed. Expected: baac, Got: 4086
+Checksum failed. Expected: 389c, Got: 4086
+Checksum failed. Expected: af54, Got: 4086
+Checksum failed. Expected: a2ec, Got: 4086
+Checksum failed. Expected: ec3c, Got: 4086
+Checksum failed. Expected: 126c, Got: 4086
+Checksum failed. Expected: b89c, Got: 4086
+Checksum failed. Expected: 389c, Got: 4086
+Checksum failed. Expected: 8504, Got: 4086
+Checksum failed. Expected: 59a4, Got: 4086
+Checksum failed. Expected: ef54, Got: 4086
+Checksum failed. Expected: 9ecc, Got: 4086
+Checksum failed. Expected: e504, Got: 4086
+Checksum failed. Expected: 8a2c, Got: 4086
+Checksum failed. Expected: 6d44, Got: 4086
+Checksum failed. Expected: e81c, Got: 4086
+Checksum failed. Expected: d584, Got: 4086
+Checksum failed. Expected: 6b34, Got: 4086
+Checksum failed. Expected: 568c, Got: 4086
+Checksum failed. Expected: 9fd4, Got: 4086
+Checksum failed. Expected: 2a2c, Got: 4086
+Checksum failed. Expected: ea2c, Got: 4086
+Checksum failed. Expected: bdc4, Got: 4086
+Checksum failed. Expected: dcbc, Got: 4086
+Checksum failed. Expected: 24fc, Got: 4086
+Checksum failed. Expected: 7bb4, Got: 4086
+Checksum failed. Expected: f794, Got: 4086
+Checksum failed. Expected: 5164, Got: 4086
+Checksum failed. Expected: 21e4, Got: 4086
+Checksum failed. Expected: a1e4, Got: 4086
+Checksum failed. Expected: 7aac, Got: 4086
+Checksum failed. Expected: 726c, Got: 4086
+Checksum failed. Expected: 4714, Got: 4086
+Checksum failed. Expected: e81c, Got: 4086
+Checksum failed. Expected: e1e4, Got: 4086
+Checksum failed. Expected: 21e4, Got: 4086
+Checksum failed. Expected: 1164, Got: 4086
+
+Exiting...

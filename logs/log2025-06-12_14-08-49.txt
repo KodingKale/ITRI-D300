@@ -1,0 +1,52 @@
+
+#################################################################
+Log started at 2025-06-12_14-08-49 
+#################################################################
+IMU initialized succesfully
+PPS initialized succesfully
+Stream initialized successfully
+Stream synced
+Checksum failed. Expected: 7433, Got: 048f
+Checksum failed. Expected: 2d04, Got: 04f1
+Checksum failed. Expected: ebc1, Got: 3f7f
+Checksum failed. Expected: bd27, Got: 3f7f
+Checksum failed. Expected: cac0, Got: 3f7f
+Checksum failed. Expected: a9a2, Got: 3f7f
+Checksum failed. Expected: c0e1, Got: 3f7f
+Checksum failed. Expected: 9758, Got: 3f7f
+Checksum failed. Expected: 6b35, Got: 3f7f
+Checksum failed. Expected: 5b6f, Got: 3f7f
+Checksum failed. Expected: 2cba, Got: 3f7f
+Checksum failed. Expected: a7e3, Got: 3f7f
+Checksum failed. Expected: 24a2, Got: 3f80
+Checksum failed. Expected: c3c7, Got: 3f7f
+Checksum failed. Expected: 7dd1, Got: 3f7f
+Checksum failed. Expected: 5319, Got: 3f7e
+Checksum failed. Expected: 52ef, Got: 3f7f
+Checksum failed. Expected: dc89, Got: 3f7f
+Checksum failed. Expected: e600, Got: 3f7e
+Checksum failed. Expected: 6e3c, Got: 3f80
+Checksum failed. Expected: fe62, Got: 3f80
+Checksum failed. Expected: 6957, Got: 3f7f
+Checksum failed. Expected: 5de2, Got: 3f7f
+Checksum failed. Expected: e5ad, Got: 3f7f
+Checksum failed. Expected: b225, Got: 3f7f
+Checksum failed. Expected: 22db, Got: 3f7f
+Checksum failed. Expected: 0181, Got: 3f7f
+Checksum failed. Expected: 76e1, Got: 3f7f
+Checksum failed. Expected: 5e98, Got: 3f7f
+Checksum failed. Expected: eeda, Got: 3f7f
+Checksum failed. Expected: adf1, Got: 3f80
+Checksum failed. Expected: d157, Got: 3f7f
+Checksum failed. Expected: df04, Got: 3f7f
+Checksum failed. Expected: 0a22, Got: 3f7f
+Checksum failed. Expected: 573a, Got: 3f7f
+Checksum failed. Expected: 5745, Got: 3f7f
+Checksum failed. Expected: 9a65, Got: 3f7f
+Checksum failed. Expected: e15b, Got: 3f80
+Checksum failed. Expected: 2fe8, Got: 3f80
+Checksum failed. Expected: f3c4, Got: 3f80
+Checksum failed. Expected: 6b5d, Got: 3f80
+Checksum failed. Expected: 454e, Got: 3f80
+
+Exiting...

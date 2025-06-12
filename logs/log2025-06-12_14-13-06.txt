@@ -1,0 +1,105 @@
+
+#################################################################
+Log started at 2025-06-12_14-13-06 
+#################################################################
+IMU initialized succesfully
+PPS initialized succesfully
+Stream initialized successfully
+Stream synced
+Checksum failed. Expected: 7433, Got: 048f
+Checksum failed. Expected: 2d04, Got: 04f1
+Checksum failed. Expected: ce68, Got: 3f7f
+Checksum failed. Expected: 123b, Got: 3f7f
+Checksum failed. Expected: 7d85, Got: 3f7f
+Checksum failed. Expected: 9a24, Got: 3f7f
+Checksum failed. Expected: d574, Got: 3f7f
+Checksum failed. Expected: 9050, Got: 3f7f
+Checksum failed. Expected: 4e71, Got: 3f7f
+Checksum failed. Expected: 0e8d, Got: 3f7f
+Checksum failed. Expected: b842, Got: 3f7f
+Checksum failed. Expected: 7606, Got: 3f7f
+Checksum failed. Expected: c18e, Got: 3f7f
+Checksum failed. Expected: eed5, Got: 3f7f
+Checksum failed. Expected: b3e0, Got: 3f7f
+Checksum failed. Expected: 5814, Got: 3f7f
+Checksum failed. Expected: 9943, Got: 3f7f
+Checksum failed. Expected: f8ed, Got: 3f7f
+Checksum failed. Expected: 4a78, Got: 3f7f
+Checksum failed. Expected: 97a7, Got: 3f7f
+Checksum failed. Expected: cc40, Got: 3f7f
+Checksum failed. Expected: da2c, Got: 3f7f
+Checksum failed. Expected: b084, Got: 3f7f
+Checksum failed. Expected: f13d, Got: 3f7f
+Checksum failed. Expected: 5de9, Got: 3f7f
+Checksum failed. Expected: 3596, Got: 3f7f
+Checksum failed. Expected: a50a, Got: 3f7f
+Checksum failed. Expected: d480, Got: 3f7f
+Checksum failed. Expected: 9140, Got: 3f7f
+Checksum failed. Expected: 7ab5, Got: 3f7f
+Checksum failed. Expected: 1b33, Got: 3f7f
+Checksum failed. Expected: 321b, Got: 3f7f
+Checksum failed. Expected: 982b, Got: 3f7f
+Checksum failed. Expected: 77c7, Got: 3f7f
+Checksum failed. Expected: 6c24, Got: 3f7f
+Checksum failed. Expected: 9b94, Got: 3f7f
+Checksum failed. Expected: 38dd, Got: 3f7f
+Checksum failed. Expected: 61be, Got: 3f7f
+Checksum failed. Expected: 5275, Got: 3f7f
+Checksum failed. Expected: f55a, Got: 3f7f
+Checksum failed. Expected: a9f4, Got: 3f7f
+Checksum failed. Expected: b243, Got: 3f7f
+Checksum failed. Expected: 4f4e, Got: 3f7f
+Checksum failed. Expected: ff61, Got: 3f7f
+Checksum failed. Expected: ffa9, Got: 3f7f
+Checksum failed. Expected: a280, Got: 3f7f
+Checksum failed. Expected: 1208, Got: 3f7f
+Checksum failed. Expected: 5f06, Got: 3f7f
+Checksum failed. Expected: 9898, Got: 3f7f
+Checksum failed. Expected: 9602, Got: 3f7f
+Checksum failed. Expected: 4b67, Got: 3f7f
+Checksum failed. Expected: f6de, Got: 3f7f
+Checksum failed. Expected: 12b6, Got: 3f7f
+Checksum failed. Expected: e298, Got: 3f7f
+Checksum failed. Expected: e4db, Got: 3f7f
+Checksum failed. Expected: 86e0, Got: 3f7f
+Checksum failed. Expected: 88ed, Got: 3f7f
+Checksum failed. Expected: 5a7f, Got: 3f7f
+Checksum failed. Expected: c071, Got: 3f7f
+Checksum failed. Expected: f485, Got: 3f7f
+Checksum failed. Expected: 750e, Got: 3f7f
+Checksum failed. Expected: 27af, Got: 3f7f
+Checksum failed. Expected: 3118, Got: 3f7f
+Checksum failed. Expected: 7598, Got: 3f7f
+Checksum failed. Expected: 5d23, Got: 3f7f
+Checksum failed. Expected: 5b56, Got: 3f7f
+Checksum failed. Expected: 226f, Got: 3f7f
+Checksum failed. Expected: c666, Got: 3f7f
+Checksum failed. Expected: b977, Got: 3f7f
+Checksum failed. Expected: 719c, Got: 3f7f
+Checksum failed. Expected: f9b4, Got: 3f7f
+Checksum failed. Expected: ecc0, Got: 3f7f
+Checksum failed. Expected: 5f9e, Got: 3f7e
+Checksum failed. Expected: ac24, Got: 3f7f
+Checksum failed. Expected: 586a, Got: 3f80
+Checksum failed. Expected: 8c8d, Got: 3f7f
+Checksum failed. Expected: 2caa, Got: 3f7f
+Checksum failed. Expected: 5ddb, Got: 3f7f
+Checksum failed. Expected: 8632, Got: 3f7f
+Checksum failed. Expected: 2e5f, Got: 3f7f
+Checksum failed. Expected: 8451, Got: 3f7f
+Checksum failed. Expected: 60a0, Got: 3f7f
+Checksum failed. Expected: 17a6, Got: 3f7f
+Checksum failed. Expected: 7961, Got: 3f7f
+Checksum failed. Expected: c4f0, Got: 3f7f
+Checksum failed. Expected: 9a4d, Got: 3f80
+Checksum failed. Expected: c46d, Got: 3f7f
+Checksum failed. Expected: 4476, Got: 3f7f
+Checksum failed. Expected: 584e, Got: 3f7f
+Checksum failed. Expected: 668c, Got: 3f80
+Checksum failed. Expected: 9f78, Got: 3f7f
+Checksum failed. Expected: 2cf2, Got: 3f7f
+Checksum failed. Expected: f7f5, Got: 3f7f
+Checksum failed. Expected: d59f, Got: 3f7f
+Checksum failed. Expected: dc75, Got: 3f80
+
+Exiting...

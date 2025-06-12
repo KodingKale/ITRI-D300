@@ -1,0 +1,113 @@
+
+#################################################################
+Log started at 2025-06-12_14-07-48 
+#################################################################
+IMU Initialization Failed!IMU initialized succesfully
+PPS Initialization Failed!PPS initialized succesfully
+Stream initialized successfully
+Stream synced
+Checksum failed. Expected: 1db8, Got: 0f00
+Checksum failed. Expected: 25e3, Got: f10e
+Checksum failed. Expected: 6a3b, Got: 5875
+Checksum failed. Expected: d6d8, Got: 5075
+Checksum failed. Expected: 2ee8, Got: 04f1
+Checksum failed. Expected: 3f4a, Got: 8f94
+Checksum failed. Expected: 1621, Got: 7565
+Checksum failed. Expected: c30b, Got: 1f00
+Checksum failed. Expected: 5a9f, Got: bbe3
+Checksum failed. Expected: 8e75, Got: bc0a
+Checksum failed. Expected: 6218, Got: bc15
+Checksum failed. Expected: 1869, Got: bc0b
+Checksum failed. Expected: 0304, Got: bc01
+Checksum failed. Expected: 13ed, Got: bbfa
+Checksum failed. Expected: aa7f, Got: bbf4
+Checksum failed. Expected: 7353, Got: bc00
+Checksum failed. Expected: a63f, Got: bbfc
+Checksum failed. Expected: 9e16, Got: bbf0
+Checksum failed. Expected: 1fde, Got: bbf8
+Checksum failed. Expected: 6e81, Got: bc07
+Checksum failed. Expected: 6666, Got: bc09
+Checksum failed. Expected: be01, Got: bc0f
+Checksum failed. Expected: 217c, Got: bc13
+Checksum failed. Expected: 03f5, Got: bc08
+Checksum failed. Expected: eb81, Got: bbef
+Checksum failed. Expected: e64c, Got: bbd2
+Checksum failed. Expected: 1608, Got: bbfb
+Checksum failed. Expected: 24c8, Got: bc09
+Checksum failed. Expected: 5470, Got: bc12
+Checksum failed. Expected: 7fd6, Got: bc0e
+Checksum failed. Expected: 0a25, Got: bbf8
+Checksum failed. Expected: 1bdc, Got: bc01
+Checksum failed. Expected: 9ec8, Got: bbf5
+Checksum failed. Expected: ade0, Got: bc00
+Checksum failed. Expected: e582, Got: bbf3
+Checksum failed. Expected: a27f, Got: bc03
+Checksum failed. Expected: 180d, Got: bc02
+Checksum failed. Expected: 4b75, Got: bc0a
+Checksum failed. Expected: 50a6, Got: bc06
+Checksum failed. Expected: 5c19, Got: bc08
+Checksum failed. Expected: e1bd, Got: bc0c
+Checksum failed. Expected: 9ee9, Got: bc09
+Checksum failed. Expected: 8ef9, Got: bbf8
+Checksum failed. Expected: 8a96, Got: bbf1
+Checksum failed. Expected: 65e6, Got: bc02
+Checksum failed. Expected: 99dd, Got: bc02
+Checksum failed. Expected: e7b2, Got: bc0f
+Checksum failed. Expected: 5064, Got: bc0d
+Checksum failed. Expected: 925f, Got: bc0e
+Checksum failed. Expected: e141, Got: bc03
+Checksum failed. Expected: e642, Got: bbf7
+Checksum failed. Expected: 05d9, Got: bbf8
+Checksum failed. Expected: 6acb, Got: bc00
+Checksum failed. Expected: 5809, Got: bbf9
+Checksum failed. Expected: 18f9, Got: bc05
+Checksum failed. Expected: 7a06, Got: bbf8
+Checksum failed. Expected: 0a44, Got: bbf4
+Checksum failed. Expected: 330f, Got: bc03
+Checksum failed. Expected: efc4, Got: bc05
+Checksum failed. Expected: edd9, Got: bc09
+Checksum failed. Expected: 32bf, Got: bc08
+Checksum failed. Expected: 5eb8, Got: bc00
+Checksum failed. Expected: 9a33, Got: bbfd
+Checksum failed. Expected: 1965, Got: bbf7
+Checksum failed. Expected: 52cc, Got: bc01
+Checksum failed. Expected: f374, Got: bc08
+Checksum failed. Expected: 56c3, Got: bbf7
+Checksum failed. Expected: 9ab1, Got: bc09
+Checksum failed. Expected: 01e7, Got: bbfe
+Checksum failed. Expected: 49cd, Got: bc02
+Checksum failed. Expected: e659, Got: bc04
+Checksum failed. Expected: 9342, Got: bbf5
+Checksum failed. Expected: 8daa, Got: bc01
+Checksum failed. Expected: 14ed, Got: bbfe
+Checksum failed. Expected: 0c8d, Got: bc03
+Checksum failed. Expected: 7bee, Got: bc05
+Checksum failed. Expected: 27fd, Got: bc05
+Checksum failed. Expected: fc9a, Got: bbf9
+Checksum failed. Expected: b996, Got: bc00
+Checksum failed. Expected: fc16, Got: bc0c
+Checksum failed. Expected: c2c7, Got: bbf1
+Checksum failed. Expected: 2e87, Got: bbf0
+Checksum failed. Expected: 5847, Got: bbfe
+Checksum failed. Expected: 5c43, Got: bc0a
+Checksum failed. Expected: 7bb4, Got: bc0d
+Checksum failed. Expected: 3a21, Got: bc0d
+Checksum failed. Expected: 33ad, Got: bc0a
+Checksum failed. Expected: 3fd1, Got: bc06
+Checksum failed. Expected: 8ff8, Got: bbe9
+Checksum failed. Expected: 995e, Got: bbe9
+Checksum failed. Expected: 8084, Got: bbf7
+Checksum failed. Expected: 7b96, Got: bbfa
+Checksum failed. Expected: cffc, Got: bc0a
+Checksum failed. Expected: 5fce, Got: bc05
+Checksum failed. Expected: 89d2, Got: bc0a
+Checksum failed. Expected: 6c63, Got: bc04
+Checksum failed. Expected: eddc, Got: bc02
+Checksum failed. Expected: 7b61, Got: bbf4
+Checksum failed. Expected: 5c96, Got: bbf3
+Checksum failed. Expected: 1c44, Got: bbf7
+Checksum failed. Expected: 5402, Got: bbff
+Checksum failed. Expected: 23d1, Got: bc0f
+Checksum failed. Expected: 7c0a, Got: bc0e
+
+Exiting...

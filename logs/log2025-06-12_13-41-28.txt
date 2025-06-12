@@ -1,0 +1,67 @@
+
+#################################################################
+Log started at 2025-06-12_13-41-28 
+#################################################################
+IMU initialized succesfully
+PPS initialized succesfully
+Stream initialized successfully
+Stream synced
+Checksum failed. Expected: 9fb8, Got: 6580
+Checksum failed. Expected: dccf, Got: 6580
+Checksum failed. Expected: ca99, Got: 6580
+Checksum failed. Expected: 1c8f, Got: 6580
+Checksum failed. Expected: e7f0, Got: 6580
+Checksum failed. Expected: ddd2, Got: 6580
+Checksum failed. Expected: ef08, Got: 6580
+Checksum failed. Expected: 5c4f, Got: 6580
+Checksum failed. Expected: a936, Got: 6580
+Checksum failed. Expected: 512e, Got: 6580
+Checksum failed. Expected: b966, Got: 6580
+Checksum failed. Expected: 7caf, Got: 6580
+Checksum failed. Expected: b354, Got: 6580
+Checksum failed. Expected: 8ad9, Got: 6580
+Checksum failed. Expected: 759a, Got: 6580
+Checksum failed. Expected: 0956, Got: 6580
+Checksum failed. Expected: ab3c, Got: 6580
+Checksum failed. Expected: b251, Got: 6580
+Checksum failed. Expected: fc2f, Got: 6580
+Checksum failed. Expected: 84c7, Got: 6580
+Checksum failed. Expected: 1b8c, Got: 6580
+Checksum failed. Expected: dac9, Got: 6580
+Checksum failed. Expected: e6ed, Got: 6580
+Checksum failed. Expected: c58a, Got: 6580
+Checksum failed. Expected: 8ee5, Got: 6580
+Checksum failed. Expected: e6ed, Got: 6580
+Checksum failed. Expected: 1f98, Got: 6580
+Checksum failed. Expected: 9a09, Got: 6580
+Checksum failed. Expected: 3cef, Got: 6580
+Checksum failed. Expected: 79a6, Got: 6580
+Checksum failed. Expected: ff38, Got: 6580
+Checksum failed. Expected: d9c6, Got: 6580
+Checksum failed. Expected: 91ee, Got: 6580
+Checksum failed. Expected: d7c0, Got: 6580
+Checksum failed. Expected: a221, Got: 6580
+Checksum failed. Expected: d3b4, Got: 6580
+Checksum failed. Expected: d1ae, Got: 6580
+Checksum failed. Expected: dbcc, Got: 6580
+Checksum failed. Expected: ab3c, Got: 6580
+Checksum failed. Expected: 4304, Got: 6580
+Checksum failed. Expected: 1374, Got: 6580
+Checksum failed. Expected: dfd8, Got: 6580
+Checksum failed. Expected: a730, Got: 6580
+Checksum failed. Expected: 7aa9, Got: 6580
+Checksum failed. Expected: 5b4c, Got: 6580
+Checksum failed. Expected: 450a, Got: 6580
+Checksum failed. Expected: 563d, Got: 6580
+Checksum failed. Expected: 7db2, Got: 6580
+Checksum failed. Expected: d4b7, Got: 6580
+Checksum failed. Expected: 450a, Got: 6580
+Checksum failed. Expected: 0853, Got: 6580
+Checksum failed. Expected: b966, Got: 6580
+Checksum failed. Expected: f61d, Got: 6580
+Checksum failed. Expected: 23a4, Got: 6580
+Checksum failed. Expected: 8fe8, Got: 6580
+Checksum failed. Expected: 0b5c, Got: 6580
+Checksum failed. Expected: dbcc, Got: 6580
+
+Exiting...

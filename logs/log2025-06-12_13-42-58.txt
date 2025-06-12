@@ -1,0 +1,110 @@
+
+#################################################################
+Log started at 2025-06-12_13-42-58 
+#################################################################
+IMU initialized succesfully
+PPS initialized succesfully
+Stream initialized successfully
+Stream synced
+Checksum failed. Expected: 294f, Got: 0f00
+Checksum failed. Expected: 8d88, Got: e810
+Checksum failed. Expected: 5ca9, Got: 0404
+Checksum failed. Expected: b6eb, Got: 000e
+Checksum failed. Expected: e31a, Got: 000e
+Checksum failed. Expected: db5e, Got: 000e
+Checksum failed. Expected: a1bf, Got: 000e
+Checksum failed. Expected: 7639, Got: 000e
+Checksum failed. Expected: 0f72, Got: 000e
+Checksum failed. Expected: bb0a, Got: 000e
+Checksum failed. Expected: d7e1, Got: 000e
+Checksum failed. Expected: 878e, Got: 000e
+Checksum failed. Expected: d641, Got: 000e
+Checksum failed. Expected: 7703, Got: 000e
+Checksum failed. Expected: 970e, Got: 000e
+Checksum failed. Expected: 62ce, Got: 000e
+Checksum failed. Expected: 9bd0, Got: 000e
+Checksum failed. Expected: 1e44, Got: 000e
+Checksum failed. Expected: 7122, Got: 000e
+Checksum failed. Expected: a7dd, Got: 000e
+Checksum failed. Expected: fdf2, Got: 000e
+Checksum failed. Expected: c050, Got: 000e
+Checksum failed. Expected: 5ff3, Got: 000e
+Checksum failed. Expected: 093c, Got: 000e
+Checksum failed. Expected: f7b5, Got: 000e
+Checksum failed. Expected: 7f80, Got: 000e
+Checksum failed. Expected: eb41, Got: 000e
+Checksum failed. Expected: 1eca, Got: 000e
+Checksum failed. Expected: 3660, Got: 000e
+Checksum failed. Expected: 1a0d, Got: 000e
+Checksum failed. Expected: 76bd, Got: 000e
+Checksum failed. Expected: b519, Got: 000e
+Checksum failed. Expected: b4b1, Got: 000e
+Checksum failed. Expected: e532, Got: 000e
+Checksum failed. Expected: 3b68, Got: 000e
+Checksum failed. Expected: 6ef4, Got: 000e
+Checksum failed. Expected: dba8, Got: 000e
+Checksum failed. Expected: 352c, Got: 000e
+Checksum failed. Expected: 951b, Got: 000e
+Checksum failed. Expected: b300, Got: 000e
+Checksum failed. Expected: d648, Got: 000e
+Checksum failed. Expected: 67d2, Got: 000e
+Checksum failed. Expected: 5537, Got: 000e
+Checksum failed. Expected: 8c01, Got: 000e
+Checksum failed. Expected: e109, Got: 000e
+Checksum failed. Expected: 1598, Got: 000e
+Checksum failed. Expected: 91b1, Got: 000e
+Checksum failed. Expected: 10f4, Got: 000e
+Checksum failed. Expected: 12c5, Got: 000e
+Checksum failed. Expected: b387, Got: 000e
+Checksum failed. Expected: 2c35, Got: 000e
+Checksum failed. Expected: a3c7, Got: 000e
+Checksum failed. Expected: ee18, Got: 000e
+Checksum failed. Expected: eff9, Got: 000e
+Checksum failed. Expected: a1f0, Got: 000e
+Checksum failed. Expected: a73e, Got: 000e
+Checksum failed. Expected: b2be, Got: 000e
+Checksum failed. Expected: acf7, Got: 000e
+Checksum failed. Expected: 27f6, Got: 000e
+Checksum failed. Expected: 5534, Got: 000e
+Checksum failed. Expected: 44b4, Got: 000e
+Checksum failed. Expected: ae2f, Got: 000e
+Checksum failed. Expected: e1ce, Got: 000e
+Checksum failed. Expected: 19c5, Got: 000e
+Checksum failed. Expected: b504, Got: 000e
+Checksum failed. Expected: 7a52, Got: 000e
+Checksum failed. Expected: 3ea5, Got: 000e
+Checksum failed. Expected: 5515, Got: 000e
+Checksum failed. Expected: c51a, Got: 000e
+Checksum failed. Expected: ff21, Got: 000e
+Checksum failed. Expected: ce31, Got: 000e
+Checksum failed. Expected: 6aaa, Got: 000e
+Checksum failed. Expected: 2ac0, Got: 000e
+Checksum failed. Expected: cc71, Got: 000e
+Checksum failed. Expected: b69e, Got: 000e
+Checksum failed. Expected: 9817, Got: 000e
+Checksum failed. Expected: f907, Got: 000e
+Checksum failed. Expected: 3202, Got: 000e
+Checksum failed. Expected: f995, Got: 000e
+Checksum failed. Expected: 563d, Got: 000e
+Checksum failed. Expected: 9c4b, Got: 000e
+Checksum failed. Expected: b189, Got: 000e
+Checksum failed. Expected: 77e6, Got: 000e
+Checksum failed. Expected: bbd0, Got: 000e
+Checksum failed. Expected: 10f3, Got: 000e
+Checksum failed. Expected: b1a9, Got: 000e
+Checksum failed. Expected: 1e5d, Got: 000e
+Checksum failed. Expected: fb9a, Got: 000e
+Checksum failed. Expected: a840, Got: 000e
+Checksum failed. Expected: 6b64, Got: 000e
+Checksum failed. Expected: a44e, Got: 000e
+Checksum failed. Expected: a63b, Got: 000e
+Checksum failed. Expected: 3b05, Got: 000e
+Checksum failed. Expected: a598, Got: 000e
+Checksum failed. Expected: ca10, Got: 000e
+Checksum failed. Expected: 8158, Got: 000e
+Checksum failed. Expected: 1539, Got: 000e
+Checksum failed. Expected: eade, Got: 000e
+Checksum failed. Expected: 32e1, Got: 000e
+Checksum failed. Expected: 2280, Got: 000e
+
+Exiting...

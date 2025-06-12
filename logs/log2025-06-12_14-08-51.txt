@@ -1,0 +1,57 @@
+
+#################################################################
+Log started at 2025-06-12_14-08-51 
+#################################################################
+IMU initialized succesfully
+PPS initialized succesfully
+Stream initialized successfully
+Stream synced
+Checksum failed. Expected: cf7e, Got: 1275
+Checksum failed. Expected: e7cc, Got: fabd
+Checksum failed. Expected: f391, Got: 9bbd
+Checksum failed. Expected: c710, Got: e9bd
+Checksum failed. Expected: 93ab, Got: 62bd
+Checksum failed. Expected: 69db, Got: abbd
+Checksum failed. Expected: f461, Got: adbd
+Checksum failed. Expected: cbba, Got: 16bd
+Checksum failed. Expected: eaf4, Got: 11bd
+Checksum failed. Expected: 0e05, Got: 3fbd
+Checksum failed. Expected: 9123, Got: 36bd
+Checksum failed. Expected: 7342, Got: 33bd
+Checksum failed. Expected: e8c1, Got: 31bd
+Checksum failed. Expected: fb14, Got: 6bbd
+Checksum failed. Expected: 3f4b, Got: bfbd
+Checksum failed. Expected: 2370, Got: bcbd
+Checksum failed. Expected: 1de5, Got: 39bd
+Checksum failed. Expected: 2782, Got: b0bd
+Checksum failed. Expected: 0ce4, Got: f1bd
+Checksum failed. Expected: 597c, Got: 97bd
+Checksum failed. Expected: 63b4, Got: 8dbd
+Checksum failed. Expected: cb1a, Got: 36bd
+Checksum failed. Expected: 6c60, Got: e1bd
+Checksum failed. Expected: c30d, Got: 98bd
+Checksum failed. Expected: e260, Got: 15bd
+Checksum failed. Expected: f15a, Got: 0abd
+Checksum failed. Expected: 77da, Got: 90bd
+Checksum failed. Expected: 770d, Got: c7bd
+Checksum failed. Expected: b114, Got: b3bd
+Checksum failed. Expected: b78e, Got: 3fbd
+Checksum failed. Expected: 402e, Got: 2fbd
+Checksum failed. Expected: 0a3e, Got: 25bd
+Checksum failed. Expected: c872, Got: 27bd
+Checksum failed. Expected: 9d8a, Got: 7bbd
+Checksum failed. Expected: df9a, Got: 4bbd
+Checksum failed. Expected: b04f, Got: 38bd
+Checksum failed. Expected: 35d7, Got: 09bd
+Checksum failed. Expected: 3914, Got: 2abd
+Checksum failed. Expected: 7e0f, Got: 31bd
+Checksum failed. Expected: 7354, Got: b0bd
+Checksum failed. Expected: cf4c, Got: 6ebd
+Checksum failed. Expected: 33da, Got: 8bbd
+Checksum failed. Expected: 66f5, Got: 7cbd
+Checksum failed. Expected: ba34, Got: 03bd
+Checksum failed. Expected: 64d2, Got: debd
+Checksum failed. Expected: 9518, Got: b9bd
+Checksum failed. Expected: 0771, Got: 21bd
+
+Exiting...

@@ -4,7 +4,7 @@ import struct
 from datetime import datetime
 
 imu_port = 'COM7'
-gps_offset = [0, 0, 0] # [x, y, z] in meters
+gps_offset = [0.0, 0.0, 0.0] # [x, y, z] in meters
 
 def main():
     #Make log file
@@ -81,7 +81,22 @@ def initialize_pps(imu, log):
 
 def initialize_gps(imu, log):
     #TODO: Fill out
-    pass
+    #Set GPS offset
+    command = bytes([0x75, 0x65, 0x0D, 0x0F, 0x0F, 0x13, 0x01])
+    command += struct.pack('>f', gps_offset[0])
+    command += struct.pack('>f', gps_offset[1])
+    command += struct.pack('>f', gps_offset[2])
+    command += fletcher_checksum(command)
+    imu.write(command)
+    ack = imu.read(10)
+    #Configure UART
+    imu.write(bytes([0x75, 0x65, 0x0C, 0x07, 0x07, 0x41, 0x01, 0x04, 0x05, 0x21, 0x00, 0x60, 0xBA]))
+    imu.write(bytes([0x75, 0x65, 0x0C, 0x07, 0x07, 0x41, 0x01, 0x02, 0x05, 0x22, 0x00, 0x5F, 0xB4]))
+    imu.write(bytes([0x75, 0x65, 0x01, 0x08, 0x08, 0x09, 0x01, 0x02, 0x00, 0x01, 0xC2, 0x00, 0xBA, 0x3B]))
+
+
+
+
 
 def initialize_stream(imu, log):
     imu.write(bytes([0x75, 0x65, 0x0C, 0x03, 0x03, 0x0E, 0x80, 0x7A, 0x7E]))
@@ -117,7 +132,7 @@ def sync_stream(imu, log):
     imu.reset_input_buffer()
     imu.reset_output_buffer()
     imu.read_until(b'\x75\x65')
-    imu.read(30)
+    imu.read(32)
     print("Stream synced")
     log.write("Stream synced\n")
     pass

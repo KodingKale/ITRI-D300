@@ -1,0 +1,97 @@
+
+#################################################################
+Log started at 2025-06-12_13-59-47 
+#################################################################
+IMU initialized succesfully
+PPS initialized succesfully
+Stream initialized successfully
+Stream synced
+Checksum failed. Expected: cf7e, Got: 1275
+Checksum failed. Expected: d3fa, Got: e7bc
+Checksum failed. Expected: eccf, Got: 0bbc
+Checksum failed. Expected: 7c91, Got: f0bc
+Checksum failed. Expected: 0dd2, Got: 6ebc
+Checksum failed. Expected: b78c, Got: 01bc
+Checksum failed. Expected: 794e, Got: 5abc
+Checksum failed. Expected: ec18, Got: 64bc
+Checksum failed. Expected: 26fb, Got: d6bc
+Checksum failed. Expected: 95c2, Got: 60bc
+Checksum failed. Expected: 851b, Got: 1ebc
+Checksum failed. Expected: 5118, Got: 2fbc
+Checksum failed. Expected: af84, Got: 74bc
+Checksum failed. Expected: a79f, Got: eabc
+Checksum failed. Expected: b9fe, Got: cbbc
+Checksum failed. Expected: 67d5, Got: 4fbc
+Checksum failed. Expected: 4e98, Got: 7ebc
+Checksum failed. Expected: 93f6, Got: e8bc
+Checksum failed. Expected: 1dbc, Got: 04bc
+Checksum failed. Expected: b540, Got: 5bbc
+Checksum failed. Expected: 4858, Got: c3bc
+Checksum failed. Expected: 94cf, Got: b4bc
+Checksum failed. Expected: da9d, Got: a5bc
+Checksum failed. Expected: b3ad, Got: 76bc
+Checksum failed. Expected: 2f0b, Got: 82bc
+Checksum failed. Expected: 3504, Got: c3bc
+Checksum failed. Expected: 0a7b, Got: c1bc
+Checksum failed. Expected: 4355, Got: 9abc
+Checksum failed. Expected: cddc, Got: 70bc
+Checksum failed. Expected: a703, Got: b6bc
+Checksum failed. Expected: 4196, Got: eabc
+Checksum failed. Expected: 208f, Got: 47bc
+Checksum failed. Expected: 83d3, Got: 15bc
+Checksum failed. Expected: ebf6, Got: 92bc
+Checksum failed. Expected: 0b7f, Got: 98bc
+Checksum failed. Expected: 396a, Got: b6bc
+Checksum failed. Expected: 57fd, Got: a5bc
+Checksum failed. Expected: fdc4, Got: c1bc
+Checksum failed. Expected: 51b0, Got: aebc
+Checksum failed. Expected: 9f03, Got: 4cbc
+Checksum failed. Expected: 15d9, Got: 6bbc
+Checksum failed. Expected: 86f6, Got: 66bc
+Checksum failed. Expected: ff19, Got: 7bbc
+Checksum failed. Expected: e5a4, Got: 7cbc
+Checksum failed. Expected: d137, Got: ecbc
+Checksum failed. Expected: 3478, Got: 6dbc
+Checksum failed. Expected: 9fad, Got: 4fbc
+Checksum failed. Expected: 23f0, Got: 25bc
+Checksum failed. Expected: a301, Got: 7cbc
+Checksum failed. Expected: 87cf, Got: c1bc
+Checksum failed. Expected: a15c, Got: 29bc
+Checksum failed. Expected: 87ae, Got: 94bc
+Checksum failed. Expected: fd9e, Got: aabc
+Checksum failed. Expected: a8e2, Got: c2bc
+Checksum failed. Expected: d1cd, Got: 0cbc
+Checksum failed. Expected: c593, Got: 90bc
+Checksum failed. Expected: 20e5, Got: 73bc
+Checksum failed. Expected: 4cc6, Got: ffbc
+Checksum failed. Expected: 5066, Got: 59bc
+Checksum failed. Expected: 3cd2, Got: bcbc
+Checksum failed. Expected: 5416, Got: 1cbc
+Checksum failed. Expected: 0887, Got: 67bc
+Checksum failed. Expected: 0bbb, Got: f1bc
+Checksum failed. Expected: 72bd, Got: eebc
+Checksum failed. Expected: 765d, Got: 64bc
+Checksum failed. Expected: 0069, Got: ddbc
+Checksum failed. Expected: 6e3b, Got: d6bc
+Checksum failed. Expected: 7cd7, Got: 00bc
+Checksum failed. Expected: 37c2, Got: 48bc
+Checksum failed. Expected: b413, Got: cabc
+Checksum failed. Expected: 091d, Got: 0fbc
+Checksum failed. Expected: 0336, Got: dfbc
+Checksum failed. Expected: 6146, Got: 2cbc
+Checksum failed. Expected: 77ac, Got: 8bbc
+Checksum failed. Expected: 0bef, Got: 96bc
+Checksum failed. Expected: 9e9a, Got: 5fbc
+Checksum failed. Expected: b76f, Got: fbbc
+Checksum failed. Expected: 9c0d, Got: 32bc
+Checksum failed. Expected: 6455, Got: 89bc
+Checksum failed. Expected: a8d7, Got: 40bc
+Checksum failed. Expected: d85f, Got: 3dbc
+Checksum failed. Expected: daa7, Got: a8bc
+Checksum failed. Expected: 2247, Got: 7bbc
+Checksum failed. Expected: 333b, Got: b9bc
+Checksum failed. Expected: 487a, Got: 20bb
+Checksum failed. Expected: 66a7, Got: 76bc
+Checksum failed. Expected: 44fe, Got: 42bb
+
+Exiting...

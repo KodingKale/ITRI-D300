@@ -1,0 +1,97 @@
+
+#################################################################
+Log started at 2025-06-12_14-01-24 
+#################################################################
+IMU initialized succesfully
+PPS initialized succesfully
+Stream initialized successfully
+Stream synced
+Checksum failed. Expected: 5c78, Got: 8ea0
+Checksum failed. Expected: 6a78, Got: 7565
+Checksum failed. Expected: 4cef, Got: 0000
+Checksum failed. Expected: 41dd, Got: 0000
+Checksum failed. Expected: 1154, Got: 0000
+Checksum failed. Expected: 4c59, Got: 0000
+Checksum failed. Expected: 31ea, Got: 0000
+Checksum failed. Expected: 8bf5, Got: 0000
+Checksum failed. Expected: ea4b, Got: 0000
+Checksum failed. Expected: e207, Got: 0000
+Checksum failed. Expected: b6d4, Got: 0000
+Checksum failed. Expected: b975, Got: 0000
+Checksum failed. Expected: a591, Got: 0000
+Checksum failed. Expected: 35e7, Got: 0000
+Checksum failed. Expected: 4454, Got: 0000
+Checksum failed. Expected: 8e44, Got: 0000
+Checksum failed. Expected: fb68, Got: 0000
+Checksum failed. Expected: 6ce0, Got: 0000
+Checksum failed. Expected: d820, Got: 0000
+Checksum failed. Expected: 2100, Got: 0000
+Checksum failed. Expected: 97b8, Got: 0000
+Checksum failed. Expected: 73d1, Got: 0000
+Checksum failed. Expected: dbad, Got: 0000
+Checksum failed. Expected: 0493, Got: 0000
+Checksum failed. Expected: f300, Got: 0000
+Checksum failed. Expected: 5ad9, Got: 0000
+Checksum failed. Expected: 31d4, Got: 0000
+Checksum failed. Expected: 68ac, Got: 0000
+Checksum failed. Expected: 55d9, Got: 0000
+Checksum failed. Expected: 4770, Got: 0000
+Checksum failed. Expected: c385, Got: 0000
+Checksum failed. Expected: 5816, Got: 0000
+Checksum failed. Expected: 1ff1, Got: 0000
+Checksum failed. Expected: 6e47, Got: 0000
+Checksum failed. Expected: 0d73, Got: 0000
+Checksum failed. Expected: 6be0, Got: 0000
+Checksum failed. Expected: 82c1, Got: 0000
+Checksum failed. Expected: aa9d, Got: 0000
+Checksum failed. Expected: 68d3, Got: 0000
+Checksum failed. Expected: 2c90, Got: 0000
+Checksum failed. Expected: 5680, Got: 0000
+Checksum failed. Expected: bc34, Got: 0000
+Checksum failed. Expected: 841c, Got: 0000
+Checksum failed. Expected: 6f4c, Got: 0000
+Checksum failed. Expected: 571c, Got: 0000
+Checksum failed. Expected: 3aa4, Got: 0000
+Checksum failed. Expected: 638d, Got: 0000
+Checksum failed. Expected: fd89, Got: 0000
+Checksum failed. Expected: 600f, Got: 0000
+Checksum failed. Expected: e19c, Got: 0000
+Checksum failed. Expected: f545, Got: 0000
+Checksum failed. Expected: f5d0, Got: 0000
+Checksum failed. Expected: da88, Got: 0000
+Checksum failed. Expected: 57b5, Got: 0000
+Checksum failed. Expected: f83c, Got: 0000
+Checksum failed. Expected: bde1, Got: 0000
+Checksum failed. Expected: 4f42, Got: 0000
+Checksum failed. Expected: efad, Got: 0000
+Checksum failed. Expected: 0df3, Got: 0000
+Checksum failed. Expected: 6aff, Got: 0000
+Checksum failed. Expected: 742c, Got: 0000
+Checksum failed. Expected: 1f4d, Got: 0000
+Checksum failed. Expected: 5839, Got: 0000
+Checksum failed. Expected: e11f, Got: 0000
+Checksum failed. Expected: b4cc, Got: 0000
+Checksum failed. Expected: 952c, Got: 0000
+Checksum failed. Expected: f140, Got: 0000
+Checksum failed. Expected: 0e78, Got: 0000
+Checksum failed. Expected: a898, Got: 0000
+Checksum failed. Expected: 1288, Got: 0000
+Checksum failed. Expected: 30c0, Got: 0000
+Checksum failed. Expected: ade9, Got: 0000
+Checksum failed. Expected: fd45, Got: 0000
+Checksum failed. Expected: c95b, Got: 0000
+Checksum failed. Expected: b8c8, Got: 0000
+Checksum failed. Expected: c501, Got: 0000
+Checksum failed. Expected: 858c, Got: 0000
+Checksum failed. Expected: 4714, Got: 0000
+Checksum failed. Expected: 4111, Got: 0000
+Checksum failed. Expected: 4b28, Got: 0000
+Checksum failed. Expected: 62ed, Got: 0000
+Checksum failed. Expected: e33e, Got: 0000
+Checksum failed. Expected: d5c9, Got: 0000
+Checksum failed. Expected: 4c9f, Got: 0000
+Checksum failed. Expected: cabb, Got: 0000
+Checksum failed. Expected: 1b58, Got: 0000
+Checksum failed. Expected: 2bc9, Got: 0000
+
+Exiting...

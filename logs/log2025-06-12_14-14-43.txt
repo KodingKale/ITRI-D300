@@ -1,0 +1,76 @@
+
+#################################################################
+Log started at 2025-06-12_14-14-43 
+#################################################################
+IMU Initialization Failed!IMU initialized succesfully
+PPS Initialization Failed!PPS initialized succesfully
+Stream initialized successfully
+Stream synced
+Checksum failed. Expected: cf7e, Got: 1275
+Checksum failed. Expected: 83f8, Got: e33b
+Checksum failed. Expected: 771b, Got: c83b
+Checksum failed. Expected: 3ec4, Got: 693b
+Checksum failed. Expected: cd50, Got: c23b
+Checksum failed. Expected: 300f, Got: 053b
+Checksum failed. Expected: 3a1e, Got: c23b
+Checksum failed. Expected: 3048, Got: 293b
+Checksum failed. Expected: 2ab9, Got: 8e3b
+Checksum failed. Expected: d9c6, Got: 123b
+Checksum failed. Expected: bdd4, Got: cd3b
+Checksum failed. Expected: 700b, Got: 7f3b
+Checksum failed. Expected: f754, Got: 153b
+Checksum failed. Expected: be47, Got: 7c3b
+Checksum failed. Expected: 3746, Got: cf3a
+Checksum failed. Expected: 18a2, Got: 633a
+Checksum failed. Expected: aa37, Got: 863b
+Checksum failed. Expected: a04c, Got: 123b
+Checksum failed. Expected: c564, Got: 2f3b
+Checksum failed. Expected: 87c6, Got: df3b
+Checksum failed. Expected: 9edb, Got: 873b
+Checksum failed. Expected: 7fb6, Got: 5d3a
+Checksum failed. Expected: 240f, Got: 583a
+Checksum failed. Expected: c7b9, Got: e83b
+Checksum failed. Expected: c88c, Got: 803b
+Checksum failed. Expected: 8bc8, Got: a03b
+Checksum failed. Expected: f10a, Got: f43b
+Checksum failed. Expected: 02cd, Got: a53b
+Checksum failed. Expected: 3c13, Got: d53b
+Checksum failed. Expected: c1f6, Got: 2a3b
+Checksum failed. Expected: 45cb, Got: 133b
+Checksum failed. Expected: d7dd, Got: 3e3b
+Checksum failed. Expected: 2adc, Got: aa3b
+Checksum failed. Expected: 6554, Got: d33a
+Checksum failed. Expected: 2cdc, Got: 453b
+Checksum failed. Expected: c1ed, Got: 743b
+Checksum failed. Expected: 41cd, Got: 963b
+Checksum failed. Expected: fff1, Got: 673b
+Checksum failed. Expected: e301, Got: 3c3b
+Checksum failed. Expected: be89, Got: 8c3b
+Checksum failed. Expected: d4c7, Got: 533b
+Checksum failed. Expected: 1450, Got: 4a3b
+Checksum failed. Expected: c771, Got: 7d3b
+Checksum failed. Expected: 777f, Got: 993b
+Checksum failed. Expected: 3594, Got: 8c3a
+Checksum failed. Expected: 3f73, Got: c43a
+Checksum failed. Expected: b77a, Got: 163b
+Checksum failed. Expected: b732, Got: dc3b
+Checksum failed. Expected: 3075, Got: 3f3b
+Checksum failed. Expected: 844f, Got: a03b
+Checksum failed. Expected: e4c7, Got: 283b
+Checksum failed. Expected: a397, Got: 683b
+Checksum failed. Expected: 8f94, Got: 933b
+Checksum failed. Expected: a715, Got: 503b
+Checksum failed. Expected: 84e3, Got: 903b
+Checksum failed. Expected: abd5, Got: 603b
+Checksum failed. Expected: b306, Got: 183a
+Checksum failed. Expected: b6fc, Got: 363b
+Checksum failed. Expected: 9f5e, Got: b03b
+Checksum failed. Expected: 1f68, Got: 653b
+Checksum failed. Expected: 1c57, Got: 9e3b
+Checksum failed. Expected: 1785, Got: 263b
+Checksum failed. Expected: ef5c, Got: 903b
+Checksum failed. Expected: 3c84, Got: 203b
+Checksum failed. Expected: f461, Got: da3b
+Checksum failed. Expected: f274, Got: 823b
+
+Exiting...

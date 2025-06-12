@@ -1,0 +1,45 @@
+
+#################################################################
+Log started at 2025-06-12_14-16-25 
+#################################################################
+IMU initialized succesfully
+PPS initialized succesfully
+Stream initialized successfully
+Stream synced
+Checksum failed. Expected: 6341, Got: 0005
+Checksum failed. Expected: ea54, Got: 1e90
+Checksum failed. Expected: 3022, Got: 1688
+Checksum failed. Expected: bd13, Got: ba5f
+Checksum failed. Expected: fe3c, Got: 5e36
+Checksum failed. Expected: c3c1, Got: 020d
+Checksum failed. Expected: d9b7, Got: a5e4
+Checksum failed. Expected: ffa8, Got: 49bb
+Checksum failed. Expected: f5c7, Got: ed92
+Checksum failed. Expected: 31ef, Got: 9169
+Checksum failed. Expected: 3c48, Got: 3540
+Checksum failed. Expected: 49c0, Got: d917
+Checksum failed. Expected: c989, Got: 7cee
+Checksum failed. Expected: 32f9, Got: 20c5
+Checksum failed. Expected: 5af5, Got: c49c
+Checksum failed. Expected: 742b, Got: 6873
+Checksum failed. Expected: 3ff9, Got: 0c4a
+Checksum failed. Expected: f8c2, Got: b021
+Checksum failed. Expected: 4802, Got: 53f8
+Checksum failed. Expected: c28e, Got: f7cf
+Checksum failed. Expected: 413f, Got: 9ba6
+Checksum failed. Expected: 1147, Got: 3f7d
+Checksum failed. Expected: 79b9, Got: e354
+Checksum failed. Expected: 1fa1, Got: 872b
+Checksum failed. Expected: 71c7, Got: 2b02
+Checksum failed. Expected: 680a, Got: ceda
+Checksum failed. Expected: a751, Got: 72b1
+Checksum failed. Expected: 1834, Got: 1688
+Checksum failed. Expected: 488b, Got: ba5f
+Checksum failed. Expected: 66ca, Got: 5e36
+Checksum failed. Expected: 7231, Got: 020d
+Checksum failed. Expected: 9e5b, Got: a5e4
+Checksum failed. Expected: 38a4, Got: 49bb
+Checksum failed. Expected: cc67, Got: ed92
+Checksum failed. Expected: 68cf, Got: 9169
+
+Exiting...

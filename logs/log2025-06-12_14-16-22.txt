@@ -1,0 +1,59 @@
+
+#################################################################
+Log started at 2025-06-12_14-16-22 
+#################################################################
+IMU initialized succesfully
+PPS initialized succesfully
+Stream initialized successfully
+Stream synced
+Checksum failed. Expected: c893, Got: 0004
+Checksum failed. Expected: af51, Got: 9814
+Checksum failed. Expected: b173, Got: 9814
+Checksum failed. Expected: 2cc6, Got: 9814
+Checksum failed. Expected: 2bbd, Got: 9814
+Checksum failed. Expected: e759, Got: 9814
+Checksum failed. Expected: 702a, Got: 9814
+Checksum failed. Expected: f3c5, Got: 9814
+Checksum failed. Expected: c103, Got: 9814
+Checksum failed. Expected: b6a0, Got: 9814
+Checksum failed. Expected: a610, Got: 9814
+Checksum failed. Expected: 61a3, Got: 9814
+Checksum failed. Expected: 64be, Got: 9814
+Checksum failed. Expected: 2ed8, Got: 9814
+Checksum failed. Expected: 3729, Got: 9814
+Checksum failed. Expected: 9cb6, Got: 9814
+Checksum failed. Expected: 9577, Got: 9814
+Checksum failed. Expected: cd6f, Got: 9814
+Checksum failed. Expected: a719, Got: 9814
+Checksum failed. Expected: d3a5, Got: 9814
+Checksum failed. Expected: 2587, Got: 9814
+Checksum failed. Expected: 5f91, Got: 9814
+Checksum failed. Expected: 8a14, Got: 9814
+Checksum failed. Expected: 84de, Got: 9814
+Checksum failed. Expected: aa34, Got: 9815
+Checksum failed. Expected: a1cb, Got: 9815
+Checksum failed. Expected: 1f39, Got: 9815
+Checksum failed. Expected: bcbe, Got: 9815
+Checksum failed. Expected: 34f6, Got: 9815
+Checksum failed. Expected: 48aa, Got: 9815
+Checksum failed. Expected: c1eb, Got: 9815
+Checksum failed. Expected: 4fe9, Got: 9815
+Checksum failed. Expected: b688, Got: 9815
+Checksum failed. Expected: f19b, Got: 9815
+Checksum failed. Expected: 5e70, Got: 9815
+Checksum failed. Expected: 2ba5, Got: 9815
+Checksum failed. Expected: ea5c, Got: 9815
+Checksum failed. Expected: 6e00, Got: 9815
+Checksum failed. Expected: 7c7e, Got: 9815
+Checksum failed. Expected: c406, Got: 9815
+Checksum failed. Expected: 1e30, Got: 9815
+Checksum failed. Expected: d6a8, Got: 9815
+Checksum failed. Expected: e002, Got: 9815
+Checksum failed. Expected: 7436, Got: 9815
+Checksum failed. Expected: 9a8c, Got: 9815
+Checksum failed. Expected: ac2e, Got: 9815
+Checksum failed. Expected: 012b, Got: 9815
+Checksum failed. Expected: 2254, Got: 9815
+Checksum failed. Expected: f19b, Got: 9815
+
+Exiting...

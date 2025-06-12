@@ -1,0 +1,79 @@
+
+#################################################################
+Log started at 2025-06-12_13-57-41 
+#################################################################
+IMU initialized succesfully
+PPS initialized succesfully
+Stream initialized successfully
+Stream synced
+Checksum failed. Expected: cc58, Got: 8e94
+Checksum failed. Expected: 16a4, Got: 7565
+Checksum failed. Expected: dbab, Got: f111
+Checksum failed. Expected: a0af, Got: d340
+Checksum failed. Expected: dbb4, Got: d340
+Checksum failed. Expected: 688f, Got: d340
+Checksum failed. Expected: e5fa, Got: d340
+Checksum failed. Expected: b8bf, Got: d340
+Checksum failed. Expected: 5e49, Got: d340
+Checksum failed. Expected: 94c3, Got: d340
+Checksum failed. Expected: 06e1, Got: d340
+Checksum failed. Expected: 22a5, Got: d340
+Checksum failed. Expected: ce59, Got: d340
+Checksum failed. Expected: 9d02, Got: d340
+Checksum failed. Expected: 3d62, Got: d340
+Checksum failed. Expected: c0f7, Got: d340
+Checksum failed. Expected: cb44, Got: d340
+Checksum failed. Expected: b087, Got: d340
+Checksum failed. Expected: a32c, Got: d340
+Checksum failed. Expected: 6057, Got: d340
+Checksum failed. Expected: c936, Got: d340
+Checksum failed. Expected: d691, Got: d340
+Checksum failed. Expected: 4ed9, Got: d340
+Checksum failed. Expected: bcdb, Got: d340
+Checksum failed. Expected: aa5d, Got: d340
+Checksum failed. Expected: 636c, Got: d340
+Checksum failed. Expected: 4285, Got: d340
+Checksum failed. Expected: 1651, Got: d340
+Checksum failed. Expected: 03cc, Got: d340
+Checksum failed. Expected: 25ba, Got: d340
+Checksum failed. Expected: bcdb, Got: d340
+Checksum failed. Expected: f87f, Got: d340
+Checksum failed. Expected: 7c1b, Got: d340
+Checksum failed. Expected: 813e, Got: d340
+Checksum failed. Expected: 77f8, Got: d340
+Checksum failed. Expected: 6681, Got: d340
+Checksum failed. Expected: b18e, Got: d340
+Checksum failed. Expected: 28cf, Got: d340
+Checksum failed. Expected: dec9, Got: d340
+Checksum failed. Expected: 5e49, Got: d340
+Checksum failed. Expected: 3007, Got: d340
+Checksum failed. Expected: 3007, Got: d340
+Checksum failed. Expected: d89f, Got: d340
+Checksum failed. Expected: 4077, Got: d340
+Checksum failed. Expected: 3215, Got: d340
+Checksum failed. Expected: 6681, Got: d340
+Checksum failed. Expected: 76f1, Got: d340
+Checksum failed. Expected: d16e, Got: d340
+Checksum failed. Expected: e708, Got: d340
+Checksum failed. Expected: daad, Got: d340
+Checksum failed. Expected: 834c, Got: d340
+Checksum failed. Expected: dbb4, Got: d340
+Checksum failed. Expected: 1a6d, Got: d340
+Checksum failed. Expected: b9c6, Got: d340
+Checksum failed. Expected: c51a, Got: d340
+Checksum failed. Expected: 5403, Got: d340
+Checksum failed. Expected: 2ceb, Got: d340
+Checksum failed. Expected: f463, Got: d340
+Checksum failed. Expected: 48af, Got: d340
+Checksum failed. Expected: c1fe, Got: d340
+Checksum failed. Expected: f35c, Got: d340
+Checksum failed. Expected: 550a, Got: d340
+Checksum failed. Expected: bcdb, Got: d340
+Checksum failed. Expected: a32c, Got: d340
+Checksum failed. Expected: 6cab, Got: d340
+Checksum failed. Expected: 77f8, Got: d340
+Checksum failed. Expected: d37c, Got: d340
+Checksum failed. Expected: 2ceb, Got: d340
+Checksum failed. Expected: f986, Got: d340
+
+Exiting...

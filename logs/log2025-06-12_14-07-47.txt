@@ -1,0 +1,104 @@
+
+#################################################################
+Log started at 2025-06-12_14-07-47 
+#################################################################
+IMU initialized succesfully
+PPS initialized succesfully
+Stream initialized successfully
+Stream synced
+Checksum failed. Expected: 2c2b, Got: 048f
+Checksum failed. Expected: f28b, Got: b875
+Checksum failed. Expected: 37e8, Got: f11f
+Checksum failed. Expected: f9b0, Got: 04bb
+Checksum failed. Expected: 62af, Got: 04bb
+Checksum failed. Expected: bb09, Got: 04bc
+Checksum failed. Expected: 90b1, Got: 04bc
+Checksum failed. Expected: 379d, Got: 04bc
+Checksum failed. Expected: f102, Got: 04bc
+Checksum failed. Expected: 7c91, Got: 04bc
+Checksum failed. Expected: 91ad, Got: 04bb
+Checksum failed. Expected: 09cc, Got: 04bb
+Checksum failed. Expected: 770b, Got: 04bb
+Checksum failed. Expected: 9e61, Got: 04bc
+Checksum failed. Expected: d3b9, Got: 04bc
+Checksum failed. Expected: 2272, Got: 04bc
+Checksum failed. Expected: 8808, Got: 04bc
+Checksum failed. Expected: 39c9, Got: 04bc
+Checksum failed. Expected: 7e9e, Got: 04bc
+Checksum failed. Expected: 37ef, Got: 04bc
+Checksum failed. Expected: 31ac, Got: 04bb
+Checksum failed. Expected: a344, Got: 04bb
+Checksum failed. Expected: 3e1b, Got: 04bb
+Checksum failed. Expected: c567, Got: 04bc
+Checksum failed. Expected: 760e, Got: 04bc
+Checksum failed. Expected: 082e, Got: 04bc
+Checksum failed. Expected: cfb9, Got: 04bc
+Checksum failed. Expected: c40e, Got: 04bc
+Checksum failed. Expected: a05f, Got: 04bb
+Checksum failed. Expected: 2138, Got: 04bb
+Checksum failed. Expected: fd51, Got: 04bb
+Checksum failed. Expected: 7e21, Got: 04bc
+Checksum failed. Expected: 9307, Got: 04bc
+Checksum failed. Expected: 2639, Got: 04bc
+Checksum failed. Expected: fe19, Got: 04bc
+Checksum failed. Expected: 514b, Got: 04bc
+Checksum failed. Expected: 828b, Got: 04bc
+Checksum failed. Expected: e07a, Got: 04bb
+Checksum failed. Expected: 51ee, Got: 04bc
+Checksum failed. Expected: 0272, Got: 04bb
+Checksum failed. Expected: e670, Got: 04bb
+Checksum failed. Expected: d76d, Got: 04bb
+Checksum failed. Expected: ea38, Got: 04bc
+Checksum failed. Expected: ed97, Got: 04bc
+Checksum failed. Expected: 21ff, Got: 04bc
+Checksum failed. Expected: 4cc1, Got: 04bc
+Checksum failed. Expected: 515c, Got: 04bb
+Checksum failed. Expected: 9b9a, Got: 04bb
+Checksum failed. Expected: d6aa, Got: 04bb
+Checksum failed. Expected: 049e, Got: 04bb
+Checksum failed. Expected: 37f3, Got: 04bc
+Checksum failed. Expected: 5afe, Got: 04bc
+Checksum failed. Expected: 9a7a, Got: 04bc
+Checksum failed. Expected: e192, Got: 04bc
+Checksum failed. Expected: cbfc, Got: 04bc
+Checksum failed. Expected: a93f, Got: 04bc
+Checksum failed. Expected: 4207, Got: 04bc
+Checksum failed. Expected: 517b, Got: 04bb
+Checksum failed. Expected: 52bf, Got: 04bb
+Checksum failed. Expected: 896a, Got: 04bb
+Checksum failed. Expected: acac, Got: 04bc
+Checksum failed. Expected: 31c4, Got: 04bc
+Checksum failed. Expected: f626, Got: 04bc
+Checksum failed. Expected: 1295, Got: 04bc
+Checksum failed. Expected: 7c52, Got: 04bc
+Checksum failed. Expected: cf5f, Got: 04bb
+Checksum failed. Expected: 33d7, Got: 04bc
+Checksum failed. Expected: d43c, Got: 04bb
+Checksum failed. Expected: 1e86, Got: 04bb
+Checksum failed. Expected: 1a56, Got: 04bc
+Checksum failed. Expected: cc1f, Got: 04bc
+Checksum failed. Expected: 2b1c, Got: 04bc
+Checksum failed. Expected: 0ff0, Got: 04bc
+Checksum failed. Expected: 92e8, Got: 04bc
+Checksum failed. Expected: 7276, Got: 04bc
+Checksum failed. Expected: 482a, Got: 04bb
+Checksum failed. Expected: bbdd, Got: 04bb
+Checksum failed. Expected: 2177, Got: 04bb
+Checksum failed. Expected: 7c33, Got: 04bb
+Checksum failed. Expected: ea71, Got: 04bc
+Checksum failed. Expected: 493d, Got: 04bc
+Checksum failed. Expected: 4524, Got: 04bc
+Checksum failed. Expected: 7ce0, Got: 04bc
+Checksum failed. Expected: df22, Got: 04bc
+Checksum failed. Expected: 00ff, Got: 04bc
+Checksum failed. Expected: d29c, Got: 04bc
+Checksum failed. Expected: 7f08, Got: 04bc
+Checksum failed. Expected: 7684, Got: 04bb
+Checksum failed. Expected: 9efb, Got: 04bb
+Checksum failed. Expected: e4c4, Got: 04bb
+Checksum failed. Expected: a3ad, Got: 04bc
+Checksum failed. Expected: b9a7, Got: 04bc
+Checksum failed. Expected: 92b0, Got: 04bc
+Checksum failed. Expected: a002, Got: 04bc
+
+Exiting...

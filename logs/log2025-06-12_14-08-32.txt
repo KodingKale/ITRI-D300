@@ -1,0 +1,95 @@
+
+#################################################################
+Log started at 2025-06-12_14-08-32 
+#################################################################
+IMU initialized succesfully
+PPS initialized succesfully
+Stream initialized successfully
+Stream synced
+Checksum failed. Expected: 5c78, Got: 8ea0
+Checksum failed. Expected: 6a78, Got: 7565
+Checksum failed. Expected: 4ccd, Got: 0000
+Checksum failed. Expected: 16df, Got: 0000
+Checksum failed. Expected: 3fd2, Got: 0000
+Checksum failed. Expected: b67d, Got: 0000
+Checksum failed. Expected: 4056, Got: 0000
+Checksum failed. Expected: 4909, Got: 0000
+Checksum failed. Expected: 9084, Got: 0000
+Checksum failed. Expected: 3d92, Got: 0000
+Checksum failed. Expected: 054a, Got: 0000
+Checksum failed. Expected: a696, Got: 0000
+Checksum failed. Expected: 0b12, Got: 0000
+Checksum failed. Expected: 64c6, Got: 0000
+Checksum failed. Expected: cfb1, Got: 0000
+Checksum failed. Expected: 3bad, Got: 0000
+Checksum failed. Expected: 3585, Got: 0000
+Checksum failed. Expected: f17e, Got: 0000
+Checksum failed. Expected: b09c, Got: 0000
+Checksum failed. Expected: 6d92, Got: 0000
+Checksum failed. Expected: 40fa, Got: 0000
+Checksum failed. Expected: 7e16, Got: 0000
+Checksum failed. Expected: 618b, Got: 0000
+Checksum failed. Expected: 0503, Got: 0000
+Checksum failed. Expected: 62e0, Got: 0000
+Checksum failed. Expected: 8bab, Got: 0000
+Checksum failed. Expected: 0be4, Got: 0000
+Checksum failed. Expected: 97bd, Got: 0000
+Checksum failed. Expected: 9b0d, Got: 0000
+Checksum failed. Expected: 2ea0, Got: 0000
+Checksum failed. Expected: 1cbb, Got: 0000
+Checksum failed. Expected: 17a4, Got: 0000
+Checksum failed. Expected: 5e37, Got: 0000
+Checksum failed. Expected: d392, Got: 0000
+Checksum failed. Expected: 74e0, Got: 0000
+Checksum failed. Expected: 4418, Got: 0000
+Checksum failed. Expected: 3564, Got: 0000
+Checksum failed. Expected: 56a0, Got: 0000
+Checksum failed. Expected: a4a4, Got: 0000
+Checksum failed. Expected: 72bf, Got: 0000
+Checksum failed. Expected: 4dab, Got: 0000
+Checksum failed. Expected: 9563, Got: 0000
+Checksum failed. Expected: 18cc, Got: 0000
+Checksum failed. Expected: 24ba, Got: 0000
+Checksum failed. Expected: 4600, Got: 0000
+Checksum failed. Expected: 5418, Got: 0000
+Checksum failed. Expected: 8674, Got: 0000
+Checksum failed. Expected: f499, Got: 0000
+Checksum failed. Expected: bc51, Got: 0000
+Checksum failed. Expected: e4de, Got: 0000
+Checksum failed. Expected: e419, Got: 0000
+Checksum failed. Expected: 8bc2, Got: 0000
+Checksum failed. Expected: 48ab, Got: 0000
+Checksum failed. Expected: ce1b, Got: 0000
+Checksum failed. Expected: 65ee, Got: 0000
+Checksum failed. Expected: 02f9, Got: 0000
+Checksum failed. Expected: 8892, Got: 0000
+Checksum failed. Expected: 9255, Got: 0000
+Checksum failed. Expected: 17b0, Got: 0000
+Checksum failed. Expected: 25ce, Got: 0000
+Checksum failed. Expected: f946, Got: 0000
+Checksum failed. Expected: c982, Got: 0000
+Checksum failed. Expected: 101e, Got: 0000
+Checksum failed. Expected: 9d12, Got: 0000
+Checksum failed. Expected: 48fd, Got: 0000
+Checksum failed. Expected: da59, Got: 0000
+Checksum failed. Expected: 9541, Got: 0000
+Checksum failed. Expected: 313a, Got: 0000
+Checksum failed. Expected: 6498, Got: 0000
+Checksum failed. Expected: fc3e, Got: 0000
+Checksum failed. Expected: 1b66, Got: 0000
+Checksum failed. Expected: 7ed2, Got: 0000
+Checksum failed. Expected: 7697, Got: 0000
+Checksum failed. Expected: 35bf, Got: 0000
+Checksum failed. Expected: ae5c, Got: 0000
+Checksum failed. Expected: c1c7, Got: 0000
+Checksum failed. Expected: 4650, Got: 0000
+Checksum failed. Expected: 1ff9, Got: 0000
+Checksum failed. Expected: e019, Got: 0000
+Checksum failed. Expected: dc3c, Got: 0000
+Checksum failed. Expected: ba57, Got: 0000
+Checksum failed. Expected: 8870, Got: 0000
+Checksum failed. Expected: ade3, Got: 0000
+Checksum failed. Expected: c78e, Got: 0000
+Checksum failed. Expected: dafc, Got: 0000
+
+Exiting...
