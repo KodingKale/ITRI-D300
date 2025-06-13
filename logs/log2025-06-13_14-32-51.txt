@@ -1,0 +1,105 @@
+
+#################################################################
+Log started at 2025-06-13_14-32-51 
+#################################################################
+IMU initialized succesfully
+PPS initialized succesfully
+Stream initialized successfully
+Stream synced
+Checksum failed. Expected: cdbf, Got: 7565
+Checksum failed. Expected: 3fa3, Got: 7565
+Checksum failed. Expected: bea1, Got: 7565
+Checksum failed. Expected: 8e41, Got: 7565
+Checksum failed. Expected: 8d3f, Got: 7565
+Checksum failed. Expected: 2e81, Got: 7565
+Checksum failed. Expected: ae81, Got: 7565
+Checksum failed. Expected: e3eb, Got: 7565
+Checksum failed. Expected: 6e01, Got: 7565
+Checksum failed. Expected: f005, Got: 7565
+Checksum failed. Expected: a167, Got: 7565
+Checksum failed. Expected: ecfd, Got: 7565
+Checksum failed. Expected: dad9, Got: 7565
+Checksum failed. Expected: 1a59, Got: 7565
+Checksum failed. Expected: 47b3, Got: 7565
+Checksum failed. Expected: 5cdd, Got: 7565
+Checksum failed. Expected: 154f, Got: 7565
+Checksum failed. Expected: 65ef, Got: 7565
+Checksum failed. Expected: 3b9b, Got: 7565
+Checksum failed. Expected: d8d5, Got: 7565
+Checksum failed. Expected: dad9, Got: 7565
+Checksum failed. Expected: ecfd, Got: 7565
+Checksum failed. Expected: e4ed, Got: 7565
+Checksum failed. Expected: f815, Got: 7565
+Checksum failed. Expected: 8025, Got: 7565
+Checksum failed. Expected: 2f83, Got: 7565
+Checksum failed. Expected: ae81, Got: 7565
+Checksum failed. Expected: 68f5, Got: 7565
+Checksum failed. Expected: d8d5, Got: 7565
+Checksum failed. Expected: a773, Got: 7565
+Checksum failed. Expected: ccbd, Got: 7565
+Checksum failed. Expected: 66f1, Got: 7565
+Checksum failed. Expected: f005, Got: 7565
+Checksum failed. Expected: 7005, Got: 7565
+Checksum failed. Expected: 2167, Got: 7565
+Checksum failed. Expected: c5af, Got: 7565
+Checksum failed. Expected: 0e41, Got: 7565
+Checksum failed. Expected: 6f03, Got: 7565
+Checksum failed. Expected: d8d5, Got: 7565
+Checksum failed. Expected: d3cb, Got: 7565
+Checksum failed. Expected: ad7f, Got: 7565
+Checksum failed. Expected: a56f, Got: 7565
+Checksum failed. Expected: b895, Got: 7565
+Checksum failed. Expected: 3691, Got: 7565
+Checksum failed. Expected: b997, Got: 7565
+Checksum failed. Expected: e5ef, Got: 7565
+Checksum failed. Expected: 66f1, Got: 7565
+Checksum failed. Expected: 1045, Got: 7565
+Checksum failed. Expected: 8937, Got: 7565
+Checksum failed. Expected: 59d7, Got: 7565
+Checksum failed. Expected: 134b, Got: 7565
+Checksum failed. Expected: 2e81, Got: 7565
+Checksum failed. Expected: 0e41, Got: 7565
+Checksum failed. Expected: 0835, Got: 7565
+Checksum failed. Expected: 934b, Got: 7565
+Checksum failed. Expected: 7917, Got: 7565
+Checksum failed. Expected: 3c9d, Got: 7565
+Checksum failed. Expected: d2c9, Got: 7565
+Checksum failed. Expected: d0c5, Got: 7565
+Checksum failed. Expected: 0835, Got: 7565
+Checksum failed. Expected: 69f7, Got: 7565
+Checksum failed. Expected: 3c9d, Got: 7565
+Checksum failed. Expected: 3d9f, Got: 7565
+Checksum failed. Expected: 3085, Got: 7565
+Checksum failed. Expected: 43ab, Got: 7565
+Checksum failed. Expected: c7b3, Got: 7565
+Checksum failed. Expected: ee01, Got: 7565
+Checksum failed. Expected: cdbf, Got: 7565
+Checksum failed. Expected: 62e9, Got: 7565
+Checksum failed. Expected: cab9, Got: 7565
+Checksum failed. Expected: 2269, Got: 7565
+Checksum failed. Expected: 750f, Got: 7565
+Checksum failed. Expected: 3b9b, Got: 7565
+Checksum failed. Expected: a56f, Got: 7565
+Checksum failed. Expected: 832b, Got: 7565
+Checksum failed. Expected: bc9d, Got: 7565
+Checksum failed. Expected: 2e81, Got: 7565
+Checksum failed. Expected: 1c5d, Got: 7565
+Checksum failed. Expected: 348d, Got: 7565
+Checksum failed. Expected: d4cd, Got: 7565
+Checksum failed. Expected: af83, Got: 7565
+Checksum failed. Expected: cab9, Got: 7565
+Checksum failed. Expected: 9855, Got: 7565
+Checksum failed. Expected: 55cf, Got: 7565
+Checksum failed. Expected: 2977, Got: 7565
+Checksum failed. Expected: 9e61, Got: 7565
+Checksum failed. Expected: 2671, Got: 7565
+Checksum failed. Expected: 1651, Got: 7565
+Checksum failed. Expected: a56f, Got: 7565
+Checksum failed. Expected: 64ed, Got: 7565
+Checksum failed. Expected: 49b7, Got: 7565
+Checksum failed. Expected: 0025, Got: 7565
+Checksum failed. Expected: ba99, Got: 7565
+Checksum failed. Expected: 6f03, Got: 7565
+Checksum failed. Expected: a977, Got: 7565
+
+Exiting...
