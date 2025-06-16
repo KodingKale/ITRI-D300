@@ -3,8 +3,9 @@ import time
 import struct
 from datetime import datetime
 
-imu_port = 'COM7'
+imu_port = '/dev/ttyACM1'
 gps_offset = [0.0, 0.0, 0.0] # [x, y, z] in meters
+decimation = 0x03  # Sampling rate  = 1kHz / decimation (minimum of 3)
 
 def main():
     #Make log file
@@ -100,10 +101,9 @@ def initialize_gps(imu, log):
 def initialize_stream(imu, log):
     """
     Initialize stream of timestamps and acceleration data
-    (COMMAND MEANING UNKNKOWN, COPIED DIRECTLY FROM SENSORCONNECT)
     """
     
-    command = bytes([0x75, 0x65, 0x0C, 0x0B, 0x0B, 0x0F, 0x01, 0x80, 0x02, 0xD3, 0x00, 0x03, 0x04, 0x00, 0x03])
+    command = bytes([0x75, 0x65, 0x0C, 0x0B, 0x0B, 0x0F, 0x01, 0x80, 0x02, 0xD3, 0x00, decimation, 0x04, 0x00, decimation])
     command += fletcher_checksum(command)
     imu.write(command)
     imu.write(bytes([0x75, 0x65, 0x0C, 0x05, 0x05, 0x0F, 0x01, 0x82, 0x00, 0x82, 0x13]))

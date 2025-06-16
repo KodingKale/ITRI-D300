@@ -1,0 +1,440 @@
+
+#################################################################
+Log started at 2025-06-16_16-08-43.436756 
+#################################################################
+IMU initialized succesfully
+PPS initialized succesfully
+Stream initialized successfully
+Stream synced
+Acceleration: X=0.364654, Y=0.113776, Z=9.785974 m/s^2 Time of Week: 69.353000, Week Number: 0
+Acceleration: X=0.371860, Y=0.097027, Z=9.768367 m/s^2 Time of Week: 69.363000, Week Number: 0
+Acceleration: X=0.386969, Y=0.089080, Z=9.796276 m/s^2 Time of Week: 69.373000, Week Number: 0
+Acceleration: X=0.396920, Y=0.097541, Z=9.806237 m/s^2 Time of Week: 69.383000, Week Number: 0
+Acceleration: X=0.402720, Y=0.105358, Z=9.814431 m/s^2 Time of Week: 69.393000, Week Number: 0
+Acceleration: X=0.412435, Y=0.113426, Z=9.825242 m/s^2 Time of Week: 69.403000, Week Number: 0
+Acceleration: X=0.425336, Y=0.109349, Z=9.811880 m/s^2 Time of Week: 69.413000, Week Number: 0
+Acceleration: X=0.412030, Y=0.096320, Z=9.822024 m/s^2 Time of Week: 69.423000, Week Number: 0
+Acceleration: X=0.378921, Y=0.090413, Z=9.781870 m/s^2 Time of Week: 69.433000, Week Number: 0
+Acceleration: X=0.359650, Y=0.101423, Z=9.788018 m/s^2 Time of Week: 69.443000, Week Number: 0
+Acceleration: X=0.367952, Y=0.114106, Z=9.769641 m/s^2 Time of Week: 69.453000, Week Number: 0
+Acceleration: X=0.383108, Y=0.113231, Z=9.794107 m/s^2 Time of Week: 69.463000, Week Number: 0
+Acceleration: X=0.411217, Y=0.100094, Z=9.812936 m/s^2 Time of Week: 69.473000, Week Number: 0
+Acceleration: X=0.429045, Y=0.092690, Z=9.814195 m/s^2 Time of Week: 69.483000, Week Number: 0
+Acceleration: X=0.423056, Y=0.093315, Z=9.811072 m/s^2 Time of Week: 69.493000, Week Number: 0
+Acceleration: X=0.404343, Y=0.100831, Z=9.803701 m/s^2 Time of Week: 69.503000, Week Number: 0
+Acceleration: X=0.392521, Y=0.109879, Z=9.805539 m/s^2 Time of Week: 69.513000, Week Number: 0
+Acceleration: X=0.394032, Y=0.108642, Z=9.816402 m/s^2 Time of Week: 69.523000, Week Number: 0
+Acceleration: X=0.394822, Y=0.104299, Z=9.791767 m/s^2 Time of Week: 69.533000, Week Number: 0
+Acceleration: X=0.388390, Y=0.098703, Z=9.782499 m/s^2 Time of Week: 69.543000, Week Number: 0
+Acceleration: X=0.374002, Y=0.094945, Z=9.798031 m/s^2 Time of Week: 69.553000, Week Number: 0
+Acceleration: X=0.382364, Y=0.101421, Z=9.788190 m/s^2 Time of Week: 69.563000, Week Number: 0
+Acceleration: X=0.395893, Y=0.106063, Z=9.792433 m/s^2 Time of Week: 69.573000, Week Number: 0
+Acceleration: X=0.397293, Y=0.109649, Z=9.807441 m/s^2 Time of Week: 69.583000, Week Number: 0
+Acceleration: X=0.406839, Y=0.108093, Z=9.810889 m/s^2 Time of Week: 69.593000, Week Number: 0
+Acceleration: X=0.414671, Y=0.103371, Z=9.809853 m/s^2 Time of Week: 69.603000, Week Number: 0
+Acceleration: X=0.412381, Y=0.096906, Z=9.811353 m/s^2 Time of Week: 69.613000, Week Number: 0
+Acceleration: X=0.402191, Y=0.096501, Z=9.816516 m/s^2 Time of Week: 69.623000, Week Number: 0
+Acceleration: X=0.390998, Y=0.103959, Z=9.825414 m/s^2 Time of Week: 69.633000, Week Number: 0
+Acceleration: X=0.395406, Y=0.110122, Z=9.748786 m/s^2 Time of Week: 69.643000, Week Number: 0
+Acceleration: X=0.380415, Y=0.103991, Z=9.837944 m/s^2 Time of Week: 69.653000, Week Number: 0
+Acceleration: X=0.385198, Y=0.099439, Z=9.784363 m/s^2 Time of Week: 69.663000, Week Number: 0
+Acceleration: X=0.388107, Y=0.100262, Z=9.797067 m/s^2 Time of Week: 69.673000, Week Number: 0
+Acceleration: X=0.397417, Y=0.102343, Z=9.810939 m/s^2 Time of Week: 69.683000, Week Number: 0
+Acceleration: X=0.398291, Y=0.105423, Z=9.805954 m/s^2 Time of Week: 69.693000, Week Number: 0
+Acceleration: X=0.392892, Y=0.106133, Z=9.838730 m/s^2 Time of Week: 69.703000, Week Number: 0
+Acceleration: X=0.403687, Y=0.106863, Z=9.792595 m/s^2 Time of Week: 69.713000, Week Number: 0
+Acceleration: X=0.403386, Y=0.103652, Z=9.794379 m/s^2 Time of Week: 69.723000, Week Number: 0
+Acceleration: X=0.382749, Y=0.101533, Z=9.810365 m/s^2 Time of Week: 69.733000, Week Number: 0
+Acceleration: X=0.385500, Y=0.102164, Z=9.789010 m/s^2 Time of Week: 69.743000, Week Number: 0
+Acceleration: X=0.390760, Y=0.106847, Z=9.814541 m/s^2 Time of Week: 69.753000, Week Number: 0
+Acceleration: X=0.401896, Y=0.104741, Z=9.789530 m/s^2 Time of Week: 69.763000, Week Number: 0
+Acceleration: X=0.400829, Y=0.105558, Z=9.790895 m/s^2 Time of Week: 69.773000, Week Number: 0
+Acceleration: X=0.391454, Y=0.100191, Z=9.822568 m/s^2 Time of Week: 69.783000, Week Number: 0
+Acceleration: X=0.401189, Y=0.101666, Z=9.778805 m/s^2 Time of Week: 69.793000, Week Number: 0
+Acceleration: X=0.399706, Y=0.102936, Z=9.804107 m/s^2 Time of Week: 69.803000, Week Number: 0
+Acceleration: X=0.395729, Y=0.111056, Z=9.794379 m/s^2 Time of Week: 69.813000, Week Number: 0
+Acceleration: X=0.385433, Y=0.108563, Z=9.802207 m/s^2 Time of Week: 69.823000, Week Number: 0
+Acceleration: X=0.389406, Y=0.099177, Z=9.803740 m/s^2 Time of Week: 69.833000, Week Number: 0
+Acceleration: X=0.395965, Y=0.095543, Z=9.784191 m/s^2 Time of Week: 69.843000, Week Number: 0
+Checksum failed. Expected: 1a67, Got: 0c04
+Checksum failed. Expected: 0a91, Got: 0f00
+Checksum failed. Expected: a208, Got: 7565
+Checksum failed. Expected: bec0, Got: 0000
+Checksum failed. Expected: 3d07, Got: 0000
+Checksum failed. Expected: 5399, Got: 0000
+Checksum failed. Expected: 4f8a, Got: 0000
+Checksum failed. Expected: 9a41, Got: 0000
+Checksum failed. Expected: a80f, Got: 6580
+Checksum failed. Expected: 1b8c, Got: 6580
+Checksum failed. Expected: 7aa9, Got: 6580
+Checksum failed. Expected: 7394, Got: 6580
+Checksum failed. Expected: ab3c, Got: 6580
+Checksum failed. Expected: f417, Got: 6580
+Checksum failed. Expected: b760, Got: 6580
+Checksum failed. Expected: 6873, Got: 6580
+Checksum failed. Expected: 460d, Got: 6580
+Checksum failed. Expected: d1ae, Got: 6580
+Checksum failed. Expected: 1271, Got: 6580
+Checksum failed. Expected: 8de2, Got: 6580
+Checksum failed. Expected: 6e85, Got: 6580
+Checksum failed. Expected: d8c3, Got: 6580
+Checksum failed. Expected: fc2f, Got: 6580
+Checksum failed. Expected: 512e, Got: 6580
+Checksum failed. Expected: d0ab, Got: 6580
+Checksum failed. Expected: 94f7, Got: 6580
+Checksum failed. Expected: 1c8f, Got: 6580
+Checksum failed. Expected: 054a, Got: 6580
+Checksum failed. Expected: 5a49, Got: 6580
+Checksum failed. Expected: 157a, Got: 6580
+Checksum failed. Expected: d8c3, Got: 6580
+Checksum failed. Expected: 89d6, Got: 6580
+Checksum failed. Expected: 6770, Got: 6580
+Checksum failed. Expected: 0b5c, Got: 6580
+Checksum failed. Expected: 6261, Got: 6580
+Checksum failed. Expected: 23a4, Got: 6580
+Checksum failed. Expected: 9c0f, Got: 6580
+Checksum failed. Expected: eaf9, Got: 6580
+Checksum failed. Expected: 1780, Got: 6580
+Checksum failed. Expected: e1de, Got: 6580
+Checksum failed. Expected: 0b5c, Got: 6580
+Checksum failed. Expected: 93f4, Got: 6580
+Checksum failed. Expected: cfa8, Got: 6580
+Checksum failed. Expected: 064d, Got: 6580
+Checksum failed. Expected: 003b, Got: 6580
+Checksum failed. Expected: f926, Got: 6580
+Checksum failed. Expected: 1d92, Got: 6580
+Checksum failed. Expected: 23a4, Got: 6580
+Checksum failed. Expected: b14e, Got: 6580
+Checksum failed. Expected: 0e65, Got: 6580
+Checksum failed. Expected: 615e, Got: 6580
+Checksum failed. Expected: 4304, Got: 6580
+Checksum failed. Expected: a221, Got: 6580
+Checksum failed. Expected: 90eb, Got: 6580
+Checksum failed. Expected: 0a59, Got: 6580
+Checksum failed. Expected: 29b6, Got: 6580
+Checksum failed. Expected: 0853, Got: 6580
+Checksum failed. Expected: b354, Got: 6580
+Checksum failed. Expected: 0956, Got: 6580
+Checksum failed. Expected: 8fe8, Got: 6580
+Checksum failed. Expected: 79a6, Got: 6580
+Checksum failed. Expected: 6f88, Got: 6580
+Checksum failed. Expected: 2bbc, Got: 6580
+Checksum failed. Expected: fa29, Got: 6580
+Checksum failed. Expected: f51a, Got: 6580
+Checksum failed. Expected: cda2, Got: 6580
+Checksum failed. Expected: bc6f, Got: 6580
+Checksum failed. Expected: b760, Got: 6580
+Checksum failed. Expected: 219e, Got: 6580
+Checksum failed. Expected: 2ab9, Got: 6580
+Checksum failed. Expected: ecff, Got: 6580
+Checksum failed. Expected: 5f58, Got: 6580
+Checksum failed. Expected: 0f68, Got: 6580
+Checksum failed. Expected: ab3c, Got: 6580
+Checksum failed. Expected: 157a, Got: 6580
+Checksum failed. Expected: 81be, Got: 6580
+Checksum failed. Expected: 1271, Got: 6580
+Checksum failed. Expected: 33d4, Got: 6580
+Checksum failed. Expected: 38e3, Got: 6580
+Checksum failed. Expected: 34d7, Got: 6580
+Checksum failed. Expected: 8cdf, Got: 6580
+Checksum failed. Expected: 79a6, Got: 6580
+Checksum failed. Expected: a11e, Got: 6580
+Checksum failed. Expected: 1d92, Got: 6580
+Checksum failed. Expected: 8fe8, Got: 6580
+Checksum failed. Expected: e2e1, Got: 6580
+Checksum failed. Expected: 9906, Got: 6580
+Checksum failed. Expected: f823, Got: 6580
+Checksum failed. Expected: 106b, Got: 6580
+Checksum failed. Expected: 209b, Got: 6580
+Checksum failed. Expected: d8c3, Got: 6580
+Checksum failed. Expected: 82c1, Got: 6580
+Checksum failed. Expected: 013e, Got: 6580
+Checksum failed. Expected: 6e85, Got: 6580
+Checksum failed. Expected: 24a7, Got: 6580
+Checksum failed. Expected: b354, Got: 6580
+Checksum failed. Expected: 91ee, Got: 6580
+Checksum failed. Expected: e8f3, Got: 6580
+Checksum failed. Expected: fe35, Got: 6580
+Checksum failed. Expected: 82c1, Got: 6580
+Checksum failed. Expected: 5e55, Got: 6580
+Checksum failed. Expected: 8ee5, Got: 6580
+Checksum failed. Expected: 054a, Got: 6580
+Checksum failed. Expected: 25aa, Got: 6580
+Checksum failed. Expected: a01b, Got: 6580
+Checksum failed. Expected: ba69, Got: 6580
+Checksum failed. Expected: 87d0, Got: 6580
+Checksum failed. Expected: 36dd, Got: 6580
+Checksum failed. Expected: 8de2, Got: 6580
+Checksum failed. Expected: d3b4, Got: 6580
+Checksum failed. Expected: b354, Got: 6580
+Checksum failed. Expected: 93f4, Got: 6580
+Checksum failed. Expected: 0a59, Got: 6580
+Checksum failed. Expected: e2e1, Got: 6580
+Checksum failed. Expected: 0c5f, Got: 6580
+Checksum failed. Expected: 656a, Got: 6580
+Checksum failed. Expected: 35da, Got: 6580
+Checksum failed. Expected: 9c0f, Got: 6580
+Checksum failed. Expected: 0344, Got: 6580
+Checksum failed. Expected: fa29, Got: 6580
+Checksum failed. Expected: 78a3, Got: 6580
+Checksum failed. Expected: 1374, Got: 6580
+Checksum failed. Expected: eaf9, Got: 6580
+Checksum failed. Expected: 22a1, Got: 6580
+Checksum failed. Expected: 30cb, Got: 6580
+Checksum failed. Expected: 3df2, Got: 6580
+Checksum failed. Expected: 512e, Got: 6580
+Checksum failed. Expected: 9b0c, Got: 6580
+Checksum failed. Expected: bc6f, Got: 6580
+Checksum failed. Expected: d0ab, Got: 6580
+Checksum failed. Expected: 84c7, Got: 6580
+Checksum failed. Expected: cda2, Got: 6580
+Checksum failed. Expected: 0853, Got: 6580
+Checksum failed. Expected: c487, Got: 6580
+Checksum failed. Expected: 6770, Got: 6580
+Checksum failed. Expected: c996, Got: 6580
+Checksum failed. Expected: 759a, Got: 6580
+Checksum failed. Expected: 9803, Got: 6580
+Checksum failed. Expected: fe35, Got: 6580
+Checksum failed. Expected: 013e, Got: 6580
+Checksum failed. Expected: 054a, Got: 6580
+Checksum failed. Expected: 29b6, Got: 6580
+Checksum failed. Expected: 22a1, Got: 6580
+Checksum failed. Expected: c487, Got: 6580
+Checksum failed. Expected: 3ef5, Got: 6580
+Checksum failed. Expected: ecff, Got: 6580
+Checksum failed. Expected: 9f18, Got: 6580
+Checksum failed. Expected: 7caf, Got: 6580
+Checksum failed. Expected: 23a4, Got: 6580
+Checksum failed. Expected: f211, Got: 6580
+Checksum failed. Expected: 92f1, Got: 6580
+Checksum failed. Expected: 4f28, Got: 6580
+Checksum failed. Expected: ff38, Got: 6580
+Checksum failed. Expected: 013e, Got: 6580
+Checksum failed. Expected: aa39, Got: 6580
+Checksum failed. Expected: 4407, Got: 6580
+Checksum failed. Expected: f823, Got: 6580
+Checksum failed. Expected: c17e, Got: 6580
+Checksum failed. Expected: a221, Got: 6580
+Checksum failed. Expected: 6e85, Got: 6580
+Checksum failed. Expected: 7394, Got: 6580
+Checksum failed. Expected: 1d92, Got: 6580
+Checksum failed. Expected: dbcc, Got: 6580
+Checksum failed. Expected: 89d6, Got: 6580
+Checksum failed. Expected: ebfc, Got: 6580
+Checksum failed. Expected: c384, Got: 6580
+Checksum failed. Expected: a324, Got: 6580
+Checksum failed. Expected: 83c4, Got: 6580
+Checksum failed. Expected: 0e65, Got: 6580
+Checksum failed. Expected: 86cd, Got: 6580
+Checksum failed. Expected: 40fb, Got: 6580
+Checksum failed. Expected: 1f98, Got: 6580
+Checksum failed. Expected: e2e1, Got: 6580
+Checksum failed. Expected: 94f7, Got: 6580
+Checksum failed. Expected: c07b, Got: 6580
+Checksum failed. Expected: e9f6, Got: 6580
+Checksum failed. Expected: 1374, Got: 6580
+Checksum failed. Expected: fc2f, Got: 6580
+Checksum failed. Expected: 8cdf, Got: 6580
+Checksum failed. Expected: f926, Got: 6580
+Checksum failed. Expected: 0956, Got: 6580
+Checksum failed. Expected: e5ea, Got: 6580
+Checksum failed. Expected: b966, Got: 6580
+Checksum failed. Expected: 91ee, Got: 6580
+Checksum failed. Expected: 96fd, Got: 6580
+Checksum failed. Expected: 1c8f, Got: 6580
+Checksum failed. Expected: c07b, Got: 6580
+Checksum failed. Expected: 054a, Got: 6580
+Checksum failed. Expected: 6976, Got: 6580
+Checksum failed. Expected: 7291, Got: 6580
+Checksum failed. Expected: c68d, Got: 6580
+Checksum failed. Expected: 8ee5, Got: 6580
+Checksum failed. Expected: 219e, Got: 6580
+Checksum failed. Expected: 1d92, Got: 6580
+Checksum failed. Expected: ab3c, Got: 6580
+Checksum failed. Expected: c790, Got: 6580
+Checksum failed. Expected: 6d82, Got: 6580
+Checksum failed. Expected: 4813, Got: 6580
+Checksum failed. Expected: a62d, Got: 6580
+Checksum failed. Expected: e8f3, Got: 6580
+Checksum failed. Expected: 0b5c, Got: 6580
+Checksum failed. Expected: 87d0, Got: 6580
+Checksum failed. Expected: f211, Got: 6580
+Checksum failed. Expected: 1780, Got: 6580
+Checksum failed. Expected: c07b, Got: 6580
+Checksum failed. Expected: b966, Got: 6580
+Checksum failed. Expected: 8bdc, Got: 6580
+Checksum failed. Expected: dccf, Got: 6580
+Checksum failed. Expected: 553a, Got: 6580
+Checksum failed. Expected: 7eb5, Got: 6580
+Checksum failed. Expected: e0db, Got: 6580
+Checksum failed. Expected: 1780, Got: 6580
+Checksum failed. Expected: b354, Got: 6580
+Checksum failed. Expected: f211, Got: 6580
+Checksum failed. Expected: 3bec, Got: 6580
+Checksum failed. Expected: 0f68, Got: 6580
+Checksum failed. Expected: be75, Got: 6580
+Checksum failed. Expected: a221, Got: 6580
+Checksum failed. Expected: 5740, Got: 6580
+Checksum failed. Expected: 9700, Got: 6580
+Checksum failed. Expected: 33d4, Got: 6580
+Checksum failed. Expected: f211, Got: 6580
+Checksum failed. Expected: 2bbc, Got: 6580
+Checksum failed. Expected: d5ba, Got: 6580
+Checksum failed. Expected: 7bac, Got: 6580
+Checksum failed. Expected: 8ad9, Got: 6580
+Checksum failed. Expected: 31ce, Got: 6580
+Checksum failed. Expected: 9e15, Got: 6580
+Checksum failed. Expected: 450a, Got: 6580
+Checksum failed. Expected: b457, Got: 6580
+Checksum failed. Expected: f51a, Got: 6580
+Checksum failed. Expected: 5b4c, Got: 6580
+Checksum failed. Expected: 1271, Got: 6580
+Checksum failed. Expected: 3ef5, Got: 6580
+Checksum failed. Expected: be75, Got: 6580
+Checksum failed. Expected: c07b, Got: 6580
+Checksum failed. Expected: 8ee5, Got: 6580
+Checksum failed. Expected: 209b, Got: 6580
+Checksum failed. Expected: 7eb5, Got: 6580
+Checksum failed. Expected: c487, Got: 6580
+Checksum failed. Expected: 95fa, Got: 6580
+Checksum failed. Expected: 23a4, Got: 6580
+Checksum failed. Expected: 79a6, Got: 6580
+Checksum failed. Expected: 7db2, Got: 6580
+Checksum failed. Expected: 2fc8, Got: 6580
+Checksum failed. Expected: c68d, Got: 6580
+Checksum failed. Expected: 9a09, Got: 6580
+Checksum failed. Expected: 708b, Got: 6580
+Checksum failed. Expected: b55a, Got: 6580
+Checksum failed. Expected: b04b, Got: 6580
+Checksum failed. Expected: 2dc2, Got: 6580
+Checksum failed. Expected: b863, Got: 6580
+Checksum failed. Expected: c17e, Got: 6580
+Checksum failed. Expected: 7eb5, Got: 6580
+Checksum failed. Expected: a427, Got: 6580
+Checksum failed. Expected: 92f1, Got: 6580
+Checksum failed. Expected: 7eb5, Got: 6580
+Checksum failed. Expected: b863, Got: 6580
+Checksum failed. Expected: 003b, Got: 6580
+Checksum failed. Expected: c281, Got: 6580
+Checksum failed. Expected: 9c0f, Got: 6580
+Checksum failed. Expected: ab3c, Got: 6580
+Checksum failed. Expected: 3df2, Got: 6580
+Checksum failed. Expected: ef08, Got: 6580
+Checksum failed. Expected: 8cdf, Got: 6580
+Checksum failed. Expected: 7fb8, Got: 6580
+Checksum failed. Expected: 3ff8, Got: 6580
+Checksum failed. Expected: 615e, Got: 6580
+Checksum failed. Expected: 24a7, Got: 6580
+Checksum failed. Expected: 209b, Got: 6580
+Checksum failed. Expected: 450a, Got: 6580
+Checksum failed. Expected: 25aa, Got: 6580
+Checksum failed. Expected: 656a, Got: 6580
+Checksum failed. Expected: a324, Got: 6580
+Checksum failed. Expected: 5740, Got: 6580
+Checksum failed. Expected: 4813, Got: 6580
+Checksum failed. Expected: 450a, Got: 6580
+Checksum failed. Expected: 1c8f, Got: 6580
+Checksum failed. Expected: c790, Got: 6580
+Checksum failed. Expected: fa29, Got: 6580
+Checksum failed. Expected: ed02, Got: 6580
+Checksum failed. Expected: 5d52, Got: 6580
+Checksum failed. Expected: 4a19, Got: 6580
+Checksum failed. Expected: 9b0c, Got: 6580
+Checksum failed. Expected: 2dc2, Got: 6580
+Checksum failed. Expected: b457, Got: 6580
+Checksum failed. Expected: 1a89, Got: 6580
+Checksum failed. Expected: d0ab, Got: 6580
+Checksum failed. Expected: 167d, Got: 6580
+Checksum failed. Expected: 35da, Got: 6580
+Checksum failed. Expected: 88d3, Got: 6580
+Checksum failed. Expected: 82c1, Got: 6580
+Checksum failed. Expected: 6d82, Got: 6580
+Checksum failed. Expected: 1780, Got: 6580
+Checksum failed. Expected: 6f88, Got: 6580
+Checksum failed. Expected: e2e1, Got: 6580
+Checksum failed. Expected: cc9f, Got: 6580
+Checksum failed. Expected: 3bec, Got: 6580
+Checksum failed. Expected: 2ab9, Got: 6580
+Checksum failed. Expected: f314, Got: 6580
+Checksum failed. Expected: cfa8, Got: 6580
+Checksum failed. Expected: 4d22, Got: 6580
+Checksum failed. Expected: 5b4c, Got: 6580
+Checksum failed. Expected: 8ad9, Got: 6580
+Checksum failed. Expected: c996, Got: 6580
+Checksum failed. Expected: 2ab9, Got: 6580
+Checksum failed. Expected: 96fd, Got: 6580
+Checksum failed. Expected: cfa8, Got: 6580
+Checksum failed. Expected: 81be, Got: 6580
+Checksum failed. Expected: d2b1, Got: 6580
+Checksum failed. Expected: a936, Got: 6580
+Checksum failed. Expected: 605b, Got: 6580
+Checksum failed. Expected: 95fa, Got: 6580
+Checksum failed. Expected: b354, Got: 6580
+Checksum failed. Expected: 94f7, Got: 6580
+Checksum failed. Expected: 0956, Got: 6580
+Checksum failed. Expected: 0e65, Got: 6580
+Checksum failed. Expected: 106b, Got: 6580
+Checksum failed. Expected: d6bd, Got: 6580
+Checksum failed. Expected: 9700, Got: 6580
+Checksum failed. Expected: cda2, Got: 6580
+Checksum failed. Expected: 8bdc, Got: 6580
+Checksum failed. Expected: 90eb, Got: 6580
+Checksum failed. Expected: 5d52, Got: 6580
+Checksum failed. Expected: ad42, Got: 6580
+Checksum failed. Expected: 6873, Got: 6580
+Checksum failed. Expected: b863, Got: 6580
+Checksum failed. Expected: 054a, Got: 6580
+Checksum failed. Expected: f61d, Got: 6580
+Checksum failed. Expected: 0a59, Got: 6580
+Checksum failed. Expected: 9a09, Got: 6580
+Checksum failed. Expected: c996, Got: 6580
+Checksum failed. Expected: 2cbf, Got: 6580
+Checksum failed. Expected: 9d12, Got: 6580
+Checksum failed. Expected: 0f68, Got: 6580
+Checksum failed. Expected: 1780, Got: 6580
+Checksum failed. Expected: 9c0f, Got: 6580
+Checksum failed. Expected: f926, Got: 6580
+Checksum failed. Expected: 85ca, Got: 6580
+Checksum failed. Expected: ba69, Got: 6580
+Checksum failed. Expected: 35da, Got: 6580
+Checksum failed. Expected: 96fd, Got: 6580
+Checksum failed. Expected: f61d, Got: 6580
+Checksum failed. Expected: 81be, Got: 6580
+Checksum failed. Expected: f926, Got: 6580
+Checksum failed. Expected: d0ab, Got: 6580
+Checksum failed. Expected: e2e1, Got: 6580
+Checksum failed. Expected: a324, Got: 6580
+Checksum failed. Expected: e8f3, Got: 6580
+Checksum failed. Expected: 460d, Got: 6580
+Checksum failed. Expected: 7fb8, Got: 6580
+Checksum failed. Expected: 0750, Got: 6580
+Checksum failed. Expected: c58a, Got: 6580
+Checksum failed. Expected: 116e, Got: 6580
+Checksum failed. Expected: 85ca, Got: 6580
+Checksum failed. Expected: 3df2, Got: 6580
+Checksum failed. Expected: ee05, Got: 6580
+Checksum failed. Expected: d8c3, Got: 6580
+Checksum failed. Expected: 054a, Got: 6580
+Checksum failed. Expected: 26ad, Got: 6580
+Checksum failed. Expected: d3b4, Got: 6580
+Checksum failed. Expected: ab3c, Got: 6580
+Checksum failed. Expected: 79a6, Got: 6580
+Checksum failed. Expected: 450a, Got: 6580
+Checksum failed. Expected: 0d62, Got: 6580
+Checksum failed. Expected: 95fa, Got: 6580
+Checksum failed. Expected: 4a19, Got: 6580
+Checksum failed. Expected: 2ab9, Got: 6580
+Checksum failed. Expected: 79a6, Got: 6580
+Checksum failed. Expected: 1c8f, Got: 6580
+Checksum failed. Expected: fe35, Got: 6580
+Checksum failed. Expected: b760, Got: 6580
+Checksum failed. Expected: f823, Got: 6580
+Checksum failed. Expected: c281, Got: 6580
+Checksum failed. Expected: 8cdf, Got: 6580
+Checksum failed. Expected: 563d, Got: 6580
+Checksum failed. Expected: cea5, Got: 6580
+Checksum failed. Expected: d1ae, Got: 6580
+Checksum failed. Expected: 7291, Got: 6580
+Checksum failed. Expected: 1477, Got: 6580
+
+Exiting...
