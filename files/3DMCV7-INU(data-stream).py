@@ -36,9 +36,9 @@ def start_log():
     """
     Start a new log file with a timestamp
     """
-    log = open('./logs/log' + datetime.now().strftime('%Y-%m-%d_%H-%M-%S') + '.txt', 'w')
+    log = open('./logs/log' + datetime.now().strftime('%Y-%m-%d_%H-%M-%S.%f') + '.txt', 'w')
     log.write('\n#################################################################\n')
-    log.write(f'Log started at {datetime.now().strftime('%Y-%m-%d_%H-%M-%S')} \n')
+    log.write(f"Log started at {datetime.now().strftime('%Y-%m-%d_%H-%M-%S.%f')} \n")
     log.write('#################################################################\n')
     return log
 
