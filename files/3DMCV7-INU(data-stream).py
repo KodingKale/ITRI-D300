@@ -122,7 +122,7 @@ def sync_stream(imu, log):
     """
     Sync stream by purging until header is found
     """
-    time.sleep(0.5)
+    time.sleep(15)
     imu.reset_input_buffer()
     imu.reset_output_buffer()
     while True:
