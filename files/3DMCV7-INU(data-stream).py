@@ -3,7 +3,7 @@ import time
 import struct
 from datetime import datetime
 
-imu_port = '/dev/ttyACM1'
+imu_port = '/dev/ttyS0'
 gps_offset = [0.0, 0.0, 0.0] # [x, y, z] in meters
 decimation = 0x03  # Sampling rate  = 1kHz / decimation (minimum of 3)
 
