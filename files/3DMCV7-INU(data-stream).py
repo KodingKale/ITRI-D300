@@ -3,7 +3,7 @@ import time
 import struct
 from datetime import datetime
 
-imu_port = '/dev/ttyS0'
+imu_port = 'COM7'
 gps_offset = [0.0, 0.0, 0.0] # [x, y, z] in meters
 
 def main():
