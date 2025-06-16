@@ -1,0 +1,1125 @@
+
+#################################################################
+Log started at 2025-06-16_09-43-32.455883 
+#################################################################
+IMU initialized succesfully
+PPS initialized succesfully
+Stream initialized successfully
+Stream synced
+Acceleration: X=0.192313, Y=0.565347, Z=9.802534 m/s^2 Time of Week: 201.416000, Week Number: 0
+Acceleration: X=0.203136, Y=0.560271, Z=9.805378 m/s^2 Time of Week: 201.417000, Week Number: 0
+Acceleration: X=0.204857, Y=0.560417, Z=9.812869 m/s^2 Time of Week: 201.418000, Week Number: 0
+Acceleration: X=0.202586, Y=0.566861, Z=9.817838 m/s^2 Time of Week: 201.419000, Week Number: 0
+Acceleration: X=0.204792, Y=0.568399, Z=9.817683 m/s^2 Time of Week: 201.420000, Week Number: 0
+Acceleration: X=0.207144, Y=0.569221, Z=9.821286 m/s^2 Time of Week: 201.421000, Week Number: 0
+Acceleration: X=0.209063, Y=0.568932, Z=9.822604 m/s^2 Time of Week: 201.422000, Week Number: 0
+Acceleration: X=0.212218, Y=0.564275, Z=9.824287 m/s^2 Time of Week: 201.423000, Week Number: 0
+Acceleration: X=0.205699, Y=0.559113, Z=9.823352 m/s^2 Time of Week: 201.424000, Week Number: 0
+Acceleration: X=0.200961, Y=0.558839, Z=9.821777 m/s^2 Time of Week: 201.425000, Week Number: 0
+Acceleration: X=0.200749, Y=0.560584, Z=9.816392 m/s^2 Time of Week: 201.426000, Week Number: 0
+Acceleration: X=0.199331, Y=0.560074, Z=9.813275 m/s^2 Time of Week: 201.427000, Week Number: 0
+Acceleration: X=0.198994, Y=0.558564, Z=9.806625 m/s^2 Time of Week: 201.428000, Week Number: 0
+Acceleration: X=0.197094, Y=0.559110, Z=9.802742 m/s^2 Time of Week: 201.429000, Week Number: 0
+Acceleration: X=0.191644, Y=0.560180, Z=9.802257 m/s^2 Time of Week: 201.430000, Week Number: 0
+Acceleration: X=0.191223, Y=0.558155, Z=9.801238 m/s^2 Time of Week: 201.431000, Week Number: 0
+Acceleration: X=0.191123, Y=0.557212, Z=9.801900 m/s^2 Time of Week: 201.432000, Week Number: 0
+Acceleration: X=0.192873, Y=0.555138, Z=9.801580 m/s^2 Time of Week: 201.433000, Week Number: 0
+Acceleration: X=0.186496, Y=0.549636, Z=9.791522 m/s^2 Time of Week: 201.434000, Week Number: 0
+Acceleration: X=0.179066, Y=0.545606, Z=9.789547 m/s^2 Time of Week: 201.435000, Week Number: 0
+Acceleration: X=0.182246, Y=0.544187, Z=9.792733 m/s^2 Time of Week: 201.436000, Week Number: 0
+Acceleration: X=0.183448, Y=0.545651, Z=9.789859 m/s^2 Time of Week: 201.437000, Week Number: 0
+Acceleration: X=0.185079, Y=0.546442, Z=9.781442 m/s^2 Time of Week: 201.438000, Week Number: 0
+Acceleration: X=0.183186, Y=0.542118, Z=9.781218 m/s^2 Time of Week: 201.439000, Week Number: 0
+Acceleration: X=0.179989, Y=0.543798, Z=9.786139 m/s^2 Time of Week: 201.440000, Week Number: 0
+Acceleration: X=0.179696, Y=0.552369, Z=9.790492 m/s^2 Time of Week: 201.441000, Week Number: 0
+Acceleration: X=0.176889, Y=0.552182, Z=9.785175 m/s^2 Time of Week: 201.442000, Week Number: 0
+Acceleration: X=0.174854, Y=0.544855, Z=9.782997 m/s^2 Time of Week: 201.443000, Week Number: 0
+Acceleration: X=0.177110, Y=0.544924, Z=9.784744 m/s^2 Time of Week: 201.444000, Week Number: 0
+Acceleration: X=0.175826, Y=0.545377, Z=9.779712 m/s^2 Time of Week: 201.445000, Week Number: 0
+Acceleration: X=0.172803, Y=0.546410, Z=9.773971 m/s^2 Time of Week: 201.446000, Week Number: 0
+Acceleration: X=0.172976, Y=0.544362, Z=9.772157 m/s^2 Time of Week: 201.447000, Week Number: 0
+Acceleration: X=0.174841, Y=0.547031, Z=9.773983 m/s^2 Time of Week: 201.448000, Week Number: 0
+Acceleration: X=0.174361, Y=0.546334, Z=9.775330 m/s^2 Time of Week: 201.449000, Week Number: 0
+Acceleration: X=0.176949, Y=0.544826, Z=9.774723 m/s^2 Time of Week: 201.450000, Week Number: 0
+Acceleration: X=0.174863, Y=0.541731, Z=9.775489 m/s^2 Time of Week: 201.451000, Week Number: 0
+Acceleration: X=0.173453, Y=0.537348, Z=9.777970 m/s^2 Time of Week: 201.452000, Week Number: 0
+Acceleration: X=0.171729, Y=0.533989, Z=9.777197 m/s^2 Time of Week: 201.453000, Week Number: 0
+Acceleration: X=0.172687, Y=0.535025, Z=9.783367 m/s^2 Time of Week: 201.454000, Week Number: 0
+Acceleration: X=0.174735, Y=0.536636, Z=9.789408 m/s^2 Time of Week: 201.455000, Week Number: 0
+Acceleration: X=0.180674, Y=0.535179, Z=9.794507 m/s^2 Time of Week: 201.456000, Week Number: 0
+Acceleration: X=0.184841, Y=0.535255, Z=9.797099 m/s^2 Time of Week: 201.457000, Week Number: 0
+Acceleration: X=0.184028, Y=0.535737, Z=9.799099 m/s^2 Time of Week: 201.458000, Week Number: 0
+Acceleration: X=0.183402, Y=0.539073, Z=9.802319 m/s^2 Time of Week: 201.459000, Week Number: 0
+Acceleration: X=0.184173, Y=0.543521, Z=9.801255 m/s^2 Time of Week: 201.460000, Week Number: 0
+Acceleration: X=0.187065, Y=0.545033, Z=9.799168 m/s^2 Time of Week: 201.461000, Week Number: 0
+Acceleration: X=0.183655, Y=0.543575, Z=9.798639 m/s^2 Time of Week: 201.462000, Week Number: 0
+Acceleration: X=0.183320, Y=0.546417, Z=9.800332 m/s^2 Time of Week: 201.463000, Week Number: 0
+Acceleration: X=0.183735, Y=0.555314, Z=9.797547 m/s^2 Time of Week: 201.464000, Week Number: 0
+Acceleration: X=0.187013, Y=0.562459, Z=9.794132 m/s^2 Time of Week: 201.465000, Week Number: 0
+Acceleration: X=0.190970, Y=0.561004, Z=9.798326 m/s^2 Time of Week: 201.466000, Week Number: 0
+Acceleration: X=0.187406, Y=0.561570, Z=9.797969 m/s^2 Time of Week: 201.467000, Week Number: 0
+Acceleration: X=0.183798, Y=0.557175, Z=9.796988 m/s^2 Time of Week: 201.468000, Week Number: 0
+Acceleration: X=0.187009, Y=0.553823, Z=9.797222 m/s^2 Time of Week: 201.469000, Week Number: 0
+Acceleration: X=0.188253, Y=0.555733, Z=9.795010 m/s^2 Time of Week: 201.470000, Week Number: 0
+Acceleration: X=0.188133, Y=0.560741, Z=9.791738 m/s^2 Time of Week: 201.471000, Week Number: 0
+Acceleration: X=0.186267, Y=0.560563, Z=9.795038 m/s^2 Time of Week: 201.472000, Week Number: 0
+Acceleration: X=0.176683, Y=0.560540, Z=9.794895 m/s^2 Time of Week: 201.473000, Week Number: 0
+Acceleration: X=0.178895, Y=0.562326, Z=9.798943 m/s^2 Time of Week: 201.474000, Week Number: 0
+Acceleration: X=0.182188, Y=0.565040, Z=9.801748 m/s^2 Time of Week: 201.475000, Week Number: 0
+Acceleration: X=0.185718, Y=0.562935, Z=9.807890 m/s^2 Time of Week: 201.476000, Week Number: 0
+Acceleration: X=0.180266, Y=0.567949, Z=9.805271 m/s^2 Time of Week: 201.477000, Week Number: 0
+Acceleration: X=0.181218, Y=0.565531, Z=9.803309 m/s^2 Time of Week: 201.478000, Week Number: 0
+Acceleration: X=0.179116, Y=0.560392, Z=9.806456 m/s^2 Time of Week: 201.479000, Week Number: 0
+Acceleration: X=0.174092, Y=0.563255, Z=9.803103 m/s^2 Time of Week: 201.480000, Week Number: 0
+Acceleration: X=0.172444, Y=0.563952, Z=9.790493 m/s^2 Time of Week: 201.481000, Week Number: 0
+Acceleration: X=0.174322, Y=0.560909, Z=9.787016 m/s^2 Time of Week: 201.482000, Week Number: 0
+Acceleration: X=0.172977, Y=0.560211, Z=9.782548 m/s^2 Time of Week: 201.483000, Week Number: 0
+Acceleration: X=0.171267, Y=0.558654, Z=9.782361 m/s^2 Time of Week: 201.484000, Week Number: 0
+Acceleration: X=0.168524, Y=0.550980, Z=9.780514 m/s^2 Time of Week: 201.485000, Week Number: 0
+Acceleration: X=0.166937, Y=0.547787, Z=9.778247 m/s^2 Time of Week: 201.486000, Week Number: 0
+Acceleration: X=0.165667, Y=0.547488, Z=9.775415 m/s^2 Time of Week: 201.487000, Week Number: 0
+Acceleration: X=0.163544, Y=0.547856, Z=9.766551 m/s^2 Time of Week: 201.488000, Week Number: 0
+Acceleration: X=0.163031, Y=0.550219, Z=9.766693 m/s^2 Time of Week: 201.489000, Week Number: 0
+Acceleration: X=0.166962, Y=0.550322, Z=9.770808 m/s^2 Time of Week: 201.490000, Week Number: 0
+Acceleration: X=0.170640, Y=0.550790, Z=9.770893 m/s^2 Time of Week: 201.491000, Week Number: 0
+Acceleration: X=0.169263, Y=0.549553, Z=9.770914 m/s^2 Time of Week: 201.492000, Week Number: 0
+Acceleration: X=0.168927, Y=0.547449, Z=9.770477 m/s^2 Time of Week: 201.493000, Week Number: 0
+Acceleration: X=0.169783, Y=0.549230, Z=9.769476 m/s^2 Time of Week: 201.494000, Week Number: 0
+Acceleration: X=0.167732, Y=0.552358, Z=9.766962 m/s^2 Time of Week: 201.495000, Week Number: 0
+Acceleration: X=0.164478, Y=0.553567, Z=9.765417 m/s^2 Time of Week: 201.496000, Week Number: 0
+Acceleration: X=0.159132, Y=0.547535, Z=9.770500 m/s^2 Time of Week: 201.497000, Week Number: 0
+Acceleration: X=0.156055, Y=0.541564, Z=9.778118 m/s^2 Time of Week: 201.498000, Week Number: 0
+Acceleration: X=0.162582, Y=0.542833, Z=9.781763 m/s^2 Time of Week: 201.499000, Week Number: 0
+Acceleration: X=0.170957, Y=0.544446, Z=9.783543 m/s^2 Time of Week: 201.500000, Week Number: 0
+Acceleration: X=0.177072, Y=0.548883, Z=9.781700 m/s^2 Time of Week: 201.501000, Week Number: 0
+Acceleration: X=0.172685, Y=0.556389, Z=9.776688 m/s^2 Time of Week: 201.502000, Week Number: 0
+Acceleration: X=0.170727, Y=0.557766, Z=9.776854 m/s^2 Time of Week: 201.503000, Week Number: 0
+Acceleration: X=0.172928, Y=0.550325, Z=9.782372 m/s^2 Time of Week: 201.504000, Week Number: 0
+Acceleration: X=0.176596, Y=0.544851, Z=9.783703 m/s^2 Time of Week: 201.505000, Week Number: 0
+Acceleration: X=0.177940, Y=0.548057, Z=9.789913 m/s^2 Time of Week: 201.506000, Week Number: 0
+Acceleration: X=0.180550, Y=0.547921, Z=9.798230 m/s^2 Time of Week: 201.507000, Week Number: 0
+Acceleration: X=0.182996, Y=0.550652, Z=9.803408 m/s^2 Time of Week: 201.508000, Week Number: 0
+Acceleration: X=0.184551, Y=0.554054, Z=9.800584 m/s^2 Time of Week: 201.509000, Week Number: 0
+Acceleration: X=0.179953, Y=0.556707, Z=9.795821 m/s^2 Time of Week: 201.510000, Week Number: 0
+Acceleration: X=0.177952, Y=0.560059, Z=9.790119 m/s^2 Time of Week: 201.511000, Week Number: 0
+Acceleration: X=0.177014, Y=0.562686, Z=9.792823 m/s^2 Time of Week: 201.512000, Week Number: 0
+Acceleration: X=0.180835, Y=0.565584, Z=9.795259 m/s^2 Time of Week: 201.513000, Week Number: 0
+Acceleration: X=0.189035, Y=0.562644, Z=9.796331 m/s^2 Time of Week: 201.514000, Week Number: 0
+Acceleration: X=0.194183, Y=0.560117, Z=9.795247 m/s^2 Time of Week: 201.515000, Week Number: 0
+Acceleration: X=0.194987, Y=0.566315, Z=9.789046 m/s^2 Time of Week: 201.516000, Week Number: 0
+Acceleration: X=0.187937, Y=0.568251, Z=9.784368 m/s^2 Time of Week: 201.517000, Week Number: 0
+Acceleration: X=0.183535, Y=0.563242, Z=9.788722 m/s^2 Time of Week: 201.518000, Week Number: 0
+Acceleration: X=0.181564, Y=0.558854, Z=9.787970 m/s^2 Time of Week: 201.519000, Week Number: 0
+Acceleration: X=0.182428, Y=0.560081, Z=9.788695 m/s^2 Time of Week: 201.520000, Week Number: 0
+Acceleration: X=0.183063, Y=0.559067, Z=9.792052 m/s^2 Time of Week: 201.521000, Week Number: 0
+Acceleration: X=0.183700, Y=0.562041, Z=9.798750 m/s^2 Time of Week: 201.522000, Week Number: 0
+Acceleration: X=0.184780, Y=0.562261, Z=9.799924 m/s^2 Time of Week: 201.523000, Week Number: 0
+Acceleration: X=0.185454, Y=0.555014, Z=9.799754 m/s^2 Time of Week: 201.524000, Week Number: 0
+Acceleration: X=0.180128, Y=0.550567, Z=9.800138 m/s^2 Time of Week: 201.525000, Week Number: 0
+Acceleration: X=0.175709, Y=0.555419, Z=9.797952 m/s^2 Time of Week: 201.526000, Week Number: 0
+Acceleration: X=0.173276, Y=0.557037, Z=9.796531 m/s^2 Time of Week: 201.527000, Week Number: 0
+Acceleration: X=0.174022, Y=0.555574, Z=9.796196 m/s^2 Time of Week: 201.528000, Week Number: 0
+Acceleration: X=0.179636, Y=0.556124, Z=9.793843 m/s^2 Time of Week: 201.529000, Week Number: 0
+Acceleration: X=0.185975, Y=0.553534, Z=9.795096 m/s^2 Time of Week: 201.530000, Week Number: 0
+Acceleration: X=0.185714, Y=0.549765, Z=9.794967 m/s^2 Time of Week: 201.531000, Week Number: 0
+Acceleration: X=0.182476, Y=0.545671, Z=9.795393 m/s^2 Time of Week: 201.532000, Week Number: 0
+Acceleration: X=0.177603, Y=0.543783, Z=9.800032 m/s^2 Time of Week: 201.533000, Week Number: 0
+Acceleration: X=0.175945, Y=0.536952, Z=9.797995 m/s^2 Time of Week: 201.534000, Week Number: 0
+Acceleration: X=0.176479, Y=0.539407, Z=9.792965 m/s^2 Time of Week: 201.535000, Week Number: 0
+Acceleration: X=0.179798, Y=0.544085, Z=9.788104 m/s^2 Time of Week: 201.536000, Week Number: 0
+Acceleration: X=0.183806, Y=0.552017, Z=9.785110 m/s^2 Time of Week: 201.537000, Week Number: 0
+Acceleration: X=0.186120, Y=0.550721, Z=9.784839 m/s^2 Time of Week: 201.538000, Week Number: 0
+Acceleration: X=0.182994, Y=0.544934, Z=9.784307 m/s^2 Time of Week: 201.539000, Week Number: 0
+Acceleration: X=0.179040, Y=0.539461, Z=9.781919 m/s^2 Time of Week: 201.540000, Week Number: 0
+Acceleration: X=0.175370, Y=0.540878, Z=9.779976 m/s^2 Time of Week: 201.541000, Week Number: 0
+Acceleration: X=0.171747, Y=0.545303, Z=9.779469 m/s^2 Time of Week: 201.542000, Week Number: 0
+Acceleration: X=0.170434, Y=0.547301, Z=9.780247 m/s^2 Time of Week: 201.543000, Week Number: 0
+Acceleration: X=0.178312, Y=0.546395, Z=9.778197 m/s^2 Time of Week: 201.544000, Week Number: 0
+Acceleration: X=0.185168, Y=0.541136, Z=9.777706 m/s^2 Time of Week: 201.545000, Week Number: 0
+Acceleration: X=0.185904, Y=0.537123, Z=9.777587 m/s^2 Time of Week: 201.546000, Week Number: 0
+Acceleration: X=0.185627, Y=0.539339, Z=9.777565 m/s^2 Time of Week: 201.547000, Week Number: 0
+Acceleration: X=0.186063, Y=0.543523, Z=9.773490 m/s^2 Time of Week: 201.548000, Week Number: 0
+Acceleration: X=0.185752, Y=0.547247, Z=9.769329 m/s^2 Time of Week: 201.549000, Week Number: 0
+Acceleration: X=0.187928, Y=0.547689, Z=9.774668 m/s^2 Time of Week: 201.550000, Week Number: 0
+Acceleration: X=0.190230, Y=0.547330, Z=9.778660 m/s^2 Time of Week: 201.551000, Week Number: 0
+Acceleration: X=0.193511, Y=0.544523, Z=9.783720 m/s^2 Time of Week: 201.552000, Week Number: 0
+Acceleration: X=0.195227, Y=0.548848, Z=9.783570 m/s^2 Time of Week: 201.553000, Week Number: 0
+Acceleration: X=0.197489, Y=0.558086, Z=9.786692 m/s^2 Time of Week: 201.554000, Week Number: 0
+Acceleration: X=0.193059, Y=0.562646, Z=9.791981 m/s^2 Time of Week: 201.555000, Week Number: 0
+Acceleration: X=0.186541, Y=0.560604, Z=9.795533 m/s^2 Time of Week: 201.556000, Week Number: 0
+Acceleration: X=0.190389, Y=0.558248, Z=9.799130 m/s^2 Time of Week: 201.557000, Week Number: 0
+Acceleration: X=0.195368, Y=0.552648, Z=9.805919 m/s^2 Time of Week: 201.558000, Week Number: 0
+Acceleration: X=0.196558, Y=0.548102, Z=9.806196 m/s^2 Time of Week: 201.559000, Week Number: 0
+Acceleration: X=0.200942, Y=0.547937, Z=9.808990 m/s^2 Time of Week: 201.560000, Week Number: 0
+Acceleration: X=0.201535, Y=0.548355, Z=9.810557 m/s^2 Time of Week: 201.561000, Week Number: 0
+Acceleration: X=0.200795, Y=0.550285, Z=9.814128 m/s^2 Time of Week: 201.562000, Week Number: 0
+Acceleration: X=0.201516, Y=0.550265, Z=9.816817 m/s^2 Time of Week: 201.563000, Week Number: 0
+Acceleration: X=0.201681, Y=0.555260, Z=9.819236 m/s^2 Time of Week: 201.564000, Week Number: 0
+Acceleration: X=0.202209, Y=0.558291, Z=9.817104 m/s^2 Time of Week: 201.565000, Week Number: 0
+Acceleration: X=0.207311, Y=0.553983, Z=9.815688 m/s^2 Time of Week: 201.566000, Week Number: 0
+Acceleration: X=0.208537, Y=0.553382, Z=9.812618 m/s^2 Time of Week: 201.567000, Week Number: 0
+Acceleration: X=0.206115, Y=0.552337, Z=9.812804 m/s^2 Time of Week: 201.568000, Week Number: 0
+Acceleration: X=0.199629, Y=0.551243, Z=9.815585 m/s^2 Time of Week: 201.569000, Week Number: 0
+Acceleration: X=0.197185, Y=0.553278, Z=9.813985 m/s^2 Time of Week: 201.570000, Week Number: 0
+Acceleration: X=0.199808, Y=0.560587, Z=9.814033 m/s^2 Time of Week: 201.571000, Week Number: 0
+Acceleration: X=0.200465, Y=0.563246, Z=9.806320 m/s^2 Time of Week: 201.572000, Week Number: 0
+Acceleration: X=0.191980, Y=0.556165, Z=9.800843 m/s^2 Time of Week: 201.573000, Week Number: 0
+Acceleration: X=0.187168, Y=0.548979, Z=9.799066 m/s^2 Time of Week: 201.574000, Week Number: 0
+Acceleration: X=0.185584, Y=0.549091, Z=9.795454 m/s^2 Time of Week: 201.575000, Week Number: 0
+Acceleration: X=0.187487, Y=0.550941, Z=9.793228 m/s^2 Time of Week: 201.576000, Week Number: 0
+Acceleration: X=0.183831, Y=0.550941, Z=9.796320 m/s^2 Time of Week: 201.577000, Week Number: 0
+Acceleration: X=0.185197, Y=0.552294, Z=9.798871 m/s^2 Time of Week: 201.578000, Week Number: 0
+Acceleration: X=0.181464, Y=0.552182, Z=9.794046 m/s^2 Time of Week: 201.579000, Week Number: 0
+Acceleration: X=0.178782, Y=0.552185, Z=9.789252 m/s^2 Time of Week: 201.580000, Week Number: 0
+Acceleration: X=0.178575, Y=0.552174, Z=9.787645 m/s^2 Time of Week: 201.581000, Week Number: 0
+Acceleration: X=0.182103, Y=0.549851, Z=9.787721 m/s^2 Time of Week: 201.582000, Week Number: 0
+Acceleration: X=0.181118, Y=0.552004, Z=9.780442 m/s^2 Time of Week: 201.583000, Week Number: 0
+Acceleration: X=0.178630, Y=0.555739, Z=9.780040 m/s^2 Time of Week: 201.584000, Week Number: 0
+Acceleration: X=0.176693, Y=0.552580, Z=9.781767 m/s^2 Time of Week: 201.585000, Week Number: 0
+Acceleration: X=0.176689, Y=0.554062, Z=9.782636 m/s^2 Time of Week: 201.586000, Week Number: 0
+Acceleration: X=0.177129, Y=0.555783, Z=9.780569 m/s^2 Time of Week: 201.587000, Week Number: 0
+Acceleration: X=0.176728, Y=0.550284, Z=9.780074 m/s^2 Time of Week: 201.588000, Week Number: 0
+Acceleration: X=0.172520, Y=0.548508, Z=9.779928 m/s^2 Time of Week: 201.589000, Week Number: 0
+Acceleration: X=0.169712, Y=0.551235, Z=9.778989 m/s^2 Time of Week: 201.590000, Week Number: 0
+Acceleration: X=0.169976, Y=0.554160, Z=9.779691 m/s^2 Time of Week: 201.591000, Week Number: 0
+Acceleration: X=0.173687, Y=0.553537, Z=9.786238 m/s^2 Time of Week: 201.592000, Week Number: 0
+Acceleration: X=0.170913, Y=0.548388, Z=9.786451 m/s^2 Time of Week: 201.593000, Week Number: 0
+Acceleration: X=0.168406, Y=0.546210, Z=9.784214 m/s^2 Time of Week: 201.594000, Week Number: 0
+Acceleration: X=0.173254, Y=0.546586, Z=9.785044 m/s^2 Time of Week: 201.595000, Week Number: 0
+Acceleration: X=0.176716, Y=0.544851, Z=9.783443 m/s^2 Time of Week: 201.596000, Week Number: 0
+Acceleration: X=0.178900, Y=0.543510, Z=9.782143 m/s^2 Time of Week: 201.597000, Week Number: 0
+Acceleration: X=0.176708, Y=0.545461, Z=9.780908 m/s^2 Time of Week: 201.598000, Week Number: 0
+Acceleration: X=0.175700, Y=0.545490, Z=9.779229 m/s^2 Time of Week: 201.599000, Week Number: 0
+Acceleration: X=0.175946, Y=0.548689, Z=9.777475 m/s^2 Time of Week: 201.600000, Week Number: 0
+Acceleration: X=0.176921, Y=0.549921, Z=9.780702 m/s^2 Time of Week: 201.601000, Week Number: 0
+Acceleration: X=0.176252, Y=0.549810, Z=9.783744 m/s^2 Time of Week: 201.602000, Week Number: 0
+Acceleration: X=0.172919, Y=0.550699, Z=9.784479 m/s^2 Time of Week: 201.603000, Week Number: 0
+Acceleration: X=0.175748, Y=0.552707, Z=9.781473 m/s^2 Time of Week: 201.604000, Week Number: 0
+Acceleration: X=0.178725, Y=0.555913, Z=9.776215 m/s^2 Time of Week: 201.605000, Week Number: 0
+Acceleration: X=0.183970, Y=0.554376, Z=9.775842 m/s^2 Time of Week: 201.606000, Week Number: 0
+Acceleration: X=0.186604, Y=0.552634, Z=9.781658 m/s^2 Time of Week: 201.607000, Week Number: 0
+Acceleration: X=0.184976, Y=0.550415, Z=9.782170 m/s^2 Time of Week: 201.608000, Week Number: 0
+Acceleration: X=0.184137, Y=0.554442, Z=9.780460 m/s^2 Time of Week: 201.609000, Week Number: 0
+Acceleration: X=0.180282, Y=0.554078, Z=9.788214 m/s^2 Time of Week: 201.610000, Week Number: 0
+Acceleration: X=0.180245, Y=0.550809, Z=9.793751 m/s^2 Time of Week: 201.611000, Week Number: 0
+Acceleration: X=0.180679, Y=0.550030, Z=9.798259 m/s^2 Time of Week: 201.612000, Week Number: 0
+Acceleration: X=0.178101, Y=0.549840, Z=9.798006 m/s^2 Time of Week: 201.613000, Week Number: 0
+Acceleration: X=0.176591, Y=0.550676, Z=9.795212 m/s^2 Time of Week: 201.614000, Week Number: 0
+Acceleration: X=0.176233, Y=0.548590, Z=9.798181 m/s^2 Time of Week: 201.615000, Week Number: 0
+Acceleration: X=0.175201, Y=0.549921, Z=9.803406 m/s^2 Time of Week: 201.616000, Week Number: 0
+Acceleration: X=0.179448, Y=0.547484, Z=9.803298 m/s^2 Time of Week: 201.617000, Week Number: 0
+Acceleration: X=0.179596, Y=0.550551, Z=9.800544 m/s^2 Time of Week: 201.618000, Week Number: 0
+Acceleration: X=0.180092, Y=0.556313, Z=9.803052 m/s^2 Time of Week: 201.619000, Week Number: 0
+Acceleration: X=0.176146, Y=0.559976, Z=9.802313 m/s^2 Time of Week: 201.620000, Week Number: 0
+Acceleration: X=0.174298, Y=0.558150, Z=9.797603 m/s^2 Time of Week: 201.621000, Week Number: 0
+Acceleration: X=0.173372, Y=0.556840, Z=9.794177 m/s^2 Time of Week: 201.622000, Week Number: 0
+Acceleration: X=0.174045, Y=0.558811, Z=9.798316 m/s^2 Time of Week: 201.623000, Week Number: 0
+Acceleration: X=0.179632, Y=0.557854, Z=9.799310 m/s^2 Time of Week: 201.624000, Week Number: 0
+Acceleration: X=0.177807, Y=0.556251, Z=9.798651 m/s^2 Time of Week: 201.625000, Week Number: 0
+Acceleration: X=0.172888, Y=0.561336, Z=9.797599 m/s^2 Time of Week: 201.626000, Week Number: 0
+Acceleration: X=0.173516, Y=0.559830, Z=9.797361 m/s^2 Time of Week: 201.627000, Week Number: 0
+Acceleration: X=0.174117, Y=0.557140, Z=9.793233 m/s^2 Time of Week: 201.628000, Week Number: 0
+Acceleration: X=0.174244, Y=0.554252, Z=9.790864 m/s^2 Time of Week: 201.629000, Week Number: 0
+Acceleration: X=0.175206, Y=0.550861, Z=9.788951 m/s^2 Time of Week: 201.630000, Week Number: 0
+Acceleration: X=0.176350, Y=0.552265, Z=9.787586 m/s^2 Time of Week: 201.631000, Week Number: 0
+Acceleration: X=0.171165, Y=0.555367, Z=9.787682 m/s^2 Time of Week: 201.632000, Week Number: 0
+Acceleration: X=0.166297, Y=0.555241, Z=9.784519 m/s^2 Time of Week: 201.633000, Week Number: 0
+Acceleration: X=0.170120, Y=0.557449, Z=9.781024 m/s^2 Time of Week: 201.634000, Week Number: 0
+Acceleration: X=0.174167, Y=0.555665, Z=9.776983 m/s^2 Time of Week: 201.635000, Week Number: 0
+Acceleration: X=0.175583, Y=0.552025, Z=9.772394 m/s^2 Time of Week: 201.636000, Week Number: 0
+Acceleration: X=0.169590, Y=0.551183, Z=9.770836 m/s^2 Time of Week: 201.637000, Week Number: 0
+Acceleration: X=0.167240, Y=0.553287, Z=9.771363 m/s^2 Time of Week: 201.638000, Week Number: 0
+Acceleration: X=0.168938, Y=0.551959, Z=9.775141 m/s^2 Time of Week: 201.639000, Week Number: 0
+Acceleration: X=0.172977, Y=0.552561, Z=9.778322 m/s^2 Time of Week: 201.640000, Week Number: 0
+Acceleration: X=0.174421, Y=0.554097, Z=9.777730 m/s^2 Time of Week: 201.641000, Week Number: 0
+Acceleration: X=0.171582, Y=0.553997, Z=9.773046 m/s^2 Time of Week: 201.642000, Week Number: 0
+Acceleration: X=0.169055, Y=0.548996, Z=9.775079 m/s^2 Time of Week: 201.643000, Week Number: 0
+Acceleration: X=0.168451, Y=0.545959, Z=9.778783 m/s^2 Time of Week: 201.644000, Week Number: 0
+Acceleration: X=0.169650, Y=0.544294, Z=9.779228 m/s^2 Time of Week: 201.645000, Week Number: 0
+Acceleration: X=0.175795, Y=0.538393, Z=9.782973 m/s^2 Time of Week: 201.646000, Week Number: 0
+Acceleration: X=0.183179, Y=0.540103, Z=9.781593 m/s^2 Time of Week: 201.647000, Week Number: 0
+Acceleration: X=0.181823, Y=0.546919, Z=9.784424 m/s^2 Time of Week: 201.648000, Week Number: 0
+Acceleration: X=0.182881, Y=0.552670, Z=9.785092 m/s^2 Time of Week: 201.649000, Week Number: 0
+Acceleration: X=0.186311, Y=0.553129, Z=9.781176 m/s^2 Time of Week: 201.650000, Week Number: 0
+Acceleration: X=0.187584, Y=0.550511, Z=9.781140 m/s^2 Time of Week: 201.651000, Week Number: 0
+Acceleration: X=0.185660, Y=0.555363, Z=9.784296 m/s^2 Time of Week: 201.652000, Week Number: 0
+Acceleration: X=0.186105, Y=0.558356, Z=9.785961 m/s^2 Time of Week: 201.653000, Week Number: 0
+Acceleration: X=0.185748, Y=0.555001, Z=9.785931 m/s^2 Time of Week: 201.654000, Week Number: 0
+Checksum failed. Expected: 61e5, Got: 6580
+Checksum failed. Expected: c58a, Got: 6580
+Checksum failed. Expected: ff38, Got: 6580
+Checksum failed. Expected: 4f28, Got: 6580
+Checksum failed. Expected: 2bbc, Got: 6580
+Checksum failed. Expected: a62d, Got: 6580
+Checksum failed. Expected: 512e, Got: 6580
+Checksum failed. Expected: a52a, Got: 6580
+Checksum failed. Expected: 22a1, Got: 6580
+Checksum failed. Expected: 5c4f, Got: 6580
+Checksum failed. Expected: fa29, Got: 6580
+Checksum failed. Expected: 40fb, Got: 6580
+Checksum failed. Expected: fe35, Got: 6580
+Checksum failed. Expected: 1b8c, Got: 6580
+Checksum failed. Expected: 7aa9, Got: 6580
+Checksum failed. Expected: 6f88, Got: 6580
+Checksum failed. Expected: dac9, Got: 6580
+Checksum failed. Expected: 88d3, Got: 6580
+Checksum failed. Expected: 8ee5, Got: 6580
+Checksum failed. Expected: 6f01, Got: 3f7f
+Checksum failed. Expected: 25d4, Got: 3f7f
+Checksum failed. Expected: ba67, Got: 3f7f
+Checksum failed. Expected: 0273, Got: 3f7f
+Checksum failed. Expected: f25b, Got: 3f7f
+Checksum failed. Expected: dfb6, Got: 3f7f
+Checksum failed. Expected: 09a7, Got: 3f7f
+Checksum failed. Expected: cfbc, Got: 3f7f
+Checksum failed. Expected: 8911, Got: 3f7f
+Checksum failed. Expected: 5065, Got: 3f7f
+Checksum failed. Expected: 146c, Got: 3f7f
+Checksum failed. Expected: 7caa, Got: 3f7f
+Checksum failed. Expected: 9eeb, Got: 3f7f
+Checksum failed. Expected: 230c, Got: 3f7f
+Checksum failed. Expected: e062, Got: 3f7f
+Checksum failed. Expected: 4c0f, Got: 3f7f
+Checksum failed. Expected: 2330, Got: 3f7f
+Checksum failed. Expected: 7007, Got: 3f7f
+Checksum failed. Expected: 1d79, Got: 3f7f
+Checksum failed. Expected: 9561, Got: 3f7f
+Checksum failed. Expected: 17f9, Got: 3f7f
+Checksum failed. Expected: 8016, Got: 3f7f
+Checksum failed. Expected: 7157, Got: 3f7f
+Checksum failed. Expected: ec4b, Got: 3f7f
+Checksum failed. Expected: 2a2d, Got: 3f7f
+Checksum failed. Expected: 2657, Got: 3f7f
+Checksum failed. Expected: 1acd, Got: 3f7f
+Checksum failed. Expected: 629b, Got: 3f7f
+Checksum failed. Expected: 31b0, Got: 3f7f
+Checksum failed. Expected: 8922, Got: 3f7f
+Checksum failed. Expected: 56a2, Got: 3f7f
+Checksum failed. Expected: 8dab, Got: 3f7f
+Checksum failed. Expected: f82c, Got: 3f7f
+Checksum failed. Expected: f03d, Got: 3f7f
+Checksum failed. Expected: 860a, Got: 3f7f
+Checksum failed. Expected: 878a, Got: 3f7f
+Checksum failed. Expected: c0e1, Got: 3f7f
+Checksum failed. Expected: ec79, Got: 3f7f
+Checksum failed. Expected: 8066, Got: 3f80
+Checksum failed. Expected: f938, Got: 3f7f
+Checksum failed. Expected: 9433, Got: 3f7f
+Checksum failed. Expected: 8fe4, Got: 3f7f
+Checksum failed. Expected: 8d50, Got: 3f7f
+Checksum failed. Expected: 1e62, Got: 3f7f
+Checksum failed. Expected: 75a3, Got: 3f7f
+Checksum failed. Expected: 9993, Got: 3f7f
+Checksum failed. Expected: cfd8, Got: 3f7f
+Checksum failed. Expected: 8acf, Got: 3f7f
+Checksum failed. Expected: 9263, Got: 3f7f
+Checksum failed. Expected: 7346, Got: 3f7f
+Checksum failed. Expected: 6690, Got: 3f7f
+Checksum failed. Expected: aeb2, Got: 3f7f
+Checksum failed. Expected: 06b7, Got: 3f7f
+Checksum failed. Expected: 6c00, Got: 3f7f
+Checksum failed. Expected: e8e5, Got: 3f7f
+Checksum failed. Expected: 3c89, Got: 3f7f
+Checksum failed. Expected: 1b47, Got: 3f7f
+Checksum failed. Expected: 0d0d, Got: 3f7f
+Checksum failed. Expected: 4daf, Got: 3f7f
+Checksum failed. Expected: ea15, Got: 3f7f
+Checksum failed. Expected: b6da, Got: 3f7f
+Checksum failed. Expected: b135, Got: 3f7f
+Checksum failed. Expected: 59e7, Got: 3f7f
+Checksum failed. Expected: 2662, Got: 3f7f
+Checksum failed. Expected: ec60, Got: 3f7f
+Checksum failed. Expected: 5407, Got: 3f7f
+Checksum failed. Expected: 7c61, Got: 3f7f
+Checksum failed. Expected: 8f94, Got: 3f7f
+Checksum failed. Expected: 6227, Got: 3f7f
+Checksum failed. Expected: 4744, Got: 3f7f
+Checksum failed. Expected: 3840, Got: 3f7f
+Checksum failed. Expected: f9ab, Got: 3f7f
+Checksum failed. Expected: a921, Got: 3f7f
+Checksum failed. Expected: 2228, Got: 3f7f
+Checksum failed. Expected: 3ccd, Got: 3f7f
+Checksum failed. Expected: e854, Got: 3f7f
+Checksum failed. Expected: e070, Got: 3f7f
+Checksum failed. Expected: b848, Got: 3f7f
+Checksum failed. Expected: ea76, Got: 3f7f
+Checksum failed. Expected: acdd, Got: 3f7f
+Checksum failed. Expected: 7caf, Got: 3f7f
+Checksum failed. Expected: 5acf, Got: 3f7f
+Checksum failed. Expected: 8d09, Got: 3f7f
+Checksum failed. Expected: 418a, Got: 3f7f
+Checksum failed. Expected: 483a, Got: 3f7f
+Checksum failed. Expected: 46d5, Got: 3f7f
+Checksum failed. Expected: 289c, Got: 3f7f
+Checksum failed. Expected: 6597, Got: 3f7f
+Checksum failed. Expected: a070, Got: 3f7f
+Checksum failed. Expected: c604, Got: 3f7f
+Checksum failed. Expected: 9cd1, Got: 3f7f
+Checksum failed. Expected: fa94, Got: 3f7f
+Checksum failed. Expected: 6a75, Got: 3f7f
+Checksum failed. Expected: 9f04, Got: 3f7f
+Checksum failed. Expected: e2e5, Got: 3f7f
+Checksum failed. Expected: a51d, Got: 3f7f
+Checksum failed. Expected: 20b5, Got: 3f7f
+Checksum failed. Expected: 68aa, Got: 3f7f
+Checksum failed. Expected: 1973, Got: 3f7f
+Checksum failed. Expected: eb30, Got: 3f7f
+Checksum failed. Expected: 88dd, Got: 3f7f
+Checksum failed. Expected: d1bd, Got: 3f7f
+Checksum failed. Expected: 4298, Got: 3f7f
+Checksum failed. Expected: 7c35, Got: 3f7f
+Checksum failed. Expected: b598, Got: 3f7f
+Checksum failed. Expected: c103, Got: 3f7f
+Checksum failed. Expected: 6f82, Got: 3f7f
+Checksum failed. Expected: aea8, Got: 3f7f
+Checksum failed. Expected: b6fe, Got: 3f7f
+Checksum failed. Expected: 4e26, Got: 3f7f
+Checksum failed. Expected: bc40, Got: 3f7f
+Checksum failed. Expected: a1f2, Got: 3f7f
+Checksum failed. Expected: 943f, Got: 3f7f
+Checksum failed. Expected: a7ad, Got: 3f7f
+Checksum failed. Expected: a171, Got: 3f7f
+Checksum failed. Expected: e829, Got: 3f7f
+Checksum failed. Expected: ffcd, Got: 3f7f
+Checksum failed. Expected: eb4b, Got: 3f7f
+Checksum failed. Expected: 27c3, Got: 3f7f
+Checksum failed. Expected: b802, Got: 3f7f
+Checksum failed. Expected: 76fe, Got: 3f7f
+Checksum failed. Expected: 8d01, Got: 3f7f
+Checksum failed. Expected: 4132, Got: 3f7f
+Checksum failed. Expected: d81d, Got: 3f7f
+Checksum failed. Expected: 8c87, Got: 3f7f
+Checksum failed. Expected: b6f6, Got: 3f7f
+Checksum failed. Expected: 0068, Got: 3f7f
+Checksum failed. Expected: 66a3, Got: 3f7f
+Checksum failed. Expected: 44ac, Got: 3f7f
+Checksum failed. Expected: 2cad, Got: 3f7f
+Checksum failed. Expected: 0e3b, Got: 3f7f
+Checksum failed. Expected: 6ab5, Got: 3f7f
+Checksum failed. Expected: 91ed, Got: 3f7f
+Checksum failed. Expected: dbe6, Got: 3f7f
+Checksum failed. Expected: 8562, Got: 3f7f
+Checksum failed. Expected: aed3, Got: 3f7f
+Checksum failed. Expected: 6679, Got: 3f7f
+Checksum failed. Expected: 5638, Got: 3f7f
+Checksum failed. Expected: 32eb, Got: 3f7f
+Checksum failed. Expected: 79b1, Got: 3f7f
+Checksum failed. Expected: 9143, Got: 3f7f
+Checksum failed. Expected: 40ca, Got: 3f7f
+Checksum failed. Expected: 2bc6, Got: 3f7f
+Checksum failed. Expected: 61f6, Got: 3f7f
+Checksum failed. Expected: 0bf7, Got: 3f7f
+Checksum failed. Expected: df74, Got: 3f7f
+Checksum failed. Expected: 8a21, Got: 3f7f
+Checksum failed. Expected: f5fa, Got: 3f7f
+Checksum failed. Expected: 771b, Got: 3f7f
+Checksum failed. Expected: 1eba, Got: 3f7f
+Checksum failed. Expected: 36bb, Got: 3f7f
+Checksum failed. Expected: 6c0a, Got: 3f7f
+Checksum failed. Expected: 8ec4, Got: 3f7f
+Checksum failed. Expected: a074, Got: 3f7f
+Checksum failed. Expected: 9930, Got: 3f7f
+Checksum failed. Expected: a916, Got: 3f7f
+Checksum failed. Expected: e267, Got: 3f7f
+Checksum failed. Expected: ad27, Got: 3f7f
+Checksum failed. Expected: b630, Got: 3f7f
+Checksum failed. Expected: 0605, Got: 3f7f
+Checksum failed. Expected: 854c, Got: 3f7f
+Checksum failed. Expected: dad8, Got: 3f7f
+Checksum failed. Expected: b2b5, Got: 3f7f
+Checksum failed. Expected: 9748, Got: 3f7f
+Checksum failed. Expected: e635, Got: 3f7f
+Checksum failed. Expected: 2840, Got: 3f7f
+Checksum failed. Expected: 5b98, Got: 3f7f
+Checksum failed. Expected: c3fb, Got: 3f7f
+Checksum failed. Expected: eb1a, Got: 3f7f
+Checksum failed. Expected: 3530, Got: 3f7f
+Checksum failed. Expected: 096b, Got: 3f7f
+Checksum failed. Expected: e234, Got: 3f7f
+Checksum failed. Expected: fc4a, Got: 3f7f
+Checksum failed. Expected: 69c2, Got: 3f7f
+Checksum failed. Expected: 3f59, Got: 3f7f
+Checksum failed. Expected: a5ac, Got: 3f7f
+Checksum failed. Expected: 2e3d, Got: 3f7f
+Checksum failed. Expected: 598e, Got: 3f7f
+Checksum failed. Expected: 6ef8, Got: 3f7f
+Checksum failed. Expected: 6476, Got: 3f7f
+Checksum failed. Expected: 0b4d, Got: 3f7f
+Checksum failed. Expected: 1409, Got: 3f7f
+Checksum failed. Expected: ab74, Got: 3f7f
+Checksum failed. Expected: 7037, Got: 3f7f
+Checksum failed. Expected: 49d0, Got: 3f7f
+Checksum failed. Expected: 2ee0, Got: 3f7f
+Checksum failed. Expected: d960, Got: 3f7f
+Checksum failed. Expected: 1d3f, Got: 3f7f
+Checksum failed. Expected: 526e, Got: 3f7f
+Checksum failed. Expected: 0ebb, Got: 3f7f
+Checksum failed. Expected: 85eb, Got: 3f7f
+Checksum failed. Expected: 6b42, Got: 3f7f
+Checksum failed. Expected: 7c31, Got: 3f7f
+Checksum failed. Expected: 4f7f, Got: 3f7f
+Checksum failed. Expected: c4d4, Got: 3f7f
+Checksum failed. Expected: da9e, Got: 3f7f
+Checksum failed. Expected: e4b8, Got: 3f7f
+Checksum failed. Expected: 019b, Got: 3f7f
+Checksum failed. Expected: 6b88, Got: 3f7f
+Checksum failed. Expected: a400, Got: 3f7f
+Checksum failed. Expected: eead, Got: 3f7f
+Checksum failed. Expected: ccb9, Got: 3f7f
+Checksum failed. Expected: 93f4, Got: 3f7f
+Checksum failed. Expected: 62c5, Got: 3f7f
+Checksum failed. Expected: 0e6c, Got: 3f7f
+Checksum failed. Expected: ff61, Got: 3f7f
+Checksum failed. Expected: 401c, Got: 3f7f
+Checksum failed. Expected: 37f9, Got: 3f7f
+Checksum failed. Expected: 3506, Got: 3f7f
+Checksum failed. Expected: e57b, Got: 3f7f
+Checksum failed. Expected: cfeb, Got: 3f7f
+Checksum failed. Expected: 29b9, Got: 3f7f
+Checksum failed. Expected: 99bb, Got: 3f7f
+Checksum failed. Expected: 92b4, Got: 3f7f
+Checksum failed. Expected: 3786, Got: 3f7f
+Checksum failed. Expected: 3c3e, Got: 3f7f
+Checksum failed. Expected: ecdd, Got: 3f7f
+Checksum failed. Expected: 8cd1, Got: 3f7f
+Checksum failed. Expected: f5da, Got: 3f7f
+Checksum failed. Expected: e48e, Got: 3f7f
+Checksum failed. Expected: cfbd, Got: 3f7f
+Checksum failed. Expected: 8cea, Got: 3f7f
+Checksum failed. Expected: e911, Got: 3f7f
+Checksum failed. Expected: 7fdd, Got: 3f7f
+Checksum failed. Expected: 12d7, Got: 3f7f
+Checksum failed. Expected: 47ab, Got: 3f7f
+Checksum failed. Expected: a0cc, Got: 3f7f
+Checksum failed. Expected: 799c, Got: 3f7f
+Checksum failed. Expected: eb56, Got: 3f7f
+Checksum failed. Expected: d284, Got: 3f7f
+Checksum failed. Expected: 3278, Got: 3f7f
+Checksum failed. Expected: 34e7, Got: 3f7f
+Checksum failed. Expected: 78a9, Got: 3f7f
+Checksum failed. Expected: e613, Got: 3f7f
+Checksum failed. Expected: b0b5, Got: 3f7f
+Checksum failed. Expected: 43c2, Got: 3f7f
+Checksum failed. Expected: 5fbd, Got: 3f7f
+Checksum failed. Expected: fa22, Got: 3f7f
+Checksum failed. Expected: bd46, Got: 3f80
+Checksum failed. Expected: 0e35, Got: 3f7f
+Checksum failed. Expected: 900f, Got: 3f7f
+Checksum failed. Expected: 8f95, Got: 3f7f
+Checksum failed. Expected: 975c, Got: 3f7f
+Checksum failed. Expected: 14ad, Got: 3f7f
+Checksum failed. Expected: 7833, Got: 3f7f
+Checksum failed. Expected: 2006, Got: 3f7f
+Checksum failed. Expected: c036, Got: 3f7f
+Checksum failed. Expected: 5650, Got: 3f7f
+Checksum failed. Expected: 74f5, Got: 3f7f
+Checksum failed. Expected: 955f, Got: 3f7f
+Checksum failed. Expected: 2c06, Got: 3f7f
+Checksum failed. Expected: 8039, Got: 3f7f
+Checksum failed. Expected: 5f9e, Got: 3f7f
+Checksum failed. Expected: bff9, Got: 3f7f
+Checksum failed. Expected: 35b3, Got: 3f7f
+Checksum failed. Expected: ee99, Got: 3f7f
+Checksum failed. Expected: 5b38, Got: 3f7f
+Checksum failed. Expected: b06a, Got: 3f7f
+Checksum failed. Expected: 3683, Got: 3f7f
+Checksum failed. Expected: 26da, Got: 3f7f
+Checksum failed. Expected: 74b0, Got: 3f7f
+Checksum failed. Expected: 6bea, Got: 3f7f
+Checksum failed. Expected: fdff, Got: 3f7f
+Checksum failed. Expected: 6a38, Got: 3f7f
+Checksum failed. Expected: 0a85, Got: 3f7f
+Checksum failed. Expected: 7dee, Got: 3f7f
+Checksum failed. Expected: 48df, Got: 3f7f
+Checksum failed. Expected: e429, Got: 3f7f
+Checksum failed. Expected: 868a, Got: 3f7f
+Checksum failed. Expected: d6b0, Got: 3f7f
+Checksum failed. Expected: 5cc8, Got: 3f7f
+Checksum failed. Expected: adc1, Got: 3f7f
+Checksum failed. Expected: 78e7, Got: 3f7f
+Checksum failed. Expected: e73e, Got: 3f7f
+Checksum failed. Expected: ee6d, Got: 3f7f
+Checksum failed. Expected: 3bdd, Got: 3f7f
+Checksum failed. Expected: b93b, Got: 3f7f
+Checksum failed. Expected: fb01, Got: 3f7f
+Checksum failed. Expected: 25cc, Got: 3f7f
+Checksum failed. Expected: e80d, Got: 3f7f
+Checksum failed. Expected: e029, Got: 3f7f
+Checksum failed. Expected: 9021, Got: 3f7f
+Checksum failed. Expected: 6574, Got: 3f7f
+Checksum failed. Expected: 5dde, Got: 3f7f
+Checksum failed. Expected: 193a, Got: 3f7f
+Checksum failed. Expected: a91f, Got: 3f7f
+Checksum failed. Expected: 304e, Got: 3f7f
+Checksum failed. Expected: d2f2, Got: 3f7f
+Checksum failed. Expected: f505, Got: 3f7f
+Checksum failed. Expected: c32e, Got: 3f7f
+Checksum failed. Expected: 5965, Got: 3f7f
+Checksum failed. Expected: 98ff, Got: 3f7f
+Checksum failed. Expected: a16e, Got: 3f7f
+Checksum failed. Expected: 79fb, Got: 3f7f
+Checksum failed. Expected: e9e1, Got: 3f7f
+Checksum failed. Expected: 7374, Got: 3f7f
+Checksum failed. Expected: 361a, Got: 3f80
+Checksum failed. Expected: e3d8, Got: 3f80
+Checksum failed. Expected: bc91, Got: 3f7f
+Checksum failed. Expected: b371, Got: 3f7f
+Checksum failed. Expected: 7cc0, Got: 3f7f
+Checksum failed. Expected: fab9, Got: 3f7f
+Checksum failed. Expected: b1cc, Got: 3f80
+Checksum failed. Expected: 3b24, Got: 3f80
+Checksum failed. Expected: c590, Got: 3f80
+Checksum failed. Expected: 0d58, Got: 3f7f
+Checksum failed. Expected: 9867, Got: 3f7f
+Checksum failed. Expected: 53e5, Got: 3f80
+Checksum failed. Expected: e340, Got: 3f80
+Checksum failed. Expected: 9550, Got: 3f80
+Checksum failed. Expected: aa27, Got: 3f7f
+Checksum failed. Expected: d98a, Got: 3f7f
+Checksum failed. Expected: 2709, Got: 3f7f
+Checksum failed. Expected: 5d96, Got: 3f7f
+Checksum failed. Expected: d7ca, Got: 3f7f
+Checksum failed. Expected: a352, Got: 3f7f
+Checksum failed. Expected: f438, Got: 3f7f
+Checksum failed. Expected: 0153, Got: 3f7f
+Checksum failed. Expected: 0df3, Got: 3f7f
+Checksum failed. Expected: 3258, Got: 3f7f
+Checksum failed. Expected: 2453, Got: 3f7f
+Checksum failed. Expected: 2fa5, Got: 3f7f
+Checksum failed. Expected: 155a, Got: 3f7f
+Checksum failed. Expected: 3e34, Got: 3f7f
+Checksum failed. Expected: ae81, Got: 3f7f
+Checksum failed. Expected: 617a, Got: 3f7f
+Checksum failed. Expected: 6d30, Got: 3f7f
+Checksum failed. Expected: 1733, Got: 3f7f
+Checksum failed. Expected: 1b0a, Got: 3f7f
+Checksum failed. Expected: 404d, Got: 3f7f
+Checksum failed. Expected: c915, Got: 3f7f
+Checksum failed. Expected: a1d5, Got: 3f7f
+Checksum failed. Expected: 258d, Got: 3f7f
+Checksum failed. Expected: bebf, Got: 3f7f
+Checksum failed. Expected: 1ae4, Got: 3f7f
+Checksum failed. Expected: 5109, Got: 3f7f
+Checksum failed. Expected: 5595, Got: 3f7f
+Checksum failed. Expected: cbb1, Got: 3f7f
+Checksum failed. Expected: de67, Got: 3f7f
+Checksum failed. Expected: 6fc6, Got: 3f7f
+Checksum failed. Expected: 46d6, Got: 3f7f
+Checksum failed. Expected: 2a93, Got: 3f7f
+Checksum failed. Expected: a3f6, Got: 3f7f
+Checksum failed. Expected: 1abc, Got: 3f7f
+Checksum failed. Expected: 0989, Got: 3f7f
+Checksum failed. Expected: 9bdf, Got: 3f7f
+Checksum failed. Expected: e3f2, Got: 3f7f
+Checksum failed. Expected: 9a33, Got: 3f7f
+Checksum failed. Expected: 595d, Got: 3f7f
+Checksum failed. Expected: 49cc, Got: 3f7f
+Checksum failed. Expected: f93f, Got: 3f7f
+Checksum failed. Expected: 3994, Got: 3f7f
+Checksum failed. Expected: 775f, Got: 3f7f
+Checksum failed. Expected: 03d2, Got: 3f7f
+Checksum failed. Expected: 40f0, Got: 3f7f
+Checksum failed. Expected: a45d, Got: 3f7f
+Checksum failed. Expected: 10ed, Got: 3f7f
+Checksum failed. Expected: 990a, Got: 3f7f
+Checksum failed. Expected: 8070, Got: 3f7f
+Checksum failed. Expected: 6392, Got: 3f7f
+Checksum failed. Expected: 1908, Got: 3f7f
+Checksum failed. Expected: a516, Got: 3f7f
+Checksum failed. Expected: 906a, Got: 3f7f
+Checksum failed. Expected: cd06, Got: 3f7f
+Checksum failed. Expected: 1289, Got: 3f7f
+Checksum failed. Expected: cc38, Got: 3f7f
+Checksum failed. Expected: 4381, Got: 3f7f
+Checksum failed. Expected: 5bb5, Got: 3f7f
+Checksum failed. Expected: d55f, Got: 3f7f
+Checksum failed. Expected: cd4b, Got: 3f7f
+Checksum failed. Expected: 7bbc, Got: 3f7f
+Checksum failed. Expected: cfae, Got: 3f7f
+Checksum failed. Expected: f786, Got: 3f7f
+Checksum failed. Expected: 08fb, Got: 3f7f
+Checksum failed. Expected: 7d9f, Got: 3f7f
+Checksum failed. Expected: 2b94, Got: 3f7f
+Checksum failed. Expected: 764b, Got: 3f7f
+Checksum failed. Expected: f088, Got: 3f7f
+Checksum failed. Expected: 4d71, Got: 3f7f
+Checksum failed. Expected: 3b58, Got: 3f7f
+Checksum failed. Expected: 86da, Got: 3f7f
+Checksum failed. Expected: 2f2f, Got: 3f7f
+Checksum failed. Expected: f32d, Got: 3f7f
+Checksum failed. Expected: c21e, Got: 3f7f
+Checksum failed. Expected: ed5d, Got: 3f7f
+Checksum failed. Expected: 814b, Got: 3f7f
+Checksum failed. Expected: 3e43, Got: 3f7f
+Checksum failed. Expected: 2dbc, Got: 3f7f
+Checksum failed. Expected: b12e, Got: 3f7f
+Checksum failed. Expected: 8742, Got: 3f7f
+Checksum failed. Expected: 52cf, Got: 3f7f
+Checksum failed. Expected: 3bde, Got: 3f7f
+Checksum failed. Expected: 9575, Got: 3f7f
+Checksum failed. Expected: 7cc0, Got: 3f7f
+Checksum failed. Expected: 9c56, Got: 3f7f
+Checksum failed. Expected: a319, Got: 3f7f
+Checksum failed. Expected: d698, Got: 3f7f
+Checksum failed. Expected: e893, Got: 3f7f
+Checksum failed. Expected: f769, Got: 3f7f
+Checksum failed. Expected: efb8, Got: 3f7f
+Checksum failed. Expected: 6989, Got: 3f7f
+Checksum failed. Expected: f52b, Got: 3f7f
+Checksum failed. Expected: 19fa, Got: 3f7f
+Checksum failed. Expected: 7af6, Got: 3f7f
+Checksum failed. Expected: 2a35, Got: 3f7f
+Checksum failed. Expected: c782, Got: 3f7f
+Checksum failed. Expected: 4c92, Got: 3f7f
+Checksum failed. Expected: ec1d, Got: 3f7f
+Checksum failed. Expected: c500, Got: 3f7f
+Checksum failed. Expected: cb9f, Got: 3f7f
+Checksum failed. Expected: a58f, Got: 3f7f
+Checksum failed. Expected: 0a4b, Got: 3f80
+Checksum failed. Expected: aa48, Got: 3f80
+Checksum failed. Expected: c98d, Got: 3f7f
+Checksum failed. Expected: 03ff, Got: 3f7f
+Checksum failed. Expected: 24eb, Got: 3f7f
+Checksum failed. Expected: ed61, Got: 3f7f
+Checksum failed. Expected: f147, Got: 3f7f
+Checksum failed. Expected: 529a, Got: 3f7f
+Checksum failed. Expected: 55be, Got: 3f7f
+Checksum failed. Expected: 6c94, Got: 3f7f
+Checksum failed. Expected: 4960, Got: 3f7f
+Checksum failed. Expected: 6c59, Got: 3f7f
+Checksum failed. Expected: f6db, Got: 3f7f
+Checksum failed. Expected: 3c0d, Got: 3f7f
+Checksum failed. Expected: cd74, Got: 3f7f
+Checksum failed. Expected: 1bd8, Got: 3f7f
+Checksum failed. Expected: 38f9, Got: 3f7f
+Checksum failed. Expected: 459f, Got: 3f7f
+Checksum failed. Expected: f5e8, Got: 3f7f
+Checksum failed. Expected: 3614, Got: 3f7f
+Checksum failed. Expected: 90bb, Got: 3f7f
+Checksum failed. Expected: 49ff, Got: 3f7f
+Checksum failed. Expected: acf7, Got: 3f80
+Checksum failed. Expected: f98f, Got: 3f80
+Checksum failed. Expected: f479, Got: 3f7f
+Checksum failed. Expected: aa80, Got: 3f7f
+Checksum failed. Expected: a6a1, Got: 3f7f
+Checksum failed. Expected: e476, Got: 3f7f
+Checksum failed. Expected: 5c6c, Got: 3f7f
+Checksum failed. Expected: 08f2, Got: 3f7f
+Checksum failed. Expected: 285e, Got: 3f7f
+Checksum failed. Expected: 1aa1, Got: 3f7f
+Checksum failed. Expected: 276f, Got: 3f7f
+Checksum failed. Expected: 5d7c, Got: 3f7f
+Checksum failed. Expected: acfd, Got: 3f7f
+Checksum failed. Expected: 3fd5, Got: 3f7f
+Checksum failed. Expected: d1d3, Got: 3f7f
+Checksum failed. Expected: d0a1, Got: 3f7f
+Checksum failed. Expected: dbbc, Got: 3f7f
+Checksum failed. Expected: 246f, Got: 3f7f
+Checksum failed. Expected: 0276, Got: 3f7f
+Checksum failed. Expected: ec11, Got: 3f7f
+Checksum failed. Expected: 5408, Got: 3f7f
+Checksum failed. Expected: 59ad, Got: 3f7f
+Checksum failed. Expected: 892b, Got: 3f7f
+Checksum failed. Expected: b89d, Got: 3f7f
+Checksum failed. Expected: 996f, Got: 3f7f
+Checksum failed. Expected: 0b25, Got: 3f7f
+Checksum failed. Expected: 6015, Got: 3f7f
+Checksum failed. Expected: 298b, Got: 3f7f
+Checksum failed. Expected: 009f, Got: 3f7f
+Checksum failed. Expected: 0590, Got: 3f7f
+Checksum failed. Expected: 96c2, Got: 3f7f
+Checksum failed. Expected: 8959, Got: 3f7f
+Checksum failed. Expected: 40e7, Got: 3f7f
+Checksum failed. Expected: 32f1, Got: 3f7f
+Checksum failed. Expected: b6b2, Got: 3f7f
+Checksum failed. Expected: 0e9c, Got: 3f7f
+Checksum failed. Expected: 18e8, Got: 3f7f
+Checksum failed. Expected: 4aa1, Got: 3f7f
+Checksum failed. Expected: 3e07, Got: 3f7f
+Checksum failed. Expected: eb49, Got: 3f7f
+Checksum failed. Expected: 4c04, Got: 3f7f
+Checksum failed. Expected: a2f2, Got: 3f7f
+Checksum failed. Expected: 9ac6, Got: 3f7f
+Checksum failed. Expected: 147d, Got: 3f7f
+Checksum failed. Expected: 8592, Got: 3f7f
+Checksum failed. Expected: dbbb, Got: 3f7f
+Checksum failed. Expected: a23f, Got: 3f7f
+Checksum failed. Expected: 1a0a, Got: 3f7f
+Checksum failed. Expected: c822, Got: 3f7f
+Checksum failed. Expected: d1b3, Got: 3f7f
+Checksum failed. Expected: 904f, Got: 3f7f
+Checksum failed. Expected: 382e, Got: 3f7f
+Checksum failed. Expected: b329, Got: 3f7f
+Checksum failed. Expected: 69dc, Got: 3f7f
+Checksum failed. Expected: a06e, Got: 3f7f
+Checksum failed. Expected: 374a, Got: 3f7f
+Checksum failed. Expected: ebc1, Got: 3f7f
+Checksum failed. Expected: cb5e, Got: 3f7f
+Checksum failed. Expected: 1892, Got: 3f7f
+Checksum failed. Expected: fbef, Got: 3f7f
+Checksum failed. Expected: d6c1, Got: 3f7f
+Checksum failed. Expected: ccd1, Got: 3f7f
+Checksum failed. Expected: b799, Got: 3f7f
+Checksum failed. Expected: 2813, Got: 3f7f
+Checksum failed. Expected: 91b2, Got: 3f7f
+Checksum failed. Expected: c7f7, Got: 3f7f
+Checksum failed. Expected: a90f, Got: 3f7f
+Checksum failed. Expected: 2a39, Got: 3f7f
+Checksum failed. Expected: d42e, Got: 3f7f
+Checksum failed. Expected: f13a, Got: 3f7f
+Checksum failed. Expected: 3c41, Got: 3f7f
+Checksum failed. Expected: 75b2, Got: 3f7f
+Checksum failed. Expected: 3cdc, Got: 3f7f
+Checksum failed. Expected: 4961, Got: 3f7f
+Checksum failed. Expected: 7745, Got: 3f7f
+Checksum failed. Expected: e0aa, Got: 3f7f
+Checksum failed. Expected: 27fb, Got: 3f7f
+Checksum failed. Expected: df28, Got: 3f7f
+Checksum failed. Expected: 3f6c, Got: 3f7f
+Checksum failed. Expected: 2101, Got: 3f7f
+Checksum failed. Expected: e8e7, Got: 3f7f
+Checksum failed. Expected: 1975, Got: 3f7f
+Checksum failed. Expected: 3031, Got: 3f7f
+Checksum failed. Expected: a9af, Got: 3f7f
+Checksum failed. Expected: 2e14, Got: 3f7f
+Checksum failed. Expected: 01f4, Got: 3f7f
+Checksum failed. Expected: 501d, Got: 3f7f
+Checksum failed. Expected: e65d, Got: 3f7f
+Checksum failed. Expected: 0b4f, Got: 3f7f
+Checksum failed. Expected: 16a0, Got: 3f7f
+Checksum failed. Expected: 8fbc, Got: 3f7f
+Checksum failed. Expected: 8249, Got: 3f7f
+Checksum failed. Expected: 1f2f, Got: 3f7f
+Checksum failed. Expected: ad9c, Got: 3f7f
+Checksum failed. Expected: d765, Got: 3f80
+Checksum failed. Expected: e1ed, Got: 3f80
+Checksum failed. Expected: ac56, Got: 3f80
+Checksum failed. Expected: 3ab8, Got: 3f80
+Checksum failed. Expected: b3ac, Got: 3f80
+Checksum failed. Expected: ff25, Got: 3f7f
+Checksum failed. Expected: c9c5, Got: 3f7f
+Checksum failed. Expected: 9080, Got: 3f7f
+Checksum failed. Expected: 5ff4, Got: 3f7f
+Checksum failed. Expected: 15cf, Got: 3f7f
+Checksum failed. Expected: 27fa, Got: 3f7f
+Checksum failed. Expected: 2f15, Got: 3f7f
+Checksum failed. Expected: ba05, Got: 3f7f
+Checksum failed. Expected: 4044, Got: 3f7f
+Checksum failed. Expected: 0c29, Got: 3f7f
+Checksum failed. Expected: 73cf, Got: 3f7f
+Checksum failed. Expected: 5fb2, Got: 3f7f
+Checksum failed. Expected: c022, Got: 3f7f
+Checksum failed. Expected: 034a, Got: 3f80
+Checksum failed. Expected: 2dc1, Got: 3f7f
+Checksum failed. Expected: 3b62, Got: 3f7f
+Checksum failed. Expected: 85ab, Got: 3f7f
+Checksum failed. Expected: 5265, Got: 3f7f
+Checksum failed. Expected: 5edd, Got: 3f7f
+Checksum failed. Expected: c8d2, Got: 3f7f
+Checksum failed. Expected: 4b39, Got: 3f7f
+Checksum failed. Expected: 285e, Got: 3f7f
+Checksum failed. Expected: 1101, Got: 3f7f
+Checksum failed. Expected: 279e, Got: 3f7f
+Checksum failed. Expected: 4082, Got: 3f7f
+Checksum failed. Expected: e9a0, Got: 3f7f
+Checksum failed. Expected: faa8, Got: 3f7f
+Checksum failed. Expected: ddf4, Got: 3f7f
+Checksum failed. Expected: 5024, Got: 3f7f
+Checksum failed. Expected: 4ae2, Got: 3f7f
+Checksum failed. Expected: d013, Got: 3f7f
+Checksum failed. Expected: c557, Got: 3f7f
+Checksum failed. Expected: 520e, Got: 3f7f
+Checksum failed. Expected: 8f84, Got: 3f7f
+Checksum failed. Expected: f655, Got: 3f7f
+Checksum failed. Expected: 8c88, Got: 3f7f
+Checksum failed. Expected: bc4e, Got: 3f7f
+Checksum failed. Expected: 8d2e, Got: 3f7e
+Checksum failed. Expected: 35f1, Got: 3f7f
+Checksum failed. Expected: 3f6f, Got: 3f7e
+Checksum failed. Expected: f15c, Got: 3f7e
+Checksum failed. Expected: 7caf, Got: 3f7f
+Checksum failed. Expected: af58, Got: 3f7f
+Checksum failed. Expected: c649, Got: 3f7f
+Checksum failed. Expected: 39ed, Got: 3f7f
+Checksum failed. Expected: 3a63, Got: 3f7f
+Checksum failed. Expected: 2768, Got: 3f7f
+Checksum failed. Expected: e463, Got: 3f7f
+Checksum failed. Expected: e3d9, Got: 3f7f
+Checksum failed. Expected: e726, Got: 3f7f
+Checksum failed. Expected: 9172, Got: 3f7f
+Checksum failed. Expected: 2b29, Got: 3f7f
+Checksum failed. Expected: 1354, Got: 3f7f
+Checksum failed. Expected: 4f03, Got: 3f7f
+Checksum failed. Expected: 2fcf, Got: 3f7f
+Checksum failed. Expected: 840a, Got: 3f7f
+Checksum failed. Expected: 9f58, Got: 3f7f
+Checksum failed. Expected: d13a, Got: 3f7f
+Checksum failed. Expected: 1244, Got: 3f7f
+Checksum failed. Expected: 2ce2, Got: 3f7f
+Checksum failed. Expected: a056, Got: 3f7f
+Checksum failed. Expected: b99d, Got: 3f7f
+Checksum failed. Expected: 301e, Got: 3f7f
+Checksum failed. Expected: 80ae, Got: 3f7f
+Checksum failed. Expected: 1277, Got: 3f7f
+Checksum failed. Expected: 27da, Got: 3f7f
+Checksum failed. Expected: de96, Got: 3f7f
+Checksum failed. Expected: b4df, Got: 3f7f
+Checksum failed. Expected: 0895, Got: 3f7f
+Checksum failed. Expected: a7c7, Got: 3f7f
+Checksum failed. Expected: b467, Got: 3f7f
+Checksum failed. Expected: dbd1, Got: 3f7f
+Checksum failed. Expected: 03e8, Got: 3f7f
+Checksum failed. Expected: 075f, Got: 3f7f
+Checksum failed. Expected: 4035, Got: 3f7f
+Checksum failed. Expected: 3f04, Got: 3f7f
+Checksum failed. Expected: 403f, Got: 3f7f
+Checksum failed. Expected: b0d7, Got: 3f7f
+Checksum failed. Expected: c76e, Got: 3f7f
+Checksum failed. Expected: 08e5, Got: 3f7f
+Checksum failed. Expected: 1e61, Got: 3f7f
+Checksum failed. Expected: 362c, Got: 3f7f
+Checksum failed. Expected: 8403, Got: 3f7f
+Checksum failed. Expected: b542, Got: 3f7f
+Checksum failed. Expected: 8140, Got: 3f7e
+Checksum failed. Expected: 2daa, Got: 3f7e
+Checksum failed. Expected: 43a2, Got: 3f7e
+Checksum failed. Expected: 972c, Got: 3f7e
+Checksum failed. Expected: 9e79, Got: 3f7e
+Checksum failed. Expected: 3c06, Got: 3f7e
+Checksum failed. Expected: 9664, Got: 3f7f
+Checksum failed. Expected: 8bce, Got: 3f7f
+Checksum failed. Expected: e99a, Got: 3f7f
+Checksum failed. Expected: 45bd, Got: 3f7f
+Checksum failed. Expected: 890b, Got: 3f7f
+Checksum failed. Expected: 0119, Got: 3f80
+Checksum failed. Expected: 37b1, Got: 3f80
+Checksum failed. Expected: e325, Got: 3f80
+Checksum failed. Expected: 0b96, Got: 3f80
+Checksum failed. Expected: 871e, Got: 3f80
+Checksum failed. Expected: 52dc, Got: 3f80
+Checksum failed. Expected: 97d2, Got: 3f80
+Checksum failed. Expected: bcd9, Got: 3f80
+Checksum failed. Expected: af00, Got: 3f7f
+Checksum failed. Expected: 1b0f, Got: 3f7f
+Checksum failed. Expected: 7617, Got: 3f7e
+Checksum failed. Expected: f165, Got: 3f7e
+Checksum failed. Expected: c08d, Got: 3f7e
+Checksum failed. Expected: 4012, Got: 3f7e
+Checksum failed. Expected: db10, Got: 3f7e
+Checksum failed. Expected: 905f, Got: 3f7e
+Checksum failed. Expected: 2040, Got: 3f7f
+Checksum failed. Expected: cbef, Got: 3f7f
+Checksum failed. Expected: ebc1, Got: 3f7f
+Checksum failed. Expected: 7d13, Got: 3f7f
+Checksum failed. Expected: 6f32, Got: 3f7f
+Checksum failed. Expected: 181d, Got: 3f7f
+Checksum failed. Expected: 087a, Got: 3f7f
+Checksum failed. Expected: 1f4f, Got: 3f7f
+Checksum failed. Expected: a526, Got: 3f7f
+Checksum failed. Expected: 1944, Got: 3f7f
+Checksum failed. Expected: 0801, Got: 3f80
+Checksum failed. Expected: b7ab, Got: 3f80
+Checksum failed. Expected: 1fe2, Got: 3f80
+Checksum failed. Expected: 330a, Got: 3f80
+Checksum failed. Expected: 34c1, Got: 3f80
+Checksum failed. Expected: b390, Got: 3f80
+Checksum failed. Expected: 04fd, Got: 3f80
+Checksum failed. Expected: 3714, Got: 3f7f
+Checksum failed. Expected: f136, Got: 3f80
+Checksum failed. Expected: d12d, Got: 3f80
+Checksum failed. Expected: d51f, Got: 3f80
+Checksum failed. Expected: 312a, Got: 3f80
+Checksum failed. Expected: ce2a, Got: 3f80
+Checksum failed. Expected: 4599, Got: 3f7f
+Checksum failed. Expected: d540, Got: 3f7f
+Checksum failed. Expected: 7302, Got: 3f7e
+Checksum failed. Expected: d31c, Got: 3f7e
+Checksum failed. Expected: d999, Got: 3f7e
+Checksum failed. Expected: 055e, Got: 3f7e
+Checksum failed. Expected: a012, Got: 3f7f
+Checksum failed. Expected: b382, Got: 3f7f
+Checksum failed. Expected: 5a98, Got: 3f7f
+Checksum failed. Expected: eee0, Got: 3f7f
+Checksum failed. Expected: d461, Got: 3f7f
+Checksum failed. Expected: ba7d, Got: 3f7f
+Checksum failed. Expected: f3a8, Got: 3f7f
+Checksum failed. Expected: c4bc, Got: 3f7f
+Checksum failed. Expected: 2acc, Got: 3f7f
+Checksum failed. Expected: 65e6, Got: 3f7f
+Checksum failed. Expected: b50e, Got: 3f80
+Checksum failed. Expected: d398, Got: 3f80
+Checksum failed. Expected: 7fac, Got: 3f80
+Checksum failed. Expected: 6873, Got: 3f80
+Checksum failed. Expected: 8f79, Got: 3f80
+Checksum failed. Expected: 5cf8, Got: 3f7f
+Checksum failed. Expected: b63b, Got: 3f7f
+Checksum failed. Expected: 1547, Got: 3f7f
+Checksum failed. Expected: 0015, Got: 3f7f
+Checksum failed. Expected: 4d32, Got: 3f7f
+Checksum failed. Expected: c8cd, Got: 3f7f
+Checksum failed. Expected: 9e74, Got: 3f7f
+Checksum failed. Expected: 06f4, Got: 3f80
+Checksum failed. Expected: 438c, Got: 3f80
+Checksum failed. Expected: 5aab, Got: 3f7f
+Checksum failed. Expected: ec89, Got: 3f7f
+Checksum failed. Expected: 3923, Got: 3f7f
+Checksum failed. Expected: 78b8, Got: 3f7f
+Checksum failed. Expected: bab7, Got: 3f7f
+Checksum failed. Expected: a3f8, Got: 3f7e
+Checksum failed. Expected: 1052, Got: 3f7f
+Checksum failed. Expected: 2a12, Got: 3f7f
+Checksum failed. Expected: dd40, Got: 3f7f
+Checksum failed. Expected: 9356, Got: 3f7f
+Checksum failed. Expected: 5dd9, Got: 3f7f
+Checksum failed. Expected: 0330, Got: 3f7f
+Checksum failed. Expected: a0f0, Got: 3f7f
+Checksum failed. Expected: 0321, Got: 3f7f
+Checksum failed. Expected: f6b4, Got: 3f7f
+Checksum failed. Expected: 0986, Got: 3f7f
+Checksum failed. Expected: 81cf, Got: 3f7f
+Checksum failed. Expected: 18d5, Got: 3f80
+Checksum failed. Expected: 9208, Got: 3f80
+Checksum failed. Expected: 42da, Got: 3f80
+Checksum failed. Expected: 167a, Got: 3f80
+Checksum failed. Expected: b2f2, Got: 3f80
+Checksum failed. Expected: 1654, Got: 3f7f
+Checksum failed. Expected: 7d4d, Got: 3f7f
+Checksum failed. Expected: d04b, Got: 3f7f
+Checksum failed. Expected: 2d7c, Got: 3f7f
+Checksum failed. Expected: 500b, Got: 3f7f
+Checksum failed. Expected: f4fc, Got: 3f7f
+Checksum failed. Expected: 9358, Got: 3f7f
+Checksum failed. Expected: a31c, Got: 3f7f
+Checksum failed. Expected: 6345, Got: 3f7f
+Checksum failed. Expected: 4762, Got: 3f7f
+Checksum failed. Expected: 7fa4, Got: 3f7f
+Checksum failed. Expected: e213, Got: 3f7f
+Checksum failed. Expected: 90c5, Got: 3f7f
+Checksum failed. Expected: 1d4f, Got: 3f7f
+Checksum failed. Expected: 9b15, Got: 3f7f
+Checksum failed. Expected: 4b70, Got: 3f7e
+Checksum failed. Expected: 723e, Got: 3f7e
+Checksum failed. Expected: ef39, Got: 3f7f
+Checksum failed. Expected: 7cf6, Got: 3f7f
+Checksum failed. Expected: e55b, Got: 3f7f
+Checksum failed. Expected: 12aa, Got: 3f7f
+Checksum failed. Expected: 3fe5, Got: 3f7f
+Checksum failed. Expected: 2428, Got: 3f7f
+Checksum failed. Expected: 61c0, Got: 3f7f
+Checksum failed. Expected: 4904, Got: 3f7f
+Checksum failed. Expected: f8f2, Got: 3f80
+Checksum failed. Expected: e9f9, Got: 3f80
+Checksum failed. Expected: 2355, Got: 3f80
+Checksum failed. Expected: 23cc, Got: 3f80
+Checksum failed. Expected: 33f0, Got: 3f80
+Checksum failed. Expected: 46d5, Got: 3f7f
+Checksum failed. Expected: 7213, Got: 3f7f
+Checksum failed. Expected: 1bad, Got: 3f7f
+Checksum failed. Expected: 1895, Got: 3f7f
+Checksum failed. Expected: ed48, Got: 3f7f
+Checksum failed. Expected: e3a0, Got: 3f7f
+Checksum failed. Expected: e0a7, Got: 3f7f
+Checksum failed. Expected: dfb3, Got: 3f7e
+Checksum failed. Expected: 4996, Got: 3f7e
+Checksum failed. Expected: 15a6, Got: 3f7f
+Checksum failed. Expected: c683, Got: 3f7f
+Checksum failed. Expected: defe, Got: 3f7f
+Checksum failed. Expected: 45fc, Got: 3f7f
+Checksum failed. Expected: 9315, Got: 3f7f
+Checksum failed. Expected: ec2a, Got: 3f7f
+Checksum failed. Expected: 14b4, Got: 3f7f
+Checksum failed. Expected: f6bf, Got: 3f7f
+Checksum failed. Expected: 406e, Got: 3f7f
+Checksum failed. Expected: 077e, Got: 3f7f
+Checksum failed. Expected: f45b, Got: 3f7f
+Checksum failed. Expected: 4940, Got: 3f7f
+Checksum failed. Expected: f0f5, Got: 3f7f
+Checksum failed. Expected: d7b0, Got: 3f7f
+Checksum failed. Expected: 1fd7, Got: 3f7f
+Checksum failed. Expected: 66b1, Got: 3f7f
+Checksum failed. Expected: d09d, Got: 3f7f
+Checksum failed. Expected: 5dc9, Got: 3f7f
+Checksum failed. Expected: 745c, Got: 3f7f
+Checksum failed. Expected: 87c2, Got: 3f7f
+Checksum failed. Expected: 31ae, Got: 3f7f
+Checksum failed. Expected: b6fb, Got: 3f7f
+Checksum failed. Expected: 0dfd, Got: 3f7f
+Checksum failed. Expected: 4257, Got: 3f80
+Checksum failed. Expected: a90c, Got: 3f80
+Checksum failed. Expected: 7322, Got: 3f7f
+Checksum failed. Expected: 52b3, Got: 3f7f
+Checksum failed. Expected: e1e8, Got: 3f7f
+Checksum failed. Expected: 52d8, Got: 3f7f
+Checksum failed. Expected: 6e5a, Got: 3f7f
+Checksum failed. Expected: 6aa8, Got: 3f7f
+Checksum failed. Expected: 07a4, Got: 3f7e
+Checksum failed. Expected: 6bb0, Got: 3f7e
+Checksum failed. Expected: 84eb, Got: 3f7f
+Checksum failed. Expected: 98ef, Got: 3f7f
+Checksum failed. Expected: 6a01, Got: 3f7f
+Checksum failed. Expected: 839f, Got: 3f7f
+Checksum failed. Expected: 11fa, Got: 3f7f
+Checksum failed. Expected: b148, Got: 3f7f
+Checksum failed. Expected: 09f0, Got: 3f7f
+Checksum failed. Expected: 1713, Got: 3f7f
+Checksum failed. Expected: 7b8a, Got: 3f80
+Checksum failed. Expected: 9257, Got: 3f80
+Checksum failed. Expected: ac6a, Got: 3f7f
+Checksum failed. Expected: c60f, Got: 3f7f
+Checksum failed. Expected: aa7f, Got: 3f7f
+Checksum failed. Expected: 19d1, Got: 3f7f
+Checksum failed. Expected: bb25, Got: 3f7f
+Checksum failed. Expected: c2a2, Got: 3f7f
+Checksum failed. Expected: aed5, Got: 3f7f
+Checksum failed. Expected: 7878, Got: 3f7f
+Checksum failed. Expected: c322, Got: 3f7f
+Checksum failed. Expected: 1479, Got: 3f7f
+Checksum failed. Expected: 08d0, Got: 3f7f
+Checksum failed. Expected: b242, Got: 3f7f
+Checksum failed. Expected: aa2c, Got: 3f7f
+Checksum failed. Expected: 85b0, Got: 3f7f
+Checksum failed. Expected: 8235, Got: 3f7f
+Checksum failed. Expected: 45c5, Got: 3f7f
+Checksum failed. Expected: 265e, Got: 3f7f
+Checksum failed. Expected: 400b, Got: 3f7f
+Checksum failed. Expected: 10f8, Got: 3f7f
+Checksum failed. Expected: 5e98, Got: 3f7f
+Checksum failed. Expected: 3c49, Got: 3f7f
+Checksum failed. Expected: d322, Got: 3f7f
+Checksum failed. Expected: 1423, Got: 3f7f
+Checksum failed. Expected: d3e8, Got: 3f7f
+Checksum failed. Expected: bec3, Got: 3f7f
+Checksum failed. Expected: b731, Got: 3f7f
+Checksum failed. Expected: 0dc8, Got: 3f7e
+Checksum failed. Expected: d056, Got: 3f7e
+Checksum failed. Expected: f564, Got: 3f7e
+Checksum failed. Expected: be4c, Got: 3f7e
+Checksum failed. Expected: 63b1, Got: 3f7e
+Checksum failed. Expected: 8649, Got: 3f7e
+Checksum failed. Expected: 6a8a, Got: 3f7e
+Checksum failed. Expected: d935, Got: 3f7f
+Checksum failed. Expected: 0ab4, Got: 3f7f
+Checksum failed. Expected: 7c4a, Got: 3f80
+Checksum failed. Expected: 7b51, Got: 3f80
+Checksum failed. Expected: 6540, Got: 3f80
+Checksum failed. Expected: 7cbc, Got: 3f80
+Checksum failed. Expected: 75b2, Got: 3f80
+Checksum failed. Expected: f78e, Got: 3f80
+Checksum failed. Expected: e430, Got: 3f80
+Checksum failed. Expected: 68d5, Got: 3f80
+Checksum failed. Expected: f5b4, Got: 3f80
+Checksum failed. Expected: 21ae, Got: 3f80
+Checksum failed. Expected: d119, Got: 3f80
+Checksum failed. Expected: 30fc, Got: 3f80
+Checksum failed. Expected: b21e, Got: 3f80
+Checksum failed. Expected: 72bd, Got: 3f7f
+Checksum failed. Expected: 64de, Got: 3f7e
+Checksum failed. Expected: bfd4, Got: 3f7e
+Checksum failed. Expected: a55d, Got: 3f7e
+Checksum failed. Expected: f216, Got: 3f7e
+Checksum failed. Expected: 8868, Got: 3f7e
+Checksum failed. Expected: 696f, Got: 3f7f
+Checksum failed. Expected: ef3d, Got: 3f7f
+Checksum failed. Expected: 2d3d, Got: 3f7f
+
+Exiting...

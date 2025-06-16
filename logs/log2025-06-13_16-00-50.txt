@@ -1,0 +1,14 @@
+
+#################################################################
+Log started at 2025-06-13_16-00-50 
+#################################################################
+IMU initialized succesfully
+PPS initialized succesfully
+Checksum failed. Expected: 7c00, Got: 0942
+Checksum failed. Expected: 2977, Got: 
+Checksum failed. Expected: b48d, Got: 
+Checksum failed. Expected: 5fe3, Got: 
+Checksum failed. Expected: 2c7d, Got: 
+Checksum failed. Expected: ad7f, Got: 
+
+Exiting...

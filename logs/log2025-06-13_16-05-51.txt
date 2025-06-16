@@ -1,0 +1,34 @@
+
+#################################################################
+Log started at 2025-06-13_16-05-51 
+#################################################################
+IMU initialized succesfully
+PPS initialized succesfully
+Checksum failed. Expected: b49c, Got: 094200000e04bc25e3be
+Acceleration: X=-0.096304, Y=-0.622186, Z=9.798682 m/s^2 Time of Week: 461169.955000, Week Number: 2370
+Incomplete data received: 0 bytes
+Incomplete data received: 0 bytes
+Incomplete data received: 0 bytes
+Incomplete data received: 0 bytes
+Incomplete data received: 0 bytes
+Incomplete data received: 0 bytes
+Incomplete data received: 0 bytes
+Incomplete data received: 0 bytes
+Incomplete data received: 0 bytes
+Incomplete data received: 0 bytes
+Incomplete data received: 0 bytes
+Incomplete data received: 0 bytes
+Incomplete data received: 0 bytes
+Incomplete data received: 0 bytes
+Incomplete data received: 0 bytes
+Incomplete data received: 0 bytes
+Incomplete data received: 0 bytes
+Incomplete data received: 0 bytes
+Incomplete data received: 0 bytes
+Incomplete data received: 0 bytes
+Incomplete data received: 0 bytes
+Incomplete data received: 0 bytes
+Incomplete data received: 0 bytes
+Incomplete data received: 0 bytes
+
+Exiting...
