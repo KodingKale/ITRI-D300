@@ -1,0 +1,1036 @@
+
+#################################################################
+Log started at 2025-06-17_13-40-59.726373 
+#################################################################
+
+#################################################################
+GNSS initialization started at 2025-06-17_13-40-59.729917 
+#################################################################
+GNSS initialized successfully
+configuring: MON-VER
+configuring: CFG-ANT
+configuring: CFG-DAT
+configuring: CFG-GNSS
+configuring: CFG-INF
+configuring: CFG-INF
+configuring: CFG-ITFM
+configuring: CFG-LOGFILTER
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-NAV5
+configuring: CFG-NAVX5
+configuring: CFG-NMEA
+configuring: CFG-ODO
+configuring: CFG-PM2
+configuring: CFG-PRT
+configuring: CFG-PRT
+configuring: CFG-PRT
+configuring: CFG-PRT
+configuring: CFG-RATE
+configuring: CFG-RINV
+configuring: CFG-RXM
+configuring: CFG-SBAS
+configuring: CFG-TMODE2
+configuring: CFG-TP5
+configuring: CFG-TP5
+configuring: CFG-USB
+
+#################################################################
+IMU initialization started at 2025-06-17_13-40-59.776532 
+#################################################################
+IMU initialized succesfully
+PPS initialized succesfully
+Stream initialized successfully
+Stream synced
+Acceleration: X=-4.709130, Y=1.624899, Z=8.443239 m/s^2 Time of Week: 193260.030196, Week Number: 2371
+Acceleration: X=-4.718939, Y=1.620471, Z=8.443298 m/s^2 Time of Week: 193260.033196, Week Number: 2371
+Acceleration: X=-4.729619, Y=1.614495, Z=8.441755 m/s^2 Time of Week: 193260.036196, Week Number: 2371
+Acceleration: X=-4.728905, Y=1.608289, Z=8.433487 m/s^2 Time of Week: 193260.039196, Week Number: 2371
+Acceleration: X=-4.724159, Y=1.619081, Z=8.428086 m/s^2 Time of Week: 193260.042196, Week Number: 2371
+Acceleration: X=-4.723712, Y=1.614721, Z=8.419815 m/s^2 Time of Week: 193260.045196, Week Number: 2371
+Acceleration: X=-4.727396, Y=1.611925, Z=8.419718 m/s^2 Time of Week: 193260.048196, Week Number: 2371
+Acceleration: X=-4.732306, Y=1.618907, Z=8.416240 m/s^2 Time of Week: 193260.051196, Week Number: 2371
+Acceleration: X=-4.728895, Y=1.620922, Z=8.429623 m/s^2 Time of Week: 193260.054196, Week Number: 2371
+Acceleration: X=-4.723964, Y=1.624600, Z=8.429784 m/s^2 Time of Week: 193260.057196, Week Number: 2371
+Acceleration: X=-4.718644, Y=1.627643, Z=8.432704 m/s^2 Time of Week: 193260.060196, Week Number: 2371
+Acceleration: X=-4.716921, Y=1.619752, Z=8.429692 m/s^2 Time of Week: 193260.063196, Week Number: 2371
+Acceleration: X=-4.717207, Y=1.620585, Z=8.430483 m/s^2 Time of Week: 193260.066196, Week Number: 2371
+Acceleration: X=-4.715588, Y=1.618470, Z=8.439433 m/s^2 Time of Week: 193260.069196, Week Number: 2371
+Acceleration: X=-4.708471, Y=1.621297, Z=8.453316 m/s^2 Time of Week: 193260.072196, Week Number: 2371
+Acceleration: X=-4.719860, Y=1.625336, Z=8.459990 m/s^2 Time of Week: 193260.075196, Week Number: 2371
+Acceleration: X=-4.723205, Y=1.620329, Z=8.465239 m/s^2 Time of Week: 193260.078196, Week Number: 2371
+Acceleration: X=-4.721865, Y=1.617776, Z=8.469305 m/s^2 Time of Week: 193260.081196, Week Number: 2371
+Acceleration: X=-4.723777, Y=1.625237, Z=8.460933 m/s^2 Time of Week: 193260.084196, Week Number: 2371
+Acceleration: X=-4.719618, Y=1.637141, Z=8.450639 m/s^2 Time of Week: 193260.087196, Week Number: 2371
+Acceleration: X=-4.715707, Y=1.643149, Z=8.444522 m/s^2 Time of Week: 193260.090196, Week Number: 2371
+Acceleration: X=-4.708613, Y=1.637143, Z=8.428395 m/s^2 Time of Week: 193260.093196, Week Number: 2371
+Acceleration: X=-4.716515, Y=1.632083, Z=8.416024 m/s^2 Time of Week: 193260.096196, Week Number: 2371
+Acceleration: X=-4.712540, Y=1.630091, Z=8.409690 m/s^2 Time of Week: 193260.099197, Week Number: 2371
+Acceleration: X=-4.712607, Y=1.630114, Z=8.404916 m/s^2 Time of Week: 193260.102197, Week Number: 2371
+Acceleration: X=-4.708886, Y=1.634050, Z=8.411307 m/s^2 Time of Week: 193260.105197, Week Number: 2371
+Acceleration: X=-4.708541, Y=1.634829, Z=8.424210 m/s^2 Time of Week: 193260.108197, Week Number: 2371
+Acceleration: X=-4.705346, Y=1.634085, Z=8.447869 m/s^2 Time of Week: 193260.111197, Week Number: 2371
+Acceleration: X=-4.708212, Y=1.629862, Z=8.465537 m/s^2 Time of Week: 193260.114197, Week Number: 2371
+Acceleration: X=-4.707998, Y=1.627930, Z=8.473745 m/s^2 Time of Week: 193260.117197, Week Number: 2371
+Acceleration: X=-4.700578, Y=1.631158, Z=8.472098 m/s^2 Time of Week: 193260.120197, Week Number: 2371
+Acceleration: X=-4.690366, Y=1.631875, Z=8.460915 m/s^2 Time of Week: 193260.123197, Week Number: 2371
+Acceleration: X=-4.693446, Y=1.635618, Z=8.446827 m/s^2 Time of Week: 193260.126197, Week Number: 2371
+Acceleration: X=-4.700228, Y=1.636057, Z=8.429020 m/s^2 Time of Week: 193260.129197, Week Number: 2371
+Acceleration: X=-4.709625, Y=1.626854, Z=8.433201 m/s^2 Time of Week: 193260.132197, Week Number: 2371
+Acceleration: X=-4.713916, Y=1.623660, Z=8.425552 m/s^2 Time of Week: 193260.135197, Week Number: 2371
+Acceleration: X=-4.714993, Y=1.627879, Z=8.422196 m/s^2 Time of Week: 193260.138197, Week Number: 2371
+Acceleration: X=-4.712770, Y=1.633966, Z=8.437846 m/s^2 Time of Week: 193260.141197, Week Number: 2371
+Acceleration: X=-4.720409, Y=1.635428, Z=8.456270 m/s^2 Time of Week: 193260.144197, Week Number: 2371
+Acceleration: X=-4.720860, Y=1.625654, Z=8.475254 m/s^2 Time of Week: 193260.147197, Week Number: 2371
+Acceleration: X=-4.721433, Y=1.626048, Z=8.480230 m/s^2 Time of Week: 193260.150197, Week Number: 2371
+Acceleration: X=-4.716042, Y=1.628801, Z=8.474341 m/s^2 Time of Week: 193260.153197, Week Number: 2371
+Acceleration: X=-4.708626, Y=1.628825, Z=8.456521 m/s^2 Time of Week: 193260.156197, Week Number: 2371
+Acceleration: X=-4.715882, Y=1.629319, Z=8.443541 m/s^2 Time of Week: 193260.159197, Week Number: 2371
+Acceleration: X=-4.718804, Y=1.625885, Z=8.419973 m/s^2 Time of Week: 193260.162197, Week Number: 2371
+Acceleration: X=-4.716797, Y=1.621249, Z=8.408256 m/s^2 Time of Week: 193260.165197, Week Number: 2371
+Acceleration: X=-4.720435, Y=1.618113, Z=8.402428 m/s^2 Time of Week: 193260.168197, Week Number: 2371
+Acceleration: X=-4.718425, Y=1.618739, Z=8.412579 m/s^2 Time of Week: 193260.171197, Week Number: 2371
+Acceleration: X=-4.717863, Y=1.620439, Z=8.419664 m/s^2 Time of Week: 193260.174197, Week Number: 2371
+Acceleration: X=-4.721189, Y=1.627577, Z=8.435124 m/s^2 Time of Week: 193260.177197, Week Number: 2371
+Acceleration: X=-4.712933, Y=1.627000, Z=8.442232 m/s^2 Time of Week: 193260.180197, Week Number: 2371
+Acceleration: X=-4.711505, Y=1.624158, Z=8.457638 m/s^2 Time of Week: 193260.183197, Week Number: 2371
+Acceleration: X=-4.717973, Y=1.629378, Z=8.461244 m/s^2 Time of Week: 193260.186197, Week Number: 2371
+Acceleration: X=-4.716574, Y=1.627063, Z=8.451550 m/s^2 Time of Week: 193260.189197, Week Number: 2371
+Acceleration: X=-4.728281, Y=1.635161, Z=8.439765 m/s^2 Time of Week: 193260.192197, Week Number: 2371
+Acceleration: X=-4.723577, Y=1.633583, Z=8.427797 m/s^2 Time of Week: 193260.195197, Week Number: 2371
+Acceleration: X=-4.718200, Y=1.628750, Z=8.423028 m/s^2 Time of Week: 193260.198197, Week Number: 2371
+Acceleration: X=-4.713997, Y=1.627173, Z=8.419471 m/s^2 Time of Week: 193260.201197, Week Number: 2371
+Acceleration: X=-4.714219, Y=1.630266, Z=8.422966 m/s^2 Time of Week: 193260.204197, Week Number: 2371
+Acceleration: X=-4.711221, Y=1.628309, Z=8.432517 m/s^2 Time of Week: 193260.207197, Week Number: 2371
+Acceleration: X=-4.711893, Y=1.621377, Z=8.440261 m/s^2 Time of Week: 193260.210197, Week Number: 2371
+Acceleration: X=-4.710241, Y=1.616564, Z=8.443838 m/s^2 Time of Week: 193260.213197, Week Number: 2371
+Acceleration: X=-4.713198, Y=1.611411, Z=8.449723 m/s^2 Time of Week: 193260.216197, Week Number: 2371
+Acceleration: X=-4.712100, Y=1.606578, Z=8.448854 m/s^2 Time of Week: 193260.219197, Week Number: 2371
+Acceleration: X=-4.717163, Y=1.605667, Z=8.442240 m/s^2 Time of Week: 193260.222197, Week Number: 2371
+Acceleration: X=-4.712654, Y=1.612030, Z=8.438849 m/s^2 Time of Week: 193260.225197, Week Number: 2371
+Acceleration: X=-4.713822, Y=1.616386, Z=8.428104 m/s^2 Time of Week: 193260.228197, Week Number: 2371
+Acceleration: X=-4.719922, Y=1.619594, Z=8.422281 m/s^2 Time of Week: 193260.231197, Week Number: 2371
+Acceleration: X=-4.726551, Y=1.624662, Z=8.417317 m/s^2 Time of Week: 193260.234197, Week Number: 2371
+Acceleration: X=-4.728403, Y=1.628563, Z=8.420754 m/s^2 Time of Week: 193260.237197, Week Number: 2371
+Acceleration: X=-4.726045, Y=1.636561, Z=8.425923 m/s^2 Time of Week: 193260.240197, Week Number: 2371
+Acceleration: X=-4.713067, Y=1.637868, Z=8.445714 m/s^2 Time of Week: 193260.243197, Week Number: 2371
+Acceleration: X=-4.711372, Y=1.637540, Z=8.443131 m/s^2 Time of Week: 193260.246197, Week Number: 2371
+Acceleration: X=-4.712508, Y=1.642629, Z=8.442317 m/s^2 Time of Week: 193260.249197, Week Number: 2371
+Acceleration: X=-4.713215, Y=1.644104, Z=8.447271 m/s^2 Time of Week: 193260.252197, Week Number: 2371
+Acceleration: X=-4.708902, Y=1.642380, Z=8.450025 m/s^2 Time of Week: 193260.255197, Week Number: 2371
+Acceleration: X=-4.712064, Y=1.644366, Z=8.448676 m/s^2 Time of Week: 193260.258197, Week Number: 2371
+Acceleration: X=-4.713849, Y=1.635237, Z=8.458734 m/s^2 Time of Week: 193260.261197, Week Number: 2371
+Acceleration: X=-4.711872, Y=1.635443, Z=8.451849 m/s^2 Time of Week: 193260.264197, Week Number: 2371
+Acceleration: X=-4.713793, Y=1.637930, Z=8.449079 m/s^2 Time of Week: 193260.267197, Week Number: 2371
+Acceleration: X=-4.708595, Y=1.641034, Z=8.453759 m/s^2 Time of Week: 193260.270197, Week Number: 2371
+Acceleration: X=-4.701298, Y=1.638911, Z=8.444800 m/s^2 Time of Week: 193260.273197, Week Number: 2371
+Acceleration: X=-4.711632, Y=1.636727, Z=8.439906 m/s^2 Time of Week: 193260.276197, Week Number: 2371
+Acceleration: X=-4.716909, Y=1.627558, Z=8.424325 m/s^2 Time of Week: 193260.279197, Week Number: 2371
+Acceleration: X=-4.718282, Y=1.626393, Z=8.423190 m/s^2 Time of Week: 193260.282197, Week Number: 2371
+Acceleration: X=-4.717479, Y=1.625138, Z=8.421984 m/s^2 Time of Week: 193260.285197, Week Number: 2371
+Acceleration: X=-4.714223, Y=1.628787, Z=8.432489 m/s^2 Time of Week: 193260.288197, Week Number: 2371
+Acceleration: X=-4.708834, Y=1.628455, Z=8.431441 m/s^2 Time of Week: 193260.291197, Week Number: 2371
+Acceleration: X=-4.714095, Y=1.622384, Z=8.439065 m/s^2 Time of Week: 193260.294197, Week Number: 2371
+Acceleration: X=-4.708220, Y=1.625787, Z=8.452418 m/s^2 Time of Week: 193260.297197, Week Number: 2371
+Acceleration: X=-4.704992, Y=1.623693, Z=8.456802 m/s^2 Time of Week: 193260.300197, Week Number: 2371
+Acceleration: X=-4.705668, Y=1.616481, Z=8.465595 m/s^2 Time of Week: 193260.303197, Week Number: 2371
+Acceleration: X=-4.699498, Y=1.617932, Z=8.461094 m/s^2 Time of Week: 193260.306197, Week Number: 2371
+Acceleration: X=-4.701681, Y=1.628074, Z=8.453061 m/s^2 Time of Week: 193260.309197, Week Number: 2371
+Acceleration: X=-4.699261, Y=1.626940, Z=8.444971 m/s^2 Time of Week: 193260.312197, Week Number: 2371
+Acceleration: X=-4.709424, Y=1.621985, Z=8.434733 m/s^2 Time of Week: 193260.315197, Week Number: 2371
+Acceleration: X=-4.711438, Y=1.620768, Z=8.430075 m/s^2 Time of Week: 193260.318197, Week Number: 2371
+Acceleration: X=-4.710763, Y=1.621137, Z=8.427190 m/s^2 Time of Week: 193260.321197, Week Number: 2371
+Acceleration: X=-4.717531, Y=1.617653, Z=8.428978 m/s^2 Time of Week: 193260.324197, Week Number: 2371
+Acceleration: X=-4.719007, Y=1.624182, Z=8.434752 m/s^2 Time of Week: 193260.327197, Week Number: 2371
+Acceleration: X=-4.726140, Y=1.622209, Z=8.436399 m/s^2 Time of Week: 193260.330197, Week Number: 2371
+Acceleration: X=-4.726977, Y=1.624629, Z=8.453083 m/s^2 Time of Week: 193260.333197, Week Number: 2371
+Acceleration: X=-4.716987, Y=1.617539, Z=8.449283 m/s^2 Time of Week: 193260.336197, Week Number: 2371
+Acceleration: X=-4.717478, Y=1.627364, Z=8.443765 m/s^2 Time of Week: 193260.339197, Week Number: 2371
+Acceleration: X=-4.713124, Y=1.630221, Z=8.444473 m/s^2 Time of Week: 193260.342197, Week Number: 2371
+Acceleration: X=-4.720716, Y=1.636035, Z=8.437309 m/s^2 Time of Week: 193260.345197, Week Number: 2371
+Acceleration: X=-4.716610, Y=1.627784, Z=8.427277 m/s^2 Time of Week: 193260.348197, Week Number: 2371
+Acceleration: X=-4.717851, Y=1.630383, Z=8.419087 m/s^2 Time of Week: 193260.351197, Week Number: 2371
+Acceleration: X=-4.712821, Y=1.628338, Z=8.422434 m/s^2 Time of Week: 193260.354197, Week Number: 2371
+Acceleration: X=-4.718768, Y=1.628381, Z=8.419307 m/s^2 Time of Week: 193260.357197, Week Number: 2371
+Acceleration: X=-4.714973, Y=1.627258, Z=8.428422 m/s^2 Time of Week: 193260.360197, Week Number: 2371
+Acceleration: X=-4.711286, Y=1.620040, Z=8.430432 m/s^2 Time of Week: 193260.363197, Week Number: 2371
+Acceleration: X=-4.713915, Y=1.620799, Z=8.436327 m/s^2 Time of Week: 193260.366197, Week Number: 2371
+Acceleration: X=-4.717594, Y=1.619857, Z=8.449893 m/s^2 Time of Week: 193260.369197, Week Number: 2371
+Acceleration: X=-4.714678, Y=1.617090, Z=8.450302 m/s^2 Time of Week: 193260.372197, Week Number: 2371
+Acceleration: X=-4.708637, Y=1.619798, Z=8.443292 m/s^2 Time of Week: 193260.375197, Week Number: 2371
+Acceleration: X=-4.711049, Y=1.621010, Z=8.445186 m/s^2 Time of Week: 193260.378197, Week Number: 2371
+Acceleration: X=-4.707373, Y=1.621811, Z=8.438579 m/s^2 Time of Week: 193260.381197, Week Number: 2371
+Acceleration: X=-4.706222, Y=1.614033, Z=8.430079 m/s^2 Time of Week: 193260.384197, Week Number: 2371
+Acceleration: X=-4.713113, Y=1.617381, Z=8.428874 m/s^2 Time of Week: 193260.387197, Week Number: 2371
+Acceleration: X=-4.711575, Y=1.615096, Z=8.425230 m/s^2 Time of Week: 193260.390197, Week Number: 2371
+Acceleration: X=-4.714941, Y=1.620588, Z=8.426778 m/s^2 Time of Week: 193260.393197, Week Number: 2371
+Acceleration: X=-4.707090, Y=1.612410, Z=8.432027 m/s^2 Time of Week: 193260.396197, Week Number: 2371
+Acceleration: X=-4.705959, Y=1.607381, Z=8.433298 m/s^2 Time of Week: 193260.399197, Week Number: 2371
+Acceleration: X=-4.711909, Y=1.607221, Z=8.444000 m/s^2 Time of Week: 193260.402197, Week Number: 2371
+Acceleration: X=-4.703983, Y=1.612867, Z=8.449235 m/s^2 Time of Week: 193260.405197, Week Number: 2371
+Acceleration: X=-4.708525, Y=1.620962, Z=8.443082 m/s^2 Time of Week: 193260.408197, Week Number: 2371
+Acceleration: X=-4.711049, Y=1.624901, Z=8.447159 m/s^2 Time of Week: 193260.411197, Week Number: 2371
+Acceleration: X=-4.709301, Y=1.612486, Z=8.441811 m/s^2 Time of Week: 193260.414197, Week Number: 2371
+Acceleration: X=-4.713692, Y=1.623303, Z=8.442656 m/s^2 Time of Week: 193260.417197, Week Number: 2371
+Acceleration: X=-4.710740, Y=1.630924, Z=8.428582 m/s^2 Time of Week: 193260.420197, Week Number: 2371
+Acceleration: X=-4.712917, Y=1.633438, Z=8.434300 m/s^2 Time of Week: 193260.423197, Week Number: 2371
+Acceleration: X=-4.723725, Y=1.638303, Z=8.441369 m/s^2 Time of Week: 193260.426197, Week Number: 2371
+Acceleration: X=-4.724191, Y=1.644719, Z=8.436593 m/s^2 Time of Week: 193260.429197, Week Number: 2371
+Acceleration: X=-4.719736, Y=1.643258, Z=8.439826 m/s^2 Time of Week: 193260.432197, Week Number: 2371
+Acceleration: X=-4.730375, Y=1.645887, Z=8.442136 m/s^2 Time of Week: 193260.435197, Week Number: 2371
+Acceleration: X=-4.724816, Y=1.651444, Z=8.443499 m/s^2 Time of Week: 193260.438197, Week Number: 2371
+Acceleration: X=-4.727319, Y=1.654056, Z=8.438925 m/s^2 Time of Week: 193260.441197, Week Number: 2371
+Acceleration: X=-4.724747, Y=1.650293, Z=8.435864 m/s^2 Time of Week: 193260.444197, Week Number: 2371
+Acceleration: X=-4.724620, Y=1.647722, Z=8.441741 m/s^2 Time of Week: 193260.447197, Week Number: 2371
+Acceleration: X=-4.726145, Y=1.638650, Z=8.438840 m/s^2 Time of Week: 193260.450197, Week Number: 2371
+Acceleration: X=-4.725638, Y=1.633362, Z=8.436634 m/s^2 Time of Week: 193260.453197, Week Number: 2371
+Acceleration: X=-4.721417, Y=1.629627, Z=8.430398 m/s^2 Time of Week: 193260.456197, Week Number: 2371
+Acceleration: X=-4.715313, Y=1.621616, Z=8.434279 m/s^2 Time of Week: 193260.459197, Week Number: 2371
+Acceleration: X=-4.707234, Y=1.619985, Z=8.430260 m/s^2 Time of Week: 193260.462197, Week Number: 2371
+Acceleration: X=-4.703055, Y=1.616045, Z=8.428703 m/s^2 Time of Week: 193260.465197, Week Number: 2371
+Acceleration: X=-4.708449, Y=1.612852, Z=8.430503 m/s^2 Time of Week: 193260.468197, Week Number: 2371
+Acceleration: X=-4.706664, Y=1.620212, Z=8.439647 m/s^2 Time of Week: 193260.471197, Week Number: 2371
+Acceleration: X=-4.704488, Y=1.623638, Z=8.432904 m/s^2 Time of Week: 193260.474197, Week Number: 2371
+Acceleration: X=-4.705979, Y=1.618105, Z=8.429319 m/s^2 Time of Week: 193260.477197, Week Number: 2371
+Acceleration: X=-4.709135, Y=1.615868, Z=8.433372 m/s^2 Time of Week: 193260.480197, Week Number: 2371
+Acceleration: X=-4.700580, Y=1.615791, Z=8.432690 m/s^2 Time of Week: 193260.483197, Week Number: 2371
+Acceleration: X=-4.712214, Y=1.616449, Z=8.435607 m/s^2 Time of Week: 193260.486197, Week Number: 2371
+Acceleration: X=-4.703461, Y=1.618818, Z=8.444777 m/s^2 Time of Week: 193260.489197, Week Number: 2371
+Acceleration: X=-4.705662, Y=1.622297, Z=8.448266 m/s^2 Time of Week: 193260.492197, Week Number: 2371
+Acceleration: X=-4.705700, Y=1.622716, Z=8.456490 m/s^2 Time of Week: 193260.495197, Week Number: 2371
+Acceleration: X=-4.715140, Y=1.626881, Z=8.452353 m/s^2 Time of Week: 193260.498197, Week Number: 2371
+Acceleration: X=-4.715643, Y=1.628413, Z=8.446563 m/s^2 Time of Week: 193260.501197, Week Number: 2371
+Acceleration: X=-4.716796, Y=1.623579, Z=8.447419 m/s^2 Time of Week: 193260.504197, Week Number: 2371
+Acceleration: X=-4.720764, Y=1.631985, Z=8.440942 m/s^2 Time of Week: 193260.507197, Week Number: 2371
+Acceleration: X=-4.717266, Y=1.631617, Z=8.430737 m/s^2 Time of Week: 193260.510197, Week Number: 2371
+Acceleration: X=-4.722513, Y=1.631922, Z=8.432146 m/s^2 Time of Week: 193260.513197, Week Number: 2371
+Acceleration: X=-4.724286, Y=1.639813, Z=8.428690 m/s^2 Time of Week: 193260.516197, Week Number: 2371
+Acceleration: X=-4.727151, Y=1.636163, Z=8.421967 m/s^2 Time of Week: 193260.519197, Week Number: 2371
+Acceleration: X=-4.732329, Y=1.627931, Z=8.427844 m/s^2 Time of Week: 193260.522197, Week Number: 2371
+Acceleration: X=-4.723700, Y=1.631463, Z=8.427696 m/s^2 Time of Week: 193260.525197, Week Number: 2371
+Acceleration: X=-4.716356, Y=1.631135, Z=8.429417 m/s^2 Time of Week: 193260.528197, Week Number: 2371
+Acceleration: X=-4.717757, Y=1.629757, Z=8.429009 m/s^2 Time of Week: 193260.531197, Week Number: 2371
+Acceleration: X=-4.713728, Y=1.623164, Z=8.437051 m/s^2 Time of Week: 193260.534197, Week Number: 2371
+Acceleration: X=-4.723694, Y=1.622106, Z=8.438170 m/s^2 Time of Week: 193260.537197, Week Number: 2371
+Acceleration: X=-4.710617, Y=1.613209, Z=8.440080 m/s^2 Time of Week: 193260.540197, Week Number: 2371
+Acceleration: X=-4.703972, Y=1.610652, Z=8.442275 m/s^2 Time of Week: 193260.543197, Week Number: 2371
+Acceleration: X=-4.709730, Y=1.617736, Z=8.436999 m/s^2 Time of Week: 193260.546197, Week Number: 2371
+Acceleration: X=-4.705309, Y=1.610568, Z=8.442735 m/s^2 Time of Week: 193260.549197, Week Number: 2371
+Acceleration: X=-4.703876, Y=1.610606, Z=8.440884 m/s^2 Time of Week: 193260.552197, Week Number: 2371
+Acceleration: X=-4.702856, Y=1.613676, Z=8.443017 m/s^2 Time of Week: 193260.555197, Week Number: 2371
+Acceleration: X=-4.706320, Y=1.611665, Z=8.442941 m/s^2 Time of Week: 193260.558197, Week Number: 2371
+Acceleration: X=-4.706116, Y=1.620901, Z=8.439069 m/s^2 Time of Week: 193260.561197, Week Number: 2371
+Acceleration: X=-4.707119, Y=1.608898, Z=8.445142 m/s^2 Time of Week: 193260.564197, Week Number: 2371
+Acceleration: X=-4.708892, Y=1.612685, Z=8.440733 m/s^2 Time of Week: 193260.567197, Week Number: 2371
+Acceleration: X=-4.707692, Y=1.606590, Z=8.443287 m/s^2 Time of Week: 193260.570197, Week Number: 2371
+Acceleration: X=-4.711362, Y=1.613537, Z=8.432320 m/s^2 Time of Week: 193260.573197, Week Number: 2371
+Acceleration: X=-4.714062, Y=1.611769, Z=8.433109 m/s^2 Time of Week: 193260.576197, Week Number: 2371
+Acceleration: X=-4.715250, Y=1.617454, Z=8.433038 m/s^2 Time of Week: 193260.579197, Week Number: 2371
+Acceleration: X=-4.714621, Y=1.620160, Z=8.434508 m/s^2 Time of Week: 193260.582197, Week Number: 2371
+Acceleration: X=-4.717274, Y=1.614992, Z=8.439309 m/s^2 Time of Week: 193260.585197, Week Number: 2371
+Acceleration: X=-4.716485, Y=1.626608, Z=8.438300 m/s^2 Time of Week: 193260.588197, Week Number: 2371
+Acceleration: X=-4.718424, Y=1.620137, Z=8.438102 m/s^2 Time of Week: 193260.591197, Week Number: 2371
+Acceleration: X=-4.717584, Y=1.624006, Z=8.440391 m/s^2 Time of Week: 193260.594197, Week Number: 2371
+Acceleration: X=-4.713683, Y=1.632549, Z=8.442197 m/s^2 Time of Week: 193260.597197, Week Number: 2371
+Acceleration: X=-4.719371, Y=1.627938, Z=8.440991 m/s^2 Time of Week: 193260.600197, Week Number: 2371
+Acceleration: X=-4.719858, Y=1.630742, Z=8.439452 m/s^2 Time of Week: 193260.603197, Week Number: 2371
+Acceleration: X=-4.721283, Y=1.634994, Z=8.430962 m/s^2 Time of Week: 193260.606197, Week Number: 2371
+Acceleration: X=-4.717508, Y=1.641176, Z=8.431531 m/s^2 Time of Week: 193260.609197, Week Number: 2371
+Acceleration: X=-4.725869, Y=1.646702, Z=8.430334 m/s^2 Time of Week: 193260.612197, Week Number: 2371
+Acceleration: X=-4.718503, Y=1.649904, Z=8.435538 m/s^2 Time of Week: 193260.615197, Week Number: 2371
+Acceleration: X=-4.724560, Y=1.649276, Z=8.432905 m/s^2 Time of Week: 193260.618197, Week Number: 2371
+Acceleration: X=-4.716157, Y=1.641179, Z=8.434287 m/s^2 Time of Week: 193260.621197, Week Number: 2371
+Acceleration: X=-4.717514, Y=1.639425, Z=8.433647 m/s^2 Time of Week: 193260.624197, Week Number: 2371
+Acceleration: X=-4.718798, Y=1.634763, Z=8.443986 m/s^2 Time of Week: 193260.627197, Week Number: 2371
+Acceleration: X=-4.718225, Y=1.635808, Z=8.447716 m/s^2 Time of Week: 193260.630197, Week Number: 2371
+Acceleration: X=-4.717177, Y=1.625295, Z=8.458331 m/s^2 Time of Week: 193260.633197, Week Number: 2371
+Acceleration: X=-4.719785, Y=1.625549, Z=8.456924 m/s^2 Time of Week: 193260.636197, Week Number: 2371
+Acceleration: X=-4.712904, Y=1.622539, Z=8.453913 m/s^2 Time of Week: 193260.639197, Week Number: 2371
+Acceleration: X=-4.713228, Y=1.621268, Z=8.454836 m/s^2 Time of Week: 193260.642197, Week Number: 2371
+Acceleration: X=-4.710132, Y=1.627752, Z=8.445930 m/s^2 Time of Week: 193260.645197, Week Number: 2371
+Acceleration: X=-4.712654, Y=1.622735, Z=8.442500 m/s^2 Time of Week: 193260.648197, Week Number: 2371
+Acceleration: X=-4.705987, Y=1.619131, Z=8.440218 m/s^2 Time of Week: 193260.651197, Week Number: 2371
+Acceleration: X=-4.697287, Y=1.619980, Z=8.431386 m/s^2 Time of Week: 193260.654197, Week Number: 2371
+Acceleration: X=-4.701193, Y=1.616558, Z=8.420873 m/s^2 Time of Week: 193260.657197, Week Number: 2371
+Acceleration: X=-4.703096, Y=1.611740, Z=8.419832 m/s^2 Time of Week: 193260.660197, Week Number: 2371
+Acceleration: X=-4.704458, Y=1.608463, Z=8.416880 m/s^2 Time of Week: 193260.663197, Week Number: 2371
+Acceleration: X=-4.709986, Y=1.609643, Z=8.424016 m/s^2 Time of Week: 193260.666197, Week Number: 2371
+Acceleration: X=-4.705408, Y=1.611301, Z=8.427119 m/s^2 Time of Week: 193260.669197, Week Number: 2371
+Acceleration: X=-4.703331, Y=1.609084, Z=8.435351 m/s^2 Time of Week: 193260.672197, Week Number: 2371
+Acceleration: X=-4.707705, Y=1.605900, Z=8.444808 m/s^2 Time of Week: 193260.675197, Week Number: 2371
+Acceleration: X=-4.711635, Y=1.606447, Z=8.448617 m/s^2 Time of Week: 193260.678197, Week Number: 2371
+Acceleration: X=-4.707144, Y=1.608461, Z=8.453502 m/s^2 Time of Week: 193260.681197, Week Number: 2371
+Acceleration: X=-4.708762, Y=1.615626, Z=8.451195 m/s^2 Time of Week: 193260.684197, Week Number: 2371
+Acceleration: X=-4.717097, Y=1.620879, Z=8.444636 m/s^2 Time of Week: 193260.687197, Week Number: 2371
+Acceleration: X=-4.716070, Y=1.619292, Z=8.444145 m/s^2 Time of Week: 193260.690197, Week Number: 2371
+Acceleration: X=-4.712910, Y=1.624105, Z=8.437867 m/s^2 Time of Week: 193260.693197, Week Number: 2371
+Acceleration: X=-4.720921, Y=1.620786, Z=8.436039 m/s^2 Time of Week: 193260.696197, Week Number: 2371
+Acceleration: X=-4.717574, Y=1.618113, Z=8.431138 m/s^2 Time of Week: 193260.699197, Week Number: 2371
+Acceleration: X=-4.718797, Y=1.623027, Z=8.433614 m/s^2 Time of Week: 193260.702197, Week Number: 2371
+Acceleration: X=-4.724263, Y=1.627014, Z=8.431923 m/s^2 Time of Week: 193260.705197, Week Number: 2371
+Acceleration: X=-4.720391, Y=1.629470, Z=8.430658 m/s^2 Time of Week: 193260.708197, Week Number: 2371
+Acceleration: X=-4.722754, Y=1.625944, Z=8.429510 m/s^2 Time of Week: 193260.711197, Week Number: 2371
+Acceleration: X=-4.732923, Y=1.631168, Z=8.430044 m/s^2 Time of Week: 193260.714197, Week Number: 2371
+Acceleration: X=-4.728702, Y=1.632116, Z=8.433848 m/s^2 Time of Week: 193260.717197, Week Number: 2371
+Acceleration: X=-4.728107, Y=1.636004, Z=8.442534 m/s^2 Time of Week: 193260.720197, Week Number: 2371
+Acceleration: X=-4.727243, Y=1.638294, Z=8.436995 m/s^2 Time of Week: 193260.723197, Week Number: 2371
+Acceleration: X=-4.721890, Y=1.637221, Z=8.438415 m/s^2 Time of Week: 193260.726197, Week Number: 2371
+Acceleration: X=-4.717885, Y=1.635135, Z=8.438378 m/s^2 Time of Week: 193260.729197, Week Number: 2371
+Acceleration: X=-4.715418, Y=1.638558, Z=8.436603 m/s^2 Time of Week: 193260.732197, Week Number: 2371
+Acceleration: X=-4.712977, Y=1.633066, Z=8.434708 m/s^2 Time of Week: 193260.735197, Week Number: 2371
+Acceleration: X=-4.712596, Y=1.630609, Z=8.441278 m/s^2 Time of Week: 193260.738197, Week Number: 2371
+Acceleration: X=-4.713999, Y=1.632075, Z=8.436826 m/s^2 Time of Week: 193260.741197, Week Number: 2371
+Acceleration: X=-4.711548, Y=1.624760, Z=8.439799 m/s^2 Time of Week: 193260.744197, Week Number: 2371
+Acceleration: X=-4.702801, Y=1.623084, Z=8.444649 m/s^2 Time of Week: 193260.747197, Week Number: 2371
+Acceleration: X=-4.707830, Y=1.613839, Z=8.447927 m/s^2 Time of Week: 193260.750197, Week Number: 2371
+Acceleration: X=-4.710680, Y=1.607024, Z=8.451501 m/s^2 Time of Week: 193260.753197, Week Number: 2371
+Acceleration: X=-4.706893, Y=1.604354, Z=8.451709 m/s^2 Time of Week: 193260.756197, Week Number: 2371
+Acceleration: X=-4.710354, Y=1.610977, Z=8.456860 m/s^2 Time of Week: 193260.759197, Week Number: 2371
+Acceleration: X=-4.698678, Y=1.608902, Z=8.445369 m/s^2 Time of Week: 193260.762197, Week Number: 2371
+Acceleration: X=-4.708434, Y=1.616989, Z=8.439007 m/s^2 Time of Week: 193260.765197, Week Number: 2371
+Acceleration: X=-4.710734, Y=1.616023, Z=8.425384 m/s^2 Time of Week: 193260.768197, Week Number: 2371
+Acceleration: X=-4.707641, Y=1.619622, Z=8.421984 m/s^2 Time of Week: 193260.771197, Week Number: 2371
+Acceleration: X=-4.703427, Y=1.621795, Z=8.416397 m/s^2 Time of Week: 193260.774197, Week Number: 2371
+Acceleration: X=-4.703594, Y=1.623503, Z=8.423660 m/s^2 Time of Week: 193260.777197, Week Number: 2371
+Acceleration: X=-4.705847, Y=1.626226, Z=8.431118 m/s^2 Time of Week: 193260.780197, Week Number: 2371
+Acceleration: X=-4.703627, Y=1.620954, Z=8.438254 m/s^2 Time of Week: 193260.783197, Week Number: 2371
+Acceleration: X=-4.712179, Y=1.625846, Z=8.441917 m/s^2 Time of Week: 193260.786197, Week Number: 2371
+Acceleration: X=-4.706424, Y=1.617788, Z=8.452890 m/s^2 Time of Week: 193260.789197, Week Number: 2371
+Acceleration: X=-4.707714, Y=1.621979, Z=8.461131 m/s^2 Time of Week: 193260.792198, Week Number: 2371
+Acceleration: X=-4.718313, Y=1.626341, Z=8.463751 m/s^2 Time of Week: 193260.795198, Week Number: 2371
+Acceleration: X=-4.712440, Y=1.629908, Z=8.458380 m/s^2 Time of Week: 193260.798198, Week Number: 2371
+Acceleration: X=-4.714547, Y=1.633332, Z=8.451265 m/s^2 Time of Week: 193260.801198, Week Number: 2371
+Acceleration: X=-4.724358, Y=1.637922, Z=8.433935 m/s^2 Time of Week: 193260.804198, Week Number: 2371
+Acceleration: X=-4.724306, Y=1.634934, Z=8.423779 m/s^2 Time of Week: 193260.807198, Week Number: 2371
+Acceleration: X=-4.723343, Y=1.629588, Z=8.423291 m/s^2 Time of Week: 193260.810198, Week Number: 2371
+Acceleration: X=-4.726716, Y=1.641400, Z=8.423221 m/s^2 Time of Week: 193260.813198, Week Number: 2371
+Acceleration: X=-4.726694, Y=1.633703, Z=8.428860 m/s^2 Time of Week: 193260.816198, Week Number: 2371
+Acceleration: X=-4.727139, Y=1.631496, Z=8.436184 m/s^2 Time of Week: 193260.819198, Week Number: 2371
+Acceleration: X=-4.730754, Y=1.634752, Z=8.443096 m/s^2 Time of Week: 193260.822198, Week Number: 2371
+Acceleration: X=-4.731082, Y=1.635442, Z=8.443477 m/s^2 Time of Week: 193260.825198, Week Number: 2371
+Acceleration: X=-4.724604, Y=1.632837, Z=8.450200 m/s^2 Time of Week: 193260.828198, Week Number: 2371
+Acceleration: X=-4.716763, Y=1.621110, Z=8.443885 m/s^2 Time of Week: 193260.831198, Week Number: 2371
+Acceleration: X=-4.713923, Y=1.628064, Z=8.443001 m/s^2 Time of Week: 193260.834198, Week Number: 2371
+Acceleration: X=-4.716583, Y=1.626242, Z=8.432210 m/s^2 Time of Week: 193260.837198, Week Number: 2371
+Acceleration: X=-4.714218, Y=1.626590, Z=8.425315 m/s^2 Time of Week: 193260.840198, Week Number: 2371
+Acceleration: X=-4.714198, Y=1.620872, Z=8.427657 m/s^2 Time of Week: 193260.843198, Week Number: 2371
+Acceleration: X=-4.709771, Y=1.619089, Z=8.431259 m/s^2 Time of Week: 193260.846198, Week Number: 2371
+Acceleration: X=-4.710035, Y=1.624788, Z=8.429539 m/s^2 Time of Week: 193260.849198, Week Number: 2371
+Acceleration: X=-4.710931, Y=1.619312, Z=8.433019 m/s^2 Time of Week: 193260.852198, Week Number: 2371
+Acceleration: X=-4.704450, Y=1.617300, Z=8.433298 m/s^2 Time of Week: 193260.855198, Week Number: 2371
+Acceleration: X=-4.710940, Y=1.623280, Z=8.444144 m/s^2 Time of Week: 193260.858198, Week Number: 2371
+Acceleration: X=-4.704721, Y=1.618805, Z=8.439467 m/s^2 Time of Week: 193260.861198, Week Number: 2371
+Acceleration: X=-4.712343, Y=1.612027, Z=8.437517 m/s^2 Time of Week: 193260.864198, Week Number: 2371
+Acceleration: X=-4.711277, Y=1.616718, Z=8.446122 m/s^2 Time of Week: 193260.867198, Week Number: 2371
+Acceleration: X=-4.711054, Y=1.627138, Z=8.445918 m/s^2 Time of Week: 193260.870198, Week Number: 2371
+Acceleration: X=-4.709393, Y=1.623635, Z=8.445902 m/s^2 Time of Week: 193260.873198, Week Number: 2371
+Acceleration: X=-4.720060, Y=1.616264, Z=8.435686 m/s^2 Time of Week: 193260.876198, Week Number: 2371
+Acceleration: X=-4.719282, Y=1.620382, Z=8.440878 m/s^2 Time of Week: 193260.879198, Week Number: 2371
+Acceleration: X=-4.720288, Y=1.622495, Z=8.442206 m/s^2 Time of Week: 193260.882198, Week Number: 2371
+Acceleration: X=-4.719543, Y=1.633436, Z=8.441350 m/s^2 Time of Week: 193260.885198, Week Number: 2371
+Acceleration: X=-4.723684, Y=1.634066, Z=8.442638 m/s^2 Time of Week: 193260.888198, Week Number: 2371
+Acceleration: X=-4.726253, Y=1.639757, Z=8.440455 m/s^2 Time of Week: 193260.891198, Week Number: 2371
+Acceleration: X=-4.724057, Y=1.634584, Z=8.441452 m/s^2 Time of Week: 193260.894198, Week Number: 2371
+Acceleration: X=-4.714395, Y=1.636145, Z=8.434314 m/s^2 Time of Week: 193260.897198, Week Number: 2371
+Acceleration: X=-4.718063, Y=1.629184, Z=8.437924 m/s^2 Time of Week: 193260.900198, Week Number: 2371
+Acceleration: X=-4.717408, Y=1.633198, Z=8.428984 m/s^2 Time of Week: 193260.903198, Week Number: 2371
+Acceleration: X=-4.720866, Y=1.630833, Z=8.435502 m/s^2 Time of Week: 193260.906198, Week Number: 2371
+Acceleration: X=-4.717601, Y=1.635332, Z=8.441882 m/s^2 Time of Week: 193260.909198, Week Number: 2371
+Acceleration: X=-4.709040, Y=1.638668, Z=8.440519 m/s^2 Time of Week: 193260.912198, Week Number: 2371
+Acceleration: X=-4.714047, Y=1.628881, Z=8.439352 m/s^2 Time of Week: 193260.915198, Week Number: 2371
+Acceleration: X=-4.712698, Y=1.631534, Z=8.448026 m/s^2 Time of Week: 193260.918198, Week Number: 2371
+Acceleration: X=-4.707949, Y=1.624989, Z=8.440423 m/s^2 Time of Week: 193260.921198, Week Number: 2371
+Acceleration: X=-4.707431, Y=1.628856, Z=8.440833 m/s^2 Time of Week: 193260.924198, Week Number: 2371
+Acceleration: X=-4.700435, Y=1.623712, Z=8.433357 m/s^2 Time of Week: 193260.927198, Week Number: 2371
+Acceleration: X=-4.708402, Y=1.621696, Z=8.430366 m/s^2 Time of Week: 193260.930198, Week Number: 2371
+Acceleration: X=-4.709399, Y=1.623839, Z=8.429355 m/s^2 Time of Week: 193260.933198, Week Number: 2371
+Acceleration: X=-4.709588, Y=1.625136, Z=8.441297 m/s^2 Time of Week: 193260.936198, Week Number: 2371
+Acceleration: X=-4.713832, Y=1.618501, Z=8.440501 m/s^2 Time of Week: 193260.939198, Week Number: 2371
+Acceleration: X=-4.712103, Y=1.615566, Z=8.443146 m/s^2 Time of Week: 193260.942198, Week Number: 2371
+Acceleration: X=-4.715788, Y=1.616916, Z=8.439417 m/s^2 Time of Week: 193260.945198, Week Number: 2371
+Acceleration: X=-4.711477, Y=1.620598, Z=8.439314 m/s^2 Time of Week: 193260.948198, Week Number: 2371
+Acceleration: X=-4.718075, Y=1.623068, Z=8.435218 m/s^2 Time of Week: 193260.951198, Week Number: 2371
+Acceleration: X=-4.716086, Y=1.623646, Z=8.436252 m/s^2 Time of Week: 193260.954198, Week Number: 2371
+Acceleration: X=-4.719371, Y=1.619920, Z=8.425609 m/s^2 Time of Week: 193260.957198, Week Number: 2371
+Acceleration: X=-4.716797, Y=1.629420, Z=8.429454 m/s^2 Time of Week: 193260.960198, Week Number: 2371
+Acceleration: X=-4.714447, Y=1.630801, Z=8.430304 m/s^2 Time of Week: 193260.963198, Week Number: 2371
+Acceleration: X=-4.725165, Y=1.620747, Z=8.431246 m/s^2 Time of Week: 193260.966198, Week Number: 2371
+Acceleration: X=-4.727510, Y=1.631737, Z=8.432975 m/s^2 Time of Week: 193260.969198, Week Number: 2371
+Acceleration: X=-4.723761, Y=1.630014, Z=8.435354 m/s^2 Time of Week: 193260.972198, Week Number: 2371
+Acceleration: X=-4.719554, Y=1.630589, Z=8.444690 m/s^2 Time of Week: 193260.975198, Week Number: 2371
+Acceleration: X=-4.715879, Y=1.627972, Z=8.444099 m/s^2 Time of Week: 193260.978198, Week Number: 2371
+Acceleration: X=-4.716654, Y=1.628512, Z=8.451348 m/s^2 Time of Week: 193260.981198, Week Number: 2371
+Acceleration: X=-4.718725, Y=1.622176, Z=8.439378 m/s^2 Time of Week: 193260.984198, Week Number: 2371
+Acceleration: X=-4.712316, Y=1.621982, Z=8.434249 m/s^2 Time of Week: 193260.987198, Week Number: 2371
+Acceleration: X=-4.715421, Y=1.622669, Z=8.428211 m/s^2 Time of Week: 193260.990198, Week Number: 2371
+Acceleration: X=-4.716973, Y=1.622877, Z=8.426144 m/s^2 Time of Week: 193260.993198, Week Number: 2371
+Acceleration: X=-4.713419, Y=1.621784, Z=8.425625 m/s^2 Time of Week: 193260.996198, Week Number: 2371
+Acceleration: X=-4.709365, Y=1.620438, Z=8.425733 m/s^2 Time of Week: 193260.999198, Week Number: 2371
+Acceleration: X=-4.711250, Y=1.624399, Z=8.434560 m/s^2 Time of Week: 193261.002198, Week Number: 2371
+Acceleration: X=-4.717075, Y=1.622197, Z=8.434745 m/s^2 Time of Week: 193261.005198, Week Number: 2371
+Acceleration: X=-4.713076, Y=1.622131, Z=8.435320 m/s^2 Time of Week: 193261.008198, Week Number: 2371
+Acceleration: X=-4.706038, Y=1.620032, Z=8.437488 m/s^2 Time of Week: 193261.011198, Week Number: 2371
+Acceleration: X=-4.698288, Y=1.615936, Z=8.442691 m/s^2 Time of Week: 193261.014198, Week Number: 2371
+Acceleration: X=-4.703691, Y=1.614658, Z=8.445681 m/s^2 Time of Week: 193261.017198, Week Number: 2371
+Acceleration: X=-4.701753, Y=1.611747, Z=8.447145 m/s^2 Time of Week: 193261.020198, Week Number: 2371
+Acceleration: X=-4.705973, Y=1.606030, Z=8.445824 m/s^2 Time of Week: 193261.023198, Week Number: 2371
+Acceleration: X=-4.703712, Y=1.609782, Z=8.443457 m/s^2 Time of Week: 193261.026198, Week Number: 2371
+Acceleration: X=-4.699377, Y=1.614860, Z=8.450815 m/s^2 Time of Week: 193261.029198, Week Number: 2371
+Acceleration: X=-4.702803, Y=1.616993, Z=8.451007 m/s^2 Time of Week: 193261.032198, Week Number: 2371
+Acceleration: X=-4.702850, Y=1.614451, Z=8.455717 m/s^2 Time of Week: 193261.035198, Week Number: 2371
+Acceleration: X=-4.708801, Y=1.621848, Z=8.440357 m/s^2 Time of Week: 193261.038198, Week Number: 2371
+Acceleration: X=-4.695577, Y=1.616802, Z=8.433287 m/s^2 Time of Week: 193261.041198, Week Number: 2371
+Acceleration: X=-4.701623, Y=1.631828, Z=8.421667 m/s^2 Time of Week: 193261.044198, Week Number: 2371
+Acceleration: X=-4.693597, Y=1.632927, Z=8.408705 m/s^2 Time of Week: 193261.047198, Week Number: 2371
+Acceleration: X=-4.683572, Y=1.616693, Z=8.375554 m/s^2 Time of Week: 193261.050198, Week Number: 2371
+Acceleration: X=-4.655114, Y=1.609852, Z=8.358813 m/s^2 Time of Week: 193261.053198, Week Number: 2371
+Acceleration: X=-4.623622, Y=1.589355, Z=8.327308 m/s^2 Time of Week: 193261.056198, Week Number: 2371
+Acceleration: X=-4.586951, Y=1.553170, Z=8.285965 m/s^2 Time of Week: 193261.059198, Week Number: 2371
+Acceleration: X=-4.607867, Y=1.532585, Z=8.268690 m/s^2 Time of Week: 193261.062198, Week Number: 2371
+Acceleration: X=-4.700399, Y=1.477721, Z=8.288571 m/s^2 Time of Week: 193261.065198, Week Number: 2371
+Acceleration: X=-4.766139, Y=1.423110, Z=8.377044 m/s^2 Time of Week: 193261.068198, Week Number: 2371
+Acceleration: X=-4.790545, Y=1.418323, Z=8.499831 m/s^2 Time of Week: 193261.071198, Week Number: 2371
+Acceleration: X=-4.795291, Y=1.472624, Z=8.657499 m/s^2 Time of Week: 193261.074198, Week Number: 2371
+Acceleration: X=-4.768736, Y=1.542928, Z=8.780861 m/s^2 Time of Week: 193261.077198, Week Number: 2371
+Acceleration: X=-4.742379, Y=1.611701, Z=8.829573 m/s^2 Time of Week: 193261.080198, Week Number: 2371
+Acceleration: X=-4.737013, Y=1.709650, Z=8.808406 m/s^2 Time of Week: 193261.083198, Week Number: 2371
+Acceleration: X=-4.729178, Y=1.786065, Z=8.698052 m/s^2 Time of Week: 193261.086198, Week Number: 2371
+Acceleration: X=-4.718160, Y=1.832688, Z=8.528753 m/s^2 Time of Week: 193261.089198, Week Number: 2371
+Acceleration: X=-4.718936, Y=1.862467, Z=8.301736 m/s^2 Time of Week: 193261.092198, Week Number: 2371
+Acceleration: X=-4.744803, Y=1.865607, Z=8.118917 m/s^2 Time of Week: 193261.095198, Week Number: 2371
+Acceleration: X=-4.795585, Y=1.818914, Z=7.994912 m/s^2 Time of Week: 193261.098198, Week Number: 2371
+Acceleration: X=-4.829382, Y=1.738196, Z=8.000678 m/s^2 Time of Week: 193261.101198, Week Number: 2371
+Acceleration: X=-4.836844, Y=1.686432, Z=8.082717 m/s^2 Time of Week: 193261.104198, Week Number: 2371
+Acceleration: X=-4.809861, Y=1.663209, Z=8.231753 m/s^2 Time of Week: 193261.107198, Week Number: 2371
+Acceleration: X=-4.774981, Y=1.635421, Z=8.425365 m/s^2 Time of Week: 193261.110198, Week Number: 2371
+Acceleration: X=-4.751918, Y=1.618100, Z=8.612624 m/s^2 Time of Week: 193261.113198, Week Number: 2371
+Acceleration: X=-4.738481, Y=1.599867, Z=8.736004 m/s^2 Time of Week: 193261.116198, Week Number: 2371
+Acceleration: X=-4.716009, Y=1.612335, Z=8.790519 m/s^2 Time of Week: 193261.119198, Week Number: 2371
+Acceleration: X=-4.704360, Y=1.641777, Z=8.777333 m/s^2 Time of Week: 193261.122198, Week Number: 2371
+Acceleration: X=-4.678400, Y=1.668743, Z=8.687580 m/s^2 Time of Week: 193261.125198, Week Number: 2371
+Acceleration: X=-4.659014, Y=1.693038, Z=8.553211 m/s^2 Time of Week: 193261.128198, Week Number: 2371
+Acceleration: X=-4.653109, Y=1.706280, Z=8.431829 m/s^2 Time of Week: 193261.131198, Week Number: 2371
+Acceleration: X=-4.651373, Y=1.703634, Z=8.329862 m/s^2 Time of Week: 193261.134198, Week Number: 2371
+Acceleration: X=-4.657101, Y=1.667741, Z=8.252546 m/s^2 Time of Week: 193261.137198, Week Number: 2371
+Acceleration: X=-4.670055, Y=1.613652, Z=8.240677 m/s^2 Time of Week: 193261.140198, Week Number: 2371
+Acceleration: X=-4.683321, Y=1.559897, Z=8.272823 m/s^2 Time of Week: 193261.143198, Week Number: 2371
+Acceleration: X=-4.685867, Y=1.506312, Z=8.355542 m/s^2 Time of Week: 193261.146198, Week Number: 2371
+Acceleration: X=-4.675358, Y=1.476015, Z=8.431050 m/s^2 Time of Week: 193261.149198, Week Number: 2371
+Acceleration: X=-4.652751, Y=1.464698, Z=8.508378 m/s^2 Time of Week: 193261.152198, Week Number: 2371
+Acceleration: X=-4.645225, Y=1.479318, Z=8.553822 m/s^2 Time of Week: 193261.155198, Week Number: 2371
+Acceleration: X=-4.653488, Y=1.503027, Z=8.561050 m/s^2 Time of Week: 193261.158198, Week Number: 2371
+Acceleration: X=-4.658131, Y=1.540308, Z=8.535287 m/s^2 Time of Week: 193261.161198, Week Number: 2371
+Acceleration: X=-4.656780, Y=1.592749, Z=8.483854 m/s^2 Time of Week: 193261.164198, Week Number: 2371
+Acceleration: X=-4.654460, Y=1.645541, Z=8.405311 m/s^2 Time of Week: 193261.167198, Week Number: 2371
+Acceleration: X=-4.662633, Y=1.691724, Z=8.336796 m/s^2 Time of Week: 193261.170198, Week Number: 2371
+Acceleration: X=-4.680292, Y=1.721051, Z=8.295283 m/s^2 Time of Week: 193261.173198, Week Number: 2371
+Acceleration: X=-4.713456, Y=1.710975, Z=8.283937 m/s^2 Time of Week: 193261.176198, Week Number: 2371
+Acceleration: X=-4.750141, Y=1.689047, Z=8.332955 m/s^2 Time of Week: 193261.179198, Week Number: 2371
+Acceleration: X=-4.774791, Y=1.662237, Z=8.401390 m/s^2 Time of Week: 193261.182198, Week Number: 2371
+Acceleration: X=-4.782358, Y=1.637181, Z=8.497084 m/s^2 Time of Week: 193261.185198, Week Number: 2371
+Acceleration: X=-4.789257, Y=1.621268, Z=8.596913 m/s^2 Time of Week: 193261.188198, Week Number: 2371
+Acceleration: X=-4.794328, Y=1.606244, Z=8.648777 m/s^2 Time of Week: 193261.191198, Week Number: 2371
+Acceleration: X=-4.801726, Y=1.600781, Z=8.667724 m/s^2 Time of Week: 193261.194198, Week Number: 2371
+Acceleration: X=-4.799009, Y=1.620913, Z=8.627382 m/s^2 Time of Week: 193261.197198, Week Number: 2371
+Acceleration: X=-4.791860, Y=1.645962, Z=8.546131 m/s^2 Time of Week: 193261.200198, Week Number: 2371
+Acceleration: X=-4.792864, Y=1.678430, Z=8.422599 m/s^2 Time of Week: 193261.203198, Week Number: 2371
+Acceleration: X=-4.782116, Y=1.708275, Z=8.281093 m/s^2 Time of Week: 193261.206198, Week Number: 2371
+Acceleration: X=-4.767719, Y=1.739636, Z=8.188651 m/s^2 Time of Week: 193261.209198, Week Number: 2371
+Acceleration: X=-4.774669, Y=1.746657, Z=8.126983 m/s^2 Time of Week: 193261.212198, Week Number: 2371
+Acceleration: X=-4.779065, Y=1.733332, Z=8.125775 m/s^2 Time of Week: 193261.215198, Week Number: 2371
+Acceleration: X=-4.770814, Y=1.703493, Z=8.189011 m/s^2 Time of Week: 193261.218198, Week Number: 2371
+Acceleration: X=-4.751287, Y=1.672252, Z=8.309492 m/s^2 Time of Week: 193261.221198, Week Number: 2371
+Acceleration: X=-4.734668, Y=1.630131, Z=8.452610 m/s^2 Time of Week: 193261.224198, Week Number: 2371
+Acceleration: X=-4.712461, Y=1.598071, Z=8.598139 m/s^2 Time of Week: 193261.227198, Week Number: 2371
+Acceleration: X=-4.689666, Y=1.561886, Z=8.704733 m/s^2 Time of Week: 193261.230198, Week Number: 2371
+Acceleration: X=-4.662686, Y=1.553032, Z=8.747189 m/s^2 Time of Week: 193261.233198, Week Number: 2371
+Acceleration: X=-4.637845, Y=1.549300, Z=8.728508 m/s^2 Time of Week: 193261.236198, Week Number: 2371
+Acceleration: X=-4.626265, Y=1.549865, Z=8.660005 m/s^2 Time of Week: 193261.239198, Week Number: 2371
+Acceleration: X=-4.624348, Y=1.556105, Z=8.534764 m/s^2 Time of Week: 193261.242198, Week Number: 2371
+Acceleration: X=-4.628635, Y=1.571796, Z=8.408667 m/s^2 Time of Week: 193261.245198, Week Number: 2371
+Acceleration: X=-4.637499, Y=1.588169, Z=8.308337 m/s^2 Time of Week: 193261.248198, Week Number: 2371
+Acceleration: X=-4.659925, Y=1.609742, Z=8.237146 m/s^2 Time of Week: 193261.251198, Week Number: 2371
+Acceleration: X=-4.669823, Y=1.607993, Z=8.225994 m/s^2 Time of Week: 193261.254198, Week Number: 2371
+Acceleration: X=-4.677369, Y=1.610515, Z=8.259013 m/s^2 Time of Week: 193261.257198, Week Number: 2371
+Acceleration: X=-4.687537, Y=1.612146, Z=8.331924 m/s^2 Time of Week: 193261.260198, Week Number: 2371
+Acceleration: X=-4.693532, Y=1.616816, Z=8.398605 m/s^2 Time of Week: 193261.263198, Week Number: 2371
+Acceleration: X=-4.700664, Y=1.609153, Z=8.488121 m/s^2 Time of Week: 193261.266198, Week Number: 2371
+Acceleration: X=-4.705342, Y=1.605968, Z=8.548376 m/s^2 Time of Week: 193261.269198, Week Number: 2371
+Acceleration: X=-4.703024, Y=1.609348, Z=8.573678 m/s^2 Time of Week: 193261.272198, Week Number: 2371
+Acceleration: X=-4.707031, Y=1.609405, Z=8.569847 m/s^2 Time of Week: 193261.275198, Week Number: 2371
+Acceleration: X=-4.699400, Y=1.618983, Z=8.546558 m/s^2 Time of Week: 193261.278198, Week Number: 2371
+Acceleration: X=-4.698581, Y=1.631215, Z=8.505087 m/s^2 Time of Week: 193261.281198, Week Number: 2371
+Acceleration: X=-4.702119, Y=1.649652, Z=8.461821 m/s^2 Time of Week: 193261.284198, Week Number: 2371
+Acceleration: X=-4.702769, Y=1.663597, Z=8.428184 m/s^2 Time of Week: 193261.287198, Week Number: 2371
+Acceleration: X=-4.712086, Y=1.661988, Z=8.393999 m/s^2 Time of Week: 193261.290198, Week Number: 2371
+Acceleration: X=-4.725332, Y=1.657491, Z=8.385034 m/s^2 Time of Week: 193261.293198, Week Number: 2371
+Acceleration: X=-4.737808, Y=1.656550, Z=8.385284 m/s^2 Time of Week: 193261.296198, Week Number: 2371
+Acceleration: X=-4.739210, Y=1.658073, Z=8.396516 m/s^2 Time of Week: 193261.299198, Week Number: 2371
+Acceleration: X=-4.741590, Y=1.654368, Z=8.406726 m/s^2 Time of Week: 193261.302198, Week Number: 2371
+Acceleration: X=-4.750572, Y=1.642979, Z=8.416545 m/s^2 Time of Week: 193261.305198, Week Number: 2371
+Acceleration: X=-4.756150, Y=1.638748, Z=8.425303 m/s^2 Time of Week: 193261.308198, Week Number: 2371
+Acceleration: X=-4.758616, Y=1.638354, Z=8.423381 m/s^2 Time of Week: 193261.311198, Week Number: 2371
+Acceleration: X=-4.756282, Y=1.644584, Z=8.422627 m/s^2 Time of Week: 193261.314198, Week Number: 2371
+Acceleration: X=-4.753483, Y=1.649950, Z=8.426281 m/s^2 Time of Week: 193261.317198, Week Number: 2371
+Acceleration: X=-4.745880, Y=1.648018, Z=8.422274 m/s^2 Time of Week: 193261.320198, Week Number: 2371
+Acceleration: X=-4.741966, Y=1.647988, Z=8.433785 m/s^2 Time of Week: 193261.323198, Week Number: 2371
+Acceleration: X=-4.725605, Y=1.638922, Z=8.442699 m/s^2 Time of Week: 193261.326198, Week Number: 2371
+Acceleration: X=-4.718997, Y=1.627718, Z=8.458346 m/s^2 Time of Week: 193261.329198, Week Number: 2371
+Acceleration: X=-4.719020, Y=1.618193, Z=8.468463 m/s^2 Time of Week: 193261.332198, Week Number: 2371
+Acceleration: X=-4.700654, Y=1.600824, Z=8.488372 m/s^2 Time of Week: 193261.335198, Week Number: 2371
+Acceleration: X=-4.695098, Y=1.590685, Z=8.488252 m/s^2 Time of Week: 193261.338198, Week Number: 2371
+Acceleration: X=-4.693583, Y=1.573922, Z=8.473117 m/s^2 Time of Week: 193261.341198, Week Number: 2371
+Acceleration: X=-4.683615, Y=1.563625, Z=8.465934 m/s^2 Time of Week: 193261.344198, Week Number: 2371
+Acceleration: X=-4.679734, Y=1.573616, Z=8.447425 m/s^2 Time of Week: 193261.347198, Week Number: 2371
+Acceleration: X=-4.674410, Y=1.568087, Z=8.420203 m/s^2 Time of Week: 193261.350198, Week Number: 2371
+Acceleration: X=-4.670186, Y=1.584226, Z=8.401015 m/s^2 Time of Week: 193261.353198, Week Number: 2371
+Acceleration: X=-4.680544, Y=1.590421, Z=8.372056 m/s^2 Time of Week: 193261.356198, Week Number: 2371
+Acceleration: X=-4.679780, Y=1.597872, Z=8.355629 m/s^2 Time of Week: 193261.359198, Week Number: 2371
+Acceleration: X=-4.680435, Y=1.610233, Z=8.345807 m/s^2 Time of Week: 193261.362198, Week Number: 2371
+Acceleration: X=-4.686203, Y=1.618289, Z=8.349377 m/s^2 Time of Week: 193261.365198, Week Number: 2371
+Acceleration: X=-4.693962, Y=1.622638, Z=8.379402 m/s^2 Time of Week: 193261.368198, Week Number: 2371
+Acceleration: X=-4.700289, Y=1.628944, Z=8.413224 m/s^2 Time of Week: 193261.371198, Week Number: 2371
+Acceleration: X=-4.709826, Y=1.636025, Z=8.452141 m/s^2 Time of Week: 193261.374198, Week Number: 2371
+Acceleration: X=-4.713329, Y=1.629362, Z=8.493177 m/s^2 Time of Week: 193261.377198, Week Number: 2371
+Acceleration: X=-4.730236, Y=1.632559, Z=8.534059 m/s^2 Time of Week: 193261.380198, Week Number: 2371
+Acceleration: X=-4.733159, Y=1.637730, Z=8.553229 m/s^2 Time of Week: 193261.383198, Week Number: 2371
+Acceleration: X=-4.738254, Y=1.641190, Z=8.553263 m/s^2 Time of Week: 193261.386198, Week Number: 2371
+Acceleration: X=-4.741699, Y=1.643562, Z=8.532769 m/s^2 Time of Week: 193261.389198, Week Number: 2371
+Acceleration: X=-4.743170, Y=1.650789, Z=8.504971 m/s^2 Time of Week: 193261.392198, Week Number: 2371
+Acceleration: X=-4.743262, Y=1.658833, Z=8.468778 m/s^2 Time of Week: 193261.395198, Week Number: 2371
+Acceleration: X=-4.745623, Y=1.674803, Z=8.423550 m/s^2 Time of Week: 193261.398198, Week Number: 2371
+Acceleration: X=-4.742129, Y=1.677664, Z=8.381410 m/s^2 Time of Week: 193261.401199, Week Number: 2371
+Acceleration: X=-4.741066, Y=1.673864, Z=8.361781 m/s^2 Time of Week: 193261.404199, Week Number: 2371
+Acceleration: X=-4.733873, Y=1.681826, Z=8.350654 m/s^2 Time of Week: 193261.407199, Week Number: 2371
+Acceleration: X=-4.732090, Y=1.678033, Z=8.354054 m/s^2 Time of Week: 193261.410199, Week Number: 2371
+Acceleration: X=-4.718710, Y=1.668065, Z=8.381752 m/s^2 Time of Week: 193261.413199, Week Number: 2371
+Acceleration: X=-4.708116, Y=1.662066, Z=8.406673 m/s^2 Time of Week: 193261.416199, Week Number: 2371
+Acceleration: X=-4.703604, Y=1.655248, Z=8.431509 m/s^2 Time of Week: 193261.419199, Week Number: 2371
+Acceleration: X=-4.700316, Y=1.640608, Z=8.459708 m/s^2 Time of Week: 193261.422199, Week Number: 2371
+Acceleration: X=-4.689809, Y=1.628862, Z=8.480427 m/s^2 Time of Week: 193261.425199, Week Number: 2371
+Acceleration: X=-4.690659, Y=1.619105, Z=8.492416 m/s^2 Time of Week: 193261.428199, Week Number: 2371
+Acceleration: X=-4.683488, Y=1.605880, Z=8.496410 m/s^2 Time of Week: 193261.431199, Week Number: 2371
+Acceleration: X=-4.681946, Y=1.597195, Z=8.492604 m/s^2 Time of Week: 193261.434199, Week Number: 2371
+Acceleration: X=-4.687887, Y=1.591740, Z=8.491453 m/s^2 Time of Week: 193261.437199, Week Number: 2371
+Acceleration: X=-4.687830, Y=1.589309, Z=8.479042 m/s^2 Time of Week: 193261.440199, Week Number: 2371
+Acceleration: X=-4.692249, Y=1.579278, Z=8.465577 m/s^2 Time of Week: 193261.443199, Week Number: 2371
+Acceleration: X=-4.700119, Y=1.590113, Z=8.454146 m/s^2 Time of Week: 193261.446199, Week Number: 2371
+Acceleration: X=-4.707132, Y=1.595643, Z=8.440545 m/s^2 Time of Week: 193261.449199, Week Number: 2371
+Acceleration: X=-4.696957, Y=1.593544, Z=8.425089 m/s^2 Time of Week: 193261.452199, Week Number: 2371
+Acceleration: X=-4.698425, Y=1.602125, Z=8.405517 m/s^2 Time of Week: 193261.455199, Week Number: 2371
+Acceleration: X=-4.706214, Y=1.609264, Z=8.398277 m/s^2 Time of Week: 193261.458199, Week Number: 2371
+Acceleration: X=-4.713012, Y=1.609624, Z=8.390939 m/s^2 Time of Week: 193261.461199, Week Number: 2371
+Acceleration: X=-4.712559, Y=1.610883, Z=8.385979 m/s^2 Time of Week: 193261.464199, Week Number: 2371
+Acceleration: X=-4.709516, Y=1.614614, Z=8.392037 m/s^2 Time of Week: 193261.467199, Week Number: 2371
+Acceleration: X=-4.700084, Y=1.618707, Z=8.409307 m/s^2 Time of Week: 193261.470199, Week Number: 2371
+Acceleration: X=-4.705883, Y=1.623406, Z=8.427323 m/s^2 Time of Week: 193261.473199, Week Number: 2371
+Acceleration: X=-4.715959, Y=1.622839, Z=8.447750 m/s^2 Time of Week: 193261.476199, Week Number: 2371
+Acceleration: X=-4.719395, Y=1.627798, Z=8.463894 m/s^2 Time of Week: 193261.479199, Week Number: 2371
+Acceleration: X=-4.724633, Y=1.641867, Z=8.472011 m/s^2 Time of Week: 193261.482199, Week Number: 2371
+Acceleration: X=-4.729327, Y=1.646391, Z=8.483354 m/s^2 Time of Week: 193261.485199, Week Number: 2371
+Acceleration: X=-4.732278, Y=1.644317, Z=8.481891 m/s^2 Time of Week: 193261.488199, Week Number: 2371
+Acceleration: X=-4.738267, Y=1.643766, Z=8.473020 m/s^2 Time of Week: 193261.491199, Week Number: 2371
+Acceleration: X=-4.735314, Y=1.653348, Z=8.454083 m/s^2 Time of Week: 193261.494199, Week Number: 2371
+Acceleration: X=-4.749634, Y=1.655925, Z=8.434721 m/s^2 Time of Week: 193261.497199, Week Number: 2371
+Acceleration: X=-4.751353, Y=1.655668, Z=8.419900 m/s^2 Time of Week: 193261.500199, Week Number: 2371
+Acceleration: X=-4.746781, Y=1.665729, Z=8.404289 m/s^2 Time of Week: 193261.503199, Week Number: 2371
+Acceleration: X=-4.747698, Y=1.659678, Z=8.398083 m/s^2 Time of Week: 193261.506199, Week Number: 2371
+Acceleration: X=-4.743632, Y=1.649156, Z=8.403179 m/s^2 Time of Week: 193261.509199, Week Number: 2371
+Acceleration: X=-4.744444, Y=1.641890, Z=8.406186 m/s^2 Time of Week: 193261.512199, Week Number: 2371
+Acceleration: X=-4.736070, Y=1.632215, Z=8.418700 m/s^2 Time of Week: 193261.515199, Week Number: 2371
+Acceleration: X=-4.722754, Y=1.630815, Z=8.426433 m/s^2 Time of Week: 193261.518199, Week Number: 2371
+Acceleration: X=-4.707759, Y=1.618056, Z=8.445429 m/s^2 Time of Week: 193261.521199, Week Number: 2371
+Acceleration: X=-4.701676, Y=1.609342, Z=8.444698 m/s^2 Time of Week: 193261.524199, Week Number: 2371
+Acceleration: X=-4.685682, Y=1.601386, Z=8.462908 m/s^2 Time of Week: 193261.527199, Week Number: 2371
+Acceleration: X=-4.678323, Y=1.593490, Z=8.462351 m/s^2 Time of Week: 193261.530199, Week Number: 2371
+Acceleration: X=-4.673317, Y=1.594366, Z=8.452084 m/s^2 Time of Week: 193261.533199, Week Number: 2371
+Acceleration: X=-4.667619, Y=1.596160, Z=8.445086 m/s^2 Time of Week: 193261.536199, Week Number: 2371
+Acceleration: X=-4.664907, Y=1.585128, Z=8.438851 m/s^2 Time of Week: 193261.539199, Week Number: 2371
+Acceleration: X=-4.673085, Y=1.593154, Z=8.435415 m/s^2 Time of Week: 193261.542199, Week Number: 2371
+Acceleration: X=-4.676651, Y=1.594658, Z=8.430642 m/s^2 Time of Week: 193261.545199, Week Number: 2371
+Acceleration: X=-4.686278, Y=1.603249, Z=8.432059 m/s^2 Time of Week: 193261.548199, Week Number: 2371
+Acceleration: X=-4.687104, Y=1.601277, Z=8.428529 m/s^2 Time of Week: 193261.551199, Week Number: 2371
+Acceleration: X=-4.686330, Y=1.615895, Z=8.427658 m/s^2 Time of Week: 193261.554199, Week Number: 2371
+Acceleration: X=-4.697582, Y=1.621637, Z=8.432636 m/s^2 Time of Week: 193261.557199, Week Number: 2371
+Acceleration: X=-4.705959, Y=1.635577, Z=8.435914 m/s^2 Time of Week: 193261.560199, Week Number: 2371
+Acceleration: X=-4.710875, Y=1.634867, Z=8.436683 m/s^2 Time of Week: 193261.563199, Week Number: 2371
+Acceleration: X=-4.718627, Y=1.640656, Z=8.440969 m/s^2 Time of Week: 193261.566199, Week Number: 2371
+Acceleration: X=-4.725044, Y=1.639162, Z=8.444188 m/s^2 Time of Week: 193261.569199, Week Number: 2371
+Acceleration: X=-4.740915, Y=1.646038, Z=8.443393 m/s^2 Time of Week: 193261.572199, Week Number: 2371
+Acceleration: X=-4.736654, Y=1.650875, Z=8.446882 m/s^2 Time of Week: 193261.575199, Week Number: 2371
+Acceleration: X=-4.730867, Y=1.646710, Z=8.454501 m/s^2 Time of Week: 193261.578199, Week Number: 2371
+Acceleration: X=-4.730381, Y=1.649220, Z=8.449172 m/s^2 Time of Week: 193261.581199, Week Number: 2371
+Acceleration: X=-4.735870, Y=1.641471, Z=8.445666 m/s^2 Time of Week: 193261.584199, Week Number: 2371
+Acceleration: X=-4.738287, Y=1.636880, Z=8.437184 m/s^2 Time of Week: 193261.587199, Week Number: 2371
+Acceleration: X=-4.737118, Y=1.635021, Z=8.434578 m/s^2 Time of Week: 193261.590199, Week Number: 2371
+Acceleration: X=-4.726447, Y=1.637204, Z=8.441068 m/s^2 Time of Week: 193261.593199, Week Number: 2371
+Acceleration: X=-4.721004, Y=1.647345, Z=8.431300 m/s^2 Time of Week: 193261.596199, Week Number: 2371
+Acceleration: X=-4.715833, Y=1.638332, Z=8.424120 m/s^2 Time of Week: 193261.599199, Week Number: 2371
+Acceleration: X=-4.710870, Y=1.635876, Z=8.419312 m/s^2 Time of Week: 193261.602199, Week Number: 2371
+Acceleration: X=-4.709393, Y=1.633026, Z=8.414691 m/s^2 Time of Week: 193261.605199, Week Number: 2371
+Acceleration: X=-4.707650, Y=1.630772, Z=8.412865 m/s^2 Time of Week: 193261.608199, Week Number: 2371
+Acceleration: X=-4.706042, Y=1.626901, Z=8.410513 m/s^2 Time of Week: 193261.611199, Week Number: 2371
+Acceleration: X=-4.705539, Y=1.629710, Z=8.415263 m/s^2 Time of Week: 193261.614199, Week Number: 2371
+Acceleration: X=-4.703750, Y=1.629145, Z=8.433066 m/s^2 Time of Week: 193261.617199, Week Number: 2371
+Acceleration: X=-4.707754, Y=1.620071, Z=8.442102 m/s^2 Time of Week: 193261.620199, Week Number: 2371
+Acceleration: X=-4.705791, Y=1.610642, Z=8.457048 m/s^2 Time of Week: 193261.623199, Week Number: 2371
+Acceleration: X=-4.709829, Y=1.605579, Z=8.463114 m/s^2 Time of Week: 193261.626199, Week Number: 2371
+Acceleration: X=-4.712160, Y=1.595652, Z=8.470682 m/s^2 Time of Week: 193261.629199, Week Number: 2371
+Acceleration: X=-4.706832, Y=1.591269, Z=8.474849 m/s^2 Time of Week: 193261.632199, Week Number: 2371
+Acceleration: X=-4.703061, Y=1.587897, Z=8.471406 m/s^2 Time of Week: 193261.635199, Week Number: 2371
+Acceleration: X=-4.700844, Y=1.592853, Z=8.456385 m/s^2 Time of Week: 193261.638199, Week Number: 2371
+Acceleration: X=-4.706811, Y=1.594391, Z=8.439304 m/s^2 Time of Week: 193261.641199, Week Number: 2371
+Acceleration: X=-4.698285, Y=1.598710, Z=8.425946 m/s^2 Time of Week: 193261.644199, Week Number: 2371
+Acceleration: X=-4.698843, Y=1.596496, Z=8.413663 m/s^2 Time of Week: 193261.647199, Week Number: 2371
+Acceleration: X=-4.695018, Y=1.600424, Z=8.403826 m/s^2 Time of Week: 193261.650199, Week Number: 2371
+Acceleration: X=-4.693307, Y=1.603096, Z=8.393293 m/s^2 Time of Week: 193261.653199, Week Number: 2371
+Acceleration: X=-4.692841, Y=1.609572, Z=8.399836 m/s^2 Time of Week: 193261.656199, Week Number: 2371
+Acceleration: X=-4.698232, Y=1.617391, Z=8.406919 m/s^2 Time of Week: 193261.659199, Week Number: 2371
+Acceleration: X=-4.710635, Y=1.618578, Z=8.420583 m/s^2 Time of Week: 193261.662199, Week Number: 2371
+Acceleration: X=-4.711905, Y=1.632206, Z=8.438822 m/s^2 Time of Week: 193261.665199, Week Number: 2371
+Acceleration: X=-4.710451, Y=1.633591, Z=8.456194 m/s^2 Time of Week: 193261.668199, Week Number: 2371
+Acceleration: X=-4.718345, Y=1.636585, Z=8.472592 m/s^2 Time of Week: 193261.671199, Week Number: 2371
+Acceleration: X=-4.720536, Y=1.638894, Z=8.470402 m/s^2 Time of Week: 193261.674199, Week Number: 2371
+Acceleration: X=-4.720557, Y=1.648426, Z=8.470803 m/s^2 Time of Week: 193261.677199, Week Number: 2371
+Acceleration: X=-4.727011, Y=1.658031, Z=8.469922 m/s^2 Time of Week: 193261.680199, Week Number: 2371
+Acceleration: X=-4.734854, Y=1.657925, Z=8.452650 m/s^2 Time of Week: 193261.683199, Week Number: 2371
+Acceleration: X=-4.737921, Y=1.652120, Z=8.450626 m/s^2 Time of Week: 193261.686199, Week Number: 2371
+Acceleration: X=-4.748381, Y=1.649395, Z=8.445085 m/s^2 Time of Week: 193261.689199, Week Number: 2371
+Acceleration: X=-4.743106, Y=1.650352, Z=8.432416 m/s^2 Time of Week: 193261.692199, Week Number: 2371
+Acceleration: X=-4.734910, Y=1.647996, Z=8.422615 m/s^2 Time of Week: 193261.695199, Week Number: 2371
+Acceleration: X=-4.738922, Y=1.642772, Z=8.425163 m/s^2 Time of Week: 193261.698199, Week Number: 2371
+Acceleration: X=-4.741094, Y=1.643337, Z=8.421790 m/s^2 Time of Week: 193261.701199, Week Number: 2371
+Acceleration: X=-4.729550, Y=1.641405, Z=8.431372 m/s^2 Time of Week: 193261.704199, Week Number: 2371
+Acceleration: X=-4.719810, Y=1.641267, Z=8.431473 m/s^2 Time of Week: 193261.707199, Week Number: 2371
+Acceleration: X=-4.713795, Y=1.636644, Z=8.426477 m/s^2 Time of Week: 193261.710199, Week Number: 2371
+Acceleration: X=-4.706939, Y=1.629975, Z=8.430167 m/s^2 Time of Week: 193261.713199, Week Number: 2371
+Acceleration: X=-4.697860, Y=1.618689, Z=8.437740 m/s^2 Time of Week: 193261.716199, Week Number: 2371
+Acceleration: X=-4.697843, Y=1.625084, Z=8.435583 m/s^2 Time of Week: 193261.719199, Week Number: 2371
+Acceleration: X=-4.696953, Y=1.628786, Z=8.441065 m/s^2 Time of Week: 193261.722199, Week Number: 2371
+Acceleration: X=-4.686960, Y=1.615233, Z=8.448574 m/s^2 Time of Week: 193261.725199, Week Number: 2371
+Acceleration: X=-4.688134, Y=1.614624, Z=8.462614 m/s^2 Time of Week: 193261.728199, Week Number: 2371
+Acceleration: X=-4.688697, Y=1.612202, Z=8.466266 m/s^2 Time of Week: 193261.731199, Week Number: 2371
+Acceleration: X=-4.688466, Y=1.612781, Z=8.469049 m/s^2 Time of Week: 193261.734199, Week Number: 2371
+Acceleration: X=-4.697561, Y=1.610286, Z=8.467199 m/s^2 Time of Week: 193261.737199, Week Number: 2371
+Acceleration: X=-4.702260, Y=1.610398, Z=8.457075 m/s^2 Time of Week: 193261.740199, Week Number: 2371
+Acceleration: X=-4.710269, Y=1.602532, Z=8.447533 m/s^2 Time of Week: 193261.743199, Week Number: 2371
+Acceleration: X=-4.717122, Y=1.606503, Z=8.448272 m/s^2 Time of Week: 193261.746199, Week Number: 2371
+Acceleration: X=-4.711775, Y=1.609204, Z=8.431112 m/s^2 Time of Week: 193261.749199, Week Number: 2371
+Acceleration: X=-4.711637, Y=1.626297, Z=8.416489 m/s^2 Time of Week: 193261.752199, Week Number: 2371
+Acceleration: X=-4.719196, Y=1.632644, Z=8.413460 m/s^2 Time of Week: 193261.755199, Week Number: 2371
+Acceleration: X=-4.718650, Y=1.628218, Z=8.406817 m/s^2 Time of Week: 193261.758199, Week Number: 2371
+Acceleration: X=-4.721908, Y=1.633129, Z=8.409957 m/s^2 Time of Week: 193261.761199, Week Number: 2371
+Acceleration: X=-4.722062, Y=1.638730, Z=8.415794 m/s^2 Time of Week: 193261.764199, Week Number: 2371
+Acceleration: X=-4.724970, Y=1.639293, Z=8.421997 m/s^2 Time of Week: 193261.767199, Week Number: 2371
+Acceleration: X=-4.718724, Y=1.628117, Z=8.437429 m/s^2 Time of Week: 193261.770199, Week Number: 2371
+Acceleration: X=-4.722986, Y=1.637119, Z=8.453536 m/s^2 Time of Week: 193261.773199, Week Number: 2371
+Acceleration: X=-4.723865, Y=1.637338, Z=8.454364 m/s^2 Time of Week: 193261.776199, Week Number: 2371
+Acceleration: X=-4.715318, Y=1.642722, Z=8.455113 m/s^2 Time of Week: 193261.779199, Week Number: 2371
+Acceleration: X=-4.711211, Y=1.649281, Z=8.450605 m/s^2 Time of Week: 193261.782199, Week Number: 2371
+Acceleration: X=-4.719336, Y=1.652690, Z=8.437839 m/s^2 Time of Week: 193261.785199, Week Number: 2371
+Acceleration: X=-4.729491, Y=1.650445, Z=8.428490 m/s^2 Time of Week: 193261.788199, Week Number: 2371
+Acceleration: X=-4.730271, Y=1.644217, Z=8.428318 m/s^2 Time of Week: 193261.791199, Week Number: 2371
+Acceleration: X=-4.726539, Y=1.637663, Z=8.423268 m/s^2 Time of Week: 193261.794199, Week Number: 2371
+Acceleration: X=-4.732898, Y=1.626735, Z=8.430594 m/s^2 Time of Week: 193261.797199, Week Number: 2371
+Acceleration: X=-4.724603, Y=1.626646, Z=8.428225 m/s^2 Time of Week: 193261.800199, Week Number: 2371
+Acceleration: X=-4.711433, Y=1.624877, Z=8.437903 m/s^2 Time of Week: 193261.803199, Week Number: 2371
+Acceleration: X=-4.715311, Y=1.625684, Z=8.447509 m/s^2 Time of Week: 193261.806199, Week Number: 2371
+Acceleration: X=-4.714246, Y=1.614226, Z=8.441986 m/s^2 Time of Week: 193261.809199, Week Number: 2371
+Acceleration: X=-4.721143, Y=1.607167, Z=8.442221 m/s^2 Time of Week: 193261.812199, Week Number: 2371
+Acceleration: X=-4.711330, Y=1.599171, Z=8.436593 m/s^2 Time of Week: 193261.815199, Week Number: 2371
+Acceleration: X=-4.699162, Y=1.606165, Z=8.435341 m/s^2 Time of Week: 193261.818199, Week Number: 2371
+Acceleration: X=-4.694828, Y=1.614512, Z=8.427267 m/s^2 Time of Week: 193261.821199, Week Number: 2371
+Acceleration: X=-4.705272, Y=1.609310, Z=8.428910 m/s^2 Time of Week: 193261.824199, Week Number: 2371
+Acceleration: X=-4.698216, Y=1.593463, Z=8.437350 m/s^2 Time of Week: 193261.827199, Week Number: 2371
+Acceleration: X=-4.696407, Y=1.603533, Z=8.437142 m/s^2 Time of Week: 193261.830199, Week Number: 2371
+Acceleration: X=-4.698871, Y=1.614772, Z=8.440686 m/s^2 Time of Week: 193261.833199, Week Number: 2371
+Acceleration: X=-4.690356, Y=1.608076, Z=8.446580 m/s^2 Time of Week: 193261.836199, Week Number: 2371
+Acceleration: X=-4.688204, Y=1.606698, Z=8.451050 m/s^2 Time of Week: 193261.839199, Week Number: 2371
+Acceleration: X=-4.698266, Y=1.613726, Z=8.450536 m/s^2 Time of Week: 193261.842199, Week Number: 2371
+Acceleration: X=-4.699372, Y=1.616911, Z=8.449255 m/s^2 Time of Week: 193261.845199, Week Number: 2371
+Acceleration: X=-4.710452, Y=1.614051, Z=8.446611 m/s^2 Time of Week: 193261.848199, Week Number: 2371
+Acceleration: X=-4.702427, Y=1.621503, Z=8.444042 m/s^2 Time of Week: 193261.851199, Week Number: 2371
+Acceleration: X=-4.703049, Y=1.633593, Z=8.435106 m/s^2 Time of Week: 193261.854199, Week Number: 2371
+Acceleration: X=-4.708753, Y=1.634893, Z=8.428459 m/s^2 Time of Week: 193261.857199, Week Number: 2371
+Acceleration: X=-4.722072, Y=1.634798, Z=8.426176 m/s^2 Time of Week: 193261.860199, Week Number: 2371
+Acceleration: X=-4.732222, Y=1.634339, Z=8.420035 m/s^2 Time of Week: 193261.863199, Week Number: 2371
+Acceleration: X=-4.719494, Y=1.637963, Z=8.428808 m/s^2 Time of Week: 193261.866199, Week Number: 2371
+Acceleration: X=-4.732894, Y=1.643502, Z=8.431828 m/s^2 Time of Week: 193261.869199, Week Number: 2371
+Acceleration: X=-4.741080, Y=1.637633, Z=8.441774 m/s^2 Time of Week: 193261.872199, Week Number: 2371
+Acceleration: X=-4.734271, Y=1.640251, Z=8.456760 m/s^2 Time of Week: 193261.875199, Week Number: 2371
+Acceleration: X=-4.734793, Y=1.638028, Z=8.458230 m/s^2 Time of Week: 193261.878199, Week Number: 2371
+Acceleration: X=-4.728907, Y=1.640272, Z=8.459943 m/s^2 Time of Week: 193261.881199, Week Number: 2371
+Acceleration: X=-4.729875, Y=1.643207, Z=8.461504 m/s^2 Time of Week: 193261.884199, Week Number: 2371
+Acceleration: X=-4.725454, Y=1.638916, Z=8.456492 m/s^2 Time of Week: 193261.887199, Week Number: 2371
+Acceleration: X=-4.727726, Y=1.640667, Z=8.446619 m/s^2 Time of Week: 193261.890199, Week Number: 2371
+Acceleration: X=-4.725632, Y=1.640681, Z=8.430507 m/s^2 Time of Week: 193261.893199, Week Number: 2371
+Acceleration: X=-4.713470, Y=1.638347, Z=8.422161 m/s^2 Time of Week: 193261.896199, Week Number: 2371
+Acceleration: X=-4.699294, Y=1.634235, Z=8.421360 m/s^2 Time of Week: 193261.899199, Week Number: 2371
+Acceleration: X=-4.703960, Y=1.630627, Z=8.411828 m/s^2 Time of Week: 193261.902199, Week Number: 2371
+Acceleration: X=-4.693386, Y=1.622370, Z=8.422198 m/s^2 Time of Week: 193261.905199, Week Number: 2371
+Acceleration: X=-4.694204, Y=1.614134, Z=8.421705 m/s^2 Time of Week: 193261.908199, Week Number: 2371
+Acceleration: X=-4.691759, Y=1.610462, Z=8.428608 m/s^2 Time of Week: 193261.911199, Week Number: 2371
+Acceleration: X=-4.690069, Y=1.614315, Z=8.446208 m/s^2 Time of Week: 193261.914199, Week Number: 2371
+Acceleration: X=-4.692155, Y=1.607602, Z=8.451572 m/s^2 Time of Week: 193261.917199, Week Number: 2371
+Acceleration: X=-4.692354, Y=1.598545, Z=8.456491 m/s^2 Time of Week: 193261.920199, Week Number: 2371
+Acceleration: X=-4.702968, Y=1.594132, Z=8.459222 m/s^2 Time of Week: 193261.923199, Week Number: 2371
+Acceleration: X=-4.709437, Y=1.592286, Z=8.460281 m/s^2 Time of Week: 193261.926199, Week Number: 2371
+Acceleration: X=-4.713235, Y=1.590378, Z=8.457994 m/s^2 Time of Week: 193261.929199, Week Number: 2371
+Acceleration: X=-4.709104, Y=1.592650, Z=8.447700 m/s^2 Time of Week: 193261.932199, Week Number: 2371
+Acceleration: X=-4.715706, Y=1.596203, Z=8.436456 m/s^2 Time of Week: 193261.935199, Week Number: 2371
+Acceleration: X=-4.715366, Y=1.602781, Z=8.432203 m/s^2 Time of Week: 193261.938199, Week Number: 2371
+Acceleration: X=-4.719991, Y=1.604509, Z=8.421559 m/s^2 Time of Week: 193261.941199, Week Number: 2371
+Acceleration: X=-4.723127, Y=1.600580, Z=8.412374 m/s^2 Time of Week: 193261.944199, Week Number: 2371
+Acceleration: X=-4.714908, Y=1.614744, Z=8.410074 m/s^2 Time of Week: 193261.947199, Week Number: 2371
+Acceleration: X=-4.721329, Y=1.623418, Z=8.413373 m/s^2 Time of Week: 193261.950199, Week Number: 2371
+Acceleration: X=-4.713647, Y=1.619204, Z=8.427073 m/s^2 Time of Week: 193261.953199, Week Number: 2371
+Acceleration: X=-4.713895, Y=1.622736, Z=8.435282 m/s^2 Time of Week: 193261.956199, Week Number: 2371
+Acceleration: X=-4.718001, Y=1.625170, Z=8.448166 m/s^2 Time of Week: 193261.959199, Week Number: 2371
+Acceleration: X=-4.709828, Y=1.630964, Z=8.451652 m/s^2 Time of Week: 193261.962199, Week Number: 2371
+Acceleration: X=-4.704219, Y=1.635671, Z=8.452656 m/s^2 Time of Week: 193261.965199, Week Number: 2371
+Acceleration: X=-4.710931, Y=1.650149, Z=8.457845 m/s^2 Time of Week: 193261.968199, Week Number: 2371
+Acceleration: X=-4.712080, Y=1.649641, Z=8.448441 m/s^2 Time of Week: 193261.971199, Week Number: 2371
+Acceleration: X=-4.717645, Y=1.638127, Z=8.447426 m/s^2 Time of Week: 193261.974199, Week Number: 2371
+Acceleration: X=-4.718238, Y=1.647422, Z=8.437286 m/s^2 Time of Week: 193261.977199, Week Number: 2371
+Acceleration: X=-4.726239, Y=1.641361, Z=8.433709 m/s^2 Time of Week: 193261.980199, Week Number: 2371
+Acceleration: X=-4.733956, Y=1.639147, Z=8.428211 m/s^2 Time of Week: 193261.983199, Week Number: 2371
+Acceleration: X=-4.736983, Y=1.633693, Z=8.430177 m/s^2 Time of Week: 193261.986199, Week Number: 2371
+Acceleration: X=-4.737587, Y=1.629439, Z=8.429945 m/s^2 Time of Week: 193261.989199, Week Number: 2371
+Acceleration: X=-4.732519, Y=1.624605, Z=8.434693 m/s^2 Time of Week: 193261.992199, Week Number: 2371
+Acceleration: X=-4.731115, Y=1.626457, Z=8.443772 m/s^2 Time of Week: 193261.995199, Week Number: 2371
+Acceleration: X=-4.726090, Y=1.621067, Z=8.445125 m/s^2 Time of Week: 193261.998199, Week Number: 2371
+Acceleration: X=-4.716983, Y=1.621639, Z=8.435804 m/s^2 Time of Week: 193262.001199, Week Number: 2371
+Acceleration: X=-4.718338, Y=1.625746, Z=8.440810 m/s^2 Time of Week: 193262.004199, Week Number: 2371
+Acceleration: X=-4.711425, Y=1.624584, Z=8.441518 m/s^2 Time of Week: 193262.007199, Week Number: 2371
+Acceleration: X=-4.701455, Y=1.625655, Z=8.439218 m/s^2 Time of Week: 193262.010199, Week Number: 2371
+Acceleration: X=-4.701467, Y=1.628170, Z=8.439113 m/s^2 Time of Week: 193262.013199, Week Number: 2371
+Acceleration: X=-4.700341, Y=1.631988, Z=8.428817 m/s^2 Time of Week: 193262.016199, Week Number: 2371
+Acceleration: X=-4.692552, Y=1.629755, Z=8.435909 m/s^2 Time of Week: 193262.019199, Week Number: 2371
+Acceleration: X=-4.693740, Y=1.630315, Z=8.450407 m/s^2 Time of Week: 193262.022199, Week Number: 2371
+Acceleration: X=-4.689939, Y=1.625323, Z=8.450500 m/s^2 Time of Week: 193262.025199, Week Number: 2371
+Acceleration: X=-4.694200, Y=1.621144, Z=8.455263 m/s^2 Time of Week: 193262.028199, Week Number: 2371
+Acceleration: X=-4.691843, Y=1.622708, Z=8.465159 m/s^2 Time of Week: 193262.031199, Week Number: 2371
+Acceleration: X=-4.689437, Y=1.628726, Z=8.462690 m/s^2 Time of Week: 193262.034199, Week Number: 2371
+Acceleration: X=-4.699412, Y=1.626022, Z=8.461406 m/s^2 Time of Week: 193262.037199, Week Number: 2371
+Acceleration: X=-4.695355, Y=1.622632, Z=8.457687 m/s^2 Time of Week: 193262.040199, Week Number: 2371
+Acceleration: X=-4.705405, Y=1.625135, Z=8.440340 m/s^2 Time of Week: 193262.043199, Week Number: 2371
+Acceleration: X=-4.719833, Y=1.625566, Z=8.428301 m/s^2 Time of Week: 193262.046199, Week Number: 2371
+Acceleration: X=-4.715639, Y=1.624662, Z=8.423024 m/s^2 Time of Week: 193262.049199, Week Number: 2371
+Acceleration: X=-4.721178, Y=1.634947, Z=8.419044 m/s^2 Time of Week: 193262.052199, Week Number: 2371
+Acceleration: X=-4.725664, Y=1.632258, Z=8.422214 m/s^2 Time of Week: 193262.055199, Week Number: 2371
+Acceleration: X=-4.721907, Y=1.625309, Z=8.420715 m/s^2 Time of Week: 193262.058199, Week Number: 2371
+Acceleration: X=-4.729152, Y=1.626729, Z=8.428708 m/s^2 Time of Week: 193262.061199, Week Number: 2371
+Acceleration: X=-4.728762, Y=1.635855, Z=8.446037 m/s^2 Time of Week: 193262.064199, Week Number: 2371
+Acceleration: X=-4.731632, Y=1.635099, Z=8.458716 m/s^2 Time of Week: 193262.067199, Week Number: 2371
+Acceleration: X=-4.733122, Y=1.627830, Z=8.462155 m/s^2 Time of Week: 193262.070199, Week Number: 2371
+Acceleration: X=-4.730561, Y=1.626938, Z=8.461217 m/s^2 Time of Week: 193262.073199, Week Number: 2371
+Acceleration: X=-4.716879, Y=1.629450, Z=8.453949 m/s^2 Time of Week: 193262.076199, Week Number: 2371
+Acceleration: X=-4.708447, Y=1.637204, Z=8.442768 m/s^2 Time of Week: 193262.079199, Week Number: 2371
+Acceleration: X=-4.711564, Y=1.633744, Z=8.435951 m/s^2 Time of Week: 193262.082199, Week Number: 2371
+Acceleration: X=-4.716598, Y=1.633767, Z=8.424318 m/s^2 Time of Week: 193262.085199, Week Number: 2371
+Acceleration: X=-4.720475, Y=1.628878, Z=8.415263 m/s^2 Time of Week: 193262.088199, Week Number: 2371
+Acceleration: X=-4.709337, Y=1.623230, Z=8.417966 m/s^2 Time of Week: 193262.091199, Week Number: 2371
+Acceleration: X=-4.702494, Y=1.617753, Z=8.421676 m/s^2 Time of Week: 193262.094199, Week Number: 2371
+Acceleration: X=-4.706417, Y=1.621193, Z=8.428625 m/s^2 Time of Week: 193262.097199, Week Number: 2371
+Acceleration: X=-4.704803, Y=1.621833, Z=8.437406 m/s^2 Time of Week: 193262.100199, Week Number: 2371
+Acceleration: X=-4.703171, Y=1.623968, Z=8.444582 m/s^2 Time of Week: 193262.103199, Week Number: 2371
+Acceleration: X=-4.713259, Y=1.618375, Z=8.450961 m/s^2 Time of Week: 193262.106199, Week Number: 2371
+Acceleration: X=-4.723207, Y=1.614301, Z=8.448621 m/s^2 Time of Week: 193262.109199, Week Number: 2371
+Acceleration: X=-4.717504, Y=1.618896, Z=8.446119 m/s^2 Time of Week: 193262.112199, Week Number: 2371
+Acceleration: X=-4.727592, Y=1.620299, Z=8.437156 m/s^2 Time of Week: 193262.115199, Week Number: 2371
+Acceleration: X=-4.718736, Y=1.618375, Z=8.429899 m/s^2 Time of Week: 193262.118199, Week Number: 2371
+Acceleration: X=-4.721158, Y=1.612930, Z=8.426215 m/s^2 Time of Week: 193262.121199, Week Number: 2371
+Acceleration: X=-4.721687, Y=1.615060, Z=8.424463 m/s^2 Time of Week: 193262.124199, Week Number: 2371
+Acceleration: X=-4.725660, Y=1.616864, Z=8.430699 m/s^2 Time of Week: 193262.127199, Week Number: 2371
+Acceleration: X=-4.723627, Y=1.617905, Z=8.436607 m/s^2 Time of Week: 193262.130199, Week Number: 2371
+Acceleration: X=-4.717017, Y=1.626718, Z=8.441603 m/s^2 Time of Week: 193262.133199, Week Number: 2371
+Acceleration: X=-4.706757, Y=1.623811, Z=8.449843 m/s^2 Time of Week: 193262.136199, Week Number: 2371
+Acceleration: X=-4.705861, Y=1.622251, Z=8.453001 m/s^2 Time of Week: 193262.139199, Week Number: 2371
+Acceleration: X=-4.698964, Y=1.625665, Z=8.441326 m/s^2 Time of Week: 193262.142199, Week Number: 2371
+Acceleration: X=-4.695556, Y=1.625874, Z=8.436001 m/s^2 Time of Week: 193262.145199, Week Number: 2371
+Acceleration: X=-4.697182, Y=1.629350, Z=8.429334 m/s^2 Time of Week: 193262.148199, Week Number: 2371
+Acceleration: X=-4.697414, Y=1.624698, Z=8.420146 m/s^2 Time of Week: 193262.151199, Week Number: 2371
+Acceleration: X=-4.696742, Y=1.625389, Z=8.422271 m/s^2 Time of Week: 193262.154199, Week Number: 2371
+Acceleration: X=-4.699567, Y=1.627273, Z=8.423319 m/s^2 Time of Week: 193262.157199, Week Number: 2371
+Acceleration: X=-4.703870, Y=1.626501, Z=8.436822 m/s^2 Time of Week: 193262.160199, Week Number: 2371
+Acceleration: X=-4.706691, Y=1.623770, Z=8.442044 m/s^2 Time of Week: 193262.163199, Week Number: 2371
+Acceleration: X=-4.714738, Y=1.631031, Z=8.454728 m/s^2 Time of Week: 193262.166199, Week Number: 2371
+Acceleration: X=-4.714173, Y=1.629165, Z=8.455394 m/s^2 Time of Week: 193262.169199, Week Number: 2371
+Acceleration: X=-4.714782, Y=1.627538, Z=8.464492 m/s^2 Time of Week: 193262.172199, Week Number: 2371
+Acceleration: X=-4.721105, Y=1.628084, Z=8.458152 m/s^2 Time of Week: 193262.175199, Week Number: 2371
+Acceleration: X=-4.726891, Y=1.625832, Z=8.449000 m/s^2 Time of Week: 193262.178199, Week Number: 2371
+Acceleration: X=-4.726617, Y=1.630339, Z=8.444402 m/s^2 Time of Week: 193262.181199, Week Number: 2371
+Acceleration: X=-4.728795, Y=1.637530, Z=8.431361 m/s^2 Time of Week: 193262.184199, Week Number: 2371
+Acceleration: X=-4.730832, Y=1.627503, Z=8.422099 m/s^2 Time of Week: 193262.187199, Week Number: 2371
+Acceleration: X=-4.727282, Y=1.633680, Z=8.430432 m/s^2 Time of Week: 193262.190199, Week Number: 2371
+Acceleration: X=-4.717124, Y=1.636436, Z=8.435496 m/s^2 Time of Week: 193262.193199, Week Number: 2371
+Acceleration: X=-4.717736, Y=1.645545, Z=8.440548 m/s^2 Time of Week: 193262.196199, Week Number: 2371
+Acceleration: X=-4.715800, Y=1.646058, Z=8.446391 m/s^2 Time of Week: 193262.199199, Week Number: 2371
+Acceleration: X=-4.716795, Y=1.636580, Z=8.447063 m/s^2 Time of Week: 193262.202199, Week Number: 2371
+Acceleration: X=-4.706228, Y=1.647162, Z=8.443662 m/s^2 Time of Week: 193262.205199, Week Number: 2371
+Acceleration: X=-4.711211, Y=1.647572, Z=8.438743 m/s^2 Time of Week: 193262.208199, Week Number: 2371
+Acceleration: X=-4.704614, Y=1.640683, Z=8.435622 m/s^2 Time of Week: 193262.211199, Week Number: 2371
+Acceleration: X=-4.710834, Y=1.630495, Z=8.428912 m/s^2 Time of Week: 193262.214199, Week Number: 2371
+Acceleration: X=-4.714583, Y=1.629224, Z=8.430277 m/s^2 Time of Week: 193262.217199, Week Number: 2371
+Acceleration: X=-4.712663, Y=1.628395, Z=8.432876 m/s^2 Time of Week: 193262.220199, Week Number: 2371
+Acceleration: X=-4.706598, Y=1.624543, Z=8.441714 m/s^2 Time of Week: 193262.223199, Week Number: 2371
+Acceleration: X=-4.712651, Y=1.616355, Z=8.437906 m/s^2 Time of Week: 193262.226199, Week Number: 2371
+Acceleration: X=-4.713527, Y=1.613853, Z=8.449744 m/s^2 Time of Week: 193262.229199, Week Number: 2371
+Acceleration: X=-4.714066, Y=1.614508, Z=8.455339 m/s^2 Time of Week: 193262.232199, Week Number: 2371
+Acceleration: X=-4.709931, Y=1.606530, Z=8.439063 m/s^2 Time of Week: 193262.235199, Week Number: 2371
+Acceleration: X=-4.710136, Y=1.609981, Z=8.432686 m/s^2 Time of Week: 193262.238199, Week Number: 2371
+Acceleration: X=-4.712584, Y=1.613401, Z=8.426696 m/s^2 Time of Week: 193262.241200, Week Number: 2371
+Acceleration: X=-4.718889, Y=1.604075, Z=8.417060 m/s^2 Time of Week: 193262.244200, Week Number: 2371
+Acceleration: X=-4.713476, Y=1.609430, Z=8.423746 m/s^2 Time of Week: 193262.247200, Week Number: 2371
+Acceleration: X=-4.716508, Y=1.613993, Z=8.426812 m/s^2 Time of Week: 193262.250200, Week Number: 2371
+Acceleration: X=-4.713340, Y=1.618271, Z=8.432984 m/s^2 Time of Week: 193262.253200, Week Number: 2371
+Acceleration: X=-4.709780, Y=1.619019, Z=8.441946 m/s^2 Time of Week: 193262.256200, Week Number: 2371
+Acceleration: X=-4.712562, Y=1.622880, Z=8.449004 m/s^2 Time of Week: 193262.259200, Week Number: 2371
+Acceleration: X=-4.716211, Y=1.623659, Z=8.454005 m/s^2 Time of Week: 193262.262200, Week Number: 2371
+Acceleration: X=-4.716378, Y=1.623394, Z=8.455012 m/s^2 Time of Week: 193262.265200, Week Number: 2371
+Acceleration: X=-4.718957, Y=1.630027, Z=8.450799 m/s^2 Time of Week: 193262.268200, Week Number: 2371
+Acceleration: X=-4.718005, Y=1.630357, Z=8.445771 m/s^2 Time of Week: 193262.271200, Week Number: 2371
+Acceleration: X=-4.710711, Y=1.629754, Z=8.440735 m/s^2 Time of Week: 193262.274200, Week Number: 2371
+Acceleration: X=-4.714114, Y=1.629489, Z=8.439957 m/s^2 Time of Week: 193262.277200, Week Number: 2371
+Acceleration: X=-4.712676, Y=1.630688, Z=8.433688 m/s^2 Time of Week: 193262.280200, Week Number: 2371
+Acceleration: X=-4.717626, Y=1.626244, Z=8.430249 m/s^2 Time of Week: 193262.283200, Week Number: 2371
+Acceleration: X=-4.718536, Y=1.626583, Z=8.423681 m/s^2 Time of Week: 193262.286200, Week Number: 2371
+Acceleration: X=-4.711541, Y=1.624964, Z=8.428189 m/s^2 Time of Week: 193262.289200, Week Number: 2371
+Acceleration: X=-4.719078, Y=1.620066, Z=8.423219 m/s^2 Time of Week: 193262.292200, Week Number: 2371
+Acceleration: X=-4.712920, Y=1.618283, Z=8.427965 m/s^2 Time of Week: 193262.295200, Week Number: 2371
+Acceleration: X=-4.713772, Y=1.622444, Z=8.433003 m/s^2 Time of Week: 193262.298200, Week Number: 2371
+Acceleration: X=-4.711708, Y=1.618624, Z=8.434649 m/s^2 Time of Week: 193262.301200, Week Number: 2371
+Acceleration: X=-4.718155, Y=1.621987, Z=8.438941 m/s^2 Time of Week: 193262.304200, Week Number: 2371
+Acceleration: X=-4.713461, Y=1.623029, Z=8.439853 m/s^2 Time of Week: 193262.307200, Week Number: 2371
+Acceleration: X=-4.715896, Y=1.627856, Z=8.435023 m/s^2 Time of Week: 193262.310200, Week Number: 2371
+Acceleration: X=-4.715752, Y=1.625772, Z=8.445873 m/s^2 Time of Week: 193262.313200, Week Number: 2371
+Acceleration: X=-4.713018, Y=1.628023, Z=8.451030 m/s^2 Time of Week: 193262.316200, Week Number: 2371
+Acceleration: X=-4.713136, Y=1.624141, Z=8.453670 m/s^2 Time of Week: 193262.319200, Week Number: 2371
+Acceleration: X=-4.708554, Y=1.632080, Z=8.449881 m/s^2 Time of Week: 193262.322200, Week Number: 2371
+Acceleration: X=-4.706200, Y=1.630124, Z=8.451435 m/s^2 Time of Week: 193262.325200, Week Number: 2371
+Acceleration: X=-4.708503, Y=1.625278, Z=8.447793 m/s^2 Time of Week: 193262.328200, Week Number: 2371
+Acceleration: X=-4.709227, Y=1.626392, Z=8.448363 m/s^2 Time of Week: 193262.331200, Week Number: 2371
+Acceleration: X=-4.703706, Y=1.635446, Z=8.439144 m/s^2 Time of Week: 193262.334200, Week Number: 2371
+Acceleration: X=-4.708169, Y=1.631159, Z=8.441807 m/s^2 Time of Week: 193262.337200, Week Number: 2371
+Acceleration: X=-4.709985, Y=1.635349, Z=8.430853 m/s^2 Time of Week: 193262.340200, Week Number: 2371
+Acceleration: X=-4.708168, Y=1.630687, Z=8.436124 m/s^2 Time of Week: 193262.343200, Week Number: 2371
+Acceleration: X=-4.708542, Y=1.626303, Z=8.437673 m/s^2 Time of Week: 193262.346200, Week Number: 2371
+Acceleration: X=-4.709799, Y=1.630747, Z=8.441648 m/s^2 Time of Week: 193262.349200, Week Number: 2371
+Acceleration: X=-4.710353, Y=1.630532, Z=8.442073 m/s^2 Time of Week: 193262.352200, Week Number: 2371
+Acceleration: X=-4.710240, Y=1.628140, Z=8.438830 m/s^2 Time of Week: 193262.355200, Week Number: 2371
+Acceleration: X=-4.714339, Y=1.627675, Z=8.440200 m/s^2 Time of Week: 193262.358200, Week Number: 2371
+Acceleration: X=-4.713004, Y=1.624105, Z=8.429176 m/s^2 Time of Week: 193262.361200, Week Number: 2371
+Acceleration: X=-4.714821, Y=1.633366, Z=8.437823 m/s^2 Time of Week: 193262.364200, Week Number: 2371
+Acceleration: X=-4.719811, Y=1.623068, Z=8.435654 m/s^2 Time of Week: 193262.367200, Week Number: 2371
+Acceleration: X=-4.717716, Y=1.630167, Z=8.439369 m/s^2 Time of Week: 193262.370200, Week Number: 2371
+Acceleration: X=-4.717131, Y=1.627782, Z=8.437642 m/s^2 Time of Week: 193262.373200, Week Number: 2371
+Acceleration: X=-4.713494, Y=1.620757, Z=8.440843 m/s^2 Time of Week: 193262.376200, Week Number: 2371
+Acceleration: X=-4.712771, Y=1.632334, Z=8.447239 m/s^2 Time of Week: 193262.379200, Week Number: 2371
+Acceleration: X=-4.713879, Y=1.630074, Z=8.447724 m/s^2 Time of Week: 193262.382200, Week Number: 2371
+Acceleration: X=-4.717124, Y=1.626621, Z=8.447135 m/s^2 Time of Week: 193262.385200, Week Number: 2371
+Acceleration: X=-4.705532, Y=1.626809, Z=8.446472 m/s^2 Time of Week: 193262.388200, Week Number: 2371
+Acceleration: X=-4.708094, Y=1.624284, Z=8.440626 m/s^2 Time of Week: 193262.391200, Week Number: 2371
+Acceleration: X=-4.703336, Y=1.633855, Z=8.434865 m/s^2 Time of Week: 193262.394200, Week Number: 2371
+Acceleration: X=-4.708196, Y=1.631727, Z=8.439613 m/s^2 Time of Week: 193262.397200, Week Number: 2371
+Acceleration: X=-4.708981, Y=1.625653, Z=8.436934 m/s^2 Time of Week: 193262.400200, Week Number: 2371
+Acceleration: X=-4.707558, Y=1.625893, Z=8.433260 m/s^2 Time of Week: 193262.403200, Week Number: 2371
+Acceleration: X=-4.705472, Y=1.626972, Z=8.431878 m/s^2 Time of Week: 193262.406200, Week Number: 2371
+Acceleration: X=-4.712338, Y=1.616287, Z=8.428785 m/s^2 Time of Week: 193262.409200, Week Number: 2371
+Acceleration: X=-4.716816, Y=1.618633, Z=8.427303 m/s^2 Time of Week: 193262.412200, Week Number: 2371
+Acceleration: X=-4.715916, Y=1.623280, Z=8.436569 m/s^2 Time of Week: 193262.415200, Week Number: 2371
+Acceleration: X=-4.712235, Y=1.614313, Z=8.440135 m/s^2 Time of Week: 193262.418200, Week Number: 2371
+Acceleration: X=-4.717103, Y=1.616141, Z=8.438689 m/s^2 Time of Week: 193262.421200, Week Number: 2371
+Acceleration: X=-4.721525, Y=1.617516, Z=8.439441 m/s^2 Time of Week: 193262.424200, Week Number: 2371
+Acceleration: X=-4.723269, Y=1.626530, Z=8.442960 m/s^2 Time of Week: 193262.427200, Week Number: 2371
+Acceleration: X=-4.718899, Y=1.622523, Z=8.435488 m/s^2 Time of Week: 193262.430200, Week Number: 2371
+Acceleration: X=-4.717178, Y=1.627241, Z=8.437591 m/s^2 Time of Week: 193262.433200, Week Number: 2371
+Acceleration: X=-4.716651, Y=1.632709, Z=8.434756 m/s^2 Time of Week: 193262.436200, Week Number: 2371
+Acceleration: X=-4.719354, Y=1.629492, Z=8.431919 m/s^2 Time of Week: 193262.439200, Week Number: 2371
+Acceleration: X=-4.715521, Y=1.634845, Z=8.431383 m/s^2 Time of Week: 193262.442200, Week Number: 2371
+Acceleration: X=-4.712336, Y=1.636157, Z=8.433475 m/s^2 Time of Week: 193262.445200, Week Number: 2371
+Acceleration: X=-4.713543, Y=1.628987, Z=8.441489 m/s^2 Time of Week: 193262.448200, Week Number: 2371
+Acceleration: X=-4.713821, Y=1.633371, Z=8.444051 m/s^2 Time of Week: 193262.451200, Week Number: 2371
+Acceleration: X=-4.709879, Y=1.625901, Z=8.447185 m/s^2 Time of Week: 193262.454200, Week Number: 2371
+Acceleration: X=-4.710819, Y=1.633852, Z=8.448617 m/s^2 Time of Week: 193262.457200, Week Number: 2371
+Acceleration: X=-4.712041, Y=1.636408, Z=8.446957 m/s^2 Time of Week: 193262.460200, Week Number: 2371
+Acceleration: X=-4.710576, Y=1.629568, Z=8.459255 m/s^2 Time of Week: 193262.463200, Week Number: 2371
+Acceleration: X=-4.712933, Y=1.634502, Z=8.456778 m/s^2 Time of Week: 193262.466200, Week Number: 2371
+Acceleration: X=-4.719536, Y=1.628603, Z=8.441993 m/s^2 Time of Week: 193262.469200, Week Number: 2371
+Acceleration: X=-4.717624, Y=1.626348, Z=8.437095 m/s^2 Time of Week: 193262.472200, Week Number: 2371
+Acceleration: X=-4.716348, Y=1.631053, Z=8.436559 m/s^2 Time of Week: 193262.475200, Week Number: 2371
+Acceleration: X=-4.713668, Y=1.631037, Z=8.427910 m/s^2 Time of Week: 193262.478200, Week Number: 2371
+Acceleration: X=-4.708711, Y=1.628509, Z=8.429237 m/s^2 Time of Week: 193262.481200, Week Number: 2371
+Acceleration: X=-4.719915, Y=1.631866, Z=8.428610 m/s^2 Time of Week: 193262.484200, Week Number: 2371
+Acceleration: X=-4.718178, Y=1.627392, Z=8.422902 m/s^2 Time of Week: 193262.487200, Week Number: 2371
+Acceleration: X=-4.719923, Y=1.622763, Z=8.433718 m/s^2 Time of Week: 193262.490200, Week Number: 2371
+Acceleration: X=-4.709888, Y=1.624548, Z=8.435213 m/s^2 Time of Week: 193262.493200, Week Number: 2371
+Acceleration: X=-4.710810, Y=1.632375, Z=8.449723 m/s^2 Time of Week: 193262.496200, Week Number: 2371
+Acceleration: X=-4.712727, Y=1.628470, Z=8.460325 m/s^2 Time of Week: 193262.499200, Week Number: 2371
+Acceleration: X=-4.718843, Y=1.637818, Z=8.461053 m/s^2 Time of Week: 193262.502200, Week Number: 2371
+Acceleration: X=-4.712566, Y=1.630274, Z=8.465726 m/s^2 Time of Week: 193262.505200, Week Number: 2371
+Acceleration: X=-4.715218, Y=1.638804, Z=8.465971 m/s^2 Time of Week: 193262.508200, Week Number: 2371
+Acceleration: X=-4.703999, Y=1.643146, Z=8.459980 m/s^2 Time of Week: 193262.511200, Week Number: 2371
+Acceleration: X=-4.713036, Y=1.641980, Z=8.454305 m/s^2 Time of Week: 193262.514200, Week Number: 2371
+Acceleration: X=-4.715556, Y=1.636425, Z=8.442992 m/s^2 Time of Week: 193262.517200, Week Number: 2371
+Acceleration: X=-4.709665, Y=1.630178, Z=8.437477 m/s^2 Time of Week: 193262.520200, Week Number: 2371
+Acceleration: X=-4.706480, Y=1.635833, Z=8.435832 m/s^2 Time of Week: 193262.523200, Week Number: 2371
+Acceleration: X=-4.707796, Y=1.642155, Z=8.426533 m/s^2 Time of Week: 193262.526200, Week Number: 2371
+Acceleration: X=-4.704503, Y=1.636149, Z=8.425020 m/s^2 Time of Week: 193262.529200, Week Number: 2371
+Acceleration: X=-4.717064, Y=1.624388, Z=8.418204 m/s^2 Time of Week: 193262.532200, Week Number: 2371
+Acceleration: X=-4.720318, Y=1.614122, Z=8.427365 m/s^2 Time of Week: 193262.535200, Week Number: 2371
+Acceleration: X=-4.724919, Y=1.623091, Z=8.426694 m/s^2 Time of Week: 193262.538200, Week Number: 2371
+Acceleration: X=-4.716050, Y=1.613979, Z=8.439557 m/s^2 Time of Week: 193262.541200, Week Number: 2371
+Acceleration: X=-4.717517, Y=1.619556, Z=8.447836 m/s^2 Time of Week: 193262.544200, Week Number: 2371
+Acceleration: X=-4.713247, Y=1.619988, Z=8.446139 m/s^2 Time of Week: 193262.547200, Week Number: 2371
+Acceleration: X=-4.721234, Y=1.627864, Z=8.448779 m/s^2 Time of Week: 193262.550200, Week Number: 2371
+Acceleration: X=-4.706610, Y=1.626113, Z=8.441814 m/s^2 Time of Week: 193262.553200, Week Number: 2371
+Acceleration: X=-4.708736, Y=1.625427, Z=8.440345 m/s^2 Time of Week: 193262.556200, Week Number: 2371
+Acceleration: X=-4.712213, Y=1.632811, Z=8.437479 m/s^2 Time of Week: 193262.559200, Week Number: 2371
+Acceleration: X=-4.716251, Y=1.626812, Z=8.438600 m/s^2 Time of Week: 193262.562200, Week Number: 2371
+Acceleration: X=-4.714808, Y=1.620648, Z=8.437111 m/s^2 Time of Week: 193262.565200, Week Number: 2371
+Acceleration: X=-4.705680, Y=1.623092, Z=8.439085 m/s^2 Time of Week: 193262.568200, Week Number: 2371
+Acceleration: X=-4.712366, Y=1.622978, Z=8.443982 m/s^2 Time of Week: 193262.571200, Week Number: 2371
+Acceleration: X=-4.704713, Y=1.615417, Z=8.444686 m/s^2 Time of Week: 193262.574200, Week Number: 2371
+Acceleration: X=-4.710390, Y=1.610090, Z=8.439576 m/s^2 Time of Week: 193262.577200, Week Number: 2371
+Acceleration: X=-4.712983, Y=1.607134, Z=8.436057 m/s^2 Time of Week: 193262.580200, Week Number: 2371
+Acceleration: X=-4.712792, Y=1.605514, Z=8.430232 m/s^2 Time of Week: 193262.583200, Week Number: 2371
+Acceleration: X=-4.711452, Y=1.612369, Z=8.436262 m/s^2 Time of Week: 193262.586200, Week Number: 2371
+Acceleration: X=-4.710471, Y=1.605737, Z=8.428685 m/s^2 Time of Week: 193262.589200, Week Number: 2371
+Acceleration: X=-4.721369, Y=1.606142, Z=8.435666 m/s^2 Time of Week: 193262.592200, Week Number: 2371
+Acceleration: X=-4.721097, Y=1.611215, Z=8.435726 m/s^2 Time of Week: 193262.595200, Week Number: 2371
+Acceleration: X=-4.703507, Y=1.611643, Z=8.428256 m/s^2 Time of Week: 193262.598200, Week Number: 2371
+Acceleration: X=-4.659957, Y=1.634386, Z=8.419583 m/s^2 Time of Week: 193262.601200, Week Number: 2371
+Acceleration: X=-4.702960, Y=1.649407, Z=8.410842 m/s^2 Time of Week: 193262.604200, Week Number: 2371
+Acceleration: X=-4.718872, Y=1.617909, Z=8.413581 m/s^2 Time of Week: 193262.607200, Week Number: 2371
+Acceleration: X=-4.722470, Y=1.591951, Z=8.415397 m/s^2 Time of Week: 193262.610200, Week Number: 2371
+Acceleration: X=-4.708672, Y=1.598582, Z=8.431624 m/s^2 Time of Week: 193262.613200, Week Number: 2371
+Acceleration: X=-4.718241, Y=1.625607, Z=8.453207 m/s^2 Time of Week: 193262.616200, Week Number: 2371
+Acceleration: X=-4.699166, Y=1.610603, Z=8.467070 m/s^2 Time of Week: 193262.619200, Week Number: 2371
+Acceleration: X=-4.709015, Y=1.618877, Z=8.477656 m/s^2 Time of Week: 193262.622200, Week Number: 2371
+Acceleration: X=-4.723875, Y=1.621440, Z=8.480482 m/s^2 Time of Week: 193262.625200, Week Number: 2371
+Acceleration: X=-4.716049, Y=1.621226, Z=8.472773 m/s^2 Time of Week: 193262.628200, Week Number: 2371
+Acceleration: X=-4.700811, Y=1.627553, Z=8.450015 m/s^2 Time of Week: 193262.631200, Week Number: 2371
+Acceleration: X=-4.695920, Y=1.648767, Z=8.431141 m/s^2 Time of Week: 193262.634200, Week Number: 2371
+Acceleration: X=-4.719074, Y=1.634207, Z=8.409274 m/s^2 Time of Week: 193262.637200, Week Number: 2371
+Acceleration: X=-4.712450, Y=1.618120, Z=8.398086 m/s^2 Time of Week: 193262.640200, Week Number: 2371
+Acceleration: X=-4.723088, Y=1.631916, Z=8.402450 m/s^2 Time of Week: 193262.643200, Week Number: 2371
+Acceleration: X=-4.728674, Y=1.634523, Z=8.402368 m/s^2 Time of Week: 193262.646200, Week Number: 2371
+Acceleration: X=-4.730402, Y=1.615509, Z=8.421143 m/s^2 Time of Week: 193262.649200, Week Number: 2371
+Acceleration: X=-4.721897, Y=1.621645, Z=8.448358 m/s^2 Time of Week: 193262.652200, Week Number: 2371
+Acceleration: X=-4.711459, Y=1.637500, Z=8.463356 m/s^2 Time of Week: 193262.655200, Week Number: 2371
+Acceleration: X=-4.716319, Y=1.640265, Z=8.473671 m/s^2 Time of Week: 193262.658200, Week Number: 2371
+Acceleration: X=-4.708728, Y=1.630890, Z=8.473080 m/s^2 Time of Week: 193262.661200, Week Number: 2371
+Acceleration: X=-4.711289, Y=1.637819, Z=8.466229 m/s^2 Time of Week: 193262.664200, Week Number: 2371
+Acceleration: X=-4.713025, Y=1.651055, Z=8.466524 m/s^2 Time of Week: 193262.667200, Week Number: 2371
+Acceleration: X=-4.702932, Y=1.650197, Z=8.452827 m/s^2 Time of Week: 193262.670200, Week Number: 2371
+Acceleration: X=-4.712828, Y=1.652130, Z=8.447652 m/s^2 Time of Week: 193262.673200, Week Number: 2371
+Acceleration: X=-4.718387, Y=1.654933, Z=8.441127 m/s^2 Time of Week: 193262.676200, Week Number: 2371
+Acceleration: X=-4.713936, Y=1.647843, Z=8.429236 m/s^2 Time of Week: 193262.679200, Week Number: 2371
+Acceleration: X=-4.716093, Y=1.641061, Z=8.431568 m/s^2 Time of Week: 193262.682200, Week Number: 2371
+Acceleration: X=-4.719300, Y=1.634676, Z=8.427396 m/s^2 Time of Week: 193262.685200, Week Number: 2371
+Acceleration: X=-4.720146, Y=1.630212, Z=8.437604 m/s^2 Time of Week: 193262.688200, Week Number: 2371
+Acceleration: X=-4.713337, Y=1.621700, Z=8.443910 m/s^2 Time of Week: 193262.691200, Week Number: 2371
+Acceleration: X=-4.707203, Y=1.619647, Z=8.449715 m/s^2 Time of Week: 193262.694200, Week Number: 2371
+Acceleration: X=-4.715601, Y=1.612931, Z=8.453655 m/s^2 Time of Week: 193262.697200, Week Number: 2371
+Acceleration: X=-4.709948, Y=1.611395, Z=8.450942 m/s^2 Time of Week: 193262.700200, Week Number: 2371
+Acceleration: X=-4.709485, Y=1.608671, Z=8.449394 m/s^2 Time of Week: 193262.703200, Week Number: 2371
+Acceleration: X=-4.697903, Y=1.619286, Z=8.434709 m/s^2 Time of Week: 193262.706200, Week Number: 2371
+Acceleration: X=-4.702566, Y=1.610315, Z=8.423779 m/s^2 Time of Week: 193262.709200, Week Number: 2371
+Acceleration: X=-4.702748, Y=1.610645, Z=8.421207 m/s^2 Time of Week: 193262.712200, Week Number: 2371
+Acceleration: X=-4.704502, Y=1.617073, Z=8.419551 m/s^2 Time of Week: 193262.715200, Week Number: 2371
+Acceleration: X=-4.703555, Y=1.614012, Z=8.430310 m/s^2 Time of Week: 193262.718200, Week Number: 2371
+Acceleration: X=-4.705034, Y=1.615415, Z=8.433587 m/s^2 Time of Week: 193262.721200, Week Number: 2371
+Acceleration: X=-4.706775, Y=1.623908, Z=8.434711 m/s^2 Time of Week: 193262.724200, Week Number: 2371
+Acceleration: X=-4.706014, Y=1.627029, Z=8.438710 m/s^2 Time of Week: 193262.727200, Week Number: 2371
+Acceleration: X=-4.706934, Y=1.619745, Z=8.450429 m/s^2 Time of Week: 193262.730200, Week Number: 2371
+Acceleration: X=-4.711775, Y=1.617544, Z=8.447207 m/s^2 Time of Week: 193262.733200, Week Number: 2371
+Acceleration: X=-4.718109, Y=1.624071, Z=8.445826 m/s^2 Time of Week: 193262.736200, Week Number: 2371
+Acceleration: X=-4.716208, Y=1.620585, Z=8.448826 m/s^2 Time of Week: 193262.739200, Week Number: 2371
+Acceleration: X=-4.710868, Y=1.621983, Z=8.442471 m/s^2 Time of Week: 193262.742200, Week Number: 2371
+Acceleration: X=-4.710534, Y=1.628855, Z=8.437553 m/s^2 Time of Week: 193262.745200, Week Number: 2371
+Acceleration: X=-4.712944, Y=1.629320, Z=8.432864 m/s^2 Time of Week: 193262.748200, Week Number: 2371
+Acceleration: X=-4.712735, Y=1.630379, Z=8.425412 m/s^2 Time of Week: 193262.751200, Week Number: 2371
+Acceleration: X=-4.722805, Y=1.635674, Z=8.422166 m/s^2 Time of Week: 193262.754200, Week Number: 2371
+Acceleration: X=-4.728819, Y=1.632439, Z=8.426522 m/s^2 Time of Week: 193262.757200, Week Number: 2371
+Acceleration: X=-4.724150, Y=1.621303, Z=8.427116 m/s^2 Time of Week: 193262.760200, Week Number: 2371
+Acceleration: X=-4.723801, Y=1.623425, Z=8.431179 m/s^2 Time of Week: 193262.763200, Week Number: 2371
+Acceleration: X=-4.721586, Y=1.624262, Z=8.434481 m/s^2 Time of Week: 193262.766200, Week Number: 2371
+Acceleration: X=-4.719958, Y=1.629855, Z=8.446918 m/s^2 Time of Week: 193262.769200, Week Number: 2371
+Acceleration: X=-4.720820, Y=1.623164, Z=8.446183 m/s^2 Time of Week: 193262.772200, Week Number: 2371
+Acceleration: X=-4.713989, Y=1.626940, Z=8.447012 m/s^2 Time of Week: 193262.775200, Week Number: 2371
+Acceleration: X=-4.709185, Y=1.626145, Z=8.441448 m/s^2 Time of Week: 193262.778200, Week Number: 2371
+Acceleration: X=-4.685195, Y=1.622617, Z=8.424242 m/s^2 Time of Week: 193262.781200, Week Number: 2371
+Acceleration: X=-4.708241, Y=1.646884, Z=8.421279 m/s^2 Time of Week: 193262.784200, Week Number: 2371
+Acceleration: X=-4.727687, Y=1.627437, Z=8.411770 m/s^2 Time of Week: 193262.787200, Week Number: 2371
+Acceleration: X=-4.732503, Y=1.613411, Z=8.429577 m/s^2 Time of Week: 193262.790200, Week Number: 2371
+Acceleration: X=-4.721514, Y=1.630151, Z=8.432447 m/s^2 Time of Week: 193262.793200, Week Number: 2371
+Acceleration: X=-4.697664, Y=1.642150, Z=8.449417 m/s^2 Time of Week: 193262.796200, Week Number: 2371
+Acceleration: X=-4.675817, Y=1.643129, Z=8.459918 m/s^2 Time of Week: 193262.799200, Week Number: 2371
+Acceleration: X=-4.712445, Y=1.644078, Z=8.468605 m/s^2 Time of Week: 193262.802200, Week Number: 2371
+Acceleration: X=-4.725913, Y=1.620265, Z=8.468560 m/s^2 Time of Week: 193262.805200, Week Number: 2371
+Acceleration: X=-4.720369, Y=1.608417, Z=8.469400 m/s^2 Time of Week: 193262.808200, Week Number: 2371
+Acceleration: X=-4.697195, Y=1.628587, Z=8.462666 m/s^2 Time of Week: 193262.811200, Week Number: 2371
+Acceleration: X=-4.699283, Y=1.650050, Z=8.446866 m/s^2 Time of Week: 193262.814200, Week Number: 2371
+
+Exiting...
