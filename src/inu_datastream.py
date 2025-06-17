@@ -3,19 +3,20 @@ import time
 import struct
 from datetime import datetime
 
-imu_port = '/dev/ttyS0'
-gps_offset = [0.0, 0.0, 0.0] # [x, y, z] in meters
-decimation = 0x03  # Sampling rate  = 1kHz / decimation (minimum of 3)
 
-def main():
-    #Make log file
-    log = start_log()
+
+def main(imu_port = '/dev/ttyS0',
+         gps_offset = [0.0, 0.0, 0.0], 
+         decimation = 0x03,
+         log_file = 'log.txt'):
+    
+    log = start_log(log_file)
+    imu = initialize_imu(log, imu_port)
     try:
         # Initialize IMU
-        imu = initialize_imu(log)
         initialize_pps(imu, log)
-        initialize_gps(imu, log)
-        initialize_stream(imu, log)
+        initialize_gps(imu, log, gps_offset)
+        initialize_stream(imu, log, decimation)
         sync_stream(imu, log)
 
         # Continuous reading loop
@@ -28,22 +29,22 @@ def main():
     except KeyboardInterrupt:
         print("\nExiting...")
         log.write("\nExiting...\n")
-        imu.close()
     finally:
+        imu.close()
         log.close()
         
 ########################################################################## functions ##########################################################################
-def start_log():
+def start_log(log_file):
     """
     Start a new log file with a timestamp
     """
-    log = open('./logs/log' + datetime.now().strftime('%Y-%m-%d_%H-%M-%S.%f') + '.txt', 'w')
+    log = open(log_file, 'a')
     log.write('\n#################################################################\n')
-    log.write(f"Log started at {datetime.now().strftime('%Y-%m-%d_%H-%M-%S.%f')} \n")
+    log.write(f"IMU initialization started at {datetime.now().strftime('%Y-%m-%d_%H-%M-%S.%f')} \n")
     log.write('#################################################################\n')
     return log
 
-def initialize_imu(log):
+def initialize_imu(log, imu_port):
     '''
     initialize UART port for 3DM-CV7-INS
     Default settings: 115200 baud, 8 data bits, 1 stop bit, no parity
@@ -78,7 +79,7 @@ def initialize_pps(imu, log):
     print("PPS initialized succesfully")
     log.write("PPS initialized succesfully\n")
 
-def initialize_gps(imu, log):
+def initialize_gps(imu, log, gps_offset):
     """
     Initialize GPS at given offset
     """ 
@@ -98,7 +99,7 @@ def initialize_gps(imu, log):
 
 
 
-def initialize_stream(imu, log):
+def initialize_stream(imu, log, decimation):
     """
     Initialize stream of timestamps and acceleration data
     """
@@ -217,33 +218,3 @@ def fletcher_checksum(data):
         LSB = (LSB + MSB) & 0xFF
     # Return the two checksum bytes
     return(bytes([MSB, LSB])) 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-if __name__ == '__main__':
-    main()
