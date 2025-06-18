@@ -51,7 +51,7 @@ def initialize_imu(log, imu_port):
     '''
     imu = serial.Serial(
         port=imu_port,
-        baudrate = 460800,
+        baudrate = 115200,
         timeout=1
     )
     
@@ -70,6 +70,12 @@ def initialize_imu(log, imu_port):
     command += fletcher_checksum(command)
     imu.write(command)
     time.sleep(0.25)
+    imu.close()
+    imu = serial.Serial(
+        port=imu_port,
+        baudrate = 460800,
+        timeout=1
+    )
     return imu
 
 def initialize_pps(imu, log):
