@@ -51,7 +51,7 @@ def initialize_imu(log, imu_port):
     '''
     imu = serial.Serial(
         port=imu_port,
-        baudrate=115200,
+        baudrate = 460800,
         timeout=1
     )
     
@@ -66,6 +66,7 @@ def initialize_imu(log, imu_port):
     ack = imu.read(10)
     print("IMU initialized successfully")
     log.write("IMU initialized succesfully\n")
+    imu.write(bytes([0x75, 0x65, 0x01, 0x08, 0x08, 0x09, 0x01, 0x01, 0x00, 0x07, 0x08, 0x00]))
     return imu
 
 def initialize_pps(imu, log):
@@ -94,6 +95,9 @@ def initialize_gps(imu, log, gps_offset):
     #Configure UART
     imu.write(bytes([0x75, 0x65, 0x0C, 0x07, 0x07, 0x41, 0x01, 0x02, 0x05, 0x22, 0x00, 0x5F, 0xB4]))
     imu.write(bytes([0x75, 0x65, 0x01, 0x08, 0x08, 0x09, 0x01, 0x02, 0x00, 0x01, 0xC2, 0x00, 0xBA, 0x3B]))
+    time.sleep(0.25)
+    print("GPS initialized successfully")
+    log.write("GPS initialized sucessfully")
 
 
 
