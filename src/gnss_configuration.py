@@ -50,7 +50,7 @@ def configure_gnss(gnss, log):
         bytestring = bytes([0xB5, 0x62])
         for byte in linesplit[1].split():
             bytestring += bytes([int(byte, 16)])
-        checksum = fletcher_checksum(bytestring)
+        checksum = fletcher_checksum(bytestring[2:])
         while gnss.out_waiting:
             pass
         gnss.write(bytestring + checksum)

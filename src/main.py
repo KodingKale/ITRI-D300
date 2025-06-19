@@ -2,7 +2,7 @@ from datetime import datetime
 from inu_datastream import main as inu_datastream
 from gnss_configuration import main as gnss_configuration
 
-gnss_port = '/dev/ttyACM0'
+gnss_port = 'COM8'
 imu_port = '/dev/ttyS0'
 gps_offset = [0.0, 0.0, 0.0] # [x,y,z]m
 decimation = 0x01 # 1/decimation Hz (max 333.333 Hz)
