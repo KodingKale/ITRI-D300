@@ -27,8 +27,8 @@ def main(imu_port = '/dev/ttyS0',
                 print(message)
                 log.write(message + '\n')
     except KeyboardInterrupt:
-        print("\nExiting...")
-        log.write("\nExiting...\n")
+        print("\nExiting IMU...")
+        log.write("\nExiting IMU...\n")
     finally:
         imu.close()
         log.close()

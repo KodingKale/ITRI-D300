@@ -9,9 +9,12 @@ def main(gnss_port = '/dev/ttyACM0',
     gnss = initialize_gnss(log, gnss_port)
     try:
         configure_gnss(gnss, log)
+        log.close()
+        rawx = open("./raws/rawx" + (datetime.now().strftime("%Y-%m-%d_%H-%M-%S.%f")) + ".txt", "w")
+        read_gnss(gnss, rawx)
     except KeyboardInterrupt:
-        print("\nExiting...")
-        log.write("\nExiting...\n")
+        print("\nExiting GNSS...")
+        log.write("\nExiting GNSS...\n")
     finally:
         gnss.close()
         log.close()
@@ -54,6 +57,17 @@ def configure_gnss(gnss, log):
         while gnss.out_waiting:
             pass
         gnss.write(bytestring + checksum)
+
+def read_gnss(gnss, log):
+    data = b''
+    while True:
+        data += gnss.read()
+        if data[-2:] == b'\xb5\x62':
+            data = data[:-2]
+            print(data.hex())
+            log.write(data.hex() + "\n")
+            data = b'\xb5\x62'
+
 
 
 def fletcher_checksum(data):
