@@ -74,6 +74,7 @@ def read_stream_data(imu, log):
     if raw_data[32:] != fletcher_checksum(raw_data[0:32]):
         print(f'Checksum failed. Expected: {fletcher_checksum(raw_data[0:32]).hex()}, Got: {raw_data[32:].hex()}')
         log.write(f'Checksum failed. Expected: {fletcher_checksum(raw_data[0:32]).hex()}, Got: {raw_data[32:].hex()}\n')
+        sync_stream(imu,log)
         return None
         
     # Validate packet type

@@ -30,7 +30,7 @@ def read_gnss(gnss, rawx):
     data = b''
     while True:
         data += gnss.read()
-        if data[-2:] == b'\xb5\x62':
+        if data[-2:] == b'\xb5\x62' and data != b'':
             data = data[:-2]
             if packet_validation(data, rawx):
                 print(data)
