@@ -59,12 +59,6 @@ def configure_gnss(gnss, log):
         while gnss.out_waiting:
             pass
         gnss.write(bytestring + checksum)
-        
-def start_log(log_file):
-    """
-    Start a new log file with a timestamp
-    """
-    log = open(log_file, 'a')
 
 def initialize_imu(log, imu_port):
     '''
