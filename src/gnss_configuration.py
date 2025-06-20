@@ -62,7 +62,7 @@ def read_gnss(gnss, log):
             data = data[:-2]
             if packet_validation(data, log):
                 print(data)
-                log.write(str(data) + "\n")
+                log.write(str(data))
             data = b'\xb5\x62'
         
 def packet_validation(data, log):
