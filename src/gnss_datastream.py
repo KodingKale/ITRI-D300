@@ -40,11 +40,9 @@ def read_gnss(gnss, rawx):
 def packet_validation(data, rawx):
     if data[0:2] != b'\xb5\x62':
         print("Invalid packet header: " + str(data[0:2]))
-        rawx.write("Invalid packet header: " + str(data[0:2]) + "\n")
         return False
     if fletcher_checksum(data[2:-2]) != data[-2:]:
         print("Invalid checksum, expected: " + str(fletcher_checksum(data[2:-2])) + " but got: " + str(data[-2:]))
-        rawx.write("Invalid checksum, expected: " + str(fletcher_checksum(data[2:-2])) + " but got: " + str(data[-2:]) + "\n")
         return False
     return True
 
