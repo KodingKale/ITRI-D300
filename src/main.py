@@ -3,7 +3,7 @@ from configuration import main as configuration
 from imu_datastream import main as imu_datastream
 from gnss_datastream import main as gnss_datastream
 
-gnss_port = 'COM8'
+gnss_port = '/dev/ttyACM0'
 imu_port = '/dev/ttyS0'
 gps_offset = [0.0, 0.0, 0.0] # [x,y,z]m
 decimation = 0x01 # 1/decimation Hz (max 333.333 Hz)
