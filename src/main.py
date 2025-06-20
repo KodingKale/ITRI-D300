@@ -1,6 +1,6 @@
 from datetime import datetime
 from configuration import main as configuration
-from inu_datastream import main as inu_datastream
+from imu_datastream import main as imu_datastream
 from gnss_datastream import main as gnss_datastream
 
 gnss_port = 'COM8'
@@ -10,8 +10,9 @@ decimation = 0x01 # 1/decimation Hz (max 333.333 Hz)
 
 def main():
     log_file = initalize_log()
-    gnss_configuration(gnss_port = gnss_port, log_file = log_file)
-    inu_datastream(imu_port = imu_port, gps_offset = gps_offset, decimation = decimation, log_file = log_file)
+    configuration(imu_port = imu_port, gnss_port = gnss_port, gps_offset = gps_offset, decimation = decimation, log_file = log_file)
+    gnss_datastream(gnss_port = gnss_port, log_file = log_file)
+    imu_datastream(imu_port = imu_port, log_file = log_file)
 
 def initalize_log():
     log_file = "./logs/log"+ datetime.now().strftime('%Y-%m-%d_%H-%M-%S.%f') +".txt"

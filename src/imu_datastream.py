@@ -6,19 +6,12 @@ from datetime import datetime
 
 
 def main(imu_port = '/dev/ttyS0',
-         gps_offset = [0.0, 0.0, 0.0], 
-         decimation = 0x03,
          log_file = 'log.txt'):
     
     log = start_log(log_file)
     imu = initialize_imu(log, imu_port)
     try:
-        # Initialize IMU
-        initialize_pps(imu, log)
-        initialize_gps(imu, log, gps_offset)
-        initialize_stream(imu, log, decimation)
         sync_stream(imu, log)
-
         # Continuous reading loop
         while True:
             data = read_stream_data(imu, log)
@@ -39,98 +32,19 @@ def start_log(log_file):
     Start a new log file with a timestamp
     """
     log = open(log_file, 'a')
-    log.write('\n#################################################################\n')
-    log.write(f"IMU initialization started at {datetime.now().strftime('%Y-%m-%d_%H-%M-%S.%f')} \n")
-    log.write('#################################################################\n')
     return log
 
 def initialize_imu(log, imu_port):
     '''
     initialize UART port for 3DM-CV7-INS
-    Default settings: 115200 baud, 8 data bits, 1 stop bit, no parity
+    Default settings: 460800 baud, 8 data bits, 1 stop bit, no parity
     '''
-    imu = serial.Serial(
-        port=imu_port,
-        baudrate = 115200,
-        timeout=1
-    )
-    
-    # Clear any leftover data
-    imu.reset_input_buffer()
-    imu.reset_output_buffer()
-    
-    # Set to idle mode first
-    idle_command = bytes([0x75, 0x65, 0x01, 0x02, 0x02, 0x02])
-    checksum = fletcher_checksum(idle_command)
-    imu.write(idle_command + checksum)
-    ack = imu.read(10)
-    print("IMU initialized successfully")
-    log.write("IMU initialized succesfully\n")
-    command = bytes([0x75, 0x65, 0x01, 0x08, 0x08, 0x09, 0x01, 0x01, 0x00, 0x07, 0x08, 0x00])
-    command += fletcher_checksum(command)
-    imu.write(command)
-    time.sleep(0.25)
-    imu.close()
     imu = serial.Serial(
         port=imu_port,
         baudrate = 460800,
         timeout=1
     )
     return imu
-
-def initialize_pps(imu, log):
-    """
-    Initialize PPS on GPIO3 (1 Hz 25 ms)
-    """
-    pps_source = bytes([0x75, 0x65, 0x0C, 0x04, 0x04, 0x28, 0x01, 0x03])
-    pps_source += fletcher_checksum(pps_source)
-    imu.write(pps_source)
-    imu.write(bytes([0x75, 0x65, 0x0C, 0x07, 0x07, 0x41, 0x01, 0x03, 0x02, 0x01, 0x00, 0x3C, 0x6D]))
-    print("PPS initialized succesfully")
-    log.write("PPS initialized succesfully\n")
-
-def initialize_gps(imu, log, gps_offset):
-    """
-    Initialize GPS at given offset
-    """ 
-    #TODO: Fill out
-    #Set GPS offset
-    command = bytes([0x75, 0x65, 0x0D, 0x0F, 0x0F, 0x13, 0x01])
-    command += struct.pack('>f', gps_offset[0])
-    command += struct.pack('>f', gps_offset[1])
-    command += struct.pack('>f', gps_offset[2])
-    command += fletcher_checksum(command)
-    imu.write(command)
-    #Configure UART
-    imu.write(bytes([0x75, 0x65, 0x0C, 0x07, 0x07, 0x41, 0x01, 0x02, 0x05, 0x22, 0x00, 0x5F, 0xB4]))
-    imu.write(bytes([0x75, 0x65, 0x01, 0x08, 0x08, 0x09, 0x01, 0x02, 0x00, 0x01, 0xC2, 0x00, 0xBA, 0x3B]))
-    time.sleep(0.25)
-    print("GPS initialized successfully")
-    log.write("GPS initialized sucessfully")
-
-
-
-
-
-def initialize_stream(imu, log, decimation):
-    """
-    Initialize stream of timestamps and acceleration data
-    """
-    
-    command = bytes([0x75, 0x65, 0x0C, 0x0B, 0x0B, 0x0F, 0x01, 0x80, 0x02, 0xD3, 0x00, decimation, 0x04, 0x00, decimation])
-    command += fletcher_checksum(command)
-    imu.write(command)
-    imu.write(bytes([0x75, 0x65, 0x0C, 0x05, 0x05, 0x0F, 0x01, 0x82, 0x00, 0x82, 0x13]))
-    imu.write(bytes([0x75, 0x65, 0x0C, 0x05, 0x05, 0x0F, 0x01, 0x94, 0x00, 0x94, 0x37]))
-    imu.write(bytes([0x75, 0x65, 0x0C, 0x05, 0x05, 0x0F, 0x01, 0xA0, 0x00, 0xA0, 0x4F]))
-    imu.write(bytes([0x75, 0x65, 0x13, 0x04, 0x04, 0x1F, 0x01, 0x01, 0x16, 0x61]))
-    time.sleep(0.25)
-    print("Stream initialized successfully")
-    log.write("Stream initialized successfully\n")
-
-    #Resume stream
-    imu.write(bytes([0x75, 0x65, 0x01, 0x02, 0x02, 0x06, 0xE5, 0xCB]))
-
 
 def sync_stream(imu, log):
     """
