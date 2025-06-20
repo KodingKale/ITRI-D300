@@ -44,6 +44,8 @@ def packet_validation(data, rawx):
     if fletcher_checksum(data[2:-2]) != data[-2:]:
         print("Invalid checksum, expected: " + str(fletcher_checksum(data[2:-2])) + " but got: " + str(data[-2:]))
         return False
+    if data[3] == b'\x05':
+        return False
     return True
 
 def fletcher_checksum(data):
