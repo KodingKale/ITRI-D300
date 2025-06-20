@@ -10,16 +10,12 @@ def main(gnss_port = '/dev/ttyACM0',
     try:
         configure_gnss(gnss, log)
         log.close()
-        rawx = open("./raws/rawx" + (datetime.now().strftime("%Y-%m-%d_%H-%M-%S.%f")) + ".txt", "w")
+        rawx = open("./raws/rawx" + (datetime.now().strftime("%Y-%m-%d_%H-%M-%S.%f")) + ".ubx", "w")
         read_gnss(gnss, rawx)
     except KeyboardInterrupt:
-        print("\nExiting GNSS...")
-        log.write("\nExiting GNSS...\n")
+        pass
     finally:
         gnss.close()
-        log.close()
-
-
 
 def start_log(log_file):
     log = open(log_file, 'a')
@@ -64,11 +60,21 @@ def read_gnss(gnss, log):
         data += gnss.read()
         if data[-2:] == b'\xb5\x62':
             data = data[:-2]
-            print(data.hex())
-            log.write(data.hex() + "\n")
+            if packet_validation(data, log):
+                print(data)
+                log.write(str(data))
             data = b'\xb5\x62'
-
-
+        
+def packet_validation(data, log):
+    if data[0:2] != b'\xb5\x62':
+        print("Invalid packet header: " + str(data[0:2]))
+        log.write("Invalid packet header: " + str(data[0:2]) + "\n")
+        return False
+    if fletcher_checksum(data[2:-2]) != data[-2:]:
+        print("Invalid checksum, expected: " + str(fletcher_checksum(data[2:-2])) + " but got: " + str(data[-2:]))
+        log.write("Invalid checksum, expected: " + str(fletcher_checksum(data[2:-2])) + " but got: " + str(data[-2:]) + "\n")
+        return False
+    return True
 
 def fletcher_checksum(data):
     '''
