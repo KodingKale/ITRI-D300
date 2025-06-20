@@ -24,7 +24,7 @@ def main(imu_port = '/dev/ttyS0',
     log.close()
     
 def start_log(log_file):
-    log = open(log_file, 'w')
+    log = open(log_file, 'a')
     return log
 
 def initialize_gnss(log, gnss_port):
