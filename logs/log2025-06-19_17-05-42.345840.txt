@@ -1,0 +1,97 @@
+
+#################################################################
+Log started at 2025-06-19_17-05-42.347083 
+#################################################################
+
+#################################################################
+GNSS initialization started at 2025-06-19_17-05-42.350199 
+#################################################################
+GNSS initialized successfully
+configuring: MON-VER
+configuring: CFG-ANT
+configuring: CFG-DAT
+configuring: CFG-GNSS
+configuring: CFG-INF
+configuring: CFG-INF
+configuring: CFG-ITFM
+configuring: CFG-LOGFILTER
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-NAV5
+configuring: CFG-NAVX5
+configuring: CFG-NMEA
+configuring: CFG-ODO
+configuring: CFG-PM2
+configuring: CFG-PRT
+configuring: CFG-PRT
+configuring: CFG-PRT
+configuring: CFG-PRT
+configuring: CFG-RATE
+configuring: CFG-RINV
+configuring: CFG-RXM
+configuring: CFG-SBAS
+configuring: CFG-TMODE2
+configuring: CFG-TP5
+configuring: CFG-TP5
+configuring: CFG-USB
