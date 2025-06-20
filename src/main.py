@@ -1,6 +1,7 @@
 from datetime import datetime
+from configuration import main as configuration
 from inu_datastream import main as inu_datastream
-from gnss_configuration import main as gnss_configuration
+from gnss_datastream import main as gnss_datastream
 
 gnss_port = 'COM8'
 imu_port = '/dev/ttyS0'
