@@ -7,7 +7,7 @@ def main(gnss_port = '/dev/ttyACM0',
     
     gnss = initialize_gnss(log_file, gnss_port)
     try:
-        rawx = open("./raws/rawx" + log_file[3:-4] + ".ubx", "w")
+        rawx = open("./rawx/rawx" + log_file[3:-4] + ".ubx", "w")
         read_gnss(gnss, rawx)
     except KeyboardInterrupt:
         pass
