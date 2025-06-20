@@ -1,0 +1,103 @@
+
+#################################################################
+Log started at 2025-06-20_16-06-46.948535 
+#################################################################
+
+#################################################################
+GNSS initialization started at 2025-06-20_16-06-46.948806 
+#################################################################
+GNSS initialized successfully
+configuring: MON-VER
+configuring: CFG-ANT
+configuring: CFG-GNSS
+configuring: CFG-INF
+configuring: CFG-INF
+configuring: CFG-ITFM
+configuring: CFG-LOGFILTER
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-MSG
+configuring: CFG-NAV5
+configuring: CFG-NAVX5
+configuring: CFG-NMEA
+configuring: CFG-ODO
+configuring: CFG-PM2
+configuring: CFG-PRT
+configuring: CFG-PRT
+configuring: CFG-PRT
+configuring: CFG-PRT
+configuring: CFG-RATE
+configuring: CFG-RINV
+configuring: CFG-RXM
+configuring: CFG-SBAS
+configuring: CFG-TMODE2
+configuring: CFG-TP5
+configuring: CFG-TP5
+configuring: CFG-USB
+
+#################################################################
+IMU initialization started at 2025-06-20_16-06-46.992626 
+#################################################################
+IMU initialized succesfully
+PPS initialized succesfully
+GPS initialized sucessfullyStream initialized successfully
